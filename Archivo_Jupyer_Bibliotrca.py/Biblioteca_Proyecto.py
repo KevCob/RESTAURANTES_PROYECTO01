@@ -48,27 +48,3 @@ def c_precio_medio(filas):
         if i in filas and isinstance(filas[i], list):  
             precios.extend([item["price"] for item in filas[i] if isinstance(item, dict) and item.get("price") is not None])
     return round(sum(precios) / len(precios)) if precios else None  
-
-def c_suma_minima(menu):
-    categorias_principales = ["pizza", "paste", "mains"]
-    bebidas = "drinks"
-
-    precios_principales = [item["price"] for categoria in categorias_principales if categoria in menu for item in menu[categoria] if "price" in item]
-
-    if any(price is None for price in precios_principales):
-        return None
-
-    precios_bebidas = [item["price"] for item in menu.get(bebidas, []) if "price" in item]
-
-    if any(price is None for price in precios_bebidas):
-        return None
-
-    if precios_principales and precios_bebidas:
-        return min(precios_principales) + min(precios_bebidas)
-    else:
-        return None
-
-def c_adsequible(x, data):
-    data["min_sum_price"] = data["menu"].apply(c_suma_minima)
-    adsequible = data[(data["min_sum_price"] <= x) & (data["type"] == "Bar-Restaurante")]
-    return adsequible[["name", "min_sum_price"]]
