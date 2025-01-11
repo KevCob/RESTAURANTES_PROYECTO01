@@ -1,0 +1,305 @@
+{
+    "type": "Bar-Restaurante",
+    "name": "Aires de Cojimar", 
+    "location": {
+        "address": "Pezuela #3e05 entre RUA y Espartero, Cojimar",
+        "municipe": "Habana del Este",
+        "province": "La Habana",
+        "coordinates":  "23.161955819683246, -82.29436375935097"
+    },
+    "sector": "privado",
+    
+    "qualification": 4.5,
+    
+    "specialized_food": ["Comida mixta"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": 77666890,
+    
+    "capacity": 36,
+    
+    "reservation":  true,
+
+    "parking": true,
+
+    "delivery": false,
+
+    "electric generator": false,
+    
+    "hours": {
+        "monday": "12:00pm - 12:00am",  
+        "tuesday": "12:00pm - 12:00am",
+        "wednesday": "12:00pm - 12:00am",
+        "thursday": "12:00pm - 12:00am",
+        "friday": "12:00pm - 12:00am",
+        "saturday": "12:00pm - 12:00am",
+        "sunday": "12:00pm - 12:00am"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": "Coctel de pescado",
+                    "price": 550,
+                    "description": " "
+                },
+                
+                {
+                    "item_name": "Picadera mixta",
+                    "price": 1200,
+                    "description": " "
+                },
+                {
+                    "item_name": "Coctel Bella Mar",
+                    "price": 750,
+                    "description": " "
+                },
+                {
+                    "item_name": "Ceviche Aires de Cojimar",
+                    "price": 850,
+                    "description": " "
+                },
+                {
+                    "item_name": "Lomo de pescado en escabeche",
+                    "price": 950,
+                    "description": " "
+                },
+                {
+                    "item_name": "Bolitas de queso",
+                    "price": 550,
+                    "description": " "
+                },
+                {
+                    "item_name": "Eperlan",
+                    "price": 950,
+                    "description": " "
+                },
+                {
+                    "item_name": "Frituras de malanga",
+                    "price": 550,
+                    "description": " "
+                },
+                {
+                    "item_name": "Tapas caprichosas",
+                    "price": 425,
+                    "description": " "
+                },
+                {
+                    "item_name": "Surtido de croquetas",
+                    "price": 450,
+                    "description": " "
+                },
+                {
+                    "item_name": "Tostones al ajo",
+                    "price": 350,
+                    "description": " "
+                },
+                {
+                    "item_name": "Sopon de mariscos",
+                    "price": 750,
+                    "description": " "
+                },
+                {
+                    "item_name": "Sopa de pollo y vegetales",
+                    "price": 550,
+                    "description": " "
+                },
+                {
+                    "item_name": "Crema de calabaza y queso",
+                    "price": 500,
+                    "description": " "
+                },
+                {
+                    "item_name": "Crema de queso",
+                    "price": 500,
+                    "description": " "
+                },
+                {
+                    "item_name": "Crema de mariscos",
+                    "price": 600,
+                    "description": " "
+                }
+            ],
+                
+            "mains": [
+                {
+                    "item_name": "Costillas de cerdo fritas",
+                    "price": 1950,
+                    "description": " "
+                },
+                {
+                    "item_name": "Arroz con camarones",
+                    "price": 1450,
+                    "description": " "
+                },
+                {
+                    "item_name": "Milanesa a la napolitana",
+                    "price": 1450,
+                    "description": " "
+                },
+                {
+                    "item_name": "Uruguayo de cerdo",
+                    "price": 1750,
+                    "description": " "
+                },
+                {
+                    "item_name": "Camaron al ajillo",
+                    "price": 1550,
+                    "description": " "
+                },
+                {
+                    "item_name": "Langosta Varadero",
+                    "price": 1950,
+                    "description": " "
+                },
+                {
+                    "item_name": "Langosta Busito",
+                    "price": 2000,
+                    "description": " "
+                },
+                {
+                    "item_name": "Langosta Aires de Cojimar",
+                    "price": 5500,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pulpo al vino tinto",
+                    "price": 2850,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pulpo al ajillo",
+                    "price": 2850,
+                    "description": " "
+                },
+                {
+                    "item_name": "Filete de pescado grille",
+                    "price": 1250,
+                    "description": " "
+                },
+                {
+                    "item_name": "Filete de pescado en salsa de romero y limon",
+                    "price": 1350,
+                    "description": " "
+                },
+                {
+                    "item_name": "Filete de pescado con camarones al graten",
+                    "price": 1650,
+                    "description": " "
+                },
+                {
+                    "item_name": "Filete de pescado Canciller",
+                    "price": 1650,
+                    "description": " "
+                },
+                {
+                    "item_name": "Camarones tropicales",
+                    "price": 1550,
+                    "description": " "
+                },
+                {
+                    "item_name": "Enchilado de camarones",
+                    "price": 1450,
+                    "description": " "
+                },
+                {
+                    "item_name": "Camarones al sesamo",
+                    "price": 1450,
+                    "description": " "
+                },
+                {
+                    "item_name": "Caldereta Dona Blanca",
+                    "price": 3500,
+                    "description": " "
+                },
+                {
+                    "item_name": "Dados de cerdo a la cojimera",
+                    "price": 1400,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pollo con camarones al graten",
+                    "price": 1450,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pollo Hawaiano",
+                    "price": 1150,
+                    "description": " "
+                },
+                {
+                    "item_name": "Sabor del cielo",
+                    "price": 1550,
+                    "description": " "
+                }
+            ],
+
+            "fittings": [
+                {
+                    "item_name": "Ensalada mixta",
+                    "price": 400,
+                    "description": " "
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "paste": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "additions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "desserts": [
+                {
+                    "item_name": "Dulces finos",
+                    "price": 450,
+                    "description": " "
+                }
+            ],
+            "cocktails": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ],
+
+            "drinks": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ],
+
+            "infusions": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ]
+        }  
+} 

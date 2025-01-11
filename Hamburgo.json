@@ -1,0 +1,169 @@
+{
+    "type": "Restaurante-Cafeteria",
+    "name": "Hamburgo", 
+    "location": {
+        "address": "Carlos III entre Retiro y Arbol Seco",
+        "municipe": "Centro Habana",
+        "province": "La Habana",
+        "coordinates":  "23.131252647235588, -82.37457288968206"
+    },
+    "sector": "estatal",
+    
+    "qualification": 3,
+    
+    "specialized_food": ["americana"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": null,
+    
+    "capacity": 36,
+    
+    "reservation":  false,
+
+    "parking": true,
+
+    "delivery": false,
+
+    "electric generator": false,
+    
+    "hours": {
+        "monday": "9:00am - 7:00pm",  
+        "tuesday": "9:00am - 7:00pm",
+        "wednesday": "9:00am - 7:00pm",
+        "thursday": "9:00am - 7:00pm",
+        "friday": "9:00am - 7:00pm",
+        "saturday": "9:00am - 7:00pm",
+        "sunday": "9:00am - 7:00pm"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+                
+            "mains": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "fittings": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "paste": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "additions": [
+                {
+                    "item_name": "queso gouda (50g)",
+                    "price": 150,
+                    "description": " "
+                },
+                {
+                    "item_name": "jamon bravo (50g)",
+                    "price": 120,
+                    "description": " "
+                },
+                {
+                    "item_name": "jamon serrano (50g)",
+                    "price": 250,
+                    "description": " "
+                },
+                {
+                    "item_name": "aceitunas (50g)",
+                    "price": 120,
+                    "description": " "
+                },
+                {
+                    "item_name": "vegetales encurtidos (50g)",
+                    "price": 80,
+                    "description": " "
+                },
+                {
+                    "item_name": "papas fritas (50g)",
+                    "price": 75,
+                    "description": " "
+                },
+                {
+                    "item_name": "papas fritas (100g)",
+                    "price": 150,
+                    "description": " "
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": "hamburguesa de cerdo (220g)",
+                    "price": 275,
+                    "description": " "
+                },
+                {
+                    "item_name": "hamburguesa de res (220g)",
+                    "price": 275,
+                    "description": " "
+                },
+                {
+                    "item_name": "hamburguesa vegetal con aderezos (235g)",
+                    "price": 300,
+                    "description": " "
+                },
+                {
+                    "item_name": "super hamburguesa (435g)",
+                    "price": 550,
+                    "description": " "
+                }
+            ],
+
+            "desserts": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+            "cocktails": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ],
+
+            "drinks": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ],
+
+            "infusions": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ]
+        }  
+} 

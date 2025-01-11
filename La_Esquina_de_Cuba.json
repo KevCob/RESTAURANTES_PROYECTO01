@@ -1,0 +1,250 @@
+{
+    "type": "Bar-Restaurante",
+    "name": "La Esquina de Cuba", 
+    "location": {
+        "address": "Esquina de Calle Cuba y Empedrado",
+        "municipe": "Habana Vieja",
+        "province": "La Habana",
+        "coordinates":  "23.140853253946666, -82.35265198633945"
+    },
+    "sector": "privado",
+    
+    "qualification": 5,
+    
+    "specialized_food": ["Comida mixta"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": 59110994,
+    
+    "capacity": 20,
+    
+    "reservation":  true,
+
+    "parking": false,
+
+    "delivery": false,
+
+    "electric generator": false,
+    
+    "hours": {
+        "monday": "11:00am - 10:00pm",  
+        "tuesday": "11:00am - 10:00pm",
+        "wednesday": "11:00am - 10:00pm",
+        "thursday": "11:00am - 10:00pm",
+        "friday": "11:00am - 10:00pm",
+        "saturday": "11:00am - 10:00pm",
+        "sunday": "11:00am - 10:00pm"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name":"Fritura de malanga",
+                    "price":750,
+                    "description": " "
+                },
+                {
+                    "item_name":"Patacon de la esquina",
+                    "price":1050,
+                    "description": " "
+                },
+                {
+                    "item_name":"Montadito de tamal",
+                    "price":1080,
+                    "description": " "
+                },
+                {
+                    "item_name":"Ceviche de pescado",
+                    "price":1450,
+                    "description": " "
+                },
+                {
+                    "item_name":"Taquitos de la casa",
+                    "price":1580,
+                    "description": " "
+                }
+            ],
+                
+            "mains": [
+                {
+                    "item_name":"Almuerzo campesino (Cerdo asado, arroz, frijoles, tostones",
+                    "price":2350,
+                    "description": " "
+                },
+                {
+                    "item_name":"Habanero con sabor (Ropa vieja, arroz, frijoles, platano macho)",
+                    "price":2380,
+                    "description": " "
+                },
+                {
+                    "item_name":"Guajiro con tumbao (Masas de cerdo fritas, arroz, frijoles, matajibaro",
+                    "price":2580,
+                    "description": " "
+                },
+                {
+                    "item_name":"Pollo al vino tinto",
+                    "price":2050,
+                    "description": " "
+                },
+                {
+                    "item_name":"Arroz con pollo",
+                    "price":2250,
+                    "description": " "
+                },
+                {
+                    "item_name":"Pescado grille con crema de malanga",
+                    "price":2950,
+                    "description": " "
+                },
+                {
+                    "item_name":"Camarones enchilados",
+                    "price":3050,
+                    "description": " "
+                },
+                {
+                    "item_name":"Frutos del mar",
+                    "price":3150,
+                    "description": " "
+                },
+                {
+                    "item_name":"Ensalada del mar",
+                    "price":3450,
+                    "description": " "
+                },
+                {
+                    "item_name":"Cazuela del mar",
+                    "price":3550,
+                    "description": " "
+                },
+                {
+                    "item_name":"Ribeye a la esquinita",
+                    "price":8450,
+                    "description": " "
+                }
+            ],
+
+            "fittings": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "paste": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "additions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "desserts": [
+                {
+                    "item_name":"Postre del dia",
+                    "price":595,
+                    "description": " "
+                }
+            ],
+            "cocktails": [
+                {
+                    "item_name":"Pina colada",
+                    "price":950
+                },
+                {
+                    "item_name":"Margarita",
+                    "price":950
+                },
+                {
+                    "item_name":"Sangria",
+                    "price":950
+                },
+                {
+                    "item_name":"Mojito",
+                    "price":750
+                },
+                {
+                    "item_name":"Cuba Libre",
+                    "price":750
+                },
+                {
+                    "item_name":"Daiquiri",
+                    "price":750
+                },
+                {
+                    "item_name":"Caipirinha",
+                    "price":750
+                },
+                {
+                    "item_name":"Daiquiri de frutas",
+                    "price":850
+                },
+                {
+                    "item_name":"Cubata",
+                    "price":850
+                },
+                {
+                    "item_name":"Mojito de frutas",
+                    "price":850
+                },
+                {
+                    "item_name":"Gin Tonic",
+                    "price":850
+                },
+                {
+                    "item_name":"Caipiroska",
+                    "price":850
+                }
+            ],
+
+            "drinks": [
+                {
+                    "item_name":"Aguas",
+                    "price":250
+                },
+                {
+                    "item_name":"Refrescos",
+                    "price":375
+                },
+                {
+                    "item_name":"Cerveza nacional",
+                    "price":450
+                },
+                {
+                    "item_name":"Copa de vino",
+                    "price":650
+                }
+            ],
+
+            "infusions": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ]
+        }  
+} 

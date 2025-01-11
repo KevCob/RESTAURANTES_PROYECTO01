@@ -1,0 +1,734 @@
+{
+    "type": "Bar-Restaurante-Cafeteria",
+    "name": "El Farallon", 
+    "location": {
+        "address": "Calle 22 #361, esq. 23, Vedado",
+        "municipe": "Plaza de la Revolucion",
+        "province": "La Habana",
+        "coordinates":  "23.124197583024838, -82.40414784293249"
+    },
+    "sector": "privado",
+    
+    "qualification": 4,
+    
+    "specialized_food": ["comida cubana", "caribeña", "latina", "italiana"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": 78305187,
+    
+    "capacity": 50,
+    
+    "reservation":  true,
+
+    "parking": true,
+
+    "delivery":true ,
+
+    "electric generator": true,
+    
+    "hours": {
+        "monday": "11:00am - 11:00pm",  
+        "tuesday": "11:00am - 11:00pm",
+        "wednesday": "11:00am - 11:00pm",
+        "thursday": "11:00am - 11:00pm",
+        "friday": "11:00am - 11:00pm",
+        "saturday": "11:00am - 11:00pm",
+        "sunday": "11:00am - 11:00pm"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": "Maripositas chinas",
+                    "price":400 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Frituras de malanga",
+                    "price": 420,
+                    "description": " "
+                },
+                {
+                    "item_name": "Croquetas de la casa",
+                    "price":530 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Tostones naturales",
+                    "price":380 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Tostones rellenos",
+                    "price": 950,
+                    "description": " "
+                },
+                {
+                    "item_name": "Bolitas de queso",
+                    "price":750 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Eperlan de pescado",
+                    "price":950 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Fajitas de pollo",
+                    "price":1250 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Coctel de langosta",
+                    "price":1200 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Coctel de camarones",
+                    "price":1200 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Ensalada fria",
+                    "price":950 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Cebiche",
+                    "price":1080 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Picadera Farallon",
+                    "price":2200 ,
+                    "description": "Jamón viki,queso y aceitunas, 1/2 racion de maripositas chinas, frituras de malanga, croquetas, bolitas de queso, tostones natural y tostones rellenos falsa de jamon viki "
+                },
+                {
+                    "item_name": "Tabla de jamon serrano",
+                    "price":2500 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Crema de queso",
+                    "price":400 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Crema virginia ",
+                    "price":500 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Crema aurora",
+                    "price":420 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Crema reina",
+                    "price": 550,
+                    "description": " "
+                }
+            ],
+                
+            "mains": [
+                {
+                    "item_name": "Paella de mariscos",
+                    "price":2400 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Arroz con pollo a la chorrera",
+                    "price":1200 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Arroz frito",
+                    "price":1100 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Arroz frito especial",
+                    "price":1500 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Filete de pescado grille",
+                    "price": 1800,
+                    "description": " "
+                },
+                {
+                    "item_name": "Filete de pescado con jamon y queso gratinado",
+                    "price":2380 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Filete de pescado john ville",
+                    "price":2450 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Camaron al gusto",
+                    "price":2550 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pulpo al gusto",
+                    "price":2600 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Grillada Mar",
+                    "price": 4100,
+                    "description": "Camaron, langosta, filete de pescado y pulpo "
+                },
+                {
+                    "item_name": "Grillada Mar y Tierra",
+                    "price":5200 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Ropa vieja",
+                    "price":2100 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Vaca frita",
+                    "price": 2100,
+                    "description": " "
+                },
+                {
+                    "item_name": "Bistec de cerdo grille",
+                    "price":2160 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Bistec con jamon y queso gratinado",
+                    "price":2760 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Bistec de cerdo tropical",
+                    "price": 2220 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Masa de cerdo frita",
+                    "price":2340 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Fricase de cerdo",
+                    "price":2530 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pechuga de pollo grille",
+                    "price":2100 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pechuga con jamon y queso gratinado",
+                    "price":2760 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pechuga a la crema",
+                    "price":2650 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Fajitas de pollo salteadas",
+                    "price":2180 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Bistec de pollo deshuesado",
+                    "price":1320 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pollo a la barbacoa",
+                    "price":1710 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pollo asado ",
+                    "price":1750 ,
+                    "description": " "
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": "Napolitana con queso gouda",
+                    "price":1250 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Napolitana con queso mozzarella",
+                    "price":800 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Jamon con queso gouda",
+                    "price":1450 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Jamon con queso mozzarella ",
+                    "price":1100 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Bacon con queso gouda",
+                    "price":1690 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Baicon con queso mozzarella",
+                    "price": 1250,
+                    "description": " "
+                },
+                {
+                    "item_name": "Chorizo con queso gouda ",
+                    "price":1590 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Chorizo con queso mozzarella",
+                    "price":1100 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Cebolla con queso gouda ",
+                    "price":1540 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Cebolla con queso mozzarella",
+                    "price":850 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pimiento con queso gouda ",
+                    "price":1540 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pimiento con queso mozzarella",
+                    "price":850 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Aceitunas con queso gouda ",
+                    "price":1610 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Aceitunas con queso mozzarella",
+                    "price":1120 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Vegetales con queso gouda ",
+                    "price":1610 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Vegetales con queso mozzarella",
+                    "price":980 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Champignones con queso gouda ",
+                    "price": 1680,
+                    "description": " "
+                },
+                {
+                    "item_name": "Champignones con queso mozzarella",
+                    "price":1100 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Hawaiana con queso gouda",
+                    "price":1570 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Hawaiana con queso mozzarella",
+                    "price":1180 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Camarones con queso gouda",
+                    "price":1850 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Camarones con queso mozzarella",
+                    "price": 1180,
+                    "description": " "
+                },
+                {
+                    "item_name": "Atun con queso gouda",
+                    "price":1850 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Atun con queso mozzarella",
+                    "price":1180 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Bolonesa con queso gouda",
+                    "price":1550 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Bolonesa con queso mozzarella",
+                    "price":950 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Desnuda con queso gouda",
+                    "price":2350 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Desnuda con queso mozzarella",
+                    "price":1700 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Calzone con queso gouda",
+                    "price":1980 ,
+                    "description": "Jamon viki, chorizo y champignones "
+                },
+                {
+                    "item_name": "Calzone con queso mozzarella",
+                    "price":1300 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Farallon con queso gouda",
+                    "price":2250 ,
+                    "description": "Jamon, chorizo, aceitunas, cebolla, pimiento, atun "
+                },
+                {
+                    "item_name": "Farallon con queso mozzarella",
+                    "price":1880 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pizzagueti con queso gouda",
+                    "price": 1540,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pizzagueti con queso mozzarella",
+                    "price": 750,
+                    "description": " "
+                },
+                {
+                    "item_name": "Doble queso gouda",
+                    "price":2330 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Doble queso mozzarella",
+                    "price":1150 ,
+                    "description": " "
+                }
+                
+            ],
+
+            "paste": [
+                {
+                    "item_name": "Espaguetis napolitanos",
+                    "price":900 ,
+                    "description": ""
+                },
+                {
+                    "item_name": "Espaguetis con atun",
+                    "price":1450 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Espaguetis con jamon",
+                    "price":1100 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Espaguetis con camarones",
+                    "price": 1450,
+                    "description": " "
+                },
+                {
+                    "item_name": "Espaguetis a la bolonesa",
+                    "price": 1000,
+                    "description": " "
+                },
+                {
+                    "item_name": "Espaguetis al pesto",
+                    "price":1000 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Espaguetis a la carbonara",
+                    "price":1300 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Frutti d mare",
+                    "price":1900 ,
+                    "description": "Camaron, masa de langosta y pescado "
+                },
+                {
+                    "item_name": "Lasana farallón con queso gouda",
+                    "price":4000 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Lasana farallon con queso mozzarella",
+                    "price": 3600,
+                    "description": " "
+                },
+                {
+                    "item_name": "Lasana bolonesa con queso gouda",
+                    "price":2500 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Lasana bolonesa con queso mozzarella",
+                    "price":1410 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Lasana de jamon con queso gouda",
+                    "price":2700 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Lasana de jamon con queso mozzarella",
+                    "price":1750 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Lasana de atun con queso gouda",
+                    "price":4300 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Lasana de atun con queso mozzarella ",
+                    "price": 3650,
+                    "description": " "
+                },
+                {
+                    "item_name": "Canelones bolonesa con queso gouda",
+                    "price":2100 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Canelones bolonesa con queso mozzarella",
+                    "price":1250 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Canelones de jamon con queso gouda",
+                    "price":2470 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Canelones de jamon con queso mozzarella",
+                    "price": 1650,
+                    "description": " "
+                }
+            ],
+
+            "additions": [
+                {
+                    "item_name": "Queso gouda",
+                    "price": 400,
+                    "description": " "
+                },
+                {
+                    "item_name": "Jamon",
+                    "price":200 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Chorizo",
+                    "price":220 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Bacon",
+                    "price": 300,
+                    "description": " "
+                },
+                {
+                    "item_name": "Cebolla",
+                    "price":220 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pimiento",
+                    "price":300 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pina",
+                    "price":100 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Aceitunas",
+                    "price":290 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Camarones",
+                    "price":500 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Atun",
+                    "price":500 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Queso mozzarella",
+                    "price":200 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Bolonesa",
+                    "price": 400,
+                    "description": " "
+                },
+                {
+                    "item_name": "Jamon serrano",
+                    "price":800 ,
+                    "description": " "
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "desserts": [
+                {
+                    "item_name": "Postres de la casa",
+                    "price":400 ,
+                    "description": " "
+                }
+            ],
+            "cocktails": [
+                {
+                    "item_name": "Mojito",
+                    "price": 460
+                },
+                {
+                    "item_name": "Cuba libre",
+                    "price":590 
+                },
+                {
+                    "item_name": "Cubata",
+                    "price":450 
+                },
+                {
+                    "item_name": "Daiquiri",
+                    "price":490 
+                },
+                {
+                    "item_name": "Canchanchara",
+                    "price": 400
+                },
+                {
+                    "item_name": "Sangria",
+                    "price":610
+                },
+                {
+                    "item_name": "Tinto de verano",
+                    "price": 570
+                },
+                {
+                    "item_name": "Pina colada",
+                    "price":580 
+                },
+                {
+                    "item_name": "Screwdriver",
+                    "price": 400
+                },
+                {
+                    "item_name": "Caipirinha",
+                    "price": 450
+                },
+                {
+                    "item_name": "Caipirisima",
+                    "price": 550
+                },
+                {
+                    "item_name": "Caipiroska",
+                    "price": 450
+                },
+                {
+                    "item_name": "Limonada Frescura",
+                    "price": 500
+                },
+                {
+                    "item_name": "Sorpresa de limon al coco",
+                    "price": 600
+                }
+               
+            ],
+
+            "drinks": [
+                {
+                    "item_name": "Agua natural",
+                    "price": 200
+                },
+                {
+                    "item_name": "Refrescos gaseados",
+                    "price":370 
+                },
+                {
+                    "item_name": "Cerveza nacional",
+                    "price":480 
+                },
+                {
+                    "item_name": "Cerveza importada",
+                    "price": 480
+                },
+                {
+                    "item_name": "Malta",
+                    "price":400 
+                },
+                {
+                    "item_name": "Jugos de frutas naturales",
+                    "price": 300
+                },
+                {
+                    "item_name": "Michelada base",
+                    "price": 430 
+                },
+                {
+                    "item_name": "Copa de vino blanco",
+                    "price": 430
+                }
+            ],
+
+            "infusions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ]
+        }  
+} 

@@ -1,0 +1,505 @@
+{
+    "type": "Restaurante",
+    "name": "Esto No Es Un Cafe", 
+    "location": {
+        "address": "Calle Ignacio #58-A entre OReilly y Empedrado, Callejón del Chorro, Plaza de la Catedral",
+        "municipe": " Habana Vieja",
+        "province": "La Habana",
+        "coordinates":  "23.140776125926624, -82.3517849151747"
+    },
+    "sector": "privado",
+    
+    "qualification": 4.8,
+    
+    "specialized_food": ["Mixta"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": 78013109,
+    
+    "capacity": 35,
+    
+    "reservation":  true,
+
+    "parking": false,
+
+    "delivery": false,
+
+    "electric generator": true,
+    
+    "hours": {
+        "monday": "8:00am - 12:00am",  
+        "tuesday": "8:00am - 12:00am",
+        "wednesday": "8:00am - 12:00am",
+        "thursday": "8:00am - 12:00am",
+        "friday": "8:00am - 12:00am",
+        "saturday": "8:00am - 12:00am",
+        "sunday": "8:00am - 12:00am"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": "Croquetas de la casa ",
+                    "price": 1050,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Tostones rellenos ",
+                    "price": 1050,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Ratatouille ",
+                    "price": 1200,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Cuarteto de camarones ",
+                    "price": 2100,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Pimientos rellenos con farsa de atún",
+                    "price": 1350,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Bruschettas de berenjena, tomate y mozzarella",
+                    "price": 1200,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Tempura de vegetales",
+                    "price": 1350,
+                    "description": ""
+                  }
+            ],
+                
+            "mains": [
+                {
+                    "item_name": "LA FUENTE DE DUCHAMP",
+                    "price": 2400,
+                    "description": "Lonjas de pierna de cerdo asadas con adobo tradicional cubano acompañado con puré de malanga "
+                  },
+                  {
+                    "item_name": "POLLO POLLOCK ",
+                    "price": 2550,
+                     "description": "Pollo asado con delicado sabor a menta y chocolate, acompañado con vegetales salteados "
+                  },
+                  {
+                    "item_name": "TERCER MUNDO DE LAM ",
+                    "price": 3150,
+                    "description": "Carne de res cocida, deshilachada y salteada con pimientos, cebollas y aceitunas"
+                  },
+                  {
+                    "item_name": "EL PEZ DE CHRISTO ",
+                    "price": 3300,
+                    "description": "Pescado cocido en papillote acompañado de vegetales aderezado con mantequilla, aceite de oliva y perejil "
+                  },
+                  {
+                    "item_name": "AZUL KLEIN ",
+                    "price": 3900,
+                    "description": "Estofado especiado de cordero en salsa roja, al vino tinto y queso azul"
+                  },
+                  {
+                    "item_name": "LA CACEROLA DE BROODTHAERS ",
+                    "price": 5400,
+                    "description": "Enchilado de mariscos en salsa roja con picante al gusto "
+                  }
+            ],
+
+            "fittings": [
+                {
+                    "item_name": "Arroz blanco",
+                    "price": 450,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Frijoles negros",
+                    "price": 750,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Yuca con mojo",
+                    "price": 600,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Vegetales salteados ",
+                    "price": 600,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Chicharritas de plátano",
+                    "price": 600,
+                    "description": ""
+                  }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "paste": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "additions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "desserts": [
+                {
+                    "item_name": "Postre de la Casa ",
+                    "price": 1200,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Brownie",
+                    "price": 1500,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Copa de helado ",
+                    "price": 1350,
+                    "description": ""
+                  }
+            ],
+            "cocktails": [
+                {
+                    "item_name": "Mojito clásico",
+                    "price": 1050
+                  },
+                  {
+                    "item_name": "Mojito frapé",
+                    "price": 1200
+                  },
+                  {
+                    "item_name": "Mojito de frutas",
+                    "price": 1350
+                  },
+                  {
+                    "item_name": "Cuba libre",
+                    "price": 1050
+                  },
+                  {
+                    "item_name": "Daiquiri de limón",
+                    "price": 1050
+                  },
+                  {
+                    "item_name": "Daiquiri de plátano",
+                    "price": 1200
+                  },
+                  {
+                    "item_name": "Daiquiri de fresa",
+                    "price": 1350
+                  },
+                  {
+                    "item_name": "Daiquiri de mango",
+                    "price": 1350
+                  },
+                  {
+                    "item_name": "Piña colada",
+                    "price": 1350
+                  },
+                  {
+                    "item_name": "Habana especial",
+                    "price": 900
+                  },
+                  {
+                    "item_name": "Cubanito",
+                    "price": 1200
+                  },
+                  {
+                    "item_name": "Cubata",
+                    "price": 1350
+                  },
+                  {
+                    "item_name": "Presidente",
+                    "price": 1050
+                  },
+                  {
+                    "item_name": "Mary Pickford",
+                    "price": 900
+                  },
+                  {
+                    "item_name": "Esto no es un café",
+                    "price": 1350
+                  },
+                  {
+                    "item_name": "Michelada",
+                    "price": 1050
+                  },
+                  {
+                    "item_name": "Gin Tonic",
+                    "price": 1350
+                  },
+                  {
+                    "item_name": "Vodka Tonic",
+                    "price": 1350
+                  },
+                  {
+                    "item_name": "Caipiriña",
+                    "price": 1200
+                  },
+                  {
+                    "item_name": "Screwdriver",
+                    "price": 1200
+                  },
+                  {
+                    "item_name": "Caipiroska",
+                    "price": 1350
+                  },
+                  {
+                    "item_name": "Bloody Mary",
+                    "price": 1350
+                  },
+                  {
+                    "item_name": "Manhattan",
+                    "price": 1350
+                  },
+                  {
+                    "item_name": "Margarita",
+                    "price": 1200
+                  },
+                  {
+                    "item_name": "Margarita de frutas",
+                    "price": 1350
+                  },
+                  {
+                    "item_name": "Dry Martini cocktail",
+                    "price": 1350
+                  },
+                  {
+                    "item_name": "Americano",
+                    "price": 1350
+                  },
+                  {
+                    "item_name": "Black Russian",
+                    "price": 1200
+                  },
+                  {
+                    "item_name": "White Russian",
+                    "price": 1350
+                  },
+                  {
+                    "item_name": "Sex on the Beach",
+                    "price": 1500
+                  },
+                  {
+                    "item_name": "Long Iceland Iced Tea",
+                    "price": 1500
+                  },
+                  {
+                    "item_name": "Negroni",
+                    "price": 1500
+                  },
+                  {
+                    "item_name": "Sangría",
+                    "price": 1200
+                  },
+                  {
+                    "item_name": "San Francisco",
+                    "price": 750
+                  },
+                  {
+                    "item_name": "Shirley Temple",
+                    "price": 750
+                  },
+                  {
+                    "item_name": "Piña colada virgen",
+                    "price": 1050
+                  },
+                  {
+                    "item_name": "Batidos / Milk shake",
+                    "price": 750
+                  },
+                  {
+                    "item_name": "Limonada frapé / Frozen lemonade",
+                    "price": 600
+                  },
+                  {
+                    "item_name": "Limonada natural / Natural lemonade",
+                    "price": 450
+                  }
+            ],
+
+            "drinks": [
+                {
+                    "item_name": "Agua mineral 500 ml / Mineral water",
+                    "price": 450
+                  },
+                  {
+                    "item_name": "Agua mineral 1.5lt / Mineral water",
+                    "price": 900
+                  },
+                  {
+                    "item_name": "Refrescos / Soft drinks",
+                    "price": 540
+                  },
+                  {
+                    "item_name": "Copa de vino de la casa / Glass of house wine",
+                    "price": 1350
+                  },
+                  {
+                    "item_name": "Cervezas / Beers",
+                    "price": 750
+                  },
+                  {
+                    "item_name": "Havana Club Ritual",
+                    "price": 750
+                  },
+                  {
+                    "item_name": "Havana Club Añejo 7 anos",
+                    "price": 1200
+                  },
+                  {
+                    "item_name": "Havana Club Selección de Maestros",
+                    "price": 2400
+                  },
+                  {
+                    "item_name": "Havana Club Pacto Navío",
+                    "price": 3000
+                  },
+                  {
+                    "item_name": "Havana Club Añejo 15 anos",
+                    "price": 8400
+                  },
+                  {
+                    "item_name": "Ron Santiago de Cuba 11 anos",
+                    "price": 1950
+                  },
+                  {
+                    "item_name": "Ron Santiago de Cuba 20 anos",
+                    "price": 6000
+                  }
+            ],
+
+            "infusions": [
+                {
+                    "item_name": "Café expreso ",
+                    "price": 300
+                  },
+                  {
+                    "item_name": "Doble expreso ",
+                    "price": 600
+                  },
+                  {
+                    "item_name": "Descafeinado ",
+                    "price": 480
+                  },
+                  {
+                    "item_name": "Café americano ",
+                    "price": 450
+                  },
+                  {
+                    "item_name": "Café cortado ",
+                    "price": 450
+                  },
+                  {
+                    "item_name": "Capuchino / Cappuccino",
+                    "price": 600
+                  },
+                  {
+                    "item_name": "Café con leche / White coffee",
+                    "price": 600
+                  },
+                  {
+                    "item_name": "Café con hielo / Iced coffee",
+                    "price": 450
+                  },
+                  {
+                    "item_name": "Café americano con leche / American coffee with milk",
+                    "price": 750
+                  },
+                  {
+                    "item_name": "Café bombón / Bondon coffee",
+                    "price": 900
+                  },
+                  {
+                    "item_name": "Hangover Fix",
+                    "price": 450
+                  },
+                  {
+                    "item_name": "Café Carajillo",
+                    "price": 750
+                  },
+                  {
+                    "item_name": "Café brasileño ",
+                    "price": 1050
+                  },
+                  {
+                    "item_name": "Café español",
+                    "price": 1050
+                  },
+                  {
+                    "item_name": "Café irlandes",
+                    "price": 1050
+                  },
+                  {
+                    "item_name": "Café francés ",
+                    "price": 1050
+                  },
+                  {
+                    "item_name": "Frapurhino ",
+                    "price": 1050
+                  },
+                  {
+                    "item_name": "Café expreso",
+                    "price": 300
+                  },
+                  {
+                    "item_name": "Chocolate frío",
+                    "price": 1050
+                  },
+                  {
+                    "item_name": "Chocolate caliente",
+                    "price": 1050
+                  },
+                  {
+                    "item_name": "Batido de helado",
+                    "price": 1200
+                  },
+                  {
+                    "item_name": "Té negro",
+                    "price": 450
+                  },
+                  {
+                    "item_name": "Té rojo",
+                    "price": 540
+                  },
+                  {
+                    "item_name": "Té verdea",
+                    "price": 540
+                  },
+                  {
+                    "item_name": "Té de hierbas naturales",
+                    "price": 300
+                  },
+                  {
+                    "item_name": "Infusión de Hierba buena o albahaca ",
+                    "price": 300
+                  }
+            ]
+        }  
+} 

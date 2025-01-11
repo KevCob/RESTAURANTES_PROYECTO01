@@ -1,0 +1,587 @@
+{
+    "type": "Bar-Restaurante-Cafeteria",
+    "name": "Finca La Pinta", 
+    "location": {
+        "address": " Avenida 251 N.2409 entre 20 y 28",
+        "municipe": " La Lisa",
+        "province": "La Habana",
+        "coordinates":  "23.01940199162402, -82.4892786916919"
+    },
+    "sector": "privado",
+    
+    "qualification": 4.5,
+    
+    "specialized_food": ["internacional","cubana","caribena","italiana","latina"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": 72507160,
+    
+    "capacity": 180,
+    
+    "reservation":  true,
+
+    "parking": true,
+
+    "delivery": false,
+
+    "electric generator": true,
+    
+    "hours": {
+        "monday": "12:00pm - 11:00pm",  
+        "tuesday": "12:00pm - 11:00pm",
+        "wednesday": "12:00pm - 11:00pm",
+        "thursday": "12:00pm - 11:00pm",
+        "friday": "12:00pm - 11:00pm",
+        "saturday": "12:00pm - 11:00pm",
+        "sunday": "12:00pm - 11:00pm"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": "Croquetas de la Casa",
+                    "price": 600 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Frituras de Malanga",
+                    "price": 600 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Tostones rellenos con ropa vieja",
+                    "price": 800 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Eperlan de Pescado",
+                    "price": 1000 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Coctel de Camarones",
+                    "price": 1000 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Sopa de Cebolla Francesa",
+                    "price": 1100 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Ceviche Tropical",
+                    "price": 1200,
+                    "description": " "
+                },
+                {
+                    "item_name": "Coctel de Langostas",
+                    "price": 1500 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Garbanzos Fritos",
+                    "price": 1800 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Ensalada de Pollo con Vegetales",
+                    "price": 2500 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Tartar de atun rojo",
+                    "price": 2500 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Queso Provolone al horno",
+                    "price": 3500 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Calamares fritos rebozados",
+                    "price": 5000,
+                    "description": " "
+                },
+                {
+                    "item_name": "Tabla espanola",
+                    "price": 5000 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Crema de Queso",
+                    "price": 650 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Crema Aurora",
+                    "price": 650 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Crema de Champinones",
+                    "price": 700 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Crema Virginia",
+                    "price": 700 ,
+                    "description": " "
+                }
+            ],
+                
+            "mains": [
+                {
+                    "item_name": "Rodaballo en salsa de hinojo",
+                    "price": 4000 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Arroz con Mariscos",
+                    "price": 4200 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Tesoros del Caribe",
+                    "price": 7000 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Medallon de atun sellado con ajonjoli negro",
+                    "price": 2500 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Filete de Salmon en salsa de limon y vinagre balsamico",
+                    "price": 4000 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Chuletillas de cordero con salsa chimichurri",
+                    "price": 4000 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Langosta al cafe del chef Gilberto Smith",
+                    "price": 4200 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Delmonico Steak con mantequilla de ajo",
+                    "price": 8500 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Tomahawk Steak",
+                    "price": 19200 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Risotto Parmesano",
+                    "price": 1500 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Risotto Funghi porcini",
+                    "price": 2200 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Risotto negro con camarones",
+                    "price": 2500 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Risotto al queso azul",
+                    "price": 3500,
+                    "description": " "
+                },
+                {
+                    "item_name": "Risotto de Mariscos",
+                    "price": 4000 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Masas de cerdo fritas",
+                    "price": 1800 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Fricase de cerdo a la camagueyana",
+                    "price": 2000  ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Costillas de cerdo",
+                    "price": 3000,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pechuga de Pollo gratinada con jamon y queso",
+                    "price": 3500 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Vaca frita",
+                    "price": 2000,
+                    "description": " "
+                },
+                {
+                    "item_name": "Ropa vieja a la cubana",
+                    "price": 1500 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Estofado de ternera",
+                    "price": 1700,
+                    "description": " "
+                },
+                {
+                    "item_name": "Tasajo Montevideo",
+                    "price": 2000 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Bistec de palomilla",
+                    "price": 3500,
+                    "description": " "
+                },
+                {
+                    "item_name": "Chuleta de ternera",
+                    "price": 3500,
+                    "description": " "
+                },
+                {
+                    "item_name": "Costilla de res a la parrilla",
+                    "price": 3500 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Filete de rinonada",
+                    "price": 3800,
+                    "description": " "
+                },
+                {
+                    "item_name": "Rabo encendido cubano",
+                    "price": 4500,
+                    "description": " "
+                },
+                {
+                    "item_name": "Churrasco con salsa chimichurri",
+                    "price": 4500,
+                    "description": " "
+                },
+                {
+                    "item_name": "Tournedo de ternera",
+                    "price": 5000,
+                    "description": " "
+                },
+                {
+                    "item_name": "Ribeye con salsa BBQ",
+                    "price": 5000 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Ossobuco en salsa de Vino tinto",
+                    "price": 5000 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "T-Bone Steak a la Parrilla",
+                    "price":7000,
+                    "description": " "
+                },
+                {
+                    "item_name": "Cowboy Ribeye Steak",
+                    "price": 9000 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Chilindron de cordero al vino",
+                    "price": 3500 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Cordero Steak a la parrilla",
+                    "price": 4000,
+                    "description": " "
+                },
+                {
+                    "item_name": "Filete de Pescado Grille",
+                    "price": 2000 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Enchilado de Camarones",
+                    "price": 2000 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Camarones a la parrilla",
+                    "price": 2000 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Camarones al ajillo",
+                    "price": 2200,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pulpo mulato",
+                    "price": 2500 ,
+                    "description": " "
+                },
+
+{
+                    "item_name": "Tataki de atun rojo con sesamo",
+                    "price": 3000 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Enchilada de langosta",
+                    "price": 3000 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Cola de langosta a la mariposa",
+                    "price": 3200 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pescado La Pinta",
+                    "price": 3500 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Langosta Thermidor",
+                    "price": 3500,
+                    "description": " "
+                },
+                {
+                    "item_name": "Camarones Franceses sobre linguini",
+                    "price": 3500 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pescado Frances sobre Linguini",
+                    "price": 3500 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Bacalao a la gallega",
+                    "price": 3500 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Langosta La Pinta",
+                    "price": 3500 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Calderata de Cangrejos moros",
+                    "price": 3500 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Cazuela de mariscos",
+                    "price": 4000 ,
+                    "description": " "
+                }
+            ],
+
+
+            "fittings": [
+                {
+                    "item_name": "Ensalada de vegetales",
+                    "price": 500,
+                    "description": " "
+                },
+                {
+                    "item_name": "Ensalada De la Finca",
+                    "price": 1200 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Caprese",
+                    "price": 2000,
+                    "description": " "
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": "Pizza de la Finca",
+                    "price": 1600 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pizza loncheada de Peperoni",
+                    "price": 2000,
+                    "description": " "
+                }
+            ],
+
+            "paste": [
+                {
+                    "item_name": "Espaguetis a la Carbonara",
+                    "price": 2000 ,
+                    "description": ""
+                },
+                {
+                    "item_name": "Pasta Alla Routa",
+                    "price": 3000 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pasta alla routa burrata",
+                    "price": 5000,
+                    "description": " "
+                }
+            ],
+
+            "additions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+            "cocktails": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ],
+
+            "drinks": [
+                {
+                    "item_name": "Refresco Ciego Montero",
+                    "price": 280
+                },
+                {
+                    "item_name": "Malta",
+                    "price": 320 
+                },
+                {
+                    "item_name": "Coca-cola",
+                    "price": 450
+                },
+                {
+                    "item_name": "Fanta",
+                    "price": 450 
+                },
+                {
+                    "item_name": "Sprite",
+                    "price": 450 
+                },
+                {
+                    "item_name": "Pepsi cola",
+                    "price": 450
+                },
+                {
+                    "item_name": "Seven-up",
+                    "price": 450 
+                },
+                {
+                    "item_name": "Bebida Energizante",
+                    "price": 350
+                },
+                {
+                    "item_name": "Malteada",
+                    "price": 800
+                },
+                {
+                    "item_name": "Jarra de Cerveza",
+                    "price": 300 
+                },
+                {
+                    "item_name": "Cerveza Stella Arcoiris",
+                    "price": 750 
+                },
+                {
+                    "item_name": "Cerveza Cristal",
+                    "price": 400 
+                },
+                {
+                    "item_name": "Cerveza Bucanero",
+                    "price": 400
+                },
+                {
+                    "item_name": "Cerveza Cristal Extra",
+                    "price": 400
+                },
+                {
+                    "item_name": "Cerveza Corona",
+                    "price":750 
+                }
+            ],
+
+            "infusions": [
+                {
+                    "item_name": "Expresso",
+                    "price": 250
+                },
+                {
+                    "item_name": "Macchiato",
+                    "price": 300
+                    
+                },
+                {
+                    "item_name": "Americano",
+                    "price": 300
+                },
+                {
+                    "item_name": "Capuccino",
+                    "price": 350
+                },
+                {
+                    "item_name": "Latte",
+                    "price": 350 
+                },
+                {
+                    "item_name": "Moka",
+                    "price":400
+                },
+                {
+                    "item_name": "Bombon",
+                    "price": 450 
+                },
+                {
+                    "item_name": "Macchiato Nutella",
+                    "price": 600
+                },
+                {
+                    "item_name": "Moka blanco",
+                    "price": 600 
+                },
+                {
+                    "item_name": "Macchiato de vainilla francesa",
+                    "price": 600
+                },
+                {
+                    "item_name": "Macchiato de caramelo",
+                    "price": 600 
+                },
+                {
+                    "item_name": "Macchiato de avellana",
+                    "price": 600 
+                },
+                {
+                    "item_name": "Chocolate Mexicano Frappuccino",
+                    "price": 800
+                },
+                {
+                    "item_name": "Frapuccino Moka Blanco y Negro",
+                    "price": 850 
+                }
+            ]
+        }  
+} 

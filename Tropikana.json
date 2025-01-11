@@ -1,0 +1,237 @@
+{
+    "type": "Restaurante",
+    "name": "Tropikana", 
+    "location": {
+        "address": "Avenida 41, calle 72",
+        "municipe": "Marianao",
+        "province": "La Habana",
+        "coordinates":  "23.09472547391585, -82.42049115872929"
+    },
+    "sector": "privado",
+    
+    "qualification": null,
+    
+    "specialized_food": ["internacional","italiana","cubana"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": 52659916,
+    
+    "capacity": 36,
+    
+    "reservation":  true,
+
+    "parking": true,
+
+    "delivery": false,
+
+    "electric generator": true,
+    
+    "hours": {
+        "monday": "11:00am - 10:00pm",  
+        "tuesday": "11:00am - 10:00pm",
+        "wednesday": "11:00am - 10:00pm",
+        "thursday": "11:00am - 10:00pm",
+        "friday": "11:00am - 10:00pm",
+        "saturday": "11:00am - 10:00pm",
+        "sunday": "11:00am - 10:00pm"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": "Tostones",
+                    "price": 350,
+                    "description": " "
+                },
+                {
+                    "item_name": "Tostones rellenos",
+                    "price": 450,
+                    "description": " "
+                },
+                {
+                    "item_name": "Crema de queso",
+                    "price": 450,
+                    "description": " "
+                },
+                {
+                    "item_name": "Crema aurora",
+                    "price": 450,
+                    "description": " "
+                },
+                {
+                    "item_name": "Consome",
+                    "price": 450,
+                    "description": " "
+                },
+                {
+                    "item_name": "Crema de jamo",
+                    "price": 450,
+                    "description": " "
+                },
+                {
+                    "item_name": "Eperlan",
+                    "price": 500,
+                    "description": " "
+                },
+                {
+                    "item_name": "Croquetas",
+                    "price":500 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Picadera de la casa",
+                    "price": 1000,
+                    "description": " "
+                }
+            ],
+                
+            "mains": [
+                {
+                    "item_name": "Bistec de cerdo",
+                    "price": 1300,
+                    "description": " "
+                },
+                {
+                    "item_name": "Bistec de cerdo a la milanesa",
+                    "price": 1800,
+                    "description": " "
+                },
+                {
+                    "item_name": "Bistec de pollo",
+                    "price": 1000,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pollo frito",
+                    "price": 1000,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pollo a la milanesa",
+                    "price": 1500,
+                    "description": " "
+                },
+                {
+                    "item_name": "Ropa vieja",
+                    "price": 1550,
+                    "description": " "
+                },
+                {
+                    "item_name": "Canciller",
+                    "price": 2500,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pescado entero",
+                    "price": 2000,
+                    "description": " "
+                },
+                {
+                    "item_name": "Rueda de atun",
+                    "price": 1700,
+                    "description": " "
+                },
+                {
+                    "item_name": "Filete de pescado",
+                    "price": 1500,
+                    "description": " "
+                },
+                {
+                    "item_name": "Arroz frito",
+                    "price":700 ,
+                    "description": " "
+                }
+            ],
+
+            "fittings": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": "Pizza de queso gouda",
+                    "price": 750,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pizza Hawaiana",
+                    "price": 800,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pizza tropicana",
+                    "price": 950,
+                    "description": " "
+                }
+            ],
+
+            "paste": [
+                {
+                    "item_name": "Espaguettis a la carbonara",
+                    "price": 750,
+                    "description": ""
+                },
+                {
+                    "item_name": "Espaguettis queso gouda",
+                    "price": 650,
+                    "description": " "
+                }
+            ],
+
+            "additions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": "Super hamburguesa",
+                    "price": 560,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pan con jamon y queso",
+                    "price": 280,
+                    "description": " "
+                }
+            ],
+
+            "desserts": [
+                {
+                    "item_name": "Helado gusto 1L",
+                    "price": 1000,
+                    "description": " "
+                }
+            ],
+            "cocktails": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "drinks": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "infusions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ]
+        }  
+} 

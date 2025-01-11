@@ -1,0 +1,229 @@
+{
+    "type": "Bar-Restaurante-Cafeteria",
+    "name": "La Barrita Onbazar", 
+    "location": {
+        "address": "Amenidad entre Cruz del Pader e Infanta",
+        "municipe": "Cerro",
+        "province": "La Habana",
+        "coordinates":  "23.12193638525617, -82.37392744585779"
+    },
+    "sector": "particular",
+    
+    "qualification": 5,
+    
+    "specialized_food": ["italiana"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": 54494741,
+    
+    "capacity": 34,
+    
+    "reservation":  true,
+
+    "parking":true ,
+
+    "delivery": true,
+
+    "electric generator": true,
+    
+    "hours": {
+        "monday": "9:00am - 11:00pm",  
+        "tuesday": "9:00am - 11:00pm",
+        "wednesday": "9:00am - 11:00pm",
+        "thursday": "9:00am - 11:00pm",
+        "friday": "9:00am - 1:00am",
+        "saturday": "9:00am - 1:00am",
+        "sunday": "9:00am - 1:00am"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": "Tostones rellenos",
+                    "price": 1300,
+                    "description": " "
+                },
+                {
+                    "item_name": "Jamon ,queso y aceitunas",
+                    "price": 750,
+                    "description": " "
+                },
+                {
+                    "item_name": "Mixta",
+                    "price": 1600,
+                    "description": " "
+                },
+                {
+                    "item_name": "Brochetas",
+                    "price": 2000,
+                    "description": " "
+                },
+                {
+                    "item_name": "Croquetas",
+                    "price": 650,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pollo frito",
+                    "price": 1500,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pollo chiflado",
+                    "price": 1650,
+                    "description": " "
+                }
+                
+            ],
+                
+            "mains": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+                
+            ],
+
+            "fittings": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": "Pizza de napolitana",
+                    "price": 850,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pizza de chorizo",
+                    "price": 1000,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pizza de jamon",
+                    "price": 1000,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pizza de hawaiana",
+                    "price": 1150,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pizza de cebolla",
+                    "price": 1000,
+                    "description": " "
+                }
+            ],
+
+            "paste": [
+                {
+                    "item_name": "Espaguetis",
+                    "price": 850,
+                    "description": ""
+                },
+                {
+                    "item_name": "Espaguetis de jamon",
+                    "price": 1100,
+                    "description": " "
+                },
+                {
+                    "item_name": "Espaguetis de chorizo",
+                    "price": 1000,
+                    "description": " "
+                }
+            ],
+
+            "additions": [
+                {
+                    "item_name": "Jamon",
+                    "price": 150,
+                    "description": " "
+                },
+                {
+                    "item_name": "Cebolla",
+                    "price": 150,
+                    "description": " "
+                },
+                {
+                    "item_name": "Chorizo",
+                    "price": 150,
+                    "description": ""
+                },
+                {
+                    "item_name": "Hawaiana",
+                    "price": 250,
+                    "description": " "
+                },
+                {
+                    "item_name": "Doble Queso",
+                    "price": 250,
+                    "description": " "
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": "Hamburguesa",
+                    "price": 1200,
+                    "description": " "
+                },
+                {
+                    "item_name": "Hamburguesa jamon y queso",
+                    "price": 1650,
+                    "description": ""
+                },
+                {
+                    "item_name": "Hamburguesa onbazar",
+                    "price": 2700,
+                    "description": " "
+                }
+            ],
+
+            "desserts": [
+                   {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+            "cocktails": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ],
+
+            "drinks": [
+                {
+                    "item_name": "Malteada",
+                    "price": 500
+                }
+            ],
+
+            "infusions": [
+                {
+                    "item_name": "Cafe expreso",
+                    "price": 180
+                },
+                {
+                    "item_name": "Cafe cortado",
+                    "price": 220
+                    
+                },
+                {
+                    "item_name": "Capuchino",
+                    "price": 450
+                },
+                {
+                    "item_name": "Cafe bombon",
+                    "price": 450
+                }
+            ]
+        }  
+} 

@@ -1,0 +1,267 @@
+{
+    "type": "Bar-Restaurante-Cafeteria",
+    "name": "FoodMaster", 
+    "location": {
+        "address": "7 A",
+        "municipe": "Playa",
+        "province": "La Habana",
+        "coordinates":  "23.108117348063423, -82.4341893999906"
+    },
+    "sector": "privado",
+    
+    "qualification": 4.8,
+    
+    "specialized_food": ["Mexicana", "Americana","Café","Internacional","Pizzas"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": 53826366,
+    
+    "capacity": 32,
+    
+    "reservation":  true,
+
+    "parking": true,
+
+    "delivery": true,
+
+    "electric generator": true,
+    
+    "hours": {
+        "monday": "10:30am - 9:00pm",  
+        "tuesday": "10:30am - 9:00pm",
+        "wednesday": "10:30am - 9:00pm",
+        "thursday": "10:30am - 9:00pm",
+        "friday": "10:30am - 9:00pm",
+        "saturday": "10:30am - 9:00pm",
+        "sunday": "10:30am - 9:00pm"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": "Picadera Food Master",
+                    "price": 2700,
+                    "description": ""
+                },
+                {
+                    "item_name": "Salchichas al Grill",
+                    "price": 1600,
+                    "description": "Dos salchichas al grill, papas fritas, salsa de mostaza"
+                },
+                {
+                    "item_name": "Quesadilla",
+                    "price": 990,
+                    "description": "Tortilla de harina, queso Gouda, tomate, hierbas aromáticas"
+                },
+                {
+                    "item_name": "Tacos",
+                    "price": 990,
+                    "description": ""
+                },
+                {
+                    "item_name": "Croquetas",
+                    "price": 700,
+                    "description": ""
+                },
+                {
+                    "item_name": "Empanadas",
+                    "price": 750,
+                    "description": ""
+                },
+                {
+                    "item_name": "Papas Fritas",
+                    "price": 690,
+                    "description": ""
+                }
+            ],
+                
+            "mains": [
+                {
+                    "item_name": "Big Master Burger",
+                    "price": 3500,
+                    "description": "Hamburguesa de Res d 180 gr, pan de hamburguesa artesanal, salsa aromática FM, doble queso Gouda, ketchup y mostaza"
+                },
+                {
+                    "item_name": "Suiza",
+                    "price": 2950,
+                    "description": "Hamburguesa mixta de Res y Cerdo, pan  de hamburguesa artesanal, champiñones y cebolla salteada con mantequilla"
+                },
+                {
+                    "item_name": "Max",
+                    "price": 2700,
+                    "description": "¨Hamburguesa mixta de Res y Cerdo, pan de hamburguesa artesanal, queso Gouda y huevo frito y mostaza"
+                },
+                {
+                    "item_name": "La Granja",
+                    "price": 2550,
+                    "description": "Hamburguesa de Res d 180 gr, pan de hamburguesa artesanal, salsa aromática FM, tomate y pepinillo"
+                },
+                {
+                    "item_name": "Italiana",
+                    "price": 2450,
+                    "description": "Hamburguesa de Pollo, pan de hamburguesa artesanal, salsa FM y queso parmesano"
+                }
+            ],
+
+            "fittings": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": "Margarita",
+                    "price": 1900,
+                    "description": "Salsa de Tomate, mozzarella, parmesano, albahaca fresca"
+                },
+                {
+                    "item_name": "Margarita con Jamón",
+                    "price": 2400,
+                    "description": "Salsa de tomate, mozzarella, parmesano, jamón cocido"
+                },
+                {
+                    "item_name": "Diavola",
+                    "price": 2600,
+                    "description": "Salsa de tomate, mozzarella, parmesano, pepperoni"
+                },
+                {
+                    "item_name": "De Jamón Serrano",
+                    "price": 3200,
+                    "description": "Salsa de tomate, mozzarella, parmesano, jamón serrano, rúcula"
+                },
+                {
+                    "item_name": "De Atún",
+                    "price": 3100,
+                    "description": "Salsa de tomate, mozzarella, parmesano, atún, aceitunas"
+                },
+                {
+                    "item_name": "La Prohibida en Italia",
+                    "price": 3200,
+                    "description": "Mozzarella, parmesano, queso azul, piña"
+                }
+            ],
+
+            "paste": [
+                {
+                    "item_name": "Empanadas de Pina y Queso",
+                    "price": 750,
+                    "description": ""
+                },
+                {
+                    "item_name": "Muffin",
+                    "price": 550,
+                    "description": ""
+                },
+                {
+                    "item_name": "Helado",
+                    "price": 750,
+                    "description": ""
+                }
+            ],
+
+            "additions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "desserts": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+            "cocktails": [
+                {
+                    "item_name": "Gin & Tonic",
+                    "price": 1200
+                },
+                {
+                    "item_name": "Chelada",
+                    "price": 900
+                },
+                {
+                    "item_name": "Michelada",
+                    "price": 1000
+                },
+                {
+                    "item_name": "Sangria",
+                    "price": 1100
+                },
+                {
+                    "item_name": "Sangria Blanca",
+                    "price": 1100
+                },
+                {
+                    "item_name": "Spirit Cóctel",
+                    "price": 800
+                }
+                
+            ],
+
+            "drinks": [
+                {
+                    "item_name": "Vino por Copa",
+                    "price": 900
+                },
+                {
+                    "item_name": "Tinto de Verano",
+                    "price": 900
+                },
+                {
+                    "item_name": "Cerveza",
+                    "price": 600
+                },
+                {
+                    "item_name": "Cerveza Gama Alta",
+                    "price": 800
+                },
+                {
+                    "item_name": "Jugo Natural",
+                    "price": 500
+                },
+                {
+                    "item_name": "Jugo Cajita",
+                    "price": 400
+                },
+                {
+                    "item_name": "Batido de Helado",
+                    "price": 750
+                },
+                {
+                    "item_name": "Batido de Helado y Frutas",
+                    "price": 750
+                },
+                {
+                    "item_name": "Smoothie de Frutas",
+                    "price": 600
+                },
+                {
+                    "item_name": "Fresh de Pepino",
+                    "price": 300
+                }
+            ],
+
+            "infusions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ]
+        }  
+} 

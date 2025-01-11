@@ -1,0 +1,191 @@
+{
+    "type": "Restaurante-Cafeteria",
+    "name": "Café Literario La Copa", 
+    "location": {
+        "address": " 1ra A entre 42 y 44",
+        "municipe": "Playa",
+        "province": "La Habana",
+        "coordinates":  "23.117962514624928, -82.43294891647132"
+    },
+    "sector": "privado",
+    
+    "qualification": 4.5,
+    
+    "specialized_food": ["mixta"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": 52524148,
+    
+    "capacity": 24,
+    
+    "reservation":  false,
+
+    "parking": true,
+
+    "delivery": false,
+
+    "electric generator": false,
+    
+    "hours": {
+        "monday": "9:00am - 5:00pm",  
+        "tuesday": "9:00am - 5:00pm",
+        "wednesday": "9:00am - 5:00pm",
+        "thursday": "9:00am - 5:00pm",
+        "friday": "9:00am - 5:00pm",
+        "saturday": "9:00am - 5:00pm",
+        "sunday": "9:00am - 5:00pm"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": "Croquetas con Tostadas",
+                    "price": 500.00,
+                    "description": ""
+                },
+                {
+                    "item_name": "Papas Fritas",
+                    "price": 600.00,
+                    "description": ""
+                },
+                {
+                    "item_name": "Hot Dog",
+                    "price": 600.00,
+                    "description": ""
+                },
+                {
+                    "item_name": "Sandwich de Jamón y Queso",
+                    "price": 700.00,
+                    "description": ""
+                },
+                {
+                    "item_name": "Pan con Hamburguesa",
+                    "price": 700.00,
+                    "description": "Res o Cerdo"
+                },
+                {
+                    "item_name": "Croissant de Jamón con Queso",
+                    "price": 800.00,
+                    "description": ""
+                },
+                {
+                    "item_name": "Croissant Natural",
+                    "price": 500.00,
+                    "description": ""
+                }
+            ],
+                
+            "mains": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "fittings": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "paste": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "additions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "desserts": [
+                {
+                    "item_name": "Copa de Helado",
+                    "price": 500.00,
+                    "description": "Mantecado"
+                },
+                {
+                    "item_name": "Suero Helado",
+                    "price": 800.00,
+                    "description": "Chocolate/Vainilla/Naranja-Pina/Fresa"
+                }
+            ],
+            "cocktails": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ],
+
+            "drinks": [
+                {
+                    "item_name": "Malteada",
+                    "price": 500.00
+                },
+                {
+                    "item_name": "Malta Bucanero",
+                    "price": 300.00
+                },
+                {
+                    "item_name": "Energizante",
+                    "price": 230.00
+                },
+                {
+                    "item_name": "Jugo de Lata",
+                    "price": 270.00
+                },
+                {
+                    "item_name": "Agua Natural",
+                    "price": 120.00
+                }
+            ],
+
+            "infusions": [
+                {
+                    "item_name": "Café Expresso",
+                    "price": 1500.00
+                },
+                {
+                    "item_name": "Café Cortado",
+                    "price": 200.00
+                },
+                {
+                    "item_name": "Café Bombón",
+                    "price": 350.00
+                },
+                {
+                    "item_name": "Capuchino",
+                    "price": 400.00
+                },
+                {
+                    "item_name": "Frapucchino",
+                    "price": 500.00
+                }
+            ]
+        }  
+} 

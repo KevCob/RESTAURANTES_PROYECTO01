@@ -1,0 +1,172 @@
+{
+    "type": "Cafeteria",
+    "name": "El Triangulo", 
+    "location": {
+        "address": "Esquina Calzada de 10 de octubre y Calzada de Porvenir, La Palma",
+        "municipe": "Arroyo Naranjo",
+        "province": "La Habana",
+        "coordinates":  "23.074424846570963, -82.3584506328705"
+    },
+    "sector": "privado",
+    
+    "qualification": 4.3,
+    
+    "specialized_food": ["cubana"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": null,
+    
+    "capacity": 5,
+    
+    "reservation":  false,
+
+    "parking": true,
+
+    "delivery": false,
+
+    "electric generator": false,
+    
+    "hours": {
+        "monday": "8:00am - 12:00am",  
+        "tuesday": "8:00am - 12:00am",
+        "wednesday": "8:00am - 12:00am",
+        "thursday": "8:00am - 12:00am",
+        "friday": "8:00am - 12:00am",
+        "saturday": "8:00am - 12:00am",
+        "sunday": "8:00am - 12:00am"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name":"Fajitas de pollo",
+                    "price":350,
+                    "description": " "
+                },
+                {
+                    "item_name":"Croquetas",
+                    "price":150,
+                    "description": " "
+                },
+                {
+                    "item_name":"Bolitas de queso",
+                    "price":150,
+                    "description": " "
+                },
+                {
+                    "item_name":"Tostones",
+                    "price":150,
+                    "description": " "
+                }
+            ],
+
+                
+            "mains": [
+                {
+                    "item_name":"Pollo Frito",
+                    "price":1000,
+                    "description": " "
+                }
+            ],
+
+            "fittings": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "paste": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "additions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "desserts": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+            "cocktails": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ],
+
+            "drinks": [
+                {
+                    "item_name":"Cerveza Cristal",
+                    "price":250
+                },
+                {
+                    "item_name":"Cerveza Bucanero",
+                    "price":250
+                },
+                {
+                    "item_name":"Cerveza Escorial",
+                    "price":200
+                },
+                {
+                    "item_name":"Cerveza Holanda",
+                    "price":200
+                },
+                {
+                    "item_name":"Agua",
+                    "price":120
+                },
+                {
+                    "item_name":"Refresco",
+                    "price":220
+                },
+                {
+                    "item_name":"Jugo de caja",
+                    "price":180
+                },
+                {
+                    "item_name":"Red Bull",
+                    "price":230
+                },
+                {
+                    "item_name":"Malta",
+                    "price":220
+                }
+            ],
+
+            "infusions": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ]
+        }  
+} 

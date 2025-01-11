@@ -1,0 +1,601 @@
+{
+    "type": "Bar-Restaurante-Cafeteria",
+    "name": "Los Nardos", 
+    "location": {
+        "address": "Paseo de Marti, frente al Capitolio",
+        "municipe": "Habana Vieja",
+        "province": "La Habana",
+        "coordinates":  "23.134728671881838, -82.35835687654"
+    },
+    "sector": "estatal",
+    
+    "qualification": 4,
+    
+    "specialized_food": ["Comida mixta"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": 78632985,
+    
+    "capacity": 70,
+    
+    "reservation":  true,
+
+    "parking": false,
+
+    "delivery": false,
+
+    "electric generator": true,
+    
+    "hours": {
+        "monday": "12:00pm - 12:00am",  
+        "tuesday": "12:00pm - 12:00am",
+        "wednesday": "12:00pm - 12:00am",
+        "thursday": "12:00pm - 12:00am",
+        "friday": "12:00pm - 12:00am",
+        "saturday": "12:00pm - 12:00am",
+        "sunday": "12:00pm - 12:00am"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name":"Ensalada de vegetales frescos",
+                    "price":620,
+                    "description": " "
+                },
+                {
+                    "item_name":"Ensalada de frutas tropicales",
+                    "price":725,
+                    "description": " "
+                },
+                {
+                    "item_name":"Coctel de frutas tropicales",
+                    "price":805,
+                    "description": " "
+                },
+                {
+                    "item_name":"Ensalada de rollo de primavera",
+                    "price":1035,
+                    "description": " "
+                },
+                {
+                    "item_name":"Surtidito de la casa",
+                    "price":2420,
+                    "description": " "
+                },
+                {
+                    "item_name":"Ensalada a la vinagreta",
+                    "price":1710,
+                    "description": " "
+                },
+                {
+                    "item_name":"Ensalada mediterranea",
+                    "price":1710,
+                    "description": " "
+                },
+                {
+                    "item_name":"Estilo de Los Nardos",
+                    "price":1710,
+                    "description": " "
+                },
+                {
+                    "item_name":"Camaroncillos en coctel",
+                    "price":1425,
+                    "description": " "
+                },
+                {
+                    "item_name":"Ensaladita de atun",
+                    "price":1425,
+                    "description": " "
+                },
+                {
+                    "item_name":"Carpaccio de pescado",
+                    "price":935,
+                    "description": " "
+                },
+                {
+                    "item_name":"Coctel de pescado",
+                    "price":935,
+                    "description": " "
+                },
+                {
+                    "item_name":"Ensalada de jamon serrano y frutas tropicales",
+                    "price":2590,
+                    "description": " "
+                },
+                {
+                    "item_name":"Gran tabla de embutidos y quesos",
+                    "price":4040,
+                    "description": " "
+                },
+                {
+                    "item_name":"Tamal en cazuela",
+                    "price":1060,
+                    "description": " "
+                },
+                {
+                    "item_name":"Bolitas de queso",
+                    "price":1290,
+                    "description": " "
+                },
+                {
+                    "item_name":"Tortilla espanola",
+                    "price":865,
+                    "description": " "
+                },
+                {
+                    "item_name":"Tortilla vazca",
+                    "price":940,
+                    "description": " "
+                },
+                {
+                    "item_name":"Garbanzos fritos",
+                    "price":1295,
+                    "description": " "
+                },
+                {
+                    "item_name":"Gran Picadera de los Nardos",
+                    "price":2485,
+                    "description": " "
+                },
+                {
+                    "item_name":"Cremas",
+                    "price":1190,
+                    "description": " "
+                },
+                {
+                    "item_name":"Sopa de pollo",
+                    "price":865,
+                    "description": " "
+                },
+                {
+                    "item_name":"Fabada al estilo del Chef",
+                    "price":1450,
+                    "description": " "
+                },
+                {
+                    "item_name":"Sopa de vegetales",
+                    "price":490,
+                    "description": " "
+                },
+                {
+                    "item_name":"Gazpacho Andaluz",
+                    "price":640,
+                    "description": " "
+                }
+            ],
+                
+            "mains": [
+                {
+                    "item_name":"Filete de pescado grille",
+                    "price":2500,
+                    "description": " "
+                },
+                {
+                    "item_name":"Pescado Canciller",
+                    "price":2845,
+                    "description": " "
+                },
+                {
+                    "item_name":"Masas de pescado",
+                    "price":2500,
+                    "description": " "
+                },
+                {
+                    "item_name":"Eperlan de pescado",
+                    "price":2500,
+                    "description": " "
+                },
+                {
+                    "item_name":"Filete de Pescado Joinville",
+                    "price":2870,
+                    "description": " "
+                },
+                {
+                    "item_name":"Filete de pescado Monte Toro",
+                    "price":2590,
+                    "description": " "
+                },
+                {
+                    "item_name":"Filete de pescado Don Pedro",
+                    "price":2745,
+                    "description": " "
+                },
+                {
+                    "item_name":"Camarones al gusto",
+                    "price":2900,
+                    "description": " "
+                },
+                {
+                    "item_name":"Pollo frito",
+                    "price":2480,
+                    "description": " "
+                },
+                {
+                    "item_name":"Pollo grille",
+                    "price":2490,
+                    "description": " "
+                },
+                {
+                    "item_name":"Pollo Gordon Blue",
+                    "price":2870,
+                    "description": " "
+                },
+                {
+                    "item_name":"Fajitas de pollo",
+                    "price":2230,
+                    "description": " "
+                },
+                {
+                    "item_name":"Pechuga de pollo grille",
+                    "price":2420,
+                    "description": " "
+                },
+                {
+                    "item_name":"Dados de pollo al gusto",
+                    "price":2160,
+                    "description": " "
+                },
+                {
+                    "item_name":"Brocheta mixta de pollo",
+                    "price":2230,
+                    "description": " "
+                },
+                {
+                    "item_name":"Bistec de cerdo",
+                    "price":2200,
+                    "description": " "
+                },
+                {
+                    "item_name":"Escalope de cerdo",
+                    "price":2330,
+                    "description": " "
+                },
+                {
+                    "item_name":"Uruguayo de cerdo",
+                    "price":2500,
+                    "description": " "
+                },
+                {
+                    "item_name":"Masas de cerdo",
+                    "price":2800,
+                    "description": " "
+                },
+                {
+                    "item_name":"Chuletas de cerdo",
+                    "price":2500,
+                    "description": " "
+                },
+                {
+                    "item_name":"Lomo de cerdo ahumado",
+                    "price":2500,
+                    "description": " "
+                },
+                {
+                    "item_name":"Pierna de cerdo hawaiana",
+                    "price":2800,
+                    "description": " "
+                },
+                {
+                    "item_name":"Pierna de cerdo a la criolla",
+                    "price":2800,
+                    "description": " "
+                },
+                {
+                    "item_name":"Cena cubana",
+                    "price":3235,
+                    "description": " "
+                },
+                {
+                    "item_name":"Ropa vieja de cerdo",
+                    "price":2780,
+                    "description": " "
+                },
+                {
+                    "item_name":"Cerdo salteado",
+                    "price":2260,
+                    "description": " "
+                },
+                {
+                    "item_name":"Cordero al gusto",
+                    "price":2715,
+                    "description": " "
+                },
+                {
+                    "item_name":"Paletilla de cordero a las finas hierbas ",
+                    "price":3610,
+                    "description": " "
+                },
+                {
+                    "item_name":"Langosta",
+                    "price":2660,
+                    "description": " "
+                },
+                {
+                    "item_name":"Paella mixta",
+                    "price":1920,
+                    "description": " "
+                },
+                {
+                    "item_name":"Paella de vegetales",
+                    "price":1575,
+                    "description": " "
+                },
+                {
+                    "item_name":"Grillada Mar y Tierra",
+                    "price":4460,
+                    "description": " "
+                }
+            ],
+
+            "fittings": [
+                {
+                    "item_name":"Arroz blanco",
+                    "price":295,
+                    "description": " "
+                },
+                {
+                    "item_name":"Moros y cristianos",
+                    "price":295,
+                    "description": " "
+                },
+                {
+                    "item_name":"Frijoles",
+                    "price":295,
+                    "description": " "
+                },
+                {
+                    "item_name":"Viandas hervidas",
+                    "price":295,
+                    "description": " "
+                },
+                {
+                    "item_name":"Vegetales salteados",
+                    "price":295,
+                    "description": " "
+                },
+                {
+                    "item_name":"Arroz Indiana",
+                    "price":295,
+                    "description": " "
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "paste": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "additions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "desserts": [
+                {
+                    "item_name":"Flan al caramelo",
+                    "price":449,
+                    "description": " "
+                },
+                {
+                    "item_name":"Copa Lolita",
+                    "price":719,
+                    "description": " "
+                },
+                {
+                    "item_name":"Torta del dia",
+                    "price":559,
+                    "description": " "
+                },
+                {
+                    "item_name":"Helado",
+                    "price":719,
+                    "description": " "
+                },
+                {
+                    "item_name":"Torrejas en almibar",
+                    "price":559,
+                    "description": " "
+                },
+                {
+                    "item_name":"Cake a la moda",
+                    "price":819,
+                    "description": " "
+                },
+                {
+                    "item_name":"Torta helada",
+                    "price":559,
+                    "description": " "
+                },
+                {
+                    "item_name":"Torta 3 leches",
+                    "price":559,
+                    "description": " "
+                },
+                {
+                    "item_name":"Brownie de chocolate",
+                    "price":719,
+                    "description": " "
+                },
+                {
+                    "item_name":"Pudin",
+                    "price":439,
+                    "description": " "
+                }
+            ],
+            "cocktails": [
+                {
+                    "item_name":"Limonada",
+                    "price":230
+                },
+                {
+                    "item_name":"Mojito",
+                    "price":385
+                },
+                {
+                    "item_name":"Daiquiri",
+                    "price":385
+                },
+                {
+                    "item_name":"Cuba Libre",
+                    "price":456
+                },
+                {
+                    "item_name":"Sangria",
+                    "price":495
+                },
+                {
+                    "item_name":"Michelada",
+                    "price":439
+                },
+                {
+                    "item_name":"Pina colada",
+                    "price":439
+                },
+                {
+                    "item_name":"San Francisco",
+                    "price":329
+                },
+                {
+                    "item_name":"Otros cocteles",
+                    "price":439
+                }
+            ],
+
+            "drinks": [
+                {
+                    "item_name":"Agua nacional",
+                    "price":164
+                },
+                {
+                    "item_name":"Agua importada",
+                    "price":219
+                },
+                {
+                    "item_name":"Refresco nacional",
+                    "price":275
+                },
+                {
+                    "item_name":"Refresco de maquina",
+                    "price":207
+                },
+                {
+                    "item_name":"Refresco importado",
+                    "price":275
+                },
+                {
+                    "item_name":"Red Bull",
+                    "price":461
+                },
+                {
+                    "item_name":"Kermato",
+                    "price":461
+                },
+                {
+                    "item_name":"Maltas",
+                    "price":449
+                },
+                {
+                    "item_name":"Malteada",
+                    "price":649
+                },
+                {
+                    "item_name":"Cana de cerveza",
+                    "price":274
+                },
+                {
+                    "item_name":"Jarra de cerveza",
+                    "price":512
+                },
+                {
+                    "item_name":"Jarrazo",
+                    "price":1650
+                },
+                {
+                    "item_name":"Michelada",
+                    "price":659
+                },
+                {
+                    "item_name":"Cerveza nacional",
+                    "price":308
+                },
+                {
+                    "item_name":"Cerveza importada",
+                    "price":308
+                },
+                {
+                    "item_name":"Copa de vino",
+                    "price":461
+                },
+                {
+                    "item_name":"Vermouth",
+                    "price":345
+                },
+                {
+                    "item_name":"Jugos naturales",
+                    "price":263
+                },
+                {
+                    "item_name":"Jugos importados",
+                    "price":349
+                },
+                {
+                    "item_name":"Jugos de caja",
+                    "price":247
+                }
+            ],
+
+            "infusions": [
+                {
+                    "item_name":"Cafe",
+                    "price":165
+                },
+                {
+                    "item_name":"Cafe cortado",
+                    "price":219
+                },
+                {
+                    "item_name":"Cafe con leche",
+                    "price":219
+                },
+                {
+                    "item_name":"Cafe Capuccino",
+                    "price":274
+                },
+                {
+                    "item_name":"Cafe bombon",
+                    "price":274
+                },
+                {
+                    "item_name":"Cafe irlandes",
+                    "price":274
+                },
+                {
+                    "item_name":"Te",
+                    "price":109
+                }
+            ]
+        }  
+} 

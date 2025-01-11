@@ -1,0 +1,191 @@
+{
+    "type": "Restaurante-Cafeteria",
+    "name": "Cafe Bulevar", 
+    "location": {
+        "address": "Blvd de San Rafael entre Aguila y Galeano",
+        "municipe": "Centro Habana",
+        "province": "La Habana",
+        "coordinates":  "23.136496787602418, -82.36291657498259"
+    },
+    "sector": "privado",
+    
+    "qualification": 3.4,
+    
+    "specialized_food": ["cubana"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": null,
+    
+    "capacity": 20,
+    
+    "reservation":  true,
+
+    "parking": false,
+
+    "delivery": false,
+
+    "electric generator": false,
+    
+    "hours": {
+        "monday": "11:00am - 11:00pm",  
+        "tuesday": "11:00am - 11:00pm",
+        "wednesday": "11:00am - 11:00pm",
+        "thursday": "11:00am - 11:00pm",
+        "friday": "11:00am - 11:00pm",
+        "saturday": "11:00am - 11:00pm",
+        "sunday": "11:00am - 11:00pm"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": "ensalada de estacion",
+                    "price": 200,
+                    "description": " "
+                },
+                {
+                    "item_name": "papas fritas",
+                    "price": 150,
+                    "description": " "
+                }
+            ],
+                
+            "mains": [
+                {
+                    "item_name": "caldosa boulevard",
+                    "price": 200,
+                    "description": " "
+                },
+                {
+                    "item_name": "arroz con subproductos",
+                    "price": 300,
+                    "description": " "
+                },
+                {
+                    "item_name": "fajitas de cerdo",
+                    "price": 1350,
+                    "description": " "
+                },
+                {
+                    "item_name": "fajitas de pollo",
+                    "price": 1300,
+                    "description": " "
+                },
+                {
+                    "item_name": "filete de merluza",
+                    "price": 550,
+                    "description": " "
+                }
+            ],
+
+            "fittings": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "paste": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "additions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "desserts": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+            "cocktails": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "drinks": [
+                {
+                    "item_name" : "jugo de fruta",
+                    "price" : 100
+                },
+                {
+                    "item_name" : "cerveza importada",
+                    "price" : 180
+                },
+                {
+                    "item_name" : "vino tinto cabernet",
+                    "price" : 1340
+                },
+                {
+                    "item_name" : "licor paso pondal (30ml)",
+                    "price" : 75
+                },
+                {
+                    "item_name" : "licor fenet blanca (30ml)",
+                    "price" : 75
+                },
+                {
+                    "item_name" : "grappa carolina bianca (30ml)",
+                    "price" : 75
+                },
+                {
+                    "item_name" : "ron legendario añejo (45ml)",
+                    "price" : 90
+                },
+                {
+                    "item_name" : "ron legendario dorado (45ml)",
+                    "price" : 100
+                },
+                {
+                    "item_name" : "trago legendario ronse (45ml)",
+                    "price" : 75
+                },
+                {
+                    "item_name" : "licor de cafe (30ml)",
+                    "price" : 75
+                },
+                {
+                    "item_name" : "copa de vino blanco (125ml)",
+                    "price" : 145
+                }
+            ],
+
+            "infusions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ]
+        }  
+} 

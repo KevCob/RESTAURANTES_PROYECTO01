@@ -1,0 +1,344 @@
+{
+    "type": "Bar-Restaurante",
+    "name": "Antojos", 
+    "location": {
+        "address": "Callejón Espada entre Cuarteles y Chacon",
+        "municipe": "Habana Vieja",
+        "province": "La Habana",
+        "coordinates":  "23.141692369054233, -82.35521570333256"
+    },
+    "sector": "privado",
+    
+    "qualification": 4.5,
+    
+    "specialized_food": ["Caribeña, Latina, Cubana, Centroamericana"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": 52824907,
+    
+    "capacity": 30,
+    
+    "reservation":  true,
+
+    "parking": false,
+
+    "delivery": true,
+
+    "electric generator": false,
+    
+    "hours": {
+        "monday": "11:00am - 12:00am",  
+        "tuesday": "11:00am - 12:00am",
+        "wednesday": "11:00am - 12:00am",
+        "thursday": "11:00am - 12:00am",
+        "friday": "11:00am - 12:00am",
+        "saturday": "11:00am - 12:00am",
+        "sunday": "11:00am - 12:00am"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": "Fritura de temporada",
+                    "price":950 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Croquetas de la casa",
+                    "price": 1700 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Tostones campesinos",
+                    "price":750 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Caldosa guajira",
+                    "price": 1400,
+                    "description": " "
+                },
+                {
+                    "item_name": "Tacos",
+                    "price":2700 ,
+                    "description": " "
+                }
+            ],
+                
+            "mains": [
+                {
+                    "item_name": "Trozos de pollo a la mantequilla",
+                    "price":2950 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Ropa vieja con platanitos maduros",
+                    "price":3150 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Ensalada campesina",
+                    "price":1800 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Costillas de cerdo barbacoa",
+                    "price":4300 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Arroz a la chorrera (2 PAX)",
+                    "price":3500 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Picadillo a la habanera",
+                    "price":2930 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Masas de cerdo frita",
+                    "price":3800 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Camarones al gusto",
+                    "price":3900 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pollo Grille",
+                    "price": 2950,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pesca al Carbon",
+                    "price":3950 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pinchos antojos",
+                    "price":4500 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Lomo al carbon",
+                    "price": 4200,
+                    "description": " "
+                },
+                {
+                    "item_name": "Bistec de cerdo encebollado",
+                    "price":3550 ,
+                    "description": " "
+                }
+            ],
+
+            "fittings": [
+                {
+                    "item_name": "Vianda frita",
+                    "price":800 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Potaje",
+                    "price":950 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Arroz blanco",
+                    "price":800 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pan artesanal",
+                    "price":1050 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Vegetales al carbon",
+                    "price":1250 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Crema de malanga",
+                    "price":1400 ,
+                    "description": " "
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "paste": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "additions": [
+                    {
+                        "item_name": null,
+                        "price": null,
+                        "description": null
+                    }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+            "cocktails": [
+                {
+                    "item_name": "Mojito antojos",
+                    "price": 1280
+                },
+                {
+                    "item_name": "Ron collins",
+                    "price": 1180 
+                },
+                {
+                    "item_name": "Pina colada",
+                    "price":1630 
+                },
+                {
+                    "item_name": "Cuba libre",
+                    "price":1230 
+                },
+                {
+                    "item_name": "Cubata",
+                    "price":1230 
+                },
+                {
+                    "item_name": "Cubanito",
+                    "price": 1380
+                },
+                {
+                    "item_name": "Canchanchara",
+                    "price": 1150
+                },
+                {
+                    "item_name": "Daiquiri",
+                    "price":1250 
+                },
+                {
+                    "item_name": "Martini",
+                    "price": 1500
+                },
+                {
+                    "item_name": "Negroni",
+                    "price": 1550
+                },
+                {
+                    "item_name": "Bloody mary",
+                    "price": 1500
+                },
+                {
+                    "item_name": "Gin tonic",
+                    "price":1450 
+                },
+                {
+                    "item_name": "Caipiroska",
+                    "price": 1250
+                },
+                {
+                    "item_name": "Screwdriver",
+                    "price": 1200
+                },
+                {
+                    "item_name": "Margarita",
+                    "price": 1380
+                },
+                {
+                    "item_name": "Mary pickford",
+                    "price": 1150
+                },
+                {
+                    "item_name": "Chelada",
+                    "price": 900
+                },
+                {
+                    "item_name": "Michelada",
+                    "price": 1200
+                }
+            ],
+
+            "drinks": [
+                {
+                    "item_name": "Aguas naturales",
+                    "price":650 
+                },
+                {
+                    "item_name": "Aguas tonicas",
+                    "price":750 
+                },
+                {
+                    "item_name": "Refrescos",
+                    "price": 650
+                },
+                {
+                    "item_name": "Red bull",
+                    "price":850 
+                },
+                {
+                    "item_name": "Cerveza",
+                    "price": 800
+                },
+                {
+                    "item_name": "Vino blanco (copa)",
+                    "price":1400 
+                },
+                {
+                    "item_name": "Havana special",
+                    "price": 1180
+                },
+                {
+                    "item_name": "Vino tinto (copa)",
+                    "price":1450 
+                }
+            ],
+
+            "infusions": [
+                {
+                    "item_name": "Americano",
+                    "price":400 
+                },
+                {
+                    "item_name": "Expresso",
+                    "price":400 
+                    
+                },
+                {
+                    "item_name": "Cortado",
+                    "price":430 
+                },
+                {
+                    "item_name": "Cafe con leche",
+                    "price":500 
+                },
+                {
+                    "item_name": "Capuccino",
+                    "price":500 
+                },
+                {
+                    "item_name": "Cafe bombon",
+                    "price":550 
+                },
+                {
+                    "item_name": "Frapuccino",
+                    "price": 900
+                }
+                    
+                
+            ]
+        }  
+} 

@@ -1,0 +1,273 @@
+{
+    "type": "Cafeteria",
+    "name": "Magic's Cream & Burguer", 
+    "location": {
+        "address": "Calzada de 10 de Octubre, % Santa Amalia y Arnao",
+        "municipe": "Arroyo Naranjo",
+        "province": "La Habana",
+        "coordinates":  "23.079340661045265, -82.36204303051731"
+    },
+    "sector": "privado",
+    
+    "qualification": 5,
+    
+    "specialized_food": ["comida rapida"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": null,
+    
+    "capacity": 30,
+    
+    "reservation":  false,
+
+    "parking": false,
+
+    "delivery": false,
+
+    "electric generator": false,
+    
+    "hours": {
+        "monday": "11:00am - 10:00pm",  
+        "tuesday": "11:00am - 10:00pm",
+        "wednesday": "11:00am - 10:00pm",
+        "thursday": "11:00am - 10:00pm",
+        "friday": "11:00am - 10:00pm",
+        "saturday": "11:00am - 10:00pm",
+        "sunday": "11:00am - 10:00pm"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": "Croquetas Magic's", 
+                    "price": 400,
+                    "description": " "
+                },
+                {
+                    "item_name": "Fritura de Malanga", 
+                    "price": 400,
+                    "description": " "
+                },
+                {
+                    "item_name": "Tacos de Pollo", 
+                    "price": 700,
+                    "description": " "
+                },
+                {
+                    "item_name": "Tacos de Cerdo", 
+                    "price": 800,
+                    "description": " "
+                },
+                {
+                    "item_name": "Fajas de Pollo", 
+                    "price": 600,
+                    "description": " "
+                },
+                {
+                    "item_name": "Bolitas de Queso", 
+                    "price": 500,
+                    "description": " "
+                },
+                {
+                    "item_name": "Papas Fritas", 
+                    "price": 500,
+                    "description": " "
+                }
+            ],
+                
+            "mains": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "fittings": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "paste": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "additions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": "Hamburguesas de Cerdo", 
+                    "price": 430,
+                    "description": " "
+                },
+                  {
+                    "item_name": "Hamburguesas de Pollo", 
+                    "price": 430,
+                    "description": " "
+                },
+                  {
+                    "item_name": "Hamburguesas Doble", 
+                    "price": 1000,
+                    "description": " "
+                },
+                  {
+                    "item_name": "Hamburguesas Super Magic's", 
+                    "price": 1500,
+                    "description": " "
+                }
+            ],
+
+            "desserts": [
+                {
+                    "item_name": "Bola de helado", 
+                    "price": 70,
+                    "description": " "
+                },
+                {
+                    "item_name": "Jimaguas", 
+                    "price": 195,
+                    "description": " "
+                },
+                {
+                    "item_name": "Ensalada de helado", 
+                    "price": 350,
+                    "description": " "
+                },
+                {
+                    "item_name": "Batido de helado", 
+                    "price": 395,
+                    "description": " "
+                },
+                {
+                    "item_name": "Tres gracias", 
+                    "price": 245,
+                    "description": " "
+                }
+            ],
+            "cocktails": [
+                {
+                    "item_name": "Limonada Frappe", 
+                    "price": 250
+                },
+                {
+                    "item_name": "Agrego de Michelada", 
+                    "price": 250
+                },
+                {
+                    "item_name": "Piña Colada sin Alcohol", 
+                    "price": 500
+                },
+                {
+                    "item_name": "Piña Colada con Alcohol", 
+                    "price": 575
+                },
+                {
+                    "item_name": "Cuba Libre", 
+                    "price": 500
+                },
+                {
+                    "item_name": "Mojito", 
+                    "price": 500
+                }
+            ],
+
+            "drinks": [
+                {
+                    "item_name": "Cervezas Importadas", 
+                    "price": 220
+                },
+                {
+                    "item_name": "Cervezaas Nacionales", 
+                    "price": 300
+                },
+                {
+                    "item_name": "Malta", 
+                    "price": 300
+                },
+                {
+                    "item_name": "Pepsi", 
+                    "price": 300
+                },
+                {
+                    "item_name": "Refresco de Lata", 
+                    "price": 210
+                },
+                {
+                    "item_name": "Botella Label 5", 
+                    "price": 3500
+                },
+                {
+                    "item_name": "JW Red Label", 
+                    "price": 600
+                },
+                {
+                    "item_name": "Ballantine's", 
+                    "price": 550
+                },
+                {
+                    "item_name": "Howells", 
+                    "price": 300
+                },
+                {
+                    "item_name": "Gran Marchell", 
+                    "price": 300
+                },
+                {
+                    "item_name": "Pacto Navio", 
+                    "price": 700
+                },
+                {
+                    "item_name": "Havana Club Añejo Reserva", 
+                    "price": 400
+                },
+                {
+                    "item_name": "Havana Club Añejo 3 Años", 
+                    "price": 350
+                },
+                {
+                    "item_name": "Ginebra", 
+                    "price": 300
+                },
+                {
+                    "item_name": "Vodka", 
+                    "price": 300
+                },
+                {
+                    "item_name": "Copa Vino Tinto", 
+                    "price": 600
+                },
+                {
+                    "item_name": "Copa Vino Blanco", 
+                    "price": 550
+                }
+            ],
+
+            "infusions": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ]
+        }  
+} 

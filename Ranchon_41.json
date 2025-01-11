@@ -1,0 +1,179 @@
+{
+    "type": "Restaurante",
+    "name": "Ranchon de 41", 
+    "location": {
+        "address": "Avenida 41 y 84",
+        "municipe": "Marianao",
+        "province": "La Habana",
+        "coordinates":  "23.08973578096908, -82.42166351867644"
+    },
+    "sector": "privado",
+    
+    "qualification": null,
+    
+    "specialized_food": ["mixta"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": 52014975,
+    
+    "capacity": 28,
+    
+    "reservation":  true,
+
+    "parking": true,
+
+    "delivery": false,
+
+    "electric generator": false,
+    
+    "hours": {
+        "monday": "abierto 24 horas",  
+        "tuesday": "abierto 24 horas",
+        "wednesday": "abierto 24 horas",
+        "thursday": "abierto 24 horas",
+        "friday": "abierto 24 horas",
+        "saturday": "abierto 24 horas",
+        "sunday": "abierto 24 horas"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": "Croquetas de la casa",
+                    "price": 400,
+                    "description": " "
+                },
+                {
+                    "item_name": "Coctel de camaron",
+                    "price": 650,
+                    "description": " "
+                },
+                {
+                    "item_name": "Picadera el toro bravo",
+                    "price": 1700,
+                    "description": " "
+                }
+            ],
+                
+            "mains": [
+                {
+                    "item_name": "Pollo chiflado",
+                    "price": 1200,
+                    "description": " "
+                },
+                {
+                    "item_name": "Fajitas de pollo",
+                    "price": 750,
+                    "description": " "
+                }
+            ],
+
+            "fittings": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": "pizza de queso blanco",
+                    "price": 400,
+                    "description": " "
+                },
+                {
+                    "item_name": "pizza de queso gouda",
+                    "price": 680,
+                    "description": " "
+                }
+            ],
+
+            "paste": [
+                {
+                    "item_name": "Espaguetis",
+                    "price": 700,
+                    "description": ""
+                }
+            ],
+
+            "additions": [
+                {
+                    "item_name": "Queso",
+                    "price": 200,
+                    "description": " "
+                },
+                {
+                    "item_name": "Jamon",
+                    "price": 150,
+                    "description": " "
+                },
+                {
+                    "item_name": "Chorizo",
+                    "price": 150,
+                    "description": " "
+                },
+                {
+                    "item_name": "Cebolla",
+                    "price": 150,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pina",
+                    "price": 150,
+                    "description": " "
+                },
+                {
+                    "item_name": "Aceituna",
+                    "price": 200,
+                    "description": " "
+                },
+                {
+                    "item_name": "Queso gouda",
+                    "price": 500,
+                    "description": " "
+                },
+                {
+                    "item_name": "Atun",
+                    "price": 300,
+                    "description": " "
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "desserts": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+            "cocktails": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ],
+
+            "drinks": [
+                {
+                    "item_name": "Suero de helado",
+                    "price": 400
+                }
+            ],
+
+            "infusions": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ]
+        }  
+} 

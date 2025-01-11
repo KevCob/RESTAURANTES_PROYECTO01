@@ -1,0 +1,186 @@
+{
+    "type": "Bar-Restaurante-Cafeteria",
+    "name": "El Rapido", 
+    "location": {
+        "address": "Cruz del Pader entre Pedrosa y Amenidad",
+        "municipe": "Cerro",
+        "province": "La Habana",
+        "coordinates":  "23.121214170655744, -82.37433227456654"
+    },
+    "sector": "privado",
+    
+    "qualification": null,
+    
+    "specialized_food": ["italiano","sandwich"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": null,
+    
+    "capacity": 15,
+    
+    "reservation":  false,
+
+    "parking": false,
+
+    "delivery": false,
+
+    "electric generator": false,
+    
+    "hours": {
+        "monday": "7:30am - 7:30pm",  
+        "tuesday": "7:30am - 7:30pm",
+        "wednesday": "7:30am - 7:30pm",
+        "thursday": "7:30am - 7:30pm",
+        "friday": "7:30am - 7:30pm",
+        "saturday": "7:30am - 7:30pm",
+        "sunday": "7:30am - 7:30pm"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": "Croquetas",
+                    "price": 300,
+                    "description": " "
+                },
+                {
+                    "item_name": "Papas fritas",
+                    "price": 360,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pollo Chiflado",
+                    "price": 750,
+                    "description": " "
+                }
+                
+            ],
+                
+            "mains": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+                
+            ],
+
+            "fittings": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "paste": [
+                {
+                    "item_name": "Espaguetis",
+                    "price": 850,
+                    "description": ""
+                },
+                {
+                    "item_name": "Espaguetis Napolitano",
+                    "price": 380,
+                    "description": " "
+                },
+                {
+                    "item_name": "Espaguetis de chorizo",
+                    "price": 1000,
+                    "description": " "
+                }
+            ],
+
+            "additions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": "Pan con Tortilla",
+                    "price": 300,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pan con Tortilla , Jamón",
+                    "price": 360,
+                    "description": ""
+                },
+                {
+                    "item_name": "Pan con Tortilla, Chorizo",
+                    "price": 360,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pan con Tortilla, Cebolla",
+                    "price": 360,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pan con Tortilla , Queso Gouda",
+                    "price": 400,
+                    "description": " "
+                },
+                {
+                    "item_name": "Hamburguesa de Cerdo",
+                    "price": 620,
+                    "description": " "
+                },
+                {
+                    "item_name": "Hamburguesa de Res",
+                    "price": 720,
+                    "description": " "
+                },
+                {
+                    "item_name": "Sandwich Cubano",
+                    "price": 860,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pan con Bitec de Cerdo",
+                    "price": 750,
+                    "description": " "
+                }
+            ],
+
+            "desserts": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+            "cocktails": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ],
+
+            "drinks": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ],
+
+            "infusions": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ]
+        }  
+} 

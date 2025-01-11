@@ -1,0 +1,254 @@
+{
+    "type": "Restaurante",
+    "name": "Cafe Del Angel", 
+    "location": {
+        "address": "Chacon #201 esquina Compostela",
+        "municipe": "Habana Vieja",
+        "province": "La Habana",
+        "coordinates":  "23.142000139754025, -82.35554376702197"
+    },
+    "sector": "privado",
+    
+    "qualification": 4.4,
+    
+    "specialized_food": ["Cubana", "internacional", "italiana"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": 78015162,
+    
+    "capacity": 45,
+    
+    "reservation":  true,
+
+    "parking": false,
+
+    "delivery": false,
+
+    "electric generator": true,
+    
+    "hours": {
+        "monday": "8:00am - 10:00pm",  
+        "tuesday": "8:00am - 10:00pm",
+        "wednesday": "8:00am - 10:00pm",
+        "thursday": "8:00am - 10:00pm",
+        "friday": "8:00am - 10:00pm",
+        "saturday": "8:00am - 10:00pm",
+        "sunday": "8:00am - 10:00pm"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": "CROQUETAS SERRANO",
+                    "price": 1480,
+                    "description": " "
+                },
+                {
+                    "item_name": "RILLETE DE CERDO",
+                    "price": 1500,
+                    "description": " "
+                },
+                {
+                    "item_name": "TACOS DE CERDO",
+                    "price": 2200,
+                    "description": " "
+                },
+                {
+                    "item_name": "MIXTO DE BRUSQUETAS",
+                    "price": 2200,
+                    "description": " "
+                },
+                {
+                    "item_name": "TACOS DE CAMARONES",
+                    "price": 2380,
+                    "description": " "
+                },
+                {
+                    "item_name": "EMPANADILLAS DE QUESO",
+                    "price": 1400,
+                    "description": " "
+                },
+                {
+                    "item_name": "TABLA CHARCUTERIA",
+                    "price": 4000,
+                    "description": " "
+                }
+                
+            ],
+                
+            "mains": [
+                {
+                    "item_name": "SOLOMILLO DE CERDO",
+                    "price": 4200,
+                    "description": " "
+                },
+                {
+                    "item_name": "PESCADO A LA SICILIANA",
+                    "price": 3580,
+                    "description": " "
+                },
+                {
+                    "item_name": "ROPA VIEJA",
+                    "price": 3580,
+                    "description": " "
+                },
+                {
+                    "item_name": "COSTILLAS DE CERDO",
+                    "price": 4950,
+                    "description": " "
+                },
+                {
+                    "item_name": "HAMBURGUESA DE RES",
+                    "price": 3200,
+                    "description": " "
+                },
+                {
+                    "item_name": "LANGOSTA CARIBENA",
+                    "price": 5400,
+                    "description": " "
+                },
+                {
+                    "item_name": "POLLO MEDITERRANEO",
+                    "price": 2340,
+                    "description": " "
+                }
+                
+            ],
+
+            "fittings": [
+                {
+                    "item_name": "ENSALADA DEL ANGEL",
+                    "price": 2340,
+                    "description": " "
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "paste": [
+                {
+                    "item_name": "SPAGHETTI POMODORO",
+                    "price": 1880,
+                    "description": ""
+                },
+                {
+                    "item_name": "RAGU DE CORDERO",
+                    "price": 3450,
+                    "description": " "
+                },
+                {
+                    "item_name": "RAVIOLI CARBONARA",
+                    "price": 3200,
+                    "description": " "
+                },
+                {
+                    "item_name": "SPAGHETTI AL PESTO",
+                    "price": 2200,
+                    "description": " "
+                },
+                {
+                    "item_name": "RIGATONI AMATRICIANA",
+                    "price": 3200,
+                    "description": " "
+                },
+                {
+                    "item_name": "SPAGHETTI ALTAMAR",
+                    "price": 3450,
+                    "description": " "
+                }
+            ],
+
+            "additions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": "BAGUETTE DE JAMON & QUESO",
+                    "price": 1600,
+                    "description": " "
+                },
+                {
+                    "item_name": "BOCATA CATALANA",
+                    "price": 2400,
+                    "description": ""
+                },
+                {
+                    "item_name": "SANDWICH DE ATUN",
+                    "price": 1530,
+                    "description": " "
+                },
+                {
+                    "item_name": "SANDWICH VEGETALES",
+                    "price": 1530,
+                    "description": " "
+                },
+                {
+                    "item_name": "SANDWICH CUBANO",
+                    "price": 2600,
+                    "description": " "
+                },
+                {
+                    "item_name": "HUEVOS & PESTO",
+                    "price": 2400,
+                    "description": " "
+                }
+            ],
+
+            "desserts": [
+                {
+                    "item_name": "MOUSSE DE CHOCOLATE",
+                    "price": 1925,
+                    "description": " "
+                },
+                {
+                    "item_name": "ESFERA DE MARACUYA",
+                    "price": 1925,
+                    "description": " "
+                },
+                {
+                    "item_name": "ARROZ CON LECHE",
+                    "price": 1500,
+                    "description": ""
+                },
+                {
+                    "item_name": "DADOS DE GUAYABA",
+                    "price": 1500,
+                    "description": " "
+                }
+            ],
+            "cocktails": [
+                {
+                    "item_name": null,
+                    "price": null
+
+                }
+            ],
+
+            "drinks": [
+                {
+                    "item_name": null,
+                    "price": null
+
+                }
+            ],
+
+            "infusions": [
+                {
+                    "item_name": null,
+                    "price": null
+
+                }
+            ]
+        }  
+} 

@@ -1,0 +1,617 @@
+{
+    "type": "Bar-Restaurante-Cafeteria",
+    "name": "Yo invito", 
+    "location": {
+        "address": "Calle 3era, Esquina D, Vedado",
+        "municipe": "Plaza de la Revolucion",
+        "province": "La Habana",
+        "coordinates":  "23.14231693189427, -82.39812833852959"
+    },
+    "sector": "privado",
+    
+    "qualification": 4.5,
+    
+    "specialized_food": ["Comida Cubana", "criolla"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": 78374604,
+    
+    "capacity": 35,
+    
+    "reservation": true,
+
+    "parking": false,
+
+    "delivery": false,
+
+    "electric generator": true,
+    
+    "hours": {
+        "monday": "12:00pm - 11:00pm",  
+        "tuesday": "12:00pm - 11:00pm",
+        "wednesday": "12:00pm - 11:00pm",
+        "thursday": "12:00pm - 11:00pm",
+        "friday": "12:00pm - 11:00pm",
+        "saturday": "12:00pm - 11:00pm",
+        "sunday": "12:00pm - 11:00pm"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": "Pan con mantequilla",
+                    "price":375 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Croquetas",
+                    "price":800 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Frituras",
+                    "price":600 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Toston de ropa vieja",
+                    "price":750 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Ceviche",
+                    "price": 1350,
+                    "description": " "
+                },
+                {
+                    "item_name": "Tabla de embutidos y quesos",
+                    "price":2950 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Tacos de la casa",
+                    "price":1250 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Crema de queso",
+                    "price":650 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Crema de calabaza, crujientes de bacon",
+                    "price":750 ,
+                    "description": " "
+                }
+            ],
+                
+            "mains": [
+                {
+                    "item_name": "Filete de pescado grille, mantequilla y alcaparra",
+                    "price":2450 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Camaron al gusto",
+                    "price":2800 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Langosta grille",
+                    "price":2700 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Langosta Termidor",
+                    "price":3200 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Cazuela de mariscos",
+                    "price":3750 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pargo entero al gusto",
+                    "price":3750 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pechuga de pollo grille, mojo criollo",
+                    "price":1600 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Filete de cerdo a la mostaza",
+                    "price":1900 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Ropa vieja",
+                    "price":1800 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Tambor de ropa vieja",
+                    "price":2100 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Solomillo de res a la pimienta",
+                    "price":4200 ,
+                    "description": " "
+                }
+            ],
+
+            "fittings": [
+                {
+                    "item_name": "Ensalada de vegetales",
+                    "price":450 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Ensalasa de jamon serrano, parmesano y vegetales",
+                    "price":1650 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Arroz blanco",
+                    "price":300 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Viandas fritas",
+                    "price":350,
+                    "description": " "
+                },
+                {
+                    "item_name": "Arroz con maiz",
+                    "price":500 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Vianda con mojo",
+                    "price":350 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Papas fritas",
+                    "price":800 ,
+                    "description": " "
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": "Queso ",
+                    "price": 110,
+                    "description": " "
+                },
+                {
+                    "item_name": "Jamon",
+                    "price":1400 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Hawaiana",
+                    "price":1650 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "4 quesos",
+                    "price":1800 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Bacon y cebolla",
+                    "price":1950 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Langosta y camaron",
+                    "price":2350 ,
+                    "description": " "
+                }
+            ],
+
+            "paste": [
+                {
+                    "item_name": "Tomate fresco",
+                    "price":1100 ,
+                    "description": ""
+                },
+                {
+                    "item_name": "Jamon",
+                    "price":1400 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Frutti di Mare",
+                    "price":2950 ,
+                    "description": "Aceite de oliva, ajo, pimienta negra, pescado, camaron, langosta y salsa de tomate "
+                },
+                {
+                    "item_name": "Carbonara",
+                    "price":1950 ,
+                    "description": "Bacon, queso parmesano, pimienta negra y yema de huevo "
+                },
+                {
+                    "item_name": "4 quesos",
+                    "price":1950 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Amatriciana",
+                    "price":1850 ,
+                    "description": "Aceite de oliva, cebolla, tomate fresco, bacon. albahaca y salsa de tomate "
+                }
+            ],
+
+            "additions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "desserts": [
+                {
+                    "item_name": "Tarta del dia",
+                    "price":750 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Helado",
+                    "price":650 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Tarta con helado",
+                    "price":1050 ,
+                    "description": " "
+                }
+            ],
+            "cocktails": [
+                {
+                    "item_name": "Coctel yo Invito",
+                    "price":850 
+                },
+                {
+                    "item_name": "Mojito cristal",
+                    "price":1250 
+                },
+                {
+                    "item_name": "Mojito bucanero",
+                    "price": 1250 
+                },
+                {
+                    "item_name": "Mojito",
+                    "price":850 
+                },
+                {
+                    "item_name": "Daiquiri",
+                    "price":900 
+                },
+                {
+                    "item_name": "Daiquiri sabor",
+                    "price":1100 
+                },
+                {
+                    "item_name": "Pina colada",
+                    "price":980 
+                },
+                {
+                    "item_name": "Caipirina",
+                    "price":850 
+                },
+                {
+                    "item_name": "Caipiroska",
+                    "price": 870
+                },
+                {
+                    "item_name": "Cuba libre",
+                    "price":950 
+                },
+                {
+                    "item_name": "Sangria",
+                    "price": 1100
+                },
+                {
+                    "item_name": "Tinto verano",
+                    "price":1150 
+                },
+                {
+                    "item_name": "Vodka martini",
+                    "price": 1100
+                },
+                {
+                    "item_name": "Margarita",
+                    "price": 1100
+                },
+                {
+                    "item_name": "Gin tonic",
+                    "price": 1200
+                },
+                {
+                    "item_name": "Gin tonic (ginebra tanqueray)",
+                    "price":1600 
+                },
+                {
+                    "item_name": "Negroni",
+                    "price":1400 
+                }
+            ],
+
+            "drinks": [
+                {
+                    "item_name": "Jugo de fruta natural",
+                    "price": 350
+                },
+                {
+                    "item_name": "Limonada",
+                    "price": 500
+                },
+                {
+                    "item_name": "Limonada frescura",
+                    "price": 550
+                },
+                {
+                    "item_name": "Refresco",
+                    "price": 400
+                },
+                {
+                    "item_name": "Malta",
+                    "price":400 
+                },
+                {
+                    "item_name": "Agua natural",
+                    "price": 350
+                },
+                {
+                    "item_name": "Agua gaseada o tonica",
+                    "price": 400
+                },
+                {
+                    "item_name": "Kermato",
+                    "price":700 
+                },
+                {
+                    "item_name": "Cerveza importada",
+                    "price": 350
+                },
+                {
+                    "item_name": "Cerveza sol",
+                    "price": 550
+                },
+                {
+                    "item_name": "Cerveza corona",
+                    "price":680 
+                },
+                {
+                    "item_name": "Cerveza nacional",
+                    "price":450 
+                },
+                {
+                    "item_name": "Energizante",
+                    "price": 400
+                },
+                {
+                    "item_name": "Havana Club 3 anos",
+                    "price": 480
+                },
+                {
+                    "item_name": "Anejo especial",
+                    "price": 520
+                },
+                {
+                    "item_name": "Havana Club Reserva",
+                    "price": 620
+                },
+                {
+                    "item_name": "Havana Club 7 anos",
+                    "price":700 
+                },
+                {
+                    "item_name": "Havana Club Seleccion de Maestro",
+                    "price": 1500
+                },
+                {
+                    "item_name": "Pacto Navio",
+                    "price":1500 
+                },
+                {
+                    "item_name": "Ritual",
+                    "price":520 
+                },
+                {
+                    "item_name": "Santiago anejo",
+                    "price": 700
+                },
+                {
+                    "item_name": "Santiago anejo 11 anos",
+                    "price":1500 
+                },
+                {
+                    "item_name": "Mulata 15 anos",
+                    "price":1200 
+                },
+                {
+                    "item_name": "Vino blanco",
+                    "price": 750
+                },
+                {
+                    "item_name": "Vino tinto",
+                    "price":750 
+                },
+                {
+                    "item_name": "Torres 5",
+                    "price":750 
+                },
+                {
+                    "item_name": "Torres 15",
+                    "price": 900
+                },
+                {
+                    "item_name": "Vodka",
+                    "price": 650
+                },
+                {
+                    "item_name": "J.B.",
+                    "price": 1050
+                },
+                {
+                    "item_name": "Ballantines",
+                    "price": 1050
+                },
+                {
+                    "item_name": "Jameson",
+                    "price":1100 
+                },
+                {
+                    "item_name": "Clan Campbell",
+                    "price":900 
+                },
+                {
+                    "item_name": "Johnny Walker Red ",
+                    "price": 1050
+                },
+                {
+                    "item_name": "Chivas Regal 12",
+                    "price":1600 
+                },
+                {
+                    "item_name": "Glenlivet 12",
+                    "price":1700 
+                },
+                {
+                    "item_name": "Black&White",
+                    "price":950 
+                },
+                {
+                    "item_name": "Vermouth blanco",
+                    "price":760 
+                },
+                {
+                    "item_name": "Vermouth rosso",
+                    "price": 760
+                },
+                {
+                    "item_name": "Cinzano",
+                    "price":760 
+                },
+                {
+                    "item_name": "Olmeca Blanco",
+                    "price":850 
+                },
+                {
+                    "item_name": "Olmeca Reposado",
+                    "price":850 
+                },
+                {
+                    "item_name": "Olmeca Altos",
+                    "price":850 
+                },
+                {
+                    "item_name": "Beefeater",
+                    "price":850 
+                },
+                {
+                    "item_name": "MG",
+                    "price":850 
+                },
+                {
+                    "item_name": "Tanqueray",
+                    "price":1050 
+                },
+                {
+                    "item_name": "Hendricks",
+                    "price":1050 
+                },
+                {
+                    "item_name": "Sambuca",
+                    "price":950 
+                },
+                {
+                    "item_name": "Baileys",
+                    "price":1450 
+                },
+                {
+                    "item_name": "Frangelico",
+                    "price": 1100
+                },
+                {
+                    "item_name": "Amaretto Disaronno ",
+                    "price":1100 
+                },
+                {
+                    "item_name": "Limoncello",
+                    "price":850 
+                },
+                {
+                    "item_name": "Kahlua",
+                    "price":900 
+                },
+                {
+                    "item_name": "Sheridan",
+                    "price":1250 
+                },
+                {
+                    "item_name": "Jagermeister",
+                    "price": 1200
+                },
+                {
+                    "item_name": "Campari",
+                    "price":800 
+                },
+                {
+                    "item_name": "Aperol",
+                    "price":800 
+                },
+                {
+                    "item_name": "Servicio Michelada ",
+                    "price":400 
+                }
+            ],
+
+            "infusions": [
+                {
+                    "item_name": "Expresso",
+                    "price": 250
+                },
+                {
+                    "item_name": "Americano",
+                    "price":250 
+                    
+                },
+                {
+                    "item_name": "Capuccino",
+                    "price": 480
+                },
+                {
+                    "item_name": "Frapuccino",
+                    "price":500 
+                },
+                {
+                    "item_name": "Cortado",
+                    "price": 380
+                },
+                {
+                    "item_name": "Cafe con leche",
+                    "price": 450
+                },
+                {
+                    "item_name": "Te",
+                    "price":350 
+                }
+            ]
+        }  
+} 

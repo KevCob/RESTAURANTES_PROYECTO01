@@ -1,0 +1,170 @@
+{
+    "type": "Bar-Restaurante",
+    "name": "Salchipizza", 
+    "location": {
+        "address": "Calle Infanta entre Zanja y Valle",
+        "municipe": "Centro Habana",
+        "province": "La Habana",
+        "coordinates":  "23.13411346121413, -82.37839877964456"
+    },
+    "sector": "privado",
+    
+    "qualification": 4.2,
+    
+    "specialized_food": ["cubana"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": 52818792,
+    
+    "capacity": 30,
+    
+    "reservation":  true,
+
+    "parking": false,
+
+    "delivery": false,
+
+    "electric generator": true,
+    
+    "hours": {
+        "monday": "cerrado",  
+        "tuesday": "1:00pm - 11:00pm",
+        "wednesday": "1:00pm - 11:00pm",
+        "thursday": "1:00pm - 11:00pm",
+        "friday": "1:00pm - 11:00pm",
+        "saturday": "1:00pm - 11:00pm",
+        "sunday": "cerrado"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": "tabla de panes artesanales",
+                    "price": 1500,
+                    "description": " "
+                },
+                {
+                    "item_name": "terrina de pescado",
+                    "price": 2700,
+                    "description": " "
+                },
+                {
+                    "item_name": "tinaja de carbón con crema Parmentier de verduras de estacion",
+                    "price": 2500,
+                    "description": " "
+                },
+                {
+                    "item_name": "ensalada de cerdo guayaba y fruta bomba",
+                    "price": 2000,
+                    "description": " "
+                }
+            ],
+                
+            "mains": [
+                {
+                    "item_name": "carreton de boniato, rueda de quimbombo y y latigo de carnero ahumado",
+                    "price": 3000,
+                    "description": " "
+                },
+                {
+                    "item_name": "volcan de maiz, lava de pescado ardiente y cenizas de pulpo",
+                    "price": 3500,
+                    "description": " "
+                },
+                {
+                    "item_name": "masa de cerdo con verduras al gratin",
+                    "price": 2300,
+                    "description": " "
+                },
+                {
+                    "item_name": "senorita de cerdo con verduras al gratin",
+                    "price": 3000,
+                    "description": " "
+                }
+            ],
+
+            "fittings": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "paste": [
+                {
+                    "item_name": "lasaña de carne a la boloñesa",
+                    "price": 1600,
+                    "description": " "
+                }
+            ],
+
+            "additions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "desserts": [
+                {
+                    "item_name": "recuerdos de la infancia",
+                    "price" : 2000,
+                    "description": " "
+                }
+            ],
+            "cocktails": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ],
+
+            "drinks": [
+                {
+                    "item_name" : "agua",
+                    "price" : 200
+                },
+                {
+                    "item_name" : "copa de vino",
+                    "price" : 750
+                },
+                {
+                    "item_name" : "copa de champagne",
+                    "price" : 800
+                },
+                {
+                    "item_name" : "cerveza nacional",
+                    "price" : 350
+                },
+                {
+                    "item_name" : "cerveza importada",
+                    "price" : 400
+                }
+            ],
+
+            "infusions": [
+                {
+                    "item_name" : "cafe",
+                    "price" : 150
+                }
+            ]
+        }  
+} 

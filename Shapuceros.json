@@ -1,0 +1,169 @@
+{
+    "type": "Bar-Restaurante-Cafeteria",
+    "name": "Shapuceros", 
+    "location": {
+        "address": "Calzada de Ayestarán entre San Pedro y Ayuntamineto",
+        "municipe": "Cerro",
+        "province": "La Habana",
+        "coordinates":  "23.117449358542444, -82.38458676119917"
+    },
+    "sector": "privado",
+    
+    "qualification": 3,
+    
+    "specialized_food": ["Hamburgusera"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": null,
+    
+    "capacity": 16,
+    
+    "reservation":  false,
+
+    "parking": false,
+
+    "delivery": false,
+
+    "electric generator": true,
+    
+    "hours": {
+        "monday": "9:00am - 9:00pm",  
+        "tuesday": "9:00am - 9:00pm",
+        "wednesday": "9:00am - 9:00pm",
+        "thursday": "9:00am - 9:00pm",
+        "friday": "9:00am - 9:00pm",
+        "saturday": "9:00am - 9:00pm",
+        "sunday": "9:00am - 9:00pm"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+                
+            "mains": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "fittings": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "paste": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "additions": [
+                {
+                    "item_name": "Queso",
+                    "price": 150 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Jamon",
+                    "price": 120 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Chorizo",
+                    "price": 150 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Bacon",
+                    "price": 155 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Huevo",
+                    "price": 150,
+                    "description": " "
+                },
+                {
+                    "item_name": "Cebolla",
+                    "price": 50 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Salsa BBQ",
+                    "price": 30 ,
+                    "description": " "
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": "Hamburguesa de pollo ",
+                    "price": 500 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Hamburguesa de cerdo",
+                    "price": 550 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Hamburguesa de res",
+                    "price": 600 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Hamburguesa Shapusero",
+                    "price": 1200 ,
+                    "description": " "
+                }
+            ],
+
+            "desserts": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+            "cocktails": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ],
+
+            "drinks": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ],
+
+            "infusions": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ]
+        }  
+} 

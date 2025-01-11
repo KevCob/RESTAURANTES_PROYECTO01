@@ -1,0 +1,224 @@
+{
+    "type": "Restaurante",
+    "name": "Comida Criolla Ocho Vías", 
+    "location": {
+        "address": "Avenida 1er Anillo 3km despues de San Agustin",
+        "municipe": "Arroyo Naranjo",
+        "province": "La Habana",
+        "coordinates":  "23.05213364329506, -82.33209177284725"
+    },
+    "sector": "privado",
+    
+    "qualification": null,
+    
+    "specialized_food": ["cubana"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": 59107933,
+    
+    "capacity": 60,
+    
+    "reservation": true ,
+
+    "parking": true,
+
+    "delivery": false,
+
+    "electric generator": true,
+    
+    "hours": {
+        "monday": "11:00am - 11:00pm",  
+        "tuesday": "11:00am - 11:00pm",
+        "wednesday": "11:00am - 11:00pm",
+        "thursday": "11:00am - 11:00pm",
+        "friday": "11:00am - 11:00pm",
+        "saturday": "11:00am - 11:00pm",
+        "sunday": "11:00am - 11:00pm"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": "Croquetas de queso", 
+                    "price": 500.00},
+                {
+                    "item_name": "Tostones Rellenos", 
+                    "price": 800.00},
+                {
+                    "item_name": "Tostones Tradicionales", 
+                    "price": 250.00},
+                {
+                    "item_name": "Papas Fritas", 
+                    "price": 800.00},
+                {
+                    "item_name": "Platanos Fritos", 
+                    "price": 200.00}
+            ],
+                
+            "mains": [
+                {
+                    "item_name": "Bistec de Higado(460 gramos)", 
+                    "price": 1600.00,
+                    "description": " "
+                },
+                {
+                    "item_name": "Higado Italiana(460 gramos)", 
+                    "price": 1600.00,
+                    "description": " "
+                },
+                {
+                    "item_name": "Bistec de Cerdo(460 gramos)", 
+                    "price": 2200.00,
+                    "description": " "
+                },
+                {
+                    "item_name": "Chuleta de Cerdo(460 gramos)", 
+                    "price": 2200.00,
+                    "description": " "
+                },
+                {
+                    "item_name": "Fricase de Cerdo(430 gramos)", 
+                    "price": 2500.00,
+                    "description": " "
+                },
+                {
+                    "item_name": "Masa Frita(430 gramos)", 
+                    "price": 2200.00,
+                    "description": " "
+                },
+                {
+                    "item_name": "Fricase de Carnero(960 gramos)", 
+                    "price": 2200.00,
+                    "description": " "
+                },
+                {
+                    "item_name": "Bistec Uruguayo)", 
+                    "price": 2800.00,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pescado Entero a la Marinera", 
+                    "price": 2200.00,
+                    "description": " "
+                },
+                {
+                    "item_name": "Ropa Vieja(460 gramos)", 
+                    "price": 2700.00,
+                    "description": " "
+                },
+                {
+                    "item_name": "Camaron Enchilado", 
+                    "price": 2700.00,
+                    "description": " "
+                },
+                {
+                    "item_name": "Langosta Grille(690 gramos)", 
+                    "price": 2700.00,
+                    "description": " "
+                },
+                {
+                    "item_name": "Langosta Enchilada(690 gramos)", 
+                    "price": 2800.00,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pescado Empanado", 
+                    "price": 2500.00,
+                    "description": " "
+                },
+                {
+                    "item_name": "Enchilado de Cangrejo", 
+                    "price": 1800.00,
+                    "description": " "
+                },
+                {
+                    "item_name": "Bistec de Pollo", 
+                    "price": 2000.00,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pechuga de Pollo", 
+                    "price": 2500.00,
+                    "description": " "
+                },
+                {
+                    "item_name": "Costilla Frita o Fricase", 
+                    "price": 2200.00,
+                    "description": " "
+                }
+            ],
+
+            "fittings": [
+                {
+                    "item_name": "Arroz Moro", 
+                    "price": 200.00,
+                    "description": " "
+                },
+                {
+                    "item_name": "Ensalada Mixta", 
+                    "price": 300.00,
+                    "description": " "
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "paste": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "additions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "desserts": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+            "cocktails": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ],
+
+            "drinks": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ],
+
+            "infusions": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ]
+        }  
+} 

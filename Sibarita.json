@@ -1,0 +1,346 @@
+{
+    "type": "Bar-Restaurante",
+    "name": "Sibarita", 
+    "location": {
+        "address": "O'Reilly #528 entre Bernaza y Villegas",
+        "municipe": "Habana Vieja",
+        "province": "La Habana",
+        "coordinates":  "23.138045288912124, -82.35708342337576"
+    },
+    "sector": "privado",
+    
+    "qualification": 5,
+    
+    "specialized_food": ["Comida Caribeña", "Latina", "Internacional", "Mediterránea", "Cubana", "Centroamericana"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": 78672450,
+    
+    "capacity": 35,
+    
+    "reservation":  true,
+
+    "parking": null,
+
+    "delivery": true,
+
+    "electric generator": true,
+    
+    "hours": {
+        "monday": "12:00pm - 12:00am",  
+        "tuesday": "12:00pm - 12:00am",
+        "wednesday": "12:00pm - 12:00am",
+        "thursday": "12:00pm - 12:00am",
+        "friday": "12:00pm - 12:00am",
+        "saturday": "12:00pm - 12:00am",
+        "sunday": "12:00pm - 12:00am"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": "Tamal con salsa BBQ",
+                    "price":  600,
+                    "description": " "
+                },
+                {
+                    "item_name": "Selección del panadero",
+                    "price": 600,
+                    "description": " "
+                },
+                {
+                    "item_name": "Tostas de cangrejo",
+                    "price": 800,
+                    "description": " "
+                },
+                {
+                    "item_name": "Croquetas de la casa",
+                    "price": 1200,
+                    "description": " "
+                },
+                {
+                    "item_name": "Tartar de albacora",
+                    "price": 1300,
+                    "description": " "
+                },
+                {
+                    "item_name": "Ceviche Sibarita",
+                    "price": 1300,
+                    "description": " "
+                },
+                {
+                    "item_name": "Bruschettas Mix",
+                    "price": 1350,
+                    "description": " "
+                },
+                {
+                    "item_name": "Tacos de ropa vieja",
+                    "price": 1700,
+                    "description": " "
+                },
+                {
+                    "item_name": "Tacos de cerdo",
+                    "price": 1600,
+                    "description": " "
+                },
+                {
+                    "item_name": "Tataki de albacora",
+                    "price": 1950,
+                    "description": " "
+                },
+                {
+                    "item_name": "Tabla de jamón serrano, embutidos y queso",
+                    "price": 2700,
+                    "description": " "
+                },
+                {
+                    "item_name": "Tacos de camarón y bacón",
+                    "price": 2950,
+                    "description": " "
+                },
+                {
+                    "item_name": "Carpaccio de Res (Angus Prime)",
+                    "price": 3500,
+                    "description": " "
+                }
+            ],
+                
+            "mains": [
+                {
+                    "item_name": "Ropa Vieja",
+                    "price": 1950,
+                    "description": " "
+                },
+                {
+                    "item_name": "Cerdo Teriyaki",
+                    "price":  2350,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pollo Grillé",
+                    "price": 2300,
+                    "description": " "
+                },
+                {
+                    "item_name": "Solomillo de Cerdo",
+                    "price": 2350,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pollo Kekou",
+                    "price": 2750,
+                    "description": " "
+                },
+                {
+                    "item_name": "Risotto Carbonara",
+                    "price": 3100,
+                    "description": " "
+                },
+                {
+                    "item_name": "Cordero del Chef",
+                    "price": 3900,
+                    "description": " "
+                },
+                {
+                    "item_name": "Rib Eye (350g)",
+                    "price": 10000,
+                    "description": " "
+                },
+                {
+                    "item_name": "Churrasco Australiano (300g)",
+                    "price": 10800,
+                    "description": " "
+                },
+                {
+                    "item_name": "New York (400g)",
+                    "price": 11000,
+                    "description": " "
+                },
+                {
+                    "item_name": "Entrecot de Res Español (450g)",
+                    "price": 9800,
+                    "description": " "
+                },
+                {
+                    "item_name": "Picaña (300g)",
+                    "price": 11000,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pescado Grillé",
+                    "price": 2150,
+                    "description": " "
+                },
+                {
+                    "item_name": "Escalopinas de Pescado",
+                    "price": 2850,
+                    "description": " "
+                },
+                {
+                    "item_name": "Camarón al Ajillo",
+                    "price": 3900,
+                    "description": " "
+                },
+                {
+                    "item_name": "Langosta al Cartouch",
+                    "price": 3800,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pescado Entero Frito (3Lb)",
+                    "price": 5800,
+                    "description": " "
+                },
+                {
+                    "item_name": "Camarón Jumbo en costra de ajo y parmesano",
+                    "price": 6350,
+                    "description": " "
+                },
+                {
+                    "item_name": "Saltado de Pulpo",
+                    "price": 6800,
+                    "description": " "
+                }
+            ],
+
+            "fittings": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "paste": [
+                {
+                    "item_name": "Pasta de Salmón",
+                    "price": 3100,
+                    "description": ""
+                },
+                {
+                    "item_name": "Pasta Zakay",
+                    "price": 3100,
+                    "description": " "
+                }
+            ],
+
+            "additions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": " Burguerita (250g)",
+                    "price": 4200,
+                    "description": "Carne Angus Prime, aros de cebolla empanados, papas fritas, vegetales, queso y salsas de la casa "
+                },
+                {
+                    "item_name": "Burguerita Gold 24k",
+                    "price": 12000,
+                    "description": " "
+                }
+            ],
+
+            "desserts": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+            "cocktails": [
+                {
+                    "item_name": "Sibarazo",
+                    "price": 1500
+                },
+                {
+                    "item_name": "Mojito",
+                    "price": 1400
+                },
+                {
+                    "item_name": "Daiquiri",
+                    "price": 1250
+                },
+                {
+                    "item_name": "Sangría",
+                    "price": 1600
+                },
+                {
+                    "item_name": "Caipiriña",
+                    "price": 1150
+                },
+                {
+                    "item_name": "Caipiroska",
+                    "price": 1250
+                },
+                {
+                    "item_name": "Piña Colada",
+                    "price": 1800
+                },
+                {
+                    "item_name": "Gin Tonic",
+                    "price": 1450
+                },
+                {
+                    "item_name": "Servicio de Chelada",
+                    "price": 350
+                },
+                {
+                    "item_name": "Servicio de Michelada",
+                    "price": 500
+                },
+                {
+                    "item_name": "Cubanito",
+                    "price": 1150
+                },
+                {
+                    "item_name": "Bloody Mary",
+                    "price": 1150
+                },
+                {
+                    "item_name": "Margarita",
+                    "price": 1350
+                },
+                {
+                    "item_name": "Martini",
+                    "price": 1450
+                },
+                {
+                    "item_name": "Cubalibre",
+                    "price": 1150
+                },
+                {
+                    "item_name": "Cubata",
+                    "price": 1250
+                }
+            ],
+
+            "drinks": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "infusions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ]
+        }  
+} 

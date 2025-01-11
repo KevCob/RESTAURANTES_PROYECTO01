@@ -1,0 +1,278 @@
+{
+    "type": "Bar-Restaurante",
+    "name": "Teniente Rey 360", 
+    "location": {
+        "address": "Calle Teniente Rey #360 entre Aguacate y Villegas",
+        "municipe": "Habana Vieja",
+        "province": "La Habana",
+        "coordinates":  "23.135937842467282, -82.35497378290009"
+    },
+    "sector": "privado",
+    
+    "qualification": 4.5,
+    
+    "specialized_food": ["Comida Caribeña", "Latina", "Marisco", "Cubana", "Sudamericana", "Centroamericana"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": 78602916,
+    
+    "capacity": 30,
+    
+    "reservation":  true,
+
+    "parking": false,
+
+    "delivery": true,
+
+    "electric generator": null,
+    
+    "hours": {
+        "monday": "11:00am - 9:30pm",  
+        "tuesday": "11:00am - 9:30pm",
+        "wednesday": "11:00am - 9:30pm",
+        "thursday": "11:00am - 9:30pm",
+        "friday": "11:00am - 9:30pm",
+        "saturday": "11:00am - 9:30pm",
+        "sunday": "11:00am - 9:30pm"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": "Croquetas",
+                    "price":400,
+                    "description": " "
+                },
+                {
+                    "item_name": "Bolitas de Queso",
+                    "price": 500,
+                    "description": " "
+                },
+                {
+                    "item_name": "Tostones Rellenos",
+                    "price": 600,
+                    "description": " "
+                },
+                {
+                    "item_name": "Garbanzos Fritos",
+                    "price": 700,
+                    "description": " "
+                },
+                {
+                    "item_name": "Coctel de Camarones",
+                    "price": 700,
+                    "description": " "
+                },
+                {
+                    "item_name": "Coctel de Langosta",
+                    "price": 700,
+                    "description": " "
+                },
+                {
+                    "item_name": "Langosta",
+                    "price": 2500,
+                    "description": " "
+                },
+                {
+                    "item_name": "Colas de Langosta",
+                    "price": 2600,
+                    "description": " "
+                }
+            ],
+                
+            "mains": [
+                {
+                    "item_name": "Camarones a la Orden",
+                    "price": 2500,
+                    "description": " "
+                },
+                {
+                    "item_name": "Camarones Rebosados",
+                    "price": 2800,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pulpo",
+                    "price": 2700,
+                    "description": " "
+                },
+                {
+                    "item_name": "Cazuelita Tte Rey",
+                    "price": 2900,
+                    "description": "Camarones y pulpo al ajillo o enchilado"
+                },
+                {
+                    "item_name": "Mariscada Tte Rey",
+                    "price": 12900,
+                    "description": "Pescado, langosta, camarones, pulpo  "
+                },
+                {
+                    "item_name": "Filete de Pescado",
+                    "price": 2400,
+                    "description": "Filete de pescado a la plancha "
+                },
+                {
+                    "item_name": "Filet Mignon",
+                    "price": 3200,
+                    "description": " Con salsa de champiñones"
+                },
+                {
+                    "item_name": "Filete Jhonvill",
+                    "price": 3500,
+                    "description": " "
+                },
+                {
+                    "item_name": "Punta de Filete",
+                    "price": 2900,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pechuga de Pollo",
+                    "price": 1950,
+                    "description": " "
+                },
+                {
+                    "item_name": "Fajitas de Pechuga de Pollo",
+                    "price": 2000,
+                    "description": " "
+                },
+                {
+                    "item_name": "Ropa Vieja",
+                    "price":2000,
+                    "description": " "
+                },
+                {
+                    "item_name": "Picadillo a la Cubana",
+                    "price": 1500,
+                    "description": " "
+                },
+                {
+                    "item_name": "Masas de Cerdo",
+                    "price": 1700,
+                    "description": " "
+                },
+                {
+                    "item_name": "Fricase de Cerdo",
+                    "price":  1750,
+                    "description": " "
+                },
+                {
+                    "item_name": "Solomillo",
+                    "price": 1900,
+                    "description": " "
+                }
+            ],
+
+            "fittings": [
+                {
+                    "item_name": "Arroz",
+                    "price": 200,
+                    "description": "Blanco o moro "
+                },
+                {
+                    "item_name": "Chatinos",
+                    "price": 300,
+                    "description": "Plátano verde frito "
+                },
+                {
+                    "item_name": "Yuca",
+                    "price": 200,
+                    "description": " "
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "paste": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "additions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "desserts": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+            "cocktails": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "drinks": [
+                { 
+                    "item_name": "Refrescos Nacionales",
+                    "price": 380
+                },
+                {
+                    "item_name": "Refrescos Importados",
+                    "price": 420
+                },
+                {
+                    "item_name": "Malta Nacional",
+                    "price": 420
+                },
+                {
+                    "item_name": "Agua Natural Nacional",
+                    "price": 250
+                },
+                {
+                    "item_name": "Kermato",
+                    "price": 500
+                },
+                {
+                    "item_name": "Agua Tónica",
+                    "price": 450
+                },
+                {
+                    "item_name": "Cerveza Nacional Lata",
+                    "price": 360
+                },
+                {
+                    "item_name": "Cerveza Nacional Botella",
+                    "price": 460
+                },
+                {
+                    "item_name": "Cerveza Importada",
+                    "price": 460
+                }
+            ],
+
+            "infusions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ]
+        }  
+} 

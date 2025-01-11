@@ -1,0 +1,313 @@
+{
+    "type": "Restaurante-Cafeteria",
+    "name": "Brutal Habana", 
+    "location": {
+        "address": "Infanta esquina Calle Universidad",
+        "municipe": "Cerro",
+        "province": "La Habana",
+        "coordinates":  "23.120855356364203, -82.37256464585778"
+    },
+    "sector": "privado",
+    
+    "qualification": 3.4,
+    
+    "specialized_food": ["Comida Americana"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": 50989151,
+    
+    "capacity": 15,
+    
+    "reservation":  false,
+
+    "parking": null,
+
+    "delivery": true,
+
+    "electric generator": false,
+    
+    "hours": {
+        "monday": "12:00pm - 12:00am",  
+        "tuesday": "12:00pm - 12:00am",
+        "wednesday": "12:00pm - 12:00am",
+        "thursday": "12:00pm - 12:00am",
+        "friday": "12:00pm - 12:00am",
+        "saturday": "12:00pm - 12:00am",
+        "sunday": "12:00pm - 12:00am"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": "Papas Fritas (Medias) 100g",
+                    "price": 300,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Papas Fritas (Normal) 200g",
+                    "price": 600,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "SalchiPapas",
+                    "price": 500,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "SalchiPapas BRUTAL",
+                    "price": 1400,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Croquetas de Pollo x 5",
+                    "price": 175,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Croquetas de Pollo x 10",
+                    "price": 350,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "SalchiPapas Brutal",
+                    "price": 1400,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Papas Fritas Brutal",
+                    "price": 1100,
+                    "description": " "
+                  }
+            ],
+                
+            "mains": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "fittings": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "paste": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "additions": [
+                {
+                    "item_name": "Cebolla",
+                    "price": 100,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Pepinillo",
+                    "price": 510,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Pimiento",
+                    "price": 510,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Tomate",
+                    "price": 100,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Aceituna",
+                    "price": 100,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Lechuga",
+                    "price": 50,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Jamón Barra York",
+                    "price": 240,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Bacon",
+                    "price": 260,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Jamón Ahumado 1964",
+                    "price": 350,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Chorizo Ibérico",
+                    "price": 350,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Salchichón Natural",
+                    "price": 370,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Jamón Serrano",
+                    "price": 500,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Jamón Pastrami de Ternera",
+                    "price": 500,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Jamón de Pechuga de Pollo",
+                    "price": 500,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Lomo de Cerdo Disco",
+                    "price": 500,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Pasta de Atún",
+                    "price": 820,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Queso Blanco",
+                    "price": 135,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Queso Cheddar",
+                    "price": 190,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Queso Cheddar Fundido",
+                    "price": 210,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Queso Curado con Trufas",
+                    "price": 240,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Queso Azul Gorgonzola",
+                    "price": 300,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Queso Gouda",
+                    "price": 350,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Queso Cheddar",
+                    "price": 350,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Queso Blanco Lombardo",
+                    "price": 650,
+                    "description": " "
+                  }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": "Baguette",
+                    "price": 515,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Suave",
+                    "price": 120,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Croissant",
+                    "price": 450,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Pan de Hamburguesa",
+                    "price": 150,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Hamburguesa Brutal",
+                    "price": 3200,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Baguette Brutal",
+                    "price": 2000,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Hamburguesa Sencilla",
+                    "price": 1100,
+                    "description": " "
+                  }
+
+            ],
+
+            "desserts": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+            "cocktails": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ],
+
+            "drinks": [
+                {
+                    "item_name": "Batido de Helado",
+                    "price": 1000
+                  },
+                  {
+                    "item_name": "Batido de Helado con Gomitas",
+                    "price": 1400
+                  },
+                  {
+                    "item_name": "Batido de Helado BRUTAL",
+                    "price": 2000
+                  }
+            ],
+
+            "infusions": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ]
+        }  
+} 

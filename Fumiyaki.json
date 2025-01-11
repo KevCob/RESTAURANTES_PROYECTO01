@@ -1,0 +1,585 @@
+{
+    "type": "Restaurante",
+    "name": "Fumiyaki", 
+    "location": {
+        "address": "Ave 26, No 367 ,entre calle 23 y calle 25, Vedado",
+        "municipe": "Plaza de la Revolucion",
+        "province": "La Habana",
+        "coordinates":  "23.12209228452483, -82.40512312898908"
+    },
+    "sector": "privado",
+    
+    "qualification": 4,
+    
+    "specialized_food": ["Comida japonesa", "asiatica", "sushi", "cubana"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": 78337939,
+    
+    "capacity": 40,
+    
+    "reservation":  true,
+
+    "parking": true,
+
+    "delivery": true,
+
+    "electric generator": false,
+    
+    "hours": {
+        "monday": "12:00pm - 11:00am",  
+        "tuesday": "12:00pm - 11:00am",
+        "wednesday": "12:00pm - 11:00am",
+        "thursday": "12:00pm - 11:00am",
+        "friday": "12:00pm - 11:00am",
+        "saturday": "12:00pm - 11:00am",
+        "sunday": "12:00pm - 11:00am"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": "Rollitos de primavera",
+                    "price":500 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Gyozas",
+                    "price":850 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Sopa miso",
+                    "price":750 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Ricepaper roll de cerdo o pollo",
+                    "price": 900,
+                    "description": " "
+                },
+                {
+                    "item_name": "Ricepaper roll de camaron, langosta, pulpo, o pescado",
+                    "price": 1400,
+                    "description": " "
+                },
+                {
+                    "item_name": "Ceviche de pescado",
+                    "price":1000 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Ceviche mixto",
+                    "price": 1500,
+                    "description": " "
+                },
+                {
+                    "item_name": "Tataki de pescado",
+                    "price":1200 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Sashimi de pescado",
+                    "price": 1200,
+                    "description": " "
+                },
+                {
+                    "item_name": "Tartar de pescado",
+                    "price":1200 ,
+                    "description": " "
+                }
+            ],
+                
+            "mains": [
+                {
+                    "item_name": "Tacos de pollo",
+                    "price":1100 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Tacos de cerdo",
+                    "price":1400 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Tacos de ropa vieja",
+                    "price":1300,
+                    "description": " "
+                },
+                {
+                    "item_name": "Tacos de camaron",
+                    "price": 1600,
+                    "description": " "
+                },
+                {
+                    "item_name": "Tacos de langosta",
+                    "price":1500 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Arroz frito de la tierra",
+                    "price":1000 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Arroz frito del mar",
+                    "price":1100 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Arroz frito mar y tierra",
+                    "price": 1300,
+                    "description": " "
+                },
+                {
+                    "item_name": "Camaron flameado",
+                    "price":2500 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Filete de pescado",
+                    "price": 2300,
+                    "description": " "
+                },
+                {
+                    "item_name": "Langosta a la plancha",
+                    "price":2600 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Grillada asiatica",
+                    "price":4000 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Bocados de tempura de pollo",
+                    "price": 1600,
+                    "description": " "
+                },
+                {
+                    "item_name": "Bocados de tempura de cerdo",
+                    "price":1900 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Bocados de tempura de pescado",
+                    "price":2200 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Bocados de tempura de camaron",
+                    "price":2500 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Bocados de tempura de langosta",
+                    "price": 2500,
+                    "description": " "
+                },
+                {
+                    "item_name": "Yaki toris pollo",
+                    "price":1500 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Yaki toris cerdo",
+                    "price":1800 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Yaki toris Camaron",
+                    "price": 2500,
+                    "description": " "
+                },
+                {
+                    "item_name": "Yaki toris langosta",
+                    "price":2500 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Teriyakis pollo",
+                    "price":1700 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Teriyakis cerdo",
+                    "price":2000 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Teriyakis Camaron",
+                    "price":2600 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Teriyakis langosta",
+                    "price":2600 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Yakisobas pollo",
+                    "price":1550 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Yakisobas cerdo",
+                    "price": 1850,
+                    "description": " "
+                },
+                {
+                    "item_name": "Yakisobas Camaron",
+                    "price": 2000,
+                    "description": " "
+                },
+                {
+                    "item_name": "Yakisobas langosta",
+                    "price": 1700,
+                    "description": " "
+                },
+                {
+                    "item_name": "Chow mein pollo",
+                    "price":1550 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Chow mein cerdo",
+                    "price":1850 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Chow mein camaron",
+                    "price":2000 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Chow mein langosta",
+                    "price":2000 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Chop suey pollo",
+                    "price":1500 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Chop suey cerdo",
+                    "price": 1800,
+                    "description": " "
+                },
+                {
+                    "item_name": "Chop suey Camaron",
+                    "price":2000 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Chop suey langosta",
+                    "price":2000 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Sushi niguiris Mixtos  ",
+                    "price":1200 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Sushi kappa maki roll",
+                    "price": 850,
+                    "description": "Vegetales mixtos de estacion "
+                },
+                {
+                    "item_name": "Sushi hawaiian roll ",
+                    "price":1300 ,
+                    "description": "Pollo caramelizado, queso crema, toping de pina glase con jengibre y sriracha mayo "
+                }, {
+                    "item_name": "Sushi T.N.T.roll",
+                    "price":2100 ,
+                    "description": "Pollo caramelizado, pepino, semillas de sesamo con toping de camaron en tempura, reduccion de vinagre balsamico y salsa rosa "
+                },
+                {
+                    "item_name": "Sushi toro spicy roll ",
+                    "price":1300 ,
+                    "description": "Atun marinado con sriracha mayo, toping de berenjena asada y mayonesa de dashi "
+                },
+                {
+                    "item_name": "Sushi oishi roll ",
+                    "price": 1400,
+                    "description": "Pescado asado en teriyaki con bastones de pepino, crujiente de boniato y queso crema saborizado "
+                },
+
+ {
+                    "item_name": "Sushi momo ebi roll",
+                    "price":1850 ,
+                    "description": "Camaron en tempura, fruta de estacion, queso crema, salsa poke y crujiente de boniato"
+                },
+                {
+                    "item_name": "Sushi fuumi roll ",
+                    "price": 2250,
+                    "description": "Camaron en tempura, zanahoria encurtida, sriracha de mayo, toping de atun con salsa de anguila "
+                },
+                {
+                    "item_name": "Sushi queen roll",
+                    "price": 1400,
+                    "description": "Langosta en tempura, zanahoria encurtida, mayonesa saborizada y toping de pina glase con jengibre "
+                },
+                {
+                    "item_name": "Sushi sweet beef roll",
+                    "price":1350 ,
+                    "description": "Platano maduro frito, queso crema, crujiente de bomiato y toping de ropa vieja "
+                },
+                {
+                    "item_name": "Sushi king roll ",
+                    "price":2000,
+                    "description": "Berenjena caramelizada en teriyaki, aguacate o pepino, toping de pulpo en tempura y sriracha de mayo "
+                },
+                {
+                    "item_name": "Tempura roll de pollo, cerdo o vegetales",
+                    "price":1200 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Tempura roll de cangrejo o pescado",
+                    "price":1500 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Tempura roll de camaron, langosta o pulpo",
+                    "price":1950 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Sushi alaska roll",
+                    "price":1650 ,
+                    "description": "Cangrejo, aguacate o pepino, toping de queso crema, salasa teriyaki y cebollino "
+                },
+                {
+                    "item_name": "Sushi white dragon roll",
+                    "price":2200 ,
+                    "description": "Cangrejo, pepino, cebollino, semilla de sesamo, toping de camaron en tempura, reduccion de balsamico y salsa rosa "
+                },
+                {
+                    "item_name": "Sushi philadelphia roll",
+                    "price": 2200,
+                    "description": "Aguacate o pepino, queso crema y toping de salmon ahumado "
+                }, {
+                    "item_name": "Sushi momo sake roll",
+                    "price":2200 ,
+                    "description": "Salmon ahumado, fruta de estacion, queso crema, salsa poke y crujiente de boniato "
+                }, {
+                    "item_name": "Surtido de sushis ",
+                    "price": 3200,
+                    "description": " "
+                }
+
+                
+            ],
+
+            "fittings": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": "Okonomiyaki",
+                    "price": 2000,
+                    "description": "Pizza japonesa "
+                }
+            ],
+
+            "additions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "sandwich": [
+                    {
+                        "item_name": null,
+                        "price": null,
+                        "description": null
+                    }
+            ],
+
+            "desserts": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+            "cocktails": [
+                {
+                    "item_name": "Mojito",
+                    "price": 700
+                },
+                {
+                    "item_name": "Daiquiri",
+                    "price":700 
+                },
+                {
+                    "item_name": "Caipirinha",
+                    "price":750 
+                },
+                {
+                    "item_name": "Caipiroska",
+                    "price":750 
+                },
+                {
+                    "item_name": "Cubanito",
+                    "price":800 
+                },
+                {
+                    "item_name": "Bloody Mary",
+                    "price":850 
+                },
+                {
+                    "item_name": "Pina colada",
+                    "price":850 
+                },
+                {
+                    "item_name": "Mimosa",
+                    "price":500 
+                },
+                {
+                    "item_name": "Gin tonic",
+                    "price":850 
+                },
+                {
+                    "item_name": "Sangria",
+                    "price": 850
+                },
+                {
+                    "item_name": "Tequila sunrise",
+                    "price": 600
+                },
+                {
+                    "item_name": "Margarita",
+                    "price": 850
+                },
+                {
+                    "item_name": "Old fashion",
+                    "price": 800
+                },
+                {
+                    "item_name": "Mojito sake",
+                    "price": 650
+                },
+                {
+                    "item_name": "Umeshu mojito",
+                    "price": 600
+                }
+            ],
+
+            "drinks": [
+                {
+                    "item_name": "Aguas",
+                    "price":350 
+                },
+                {
+                    "item_name": "Jugos naturales",
+                    "price": 250
+                },
+                {
+                    "item_name": "Carlota",
+                    "price": 300
+                },
+                {
+                    "item_name": "Limonada",
+                    "price":350
+                },
+                {
+                    "item_name": "Refrescos",
+                    "price": 350
+                },
+                {
+                    "item_name": "Cervezas",
+                    "price":500 
+                },
+                {
+                    "item_name": "Servicio Michelada",
+                    "price": 350
+                },
+                {
+                    "item_name": "Copa de vino",
+                    "price":500 
+                },
+                {
+                    "item_name": "Havana club 7 anos",
+                    "price": 600
+                },
+                {
+                    "item_name": "Havana club seleccion de maestros",
+                    "price":750 
+                },
+                {
+                    "item_name": "Pacto Navío",
+                    "price":750 
+                },
+                {
+                    "item_name": "Santiago anejo",
+                    "price": 550
+                },
+                {
+                    "item_name": "Santiago anejo 11 anos",
+                    "price": 800
+                },
+                {
+                    "item_name": "Clan campbell",
+                    "price": 550
+                },
+                {
+                    "item_name": "Jameson",
+                    "price":650 
+                },
+                {
+                    "item_name": "Ballantines",
+                    "price":600 
+                },
+                {
+                    "item_name": "Chivas 12",
+                    "price":750 
+                },
+                {
+                    "item_name": "Chivas XV",
+                    "price":1000 
+                },
+                {
+                    "item_name": "Chivas 18",
+                    "price":1150 
+                },
+                {
+                    "item_name": "Sake",
+                    "price": 650
+                },
+                {
+                    "item_name": "Matcha highball",
+                    "price": 750
+                },
+                {
+                    "item_name": "Chuchai",
+                    "price":650 
+                }
+            ],
+
+            "infusions": [
+                {
+                    "item_name": "Expresso",
+                    "price": 200
+                },
+                {
+                    "item_name": "Cortado",
+                    "price":300 
+                    
+                },
+                {
+                    "item_name": "Te",
+                    "price": 300
+                }
+            ]
+        }  
+} 

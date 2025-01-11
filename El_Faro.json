@@ -1,0 +1,202 @@
+{
+    "type": "Bar-Restaurante-Cafeteria",
+    "name": "El Faro", 
+    "location": {
+        "address": "Maximo Gomez y Pepe Antonio",
+        "municipe": "Guanabacoa",
+        "province": "La Habana",
+        "coordinates":  "23.126407014136845, -82.30453202678505"
+    },
+    "sector": "privado",
+    
+    "qualification": 3.7,
+    
+    "specialized_food": ["Criolla","Pizzas"],
+
+    "payment method": ["Efectivo"],
+    
+    "phone": null,
+    
+    "capacity": 20,
+    
+    "reservation":  true,
+
+    "parking": false,
+
+    "delivery": null,
+
+    "electric generator": false,
+    
+    "hours": {
+        "monday": "9:00am - 11:00pm",  
+        "tuesday": "9:00am - 11:00pm",
+        "wednesday": "9:00am - 11:00pm",
+        "thursday": "9:00am - 11:00pm",
+        "friday": "9:00am - 11:00pm",
+        "saturday": "9:00am - 11:00pm",
+        "sunday": "9:00am - 11:00pm"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": "ENCHILADO DE CANGREJO",
+                    "price": 750.00,
+                    "description": ""
+                },
+                {
+                    "item_name": "CROQUETA DE LA CASA",
+                    "price": 180.00,
+                    "description": ""
+                },
+                {
+                    "item_name": "ENSALADA FRÍA DE JAMÓN",
+                    "price": 700.00,
+                    "description": ""
+                },
+                {
+                    "item_name": "ENSALADA FRÍA DE ATÚN",
+                    "price": 1200.00,
+                    "description": ""
+                },
+                {
+                    "item_name": "Picadera Tropical",
+                    "price": 850.00,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Plato a lo Cubano",
+                    "price": 800.00,
+                    "description": ""
+                  }
+            ],
+                
+            "mains": [
+                {
+                    "item_name": "PAN CON HAMBURGUESA",
+                    "price": 500.00,
+                    "description": ""
+                },
+                {
+                    "item_name": "HAMBURGUESA FARO",
+                    "price": 900.00,
+                    "description": ""
+                },
+                {
+                    "item_name": "Costillas de Cerdo",
+                    "price": 1200.00
+                  },
+                  {
+                    "item_name": "Ruedas de pescado Grille",
+                    "price": 1400.00
+                  },
+                  {
+                    "item_name": "Pollo Grille",
+                    "price": 950.00
+                  }
+            ],
+
+            "fittings": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": "PIZZA EL FARO",
+                    "price": 900.00,
+                    "description": ""
+                },
+                {
+                    "item_name": "PIZZA COMBINADA",
+                    "price": 900.00,
+                    "description": ""
+                },
+                {
+                    "item_name": "PIZZA HAWAIANA",
+                    "price": 900.00,
+                    "description": ""
+                },
+                {
+                    "item_name": "PIZZA DE CEBOLLA",
+                    "price": 900.00,
+                    "description": ""
+                },
+                {
+                    "item_name": "PIZZA DE PIMIENTO",
+                    "price": 900.00,
+                    "description": ""
+                },
+                {
+                    "item_name": "PIZZA GUSTAZO (Doble Queso)",
+                    "price": 900.00,
+                    "description": ""
+                },
+                {
+                    "item_name": "PIZZA JAMÓN",
+                    "price": 900.00,
+                    "description": ""
+                }
+            ],
+
+            "paste": [
+                {
+                    "item_name": "Spaguetti Napolitano",
+                    "price": 750.00
+                  },
+                  {
+                    "item_name": "Spaguetti de Jamón",
+                    "price": 850.00
+                  }
+            ],
+
+            "additions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "desserts": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+            "cocktails": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "drinks": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "infusions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ]
+        }  
+} 

@@ -1,0 +1,318 @@
+{
+    "type": "Bar-Restaurante-Cafeteria",
+    "name": "La Mia Pizza", 
+    "location": {
+        "address": "29 y 23A",
+        "municipe": "La Lisa",
+        "province": "La Habana",
+        "coordinates":  "23.07120986898905, -82.46001932800391"
+    },
+    "sector": "privado",
+    
+    "qualification": 2.8,
+    
+    "specialized_food": ["italiana"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": 72718614,
+    
+    "capacity": 20,
+    
+    "reservation":  false,
+
+    "parking": null,
+
+    "delivery": false,
+
+    "electric generator": false,
+    
+    "hours": {
+        "monday": "11:00am - 11:00pm",  
+        "tuesday": "11:00am - 11:00pm",
+        "wednesday": "11:00am - 11:00pm",
+        "thursday": "11:00am - 11:00pm",
+        "friday": "11:00am - 11:00pm",
+        "saturday": "11:00am - 11:00pm",
+        "sunday": "11:00am - 11:00pm"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": "Entremes de Jamon y Queso",
+                    "price":1440 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Entremes de Jamon",
+                    "price": 500 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Entremes de ahumados",
+                    "price":440 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Entremes de aceitunas",
+                    "price":300 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Dados de Queso",
+                    "price": 300 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Croquetas de embutidos",
+                    "price": 220 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Crema de Queso",
+                    "price": 250 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Crema Aurora",
+                    "price": 300 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Crema Virginia",
+                    "price": 430 ,
+                    "description": " "
+                }
+            ],
+                
+            "mains": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "fittings": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": "Pizza Napolitana",
+                    "price": 700 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pizza La Mia",
+                    "price": 2500,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pizza La Mia de Queso",
+                    "price": 1900,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pizza Tres Quesos",
+                    "price": 1700 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pizza La Mia Familiar",
+                    "price": 4800,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pizza La Mia Familiar de Queso",
+                    "price": 4000 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pizza Familiar Napolitana",
+                    "price": 2500 ,
+                    "description": " "
+                }
+            ],
+
+            "paste": [
+                {
+                    "item_name": "Lasagna de Jamon",
+                    "price":500 ,
+                    "description": ""
+                },
+                {
+                    "item_name": "Lasagna de Jamon y Chorizo",
+                    "price": 610 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Espaguetis Napolitanos",
+                    "price": 700 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Espaguetis a la carbonara",
+                    "price": 860 ,
+                    "description": " "
+                }
+            ],
+
+            "additions": [
+                {
+                    "item_name": "Queso",
+                    "price": 320,
+                    "description": " "
+                },
+                {
+                    "item_name": "Jamon",
+                    "price": 300 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Chorizo",
+                    "price":220 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Atun",
+                    "price": 280 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Aji pimiento",
+                    "price": 120 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Cebolla",
+                    "price": 120 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pina",
+                    "price": 100 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Ahumados",
+                    "price": 300 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Aceitunas",
+                    "price": 200 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Queso azul",
+                    "price": 500,
+                    "description": " "
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "desserts": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+            "cocktails": [
+                {
+                    "item_name": "Pina Colada",
+                    "price": 250 
+                },
+                {
+                    "item_name": "Michelada",
+                    "price": 420
+                },
+                {
+                    "item_name": "Limonada Frappe",
+                    "price": 1500
+                }
+            ],
+
+            "drinks": [
+                {
+                    "item_name": "Jugo de Frutas Naturales",
+                    "price": 200
+                },
+                {
+                    "item_name": "Batido de Frutas Naturales",
+                    "price": 250
+                },
+                {
+                    "item_name": "Suero de Helado",
+                    "price": 350
+                },
+                {
+                    "item_name": "Helado Montado",
+                    "price": 350
+                },
+                {
+                    "item_name": "Refresco",
+                    "price": 220
+                },
+                {
+                    "item_name": "Refresco de Pomo",
+                    "price": 280
+                },
+                {
+                    "item_name": "Malta",
+                    "price": 250
+                },
+                {
+                    "item_name": "Agua",
+                    "price": 160
+                },
+                {
+                    "item_name": "Agua Saborizada",
+                    "price": 170
+                },
+                {
+                    "item_name": "Bebida Energizante",
+                    "price": 250
+                },
+                {
+                    "item_name": "Havana Club 3 anos",
+                    "price": 175
+                },
+                {
+                    "item_name": "Havana Club 7 anos",
+                    "price": 225 
+                },
+                {
+                    "item_name": "Cerveza",
+                    "price": 270 
+                },
+                {
+                    "item_name": "Vodka",
+                    "price": 340
+                },
+                {
+                    "item_name": "Whisky",
+                    "price": 340
+                }
+            ],
+
+            "infusions": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ]
+        }  
+} 

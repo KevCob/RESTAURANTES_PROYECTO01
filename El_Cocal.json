@@ -1,0 +1,207 @@
+{
+    "type": "Restaurante",
+    "name": "El Cocal", 
+    "location": {
+        "address": "Lindero No 426A entre 38a y 44 roto modelo, Loteria",
+        "municipe": "Cotorro",
+        "province": "La Habana",
+        "coordinates":  "23.047476858961144, -82.25535277368648"
+    },
+    "sector": "privado",
+    
+    "qualification": 4.4,
+    
+    "specialized_food": ["cubana"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": 76822199,
+    
+    "capacity": 80,
+    
+    "reservation":  false,
+
+    "parking": true,
+
+    "delivery": false,
+
+    "electric generator": true,
+    
+    "hours": {
+        "monday": "12:00pm - 12:00am",  
+        "tuesday": "cerrado",
+        "wednesday": "cerrado",
+        "thursday": "12:00pm - 12:00am",
+        "friday": "12:00pm - 12:00am",
+        "saturday": "12:00pm - 12:00am",
+        "sunday": "12:00pm - 12:00am"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": "Croquetas", 
+                    "price": 600,
+                    "description": " "
+                },
+                {
+                    "item_name": "Bolitas de queso", 
+                    "price": 650,
+                    "description": " "
+                },
+                {
+                    "item_name": "Ensalada de Atun", 
+                    "price": 1000,
+                    "description": " "
+                },
+                {
+                    "item_name": "Toston de queso", 
+                    "price": 600,
+                    "description": " "
+                },
+                {
+                    "item_name": "Toston de jamon y queso", 
+                    "price": 600,
+                    "description": " "
+                },
+                {
+                    "item_name": "Toston de Atun", 
+                    "price": 1000,
+                    "description": " "
+                },
+                {
+                    "item_name": "Crema de queso", 
+                    "price": 550,
+                    "description": " "
+                },
+                {
+                    "item_name": "Crema Aurora", 
+                    "price": 600,
+                    "description": " "
+                },
+                {
+                    "item_name": "Crema Virginia", 
+                    "price": 650,
+                    "description": " "
+                },
+                {
+                    "item_name": "Crema Mixta", 
+                    "price": 700,
+                    "description": " "
+                },
+                {
+                    "item_name": "Coctel Camaron", 
+                    "price": 1500,
+                    "description": " "
+                },
+                {
+                    "item_name": "Empellas", 
+                    "price": 550,
+                    "description": " "
+                },
+                {
+                    "item_name": "Eperlan Pechuga", 
+                    "price": 1600,
+                    "description": " "
+                },
+                {
+                    "item_name": "Eperlan Pescado", 
+                    "price": 2000,
+                    "description": " "
+                }
+            ],
+                
+            "mains": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "fittings": [
+                {
+                    "item_name": "yuca", 
+                    "price": 400,
+                    "description": " "
+                },
+                {
+                    "item_name": "Toston", 
+                    "price": 400,
+                    "description": " "
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": "Pizza de Queso", 
+                    "price": 1200,
+                    "description": " "
+                },
+                  {
+                    "item_name": "Pizza de Jamon", 
+                    "price": 1400,
+                    "description": " "
+                },
+                  {
+                    "item_name": "Pizza Hawaiiana", 
+                    "price": 1500,
+                    "description": " "
+                }
+            ],
+
+            "paste": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "additions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "desserts": [
+                {
+                    "item_name": "Flan", 
+                    "price": 500,
+                    "description": " "
+                }
+            ],
+            "cocktails": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "drinks": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "infusions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ]
+        }  
+} 

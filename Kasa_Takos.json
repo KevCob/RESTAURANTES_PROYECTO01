@@ -1,0 +1,712 @@
+{
+    "type": "Bar-Restaurante",
+    "name": "Kasa Takos", 
+    "location": {
+        "address": "Hospital y Aramburu, 966 entre San Lazaro",
+        "municipe": "Centro Habana",
+        "province": "La Habana",
+        "coordinates":  "23.139549087699173, -82.3756494611986"
+    },
+    "sector": "privado",
+    
+    "qualification": 4.4,
+    
+    "specialized_food": ["Comida caribeña", "mexicana", "cubana"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": 50122113,
+    
+    "capacity": 60,
+    
+    "reservation":  false,
+
+    "parking": false,
+
+    "delivery": false,
+
+    "electric generator": true,
+    
+    "hours": {
+        "monday": "12:00pm - 12:30am",  
+        "tuesday": "12:00pm - 12:30am",
+        "wednesday": "12:00pm - 12:30am",
+        "thursday": "12:00pm - 12:30am",
+        "friday": "12:00pm - 12:30am",
+        "saturday": "12:00pm - 12:30am",
+        "sunday": "12:00pm - 12:30am"
+    },
+    "menu":    {
+            "starters": [
+                { 
+                    "item_name": "Nachos", 
+                    "price": 400 ,
+                    "description": " "
+                },
+                { 
+                    "item_name": "Tostones Rellenos R.V", 
+                    "price": 800 ,
+                    "description": " "
+                },
+                { 
+                    "item_name": "Frituras de Malanga", 
+                    "price": 500 ,
+                    "description": " "
+                },
+                { 
+                    "item_name": "Tostones Rellenos Camarón", 
+                    "price": 900 ,
+                    "description": " "
+                },
+                { 
+                    "item_name": "Croquetas de la Casa", 
+                    "price": 600 ,
+                    "description": " "
+                },
+                { 
+                    "item_name": "Pozole", 
+                    "price": 700 ,
+                    "description": " "
+                },
+                { 
+                    "item_name": "Tostones Rellenos JSM", 
+                    "price": 700 ,
+                    "description": " "
+                },
+                { 
+                    "item_name": "Pica Pica Que Rico", 
+                    "price": 1600 ,
+                    "description": " "
+                }
+            ],
+                
+            "mains": [
+                {
+                    "item_name": "Tacos de vegetales",
+                    "price": 800,
+                    "description": " "
+                },
+                {
+                    "item_name": "Tacos de pollo",
+                    "price": 950,
+                    "description": " "
+                },
+                {
+                    "item_name": "Tacos de carnita",
+                    "price": 1000,
+                    "description": " "
+                },
+                {
+                    "item_name": "Tacos de ropa vieja",
+                    "price": 1100,
+                    "description": " "
+                },
+                {
+                    "item_name": "Tacos de cochinita",
+                    "price": 1100,
+                    "description": " "
+                },
+                {
+                    "item_name": "Tacos al pastor",
+                    "price": 1200,
+                    "description": " "
+                },
+                {
+                    "item_name": "Tacos de camarón",
+                    "price": 1600,
+                    "description": " "
+                },
+                {
+                    "item_name": "Tacos de langosta",
+                    "price": 1600,
+                    "description": " "
+                },
+                {
+                    "item_name": "Takos combinados",
+                    "price": 1600,
+                    "description": " "
+                },
+                {
+                    "item_name": "Quesadillas de vegetales",
+                    "price": 850,
+                    "description": " "
+                },
+                {
+                    "item_name": "Quesadillas de pollo",
+                    "price": 1000,
+                    "description": " "
+                },
+                {
+                    "item_name": "Quesadillas de carnita",
+                    "price": 1050,
+                    "description": " "
+                },
+                {
+                    "item_name": "Quesadillas de ropa vieja",
+                    "price": 1150,
+                    "description": " "
+                },
+                {
+                    "item_name": "Quesadillas de cochinita",
+                    "price": 1150,
+                    "description": " "
+                },
+                {
+                    "item_name": "Quesadillas al pastor",
+                    "price": 1250,
+                    "description": " "
+                },
+                {
+                    "item_name": "Quesadillas de camarón",
+                    "price": 1650,
+                    "description": " "
+                },
+                {
+                    "item_name": "Quesadillas de langosta",
+                    "price": 1650,
+                    "description": " "
+                },
+                {
+                    "item_name": "Burritos de vegetales",
+                    "price": 900,
+                    "description": " "
+                },
+                {
+                    "item_name": "Burritos de pollo",
+                    "price": 1150,
+                    "description": " "
+                },
+                {
+                    "item_name": "Burritos de carnita",
+                    "price": 1100,
+                    "description": " "
+                },
+                {
+                    "item_name": "Burritos de ropa vieja",
+                    "price": 1200,
+                    "description": " "
+                },
+                {
+                    "item_name": "Burritos de cochinita",
+                    "price": 1200,
+                    "description": " "
+                },
+                {
+                    "item_name": "Burritos al pastor",
+                    "price": 1300,
+                    "description": " "
+                },
+                {
+                    "item_name": "Burritos de camarón",
+                    "price": 1700,
+                    "description": " "
+                },
+                {
+                    "item_name": "Burritos de langosta",
+                    "price": 1700,
+                    "description": " "
+                },
+                {
+                    "item_name": "Chimichangas de vegetales",
+                    "price": 920,
+                    "description": " "
+                },
+                {
+                    "item_name": "Chimichangas de pollo",
+                    "price": 1170,
+                    "description": " "
+                },
+                {
+                    "item_name": "Chimichangas de carnita",
+                    "price": 1120,
+                    "description": " "
+                },
+                {
+                    "item_name": "Chimichangas de ropa vieja",
+                    "price": 1220,
+                    "description": " "
+                },
+                {
+                    "item_name": "Chimichangas de cochinita",
+                    "price": 1220,
+                    "description": " "
+                },
+                {
+                    "item_name": "Chimichangas al pastor",
+                    "price": 1320,
+                    "description": " "
+                },
+                {
+                    "item_name": "Chimichangas de camarón",
+                    "price": 1720,
+                    "description": " "
+                },
+                {
+                    "item_name": "Chimichangas de langosta",
+                    "price": 1720,
+                    "description": " "
+                },
+                {
+                    "item_name": "bistec grille de cerdo encebollado",
+                    "price": 1300 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "fajitas de cerdo salteadas",
+                    "price": 1400,
+                    "description": " "
+                },
+                {
+                    "item_name": "solomillo de cerdo",
+                    "price": 2000,
+                    "description": " "
+                },
+                {
+                    "item_name": "ranchero de cerdo",
+                    "price": 1800,
+                    "description": " "
+                },
+                {
+                    "item_name": "rollo de la casa (cerdo)",
+                    "price": 1850,
+                    "description": " "
+                },
+                {
+                    "item_name": "bistec grille de pollo",
+                    "price": 900,
+                    "description": " "
+                },
+                {
+                    "item_name": "pollo a la mexicana",
+                    "price": 950,
+                    "description": " "
+                },
+                {
+                    "item_name": "fajitas de pollo salteadas",
+                    "price": 1000,
+                    "description": " "
+                },
+                {
+                    "item_name": "ranchero de pollo",
+                    "price": 1200,
+                    "description": " "
+                },
+                {
+                    "item_name": "vaca frita",
+                    "price": 1250,
+                    "description": " "
+                },
+                {
+                    "item_name": "ropa vieja",
+                    "price": 1400,
+                    "description": " "
+                },
+                {
+                    "item_name": "bistec de res encebollado",
+                    "price": 1600,
+                    "description": " "
+                },
+                {
+                    "item_name": "rollo de la casa (res)",
+                    "price": 2000,
+                    "description": " "
+                },
+                {
+                    "item_name": "grille de camarón",
+                    "price": 1700,
+                    "description": " "
+                },
+                {
+                    "item_name": "ajillo de camarón",
+                    "price": 2000,
+                    "description": " "
+                },
+                {
+                    "item_name": "enchilado de camarón",
+                    "price": 1850,
+                    "description": " "
+                },
+                {
+                    "item_name": "grille de pescado",
+                    "price": 1300,
+                    "description": " "
+                },
+                {
+                    "item_name": "ajillo de pescado",
+                    "price": 1400,
+                    "description": " "
+                },
+                {
+                    "item_name": "enchilado de pescado",
+                    "price": 1500,
+                    "description": " "
+                },
+                {
+                    "item_name": "John Ville",
+                    "price": 2000,
+                    "description": " "
+                },
+                {
+                    "item_name": "grille de langosta",
+                    "price": 1700,
+                    "description": " "
+                },
+                {
+                    "item_name": "ajillo de langosta",
+                    "price": 2000,
+                    "description": " "
+                },
+                {
+                    "item_name": "enchilado de langosta",
+                    "price": 1850,
+                    "description": " "
+                },
+                {
+                    "item_name": "Termidor",
+                    "price": 2200,
+                    "description": " "
+                }
+            ],
+
+            "fittings": [
+                { 
+                    "item_name": "Arroz Blanco", 
+                    "price": 150 ,
+                    "description": " "
+                },
+                { 
+                    "item_name": "Arroz Moro", 
+                    "price": 250 ,
+                    "description": " "
+                },
+                { 
+                    "item_name": "Vegetales", 
+                    "price": 400 ,
+                    "description": " "
+                },
+                { 
+                    "item_name": "Vianda Frita", 
+                    "price": 450 ,
+                    "description": " "
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "paste": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "additions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "desserts": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+            "cocktails": [
+                { 
+                    "item_name": "Limonada Natural", 
+                    "price": 300 
+                },
+                { 
+                    "item_name": "Limonada Clarete", 
+                    "price": 450 
+                },
+
+                { 
+                    "item_name": "Limonada Frappé", 
+                    "price": 300 
+                },
+                { 
+                    "item_name": "Limonada Frescura", 
+                    "price": 400 
+                },
+                { 
+                    "item_name": "mojito", 
+                    "price": 450 
+                },
+                { 
+                    "item_name": "ron collins", 
+                    "price": 400 
+                },
+                { 
+                    "item_name": "mojito saborizado", 
+                    "price": 500 
+                },
+                { 
+                    "item_name": "cubata", 
+                    "price": 500 
+                },
+                { 
+                    "item_name": "canchánchara", 
+                    "price": 400 
+                },
+                { 
+                    "item_name": "daiquirí", 
+                    "price": 450 
+                },
+                { 
+                    "item_name": "havana especial", 
+                    "price": 500 
+                },
+                { 
+                    "item_name": "daiquirí saborizado", 
+                    "price": 500 
+                },
+                { 
+                    "item_name": "mary pickford", 
+                    "price": 400 
+                },
+                { 
+                    "item_name": "cuba libre", 
+                    "price": 450 
+                },
+                { 
+                    "item_name": "margarita", 
+                    "price": 600 
+                },
+                { 
+                    "item_name": "caipiriña", 
+                    "price": 400 
+                },
+                { 
+                    "item_name": "gold margarita", 
+                    "price": 700 
+                },
+                { 
+                    "item_name": "caipiroska", 
+                    "price": 450 
+                },
+                { 
+                    "item_name": "calimocho", 
+                    "price": 400 
+                },
+                { 
+                    "item_name": "caipiríssima", 
+                    "price": 450 
+                },
+                { 
+                    "item_name": "gin tonic", 
+                    "price": 1300 
+                },
+                { 
+                    "item_name": "screw driver", 
+                    "price": 400 
+                },
+                { 
+                    "item_name": "vodka tonic", 
+                    "price": 650 
+                },
+                { 
+                    "item_name": "servicio chelada", 
+                    "price": 200 
+                },
+                { 
+                    "item_name": "blue lagoon", 
+                    "price": 600 
+                },
+                { 
+                    "item_name": "servicio michelada", 
+                    "price": 250 
+                },
+                { 
+                    "item_name": "sangría", 
+                    "price": 500 
+                },
+                { 
+                    "item_name": "tinto de verano", 
+                    "price": 600 
+                },
+                { 
+                    "item_name": "piña colada", 
+                    "price": 600  
+                }
+
+            ],
+
+            "drinks": [
+                { 
+                    "item_name": "Agua Natural 1.5 L", 
+                    "price": 350 
+                },
+                { 
+                    "item_name": "Agua Natural 500 ML", 
+                    "price": 250 
+                },
+                { 
+                    "item_name": "Energizante", 
+                    "price": 500 
+                },
+                { 
+                    "item_name": "Refrescos Pepsy y 7UP", 
+                    "price": 300 
+                },
+                { 
+                    "item_name": "Refresco Santa", 
+                    "price": 250 
+                },
+                { 
+                    "item_name": "Jugos Naturales", 
+                    "price": 300 
+                },
+                { 
+                    "item_name": "Cerveza Cristal", 
+                    "price": 350 
+                },
+                { 
+                    "item_name": "Cerveza Heineken", 
+                    "price": 540 
+                },
+                { 
+                    "item_name": "Cerveza Krombacher", 
+                    "price": 250 
+                },
+                { 
+                    "item_name": "Cerveza 8.6", 
+                    "price": 370 
+                },
+                { 
+                    "item_name": "vino tinto",  
+                    "price": 1000  
+                },
+                { 
+                    "item_name": "black tears aguardiente", 
+                    "price": 200 
+                },
+                { 
+                    "item_name": "hab club añejo 7 anos", 
+                    "price": 500 
+                },
+                { 
+                    "item_name": "black tears super dry", 
+                    "price": 260 
+                },
+                { 
+                    "item_name": "ron santiago 11 anos", 
+                    "price": 750 
+                },
+                { 
+                    "item_name": "black tears dry spiced", 
+                    "price": 300 
+                },
+                { 
+                    "item_name": "ron santiago 12 anos", 
+                    "price": 800 
+                },
+                { 
+                    "item_name": "hab club añejo reserva", 
+                    "price": 300 
+                },
+                { 
+                    "item_name": "pacto navío", 
+                    "price": 950 
+                },
+                { 
+                    "item_name": "hab club ritual", 
+                    "price": 500 
+                },
+                { 
+                    "item_name": "olmeca blanco", 
+                    "price": 400 
+                },
+                { 
+                    "item_name": "dark chocolate", 
+                    "price": 500 
+                },
+                { 
+                    "item_name": "olmeca reposado", 
+                    "price": 500 
+                },
+                { 
+                    "item_name": "viuda de romero", 
+                    "price": 500 
+                },
+                { 
+                    "item_name": "johnnie walker red label", 
+                    "price": 750 
+                },
+                { 
+                    "item_name": "black & white whisky", 
+                    "price": 500 
+                },
+                { 
+                    "item_name": "brandy torre 10", 
+                    "price": 400 
+                },
+                { 
+                    "item_name": "vermouth blanco", 
+                    "price": 250 
+                },
+                { 
+                    "item_name": "brandy torre 15", 
+                    "price": 450 
+                },
+                { 
+                    "item_name": "vermouth rosso", 
+                    "price": 250 
+                },
+                { 
+                    "item_name": "ginebra", 
+                    "price": 300 
+                },
+                { 
+                    "item_name": "vodka", 
+                    "price": 250 
+                }
+            ],
+
+            "infusions": [
+                { 
+                    "item_name": "Cafe Expresso", 
+                    "price": 150 
+                },
+                { 
+                    "item_name": "Cafe Americano", 
+                    "price": 150 
+                },
+                { 
+                    "item_name": "Cafe Cortado", 
+                    "price": 170 
+                },
+                { 
+                    "item_name": "Cafe con Leche", 
+                    "price": 350 
+                },
+                { 
+                    "item_name": "Cafe Capuccino", 
+                    "price": 350 
+                },
+                { 
+                    "item_name": "Cafe Frapuccino", 
+                    "price": 350 
+                }
+            ]
+        }  
+} 

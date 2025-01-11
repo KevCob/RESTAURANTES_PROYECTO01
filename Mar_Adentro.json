@@ -1,0 +1,503 @@
+{
+    "type": "Bar-Restaurante-Cafeteria",
+    "name": "Mar adentro", 
+    "location": {
+        "address": "",
+        "municipe": "Plaza de la Revolucion",
+        "province": "La Habana",
+        "coordinates":  "23.142254422422297, -82.39922933157261"
+    },
+    "sector": "privado",
+    
+    "qualification": 4.5,
+    
+    "specialized_food": [ "Comida Mediterranea", "fusion", "cubana"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": 78332060,
+    
+    "capacity": 40,
+    
+    "reservation":  true,
+
+    "parking": true,
+
+    "delivery": false,
+
+    "electric generator": true,
+    
+    "hours": {
+        "monday": "9:00am - 12:00am",  
+        "tuesday": "9:00am - 12:00am",
+        "wednesday": "9:00am - 12:00am",
+        "thursday": "9:00am - 12:00am",
+        "friday": "9:00am - 12:00am",
+        "saturday": "9:00am - 12:00am",
+        "sunday": "9:00am - 12:00am"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": "Ingles",
+                    "price":1900 ,
+                    "description": "Huevos al gusto, tocino, tostadas con matequilla y salchichas "
+                },
+                {
+                    "item_name": "Continental",
+                    "price":1900 ,
+                    "description": "Huevos al gusto,pan con mantequilla, mermelada y ensalada de frutas tropicales "
+                },
+                {
+                    "item_name": "Americano",
+                    "price":2100 ,
+                    "description": "Huevos al gusto, pan con mantequilla, tocino, jamon y papas hash brown "
+                },
+                {
+                    "item_name": "Cesta de pan",
+                    "price":750 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Focaccia al romero",
+                    "price":700 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Focaccia de jamon serrano, tomate y rucula",
+                    "price":2000 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Bruschettas",
+                    "price":1800 ,
+                    "description": "Pan crujiente, oliva, tomate y rucula "
+                },
+                {
+                    "item_name": "Emapanadillas de cangrejo, piña y queso",
+                    "price": 1200,
+                    "description": " "
+                },
+                {
+                    "item_name": "Casabe taino",
+                    "price":990 ,
+                    "description": "Tapas de casabe con cangrjo enchilado y maiz dulce "
+                },
+                {
+                    "item_name": "Tacos de vaca frita o pescado",
+                    "price":1900 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Ceviche mar adentro",
+                    "price":1900 ,
+                    "description": " Dados de pescado blanco o azul, cebolla, limon y culantro"
+                },
+                {
+                    "item_name": "Rollitos de salmon",
+                    "price":2200 ,
+                    "description": " Rollitos con queso crema y frutos secos"
+                },
+                {
+                    "item_name": "Carpaccio de tuna",
+                    "price":2300 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Sushi/nigiri",
+                    "price":2000 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Dumplings de carne",
+                    "price": 1800 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Carpaccio de res",
+                    "price":2400 ,
+                    "description": "Con alcaparras, rucula y parmesano "
+                }
+            ],
+                
+            "mains": [
+                {
+                    "item_name": "Pollo horneado",
+                    "price":2300 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pechuga de pollo grillada",
+                    "price":2500 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Chilindron de cordero al tinto",
+                    "price":3000 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Masas de cerdo confitadas",
+                    "price":2900 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Lonjas de cerdo asadas en cazuela",
+                    "price": 3100,
+                    "description": " "
+                },
+                {
+                    "item_name": "Costillas guajiras",
+                    "price":3300 ,
+                    "description": "Costillas de cerdo al hierro "
+                },
+                {
+                    "item_name": "Vaca frita/ropa vieja",
+                    "price":2500 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Bistec de palomilla",
+                    "price":6500 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Chivito uruguayo",
+                    "price":7900 ,
+                    "description": "Bistec de res, papas fritas, arroz blanco y dos huevos fritos "
+                },
+                {
+                    "item_name": "Camarones enchilados/al ajillo",
+                    "price":3300 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Langosta enchilada o con mantequilla",
+                    "price":4100 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pesca del dia",
+                    "price":2900 ,
+                    "description": "Pescado grille y pisto de vegetales "
+                },
+                {
+                    "item_name": "Solomillo con sal gruesa y romero",
+                    "price":7500 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Picana a la parrilla",
+                    "price":12000 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Barbacoa para dos",
+                    "price":14000 ,
+                    "description": "Chorizos varios, churrascos, pollo y cerdo "
+                },
+                {
+                    "item_name": "Ribeye con mantequilla y romero",
+                    "price":9800 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Churrasco grillado con adobo provenzal",
+                    "price":7000 ,
+                    "description": " "
+                }
+            ],
+
+            "fittings": [
+                {
+                    "item_name": "Arroz blanco",
+                    "price":500 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Arroz verde",
+                    "price":500 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Frijoles dormidos",
+                    "price": 500,
+                    "description": " "
+                },
+                {
+                    "item_name": "Moros y cristianos",
+                    "price":500,
+                    "description": " "
+                },
+                {
+                    "item_name": "Tostones",
+                    "price":500 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Maduros",
+                    "price":500 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pure de boniato",
+                    "price":500 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Ensalada cesar",
+                    "price": 2000,
+                    "description": "Lechuga, pollo, bacon, crutones y aderezo "
+                },
+                {
+                    "item_name": "Ensalada de la huerta",
+                    "price":1200 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Ensalada maradentro",
+                    "price":2200 ,
+                    "description": "Lechuga, rucula, tomate, parmesano, frutos secos y camarones grille "
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": "Napolitana",
+                    "price":1600 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Jamon cocido",
+                    "price":1800 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Atun y cebolla",
+                    "price":1900 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Jamon serrano y rucula",
+                    "price":2500 ,
+                    "description": " "
+                }
+            ],
+
+            "paste": [
+                {
+                    "item_name": "Carbonara",
+                    "price":2500 ,
+                    "description": ""
+                },
+                {
+                    "item_name": "Fruti di mare",
+                    "price":3300 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "A la vodka y camarones",
+                    "price":2400 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "A la bolognesa",
+                    "price":2500 ,
+                    "description": " "
+                }
+            ],
+
+            "additions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": " Habanero",
+                    "price":1800 ,
+                    "description": "Pollo, vegetales y queso "
+                },
+                {
+                    "item_name": "Griego",
+                    "price": 1900,
+                    "description": "Vaca frita, queso y limon "
+                },
+                {
+                    "item_name": "Cubano",
+                    "price": 2000,
+                    "description": "Cerdo, refrito de frijoles negros y platano en tentacion "
+                },
+                {
+                    "item_name": "Caribeno",
+                    "price":1800 ,
+                    "description": "Atun, pina, alioli y vegetales "
+                },
+                {
+                    "item_name": "Hamburguesa de la casa",
+                    "price":2000 ,
+                    "description": "Carne de cerdo y res, queso, bacon crujiente, aros de cebolla y vegetales "
+                }
+            ],
+            "cocktails": [
+                {
+                    "item_name": "Limonada natural",
+                    "price":750 
+                },
+                {
+                    "item_name": "Limonada frescura",
+                    "price":750 
+                },
+                {
+                    "item_name": "Limonada maradentro",
+                    "price":750
+                },
+                {
+                    "item_name": "Limonada clarete",
+                    "price": 750
+                },
+                {
+                    "item_name": "Limonada blanco de verano",
+                    "price":750 
+                },
+                {
+                    "item_name": "Limonada Marejada",
+                    "price": 750
+                },
+                {
+                    "item_name": "Limonada rubi",
+                    "price": 750 
+                },
+                {
+                    "item_name": "Limonada de pepino y jengibre",
+                    "price":750
+                }
+            ],
+
+            "drinks": [
+                {
+                    "item_name": "Jugos naturales",
+                    "price":350
+                },
+                {
+                    "item_name": "Agua nacional",
+                    "price":350 
+                },
+                {
+                    "item_name": "Agua importada",
+                    "price":400 
+                },
+                {
+                    "item_name": "Agua tonica nacional",
+                    "price":500 
+                },
+                {
+                    "item_name": "Agua tonica importada",
+                    "price":600 
+                },
+                {
+                    "item_name": "Refrescos nacionales",
+                    "price":450 
+                },
+                {
+                    "item_name": "refrescos importados",
+                    "price":600
+                },
+                {
+                    "item_name": "Maltas",
+                    "price":500 
+                },
+                {
+                    "item_name": "Energizantes",
+                    "price":600
+                },
+                {
+                    "item_name": "Batido de frutas",
+                    "price": 550
+                },
+                {
+                    "item_name": "Batido de helado",
+                    "price":700 
+                },
+                {
+                    "item_name": "Frangelico",
+                    "price":900 
+                },
+                {
+                    "item_name": "Kahlua",
+                    "price":700 
+                },
+                {
+                    "item_name": "Sambuca",
+                    "price": 700
+                },
+                {
+                    "item_name": "Pernod ricard",
+                    "price":700 
+                },
+                {
+                    "item_name": "Amaretto",
+                    "price":900 
+                },
+                {
+                    "item_name": "Baileys",
+                    "price":1200 
+                },
+                {
+                    "item_name": "Jagermeister",
+                    "price":900 
+                },
+                {
+                    "item_name": "Campari",
+                    "price":1000 
+                },
+                {
+                    "item_name": "Limoncello",
+                    "price":700 
+                },
+                {
+                    "item_name": "Carajillo",
+                    "price":700 
+                },
+                {
+                    "item_name": "Vino miguel torres loco de piedra",
+                    "price": 850
+                },
+                {
+                    "item_name": "Viña esmeralda",
+                    "price":850
+                }
+            ],
+
+            "infusions": [
+                {
+                    "item_name": "Expresso americano",
+                    "price":400
+                },
+                {
+                    "item_name": "Cortado",
+                    "price":450
+                    
+                },
+                {
+                    "item_name": "Capuccino",
+                    "price":600 
+                },
+                {
+                    "item_name": "Frapuccino",
+                    "price":900 
+                },
+                {
+                    "item_name": "Cafe bombon",
+                    "price":890 
+                },
+                {
+                    "item_name": "Te",
+                    "price":500 
+                }
+            ]
+        }  
+} 

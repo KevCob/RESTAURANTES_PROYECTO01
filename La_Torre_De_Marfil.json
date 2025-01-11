@@ -1,0 +1,377 @@
+{
+    "type": "Restaurante",
+    "name": "La Torre De Marfil", 
+    "location": {
+        "address": "Calle Mercaderes entre Obispo y Obrapia",
+        "municipe": "Habana Vieja",
+        "province": "La Habana",
+        "coordinates":  "23.139151699462953, -82.35008075935141"
+    },
+    "sector": "privado",
+    
+    "qualification": 4.8,
+    
+    "specialized_food": ["China", "Caribeña", "Mediterránea", "Cubana"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": 52667604,
+    
+    "capacity": 120,
+    
+    "reservation":  true,
+
+    "parking": false,
+
+    "delivery": false,
+
+    "electric generator": true,
+
+    "hours": {
+        "monday": "11:00am - 11:00pm",  
+        "tuesday": "11:00am - 11:00pm",
+        "wednesday": "11:00am - 11:00pm",
+        "thursday": "11:00am - 11:00pm",
+        "friday": "11:00am - 11:00pm",
+        "saturday": "11:00am - 11:00pm",
+        "sunday": "11:00am - 11:00pm"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": "La Torre de Marfil",
+                    "price": 1100,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Bruschettas",
+                    "price": 650,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Ensalada de vegetales",
+                    "price": 650,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Ensalada de verduras y pollo",
+                    "price": 750,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Coctel de langosta",
+                    "price": 1550,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Coctel de camarones",
+                    "price": 1150,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Maripositas chinas",
+                    "price": 500,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Vegetales salteados",
+                    "price": 550,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Pulpo al pimentón",
+                    "price": 2500,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Shop Suey de marisco",
+                    "price": 950,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Sopa estilo Oriental",
+                    "price": 750,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Croquetas de la casa",
+                    "price": 750,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Fritura de malanga con miel y mostaza",
+                    "price": 650,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Crema de calabaza y malanga",
+                    "price": 850,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Tacos de cerdo",
+                    "price": 950,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Tacos de vegetales",
+                    "price": 650,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Tacos de pollo",
+                    "price": 750,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Tacos de ropa vieja",
+                    "price": 800,
+                    "description": " "
+                  }
+            ],
+                
+            "mains": [
+               {
+                    "item_name": "Pollo al estilo Torre de Marfil",
+                    "price": 1750,
+                    "description": "Asado al carbón, ahumado, marinado al estilo asiático"
+                },
+                {
+                    "item_name": "Pollo grillé",
+                    "price": 1350,
+                    "description": " "
+                },
+                {
+                    "item_name": "Cerdo al estilo Torre de Marfil",
+                    "price": 2300,
+                    "description": "Asado al carbón, ahumado, marinado al estilo asiático"
+                },
+                {
+                    "item_name": "Cerdo Asado con salsa de mostaza y romero",
+                    "price": 2100,
+                    "description": " "
+                },
+                {
+                    "item_name": "Combinación marinera a la baracoesa",
+                    "price": 2550,
+                    "description": "Pescado y camarones con leche de coco"
+                },
+                {
+                    "item_name": "Pescado grillé",
+                    "price": 1650,
+                    "description": " "
+                },
+                {
+                    "item_name": "Grillada del Mar",
+                    "price": 5800,
+                    "description": "Pescado y marisco del día"
+                },
+                {
+                    "item_name": "Grillada de Mar y Tierra",
+                    "price": 8500,
+                        "description": " "
+                },
+                {
+                    "item_name": "Grillada de Carne",
+                    "price": 3500,
+                    "description": " "
+                },
+                {
+                    "item_name": "Langosta al gusto",
+                    "price": 4800,
+                    "description": "Al grill, al ajillo, a la piña, enchilada"
+                },
+                {
+                    "item_name": "Camarones al gusto",
+                    "price": 2200,
+                    "description": "Al grill, al ajillo, enchilado"
+                },
+                {
+                    "item_name": "Cazuelita caribeña con frutos del mar",
+                    "price": 4300,
+                    "description": "Pescado y marisco del día"
+                },
+                {
+                    "item_name": "Estofado de res con zanahorias confitadas",
+                    "price": 1850,
+                    "description": " "
+                },
+                {
+                    "item_name": "Ropa vieja",
+                    "price": 1600,
+                    "description": " "
+                },
+                {
+                    "item_name": "Vaca Frita",
+                    "price": 1600,
+                    "description": " "
+                },
+                {
+                    "item_name": "Arroz frito al estilo de la casa",
+                    "price": 1200,
+                    "description": " "
+                },
+                {
+                    "item_name": "Arroz caldoso de la tierra",
+                    "price": 1750,
+                    "description": " "
+                },
+                {
+                    "item_name": "Arroz caldoso marinero",
+                    "price": 2850,
+                    "description": " "
+                },
+                {
+                    "item_name": "Arroz caldoso Mar y Tierra",
+                    "price": 3850,
+                    "description": " "
+                }
+                ],
+
+            "fittings": [
+                {
+                    "item_name": "Arroz congris",
+                    "price": 400,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Arroz blanco",
+                    "price": 300,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Ensalada de estación",
+                    "price": 350,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Vianda con mojo",
+                    "price": 350,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Ración de tostones",
+                    "price": 450,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Frijoles negros",
+                    "price": 500,
+                    "description": " "
+                  }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": "Pizza de queso",
+                    "price": 1200,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Pizza especial de la casa",
+                    "price": 2100,
+                    "description": " "
+                  }
+            ],
+
+            "paste": [
+                {
+                    "item_name": "Pastas cortas Rigatoni Frutti di mare",
+                    "price": 2700,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Espaguetis con salsa nápoles",
+                    "price": 1100,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Espaguetis a la bolognesa",
+                    "price": 1600,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Espaguetis con vegetales",
+                    "price": 1200,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Espaguetis al alioli con camarones",
+                    "price": 1750,
+                    "description": " "
+                  }
+            ],
+
+            "additions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "desserts": [
+                {
+                    "name": "Helado con frutas confitadas",
+                    "price": 650,
+                    "description": " "
+                  },
+                  {
+                    "name": "Tarta semifría",
+                    "price": 550,
+                    "description": " "
+                  },
+                  {
+                    "name": "Brownie con helado",
+                    "price": 750,
+                    "description": " "
+                  },
+                  {
+                    "name": "Mixto Cubano",
+                    "price": 550,
+                    "description": " "
+                  },
+                  {
+                    "name": "Postres caseros",
+                    "price": 550,
+                    "description": " "
+                  },
+                  {
+                    "name": "Boniatillo con Coco estilo Omara Portuondo",
+                    "price": 650,
+                    "description": " "
+                  }
+            ],
+            "cocktails": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "drinks": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "infusions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ]
+        }  
+} 

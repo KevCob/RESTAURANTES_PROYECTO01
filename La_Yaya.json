@@ -1,0 +1,208 @@
+{
+    "type": "Restaurante",
+    "name": "La Yuya", 
+    "location": {
+        "address": "100 Y 51",
+        "municipe": "Marianao",
+        "province": "La Habana",
+        "coordinates":  "23.081201100821605, -82.4216785238977"
+    },
+    "sector": "particular",
+    
+    "qualification": 5,
+    
+    "specialized_food": ["mixta"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": 52016522,
+    
+    "capacity": 30,
+    
+    "reservation":  true,
+
+    "parking": true,
+
+    "delivery": false,
+
+    "electric generator": true,
+    
+    "hours": {
+        "monday": "11:00am-11:00pm",  
+        "tuesday": "11:00am-11:00pm",
+        "wednesday": "11:00am-11:00pm",
+        "thursday": "11:00am-11:00pm",
+        "friday": "11:00am-11:00pm",
+        "saturday": "11:00am-11:00pm",
+        "sunday": "11:00am-11:00pm"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": "Superpicadera",
+                    "price": 2500,
+                    "description": " "
+                },
+                {
+                    "item_name": "Tostones rellenos",
+                    "price": 600,
+                    "description": " "
+                },
+                {
+                    "item_name": "Frituras de malanga",
+                    "price": 500,
+                    "description": " "
+                },
+                {
+                    "item_name": "Papas fritas",
+                    "price": 500,
+                    "description": " "
+                },
+                {
+                    "item_name": "Croquetas",
+                    "price": 600,
+                    "description": " "
+                }
+            ],
+                
+            "mains": [
+                {
+                    "item_name": "Fajitas de pollo con papa",
+                    "price": 900,
+                    "description": " "
+                }
+            ],
+
+            "fittings": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": "Pizza napolitana",
+                    "price": 1000,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pizza doble queso",
+                    "price": 1300,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pizza de jamon",
+                    "price": 1350,
+                    "description": " "
+                }
+            ],
+
+            "paste": [
+                {
+                    "item_name": "Spaguettis con queso gouda",
+                    "price": 700,
+                    "description": ""
+                },
+                {
+                    "item_name": "Spaguettis doble queso",
+                    "price": 1000,
+                    "description": " "
+                }
+            ],
+
+            "additions": [
+                {
+                    "item_name": "Jamon",
+                    "price": 260,
+                    "description": " "
+                },
+                {
+                    "item_name": "Queso",
+                    "price": 260,
+                    "description": " "
+                },
+                {
+                    "item_name": "Salami",
+                    "price": 200,
+                    "description": " "
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": " Hamburguesa",
+                    "price": 400,
+                    "description": " "
+                },
+                {
+                    "item_name": "Hamburguesa yuya",
+                    "price": 900,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pan con jamon",
+                    "price": 350,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pan con perro",
+                    "price": 280,
+                    "description": " "
+                }
+            ],
+
+            "desserts": [
+                {
+                    "item_name": "Helados gusto",
+                    "price": 1000,
+                    "description": " "
+                }
+            ],
+            "cocktails": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ],
+
+            "drinks": [
+                {
+                    "item_name": "Refrescos Importados",
+                    "price": 250
+                },
+                {
+                    "item_name": "Cervezas importadas",
+                    "price": 250
+                },
+                {
+                    "item_name": "jugo de lata",
+                    "price": 280
+                },
+                {
+                    "item_name": "jugos caja",
+                    "price": 650
+                },
+                {
+                    "item_name": "Malta Santa Isabel",
+                    "price": 280
+                },
+                {
+                    "item_name": "Cerveza Cubelazo",
+                    "price": 2700
+                },
+                {
+                    "item_name": "Termo de cerveza",
+                    "price": 2000
+                }
+            ],
+
+            "infusions": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ]
+        }  
+} 

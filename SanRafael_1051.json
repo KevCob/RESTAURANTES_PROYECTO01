@@ -1,0 +1,277 @@
+{
+    "type": "Bar-Restaurante",
+    "name": "San Rafael 1051", 
+    "location": {
+        "address": "San Fransico entre San Rafael y San Martin",
+        "municipe": "Centro Habana",
+        "province": "La Habana",
+        "coordinates":  "23.13562239054984, -82.37745889737107"
+    },
+    "sector": "privado",
+    
+    "qualification": 3.7,
+    
+    "specialized_food": ["americana", "internacional"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": 58058576,
+    
+    "capacity": 25,
+    
+    "reservation":  true,
+
+    "parking": true,
+
+    "delivery": false,
+
+    "electric generator": true,
+    
+    "hours": {
+        "monday": "12:00pm - 12:00am",  
+        "tuesday": "12:00pm - 12:00am",
+        "wednesday": "12:00pm - 12:00am",
+        "thursday": "12:00pm - 12:00am",
+        "friday": "12:00pm - 12:00am",
+        "saturday": "12:00pm - 12:00am",
+        "sunday": "12:00pm - 12:00am"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": "croquetas de la casa",
+                    "price": 850,
+                    "description": " "
+                },
+                {
+                    "item_name": "tabla de serrano y queso",
+                    "price": 1450,
+                    "description": " "
+                },
+                {
+                    "item_name": "nuggets de pollo",
+                    "price": 950,
+                    "description": " "
+                },
+                {
+                    "item_name": "tacos",
+                    "price": 1150,
+                    "description": " "
+                },
+                {
+                    "item_name": "brusquetas mixtas",
+                    "price": 850,
+                    "description": " "
+                },
+                {
+                    "item_name": "ensalada de atun",
+                    "price": 1100,
+                    "description": " "
+                },
+                {
+                    "item_name": "ensalada de pollo",
+                    "price": 1100,
+                    "description": " "
+                },
+                {
+                    "item_name": "ensalada del mar",
+                    "price": 1300,
+                    "description": " "
+                }
+            ],
+                
+            "mains": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "fittings": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "paste": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "additions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": "entrepan clasico",
+                    "price": 1300,
+                    "description": " "
+                },
+                {
+                    "item_name": "entrepan cubano",
+                    "price": 1500,
+                    "description": " "
+                },
+                {
+                    "item_name": "entrepan marinero",
+                    "price": 1300,
+                    "description": " "
+                },
+                {
+                    "item_name": "entrepan iberico",
+                    "price": 1500,
+                    "description": " "
+                },
+                {
+                    "item_name": "entrepan vaquero",
+                    "price": 1300,
+                    "description": " "
+                },
+                {
+                    "item_name": "entrepan de crispy chicken",
+                    "price": 1500,
+                    "description": " "
+                },
+                {
+                    "item_name": "hamburguesa black panther",
+                    "price": 2400,
+                    "description": " "
+                },
+                {
+                    "item_name": "hamburguesa megaburger",
+                    "price": 2750,
+                    "description": " "
+                },
+                {
+                    "item_name": "hamburguesa hawaiana",
+                    "price": 1650,
+                    "description": " "
+                },
+                {
+                    "item_name": "hamburguesa 1051",
+                    "price": 2000,
+                    "description": " "
+                },
+                {
+                    "item_name": "hamburguesa parrillera",
+                    "price": 1920,
+                    "description": " "
+                },
+                {
+                    "item_name": "hamburguesa sweet burger",
+                    "price": 1100,
+                    "description": " "
+                },
+                {
+                    "item_name": "hamburguesa deluxe",
+                    "price": 1550,
+                    "description": " "
+                },
+                {
+                    "item_name": "hamburguesa cheese burger",
+                    "price": 1790,
+                    "description": " "
+                },
+                {
+                    "item_name": "hamburguesa cubana",
+                    "price": 2140,
+                    "description": " "
+                }
+            ],
+
+            "desserts": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+            "cocktails": [
+                {
+                    "item_name": "caipiriña",
+                    "price": 580
+                },
+                {
+                    "item_name": "caipiroska",
+                    "price": 580
+                },
+                {
+                    "item_name": "gin tonic",
+                    "price": 650
+                },
+                {
+                    "item_name": "sangria",
+                    "price": 650
+                },
+                {
+                    "item_name": "mojito",
+                    "price": 580
+                },
+                {
+                    "item_name": "cuba libre",
+                    "price": 580
+                },
+                {
+                    "item_name": "vodka tonic",
+                    "price": 650
+                }
+            ],
+
+            "drinks": [
+                {
+                    "item_name": "agua natural",
+                    "price": 300
+                },
+                {
+                    "item_name": "refresco importado",
+                    "price": 380
+                },
+                {
+                    "item_name": "jugo natural",
+                    "price": 390
+                },
+                {
+                    "item_name": "batido de fruta",
+                    "price": 530
+                },
+                {
+                    "item_name": "cerveza",
+                    "price": 450
+                },
+                {
+                    "item_name": "cerveza cristal, heineken, corona",
+                    "price": 650
+                },
+                {
+                    "item_name": "servicio michelada",
+                    "price": 250
+                }
+            ],
+
+            "infusions": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ]
+        }  
+} 

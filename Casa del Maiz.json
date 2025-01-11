@@ -1,0 +1,281 @@
+{
+    "type": "Restaurante-Cafeteria",
+    "name": "Casa del Maiz", 
+    "location": {
+        "address": " Calzada de Managua y San Agustin, Arroyo Naranjo",
+        "municipe": "Arroyo Naranjo",
+        "province": "La Habana",
+        "coordinates":  "23.07258141652537, -82.3570826358098"
+    },
+    "sector": "privado",
+    
+    "qualification": null,
+    
+    "specialized_food": ["cubana"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": 52003758,
+    
+    "capacity": 20,
+    
+    "reservation":  false,
+
+    "parking": true,
+
+    "delivery": null,
+
+    "electric generator": true,
+    
+    "hours": {
+        "monday": "10:00am - 8:00pm",  
+        "tuesday": "10:00am - 8:00pm",
+        "wednesday": "10:00am - 8:00pm",
+        "thursday": "10:00am - 8:00pm",
+        "friday": "10:00am - 8:00pm",
+        "saturday": "10:00am - 8:00pm",
+        "sunday": "10:00am - 8:00pm"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": "Fritura de maiz",
+                    "price": 350 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Fritura de Malanga",
+                    "price": 450 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Toston Relleno",
+                    "price": 450 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Chicharron",
+                    "price": 500 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Garbanzos",
+                    "price": 550 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Cubito de Maiz",
+                    "price": 1070 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Garbanzos Fritos",
+                    "price": 450 ,
+                    "description": " "
+                }
+            
+            ],
+                
+            "mains": [
+                {
+                    "item_name": "Fricase de Cerdo",
+                    "price": 1150 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Bistec de Cerdo",
+                    "price": 1250 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Lomo Ahumado",
+                    "price": 1450 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Costilla Ahumada",
+                    "price": 1450 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Fajitas de Cerdo",
+                    "price": 1150 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Fajita de Pollo",
+                    "price": 1150 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Alitas de Pollo",
+                    "price": 1050 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pollo en Cazuela",
+                    "price": 1050 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pechuga de Pollo",
+                    "price": 1650 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Filete de Pescado",
+                    "price": 1480 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Eperlan",
+                    "price": 1280 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Ropa Vieja",
+                    "price": 1420 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Chilindron de Carnero",
+                    "price": 1420 ,
+                    "description": " "
+                }
+                
+            ],
+
+            "fittings": [
+                {
+                    "item_name": "Arroz Salteado",
+                    "price": 530 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Arroz Moro",
+                    "price": 250 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Arroz Blanco",
+                    "price": 180 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Tamal Especial",
+                    "price": 90 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Toston Criollo",
+                    "price": 450 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Ensalada Mixta",
+                    "price": 450 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Aji Relleno",
+                    "price": 650 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Malanga Hervida",
+                    "price": 425 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pure de Boniato",
+                    "price": 250 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Platano Maduro Frito",
+                    "price": 400 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Yuca con Mojo",
+                    "price": 250 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Fufu de Platano",
+                    "price": 300,
+                    "description": " "
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "paste": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "additions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "desserts": [
+                {
+                    "item_name": "Helado Pote de 1lt",
+                    "price": 850 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Helado Pote Pequeno",
+                    "price": 490 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Arroz con Leche",
+                    "price": 200 ,
+                    "description": ""
+                }
+            ],
+            "cocktails": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ],
+
+            "drinks": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ],
+
+            "infusions": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ]
+        }  
+} 

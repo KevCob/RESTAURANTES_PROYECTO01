@@ -1,0 +1,267 @@
+{
+    "type": "Bar-Restaurante-Cafeteria",
+    "name": "Rico Rico", 
+    "location": {
+        "address": "Calle Ayestarán entre Perfecto Lacoste y Aranguren",
+        "municipe": "Cerro",
+        "province": "La Habana",
+        "coordinates":  "23.126245278270186, -82.38010644455453"
+    },
+    "sector": "privado",
+    
+    "qualification": 2.4,
+    
+    "specialized_food": ["italiana"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": 78701632,
+    
+    "capacity": null,
+    
+    "reservation":  false,
+
+    "parking": true,
+
+    "delivery": true,
+
+    "electric generator": false,
+    
+    "hours": {
+        "monday": "9:00am - 11:00pm",  
+        "tuesday": "9:00am - 11:00pm",
+        "wednesday": "9:00am - 11:00pm",
+        "thursday": "9:00am - 11:00pm",
+        "friday": "9:00am - 11:00pm",
+        "saturday": "9:00am - 11:00pm",
+        "sunday": "9:00am - 11:00pm"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": "Ensalada fria de atun (pequena)",
+                    "price": 645 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Ensalada fria de atun (mediana)",
+                    "price": 1200 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Ensalada fria de atun (grande)",
+                    "price": 2205 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Ensalada fria de jamon y queso (pequeña)",
+                    "price": 495 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pizzeta de Napole",
+                    "price": 230 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pizzeta de Chorizo",
+                    "price":325 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Bastones de Queso",
+                    "price": 780 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Empanadas Gallegas",
+                    "price": 380 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Tequenos",
+                    "price": 350 ,
+                    "description": " "
+                }
+            ],
+                
+            "mains": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "fittings": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": "Pizza Napoles",
+                    "price": 920 ,
+                    "description": " "
+                }
+            ],
+
+            "paste": [
+                {
+                    "item_name": "Pasta Napoles",
+                    "price": 920 ,
+                    "description": ""
+                },
+                {
+                    "item_name": "Pasta Carbonara",
+                    "price": 1000 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Calzone Napoles",
+                    "price": 1090 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Megacalzone",
+                    "price": 1440 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Lasaña Bolonesa",
+                    "price": 1550 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Lasana de Jamon",
+                    "price": 1490 ,
+                    "description": " "
+                }
+            ],
+
+            "additions": [
+                {
+                    "item_name": "Aceitunas",
+                    "price": 220 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pina",
+                    "price": 220 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Cebolla",
+                    "price": 400 ,
+                    "description": " "
+                },
+                {
+                    "item_name":"Atun",
+                    "price": 550,
+                    "description": " "
+                },
+                {
+                    "item_name": "Chorizo",
+                    "price": 2390,
+                    "description": " "
+                },
+                {
+                    "item_name": "Bacon",
+                    "price": 360 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Jamon",
+                    "price": 320,
+                    "description": " "
+                },
+                {
+                    "item_name": "Jamon serrano",
+                    "price": 480 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Parmesano",
+                    "price": 350 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Gouda",
+                    "price": 360 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Lomo ahumado",
+                    "price": 380 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Queso azul",
+                    "price": 300 ,
+                    "description": " "
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "desserts": [
+                {
+                    "item_name": "Pastelito de hojaldre de guayaba o coco",
+                    "price": 260,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pastelito de ojaldre de jamon y queso",
+                    "price": 280 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Flan",
+                    "price": 590 ,
+                    "description": " "
+                }
+            ],
+            "cocktails": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "drinks": [
+                {
+                    "item_name": "Frappi Rico",
+                    "price": 180
+                },
+                {
+                    "item_name": "Mega Bati Bati",
+                    "price": 990
+                },
+                {
+                    "item_name": "Super Bati Bati",
+                    "price": 785 
+                },
+                {
+                    "item_name": "Bati Frutas",
+                    "price": 675
+                }
+            ],
+
+            "infusions": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ]
+        }  
+} 

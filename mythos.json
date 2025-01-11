@@ -1,0 +1,246 @@
+{
+    "type": "Bar-Restaurante-Cafeteria",
+    "name": "Mythos", 
+    "location": {
+        "address": "Calle Cuba No. 211 entre Empedrado y O'Reilly",
+        "municipe": "Habana Vieja",
+        "province": "La Habana",
+        "coordinates":  "23.140346357851502, -82.35253591702202"
+    },
+    "sector": "privado",
+    
+    "qualification": 5,
+    
+    "specialized_food": ["Griega"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": 63691718,
+    
+    "capacity": 30,
+    
+    "reservation":  true,
+
+    "parking": null,
+
+    "delivery": false,
+
+    "electric generator": true,
+    
+    "hours": {
+        "monday": "8:00am - 11:00pm",  
+        "tuesday": "8:00am - 11:00pm",
+        "wednesday": "8:00am - 11:00pm",
+        "thursday": "8:00am - 11:00pm",
+        "friday": "8:00am - 11:00pm",
+        "saturday": "8:00am - 11:00pm",
+        "sunday": "8:00am - 11:00pm"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": "Hummus de Garbanzo",
+                    "price": 700,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Melitzanosalata",
+                    "price": 800,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Tzatziki",
+                    "price": 600,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Papas fritas con queso feta y orégano",
+                    "price": 1300,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Tyropitakias",
+                    "price": 1000,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Aceitunas marinadas con queso feta",
+                    "price": 700,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Griego pobre",
+                    "price": 750,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Saganaki",
+                    "price": 1500,
+                    "description": " "
+                  }
+            ],
+                
+            "mains": [
+                {
+                    "item_name": "Pastitsio",
+                    "price": 2300,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Imam",
+                    "price": 2000,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Saganaki de langosta o camarón",
+                    "price": 3500,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Saganaki de frutos del mar",
+                    "price": 4000,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Risotto de yogurt griego",
+                    "price": 3000,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Risotto de pulpo",
+                    "price": 3700,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Risotto de frutos del mar",
+                    "price": 4100,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Pulpo Grille",
+                    "price": 4200,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Solomillo de cerdo en salsa de limón griega",
+                    "price": 3500,
+                    "description": " "
+                  }
+            ],
+
+            "fittings": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "paste": [
+                {
+                    "item_name": "Pasta Mediterránea",
+                    "price": 3000,
+                    "description": "Pasta con queso feta, tomate natural, cebolla, pimiento, aceitunas negras"
+                  },
+                  {
+                    "item_name": "Pasta de Camarón al Anís",
+                    "price": 3200,
+                    "description": "Pasta con queso feta, tomate natural, cebolla, pimiento, aceitunas negras"
+                  }
+            ],
+
+            "additions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "desserts": [
+                {
+                    "item_name": "Tarta de Yogurt Griego con reducción de vino tinto",
+                    "price": 1000
+                }
+            ],
+            "cocktails": [
+                {
+                    "item_name": "Demeter",
+                    "price": 1800,
+                    "description": "Ginebra, mix de pepino y jengibre, zumo de piña"
+                  },
+                  {
+                    "item_name": "Afrodita",
+                    "price": 2000,
+                    "description": "Ginebra, mix no. 2, licor de orgeat"
+                  },
+                  {
+                    "item_name": "Persefone",
+                    "price": 2100,
+                    "description": "Ginebra, licor de grosella, vermouth rosso, jarabe de hibiscus"
+                  },
+                  {
+                    "item_name": "Hades",
+                    "price": 2500,
+                    "description": "Detalles no especificados"
+                  },
+                  {
+                    "item_name": "Dionisio",
+                    "price": 2800,
+                    "description": "Ron blanco, reducción de vino tinto, mix no. 3"
+                  },
+                  {
+                    "item_name": "Poseidón",
+                    "price": 2500,
+                    "description": "Detalles no especificados"
+                  },
+                  {
+                    "item_name": "Ares",
+                    "price": 2400,
+                    "description": "Ron oscuro, mix no. 5, tajin, mango"
+                  },
+                  {
+                    "item_name": "Apolo",
+                    "price": 2300,
+                    "description": "Ron blanco, Ruavieja, mix no. 7"
+                  }
+            ],
+
+            "drinks": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "infusions": [
+                {
+                    "item_name": "Freddo Expresso",
+                    "price": 450,
+                    "description": "Café batido servido con hielo"
+                  },
+                  {
+                    "item_name": "Freddo Capucchino",
+                    "price": 650,
+                    "description": "Café batido servido con leche, nata y hielo"
+                  }
+            ]
+        }  
+} 

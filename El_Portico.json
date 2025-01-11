@@ -1,0 +1,182 @@
+{
+    "type": "Bar-Restaurante",
+    "name": "El portico", 
+    "location": {
+        "address": "Dragones entre Aguila y C.Amistad",
+        "municipe": "Centro Habana",
+        "province": "La Habana",
+        "coordinates":  "23.133855118338467, -82.36151465263812"
+    },
+    "sector": "privado",
+    
+    "qualification": 5,
+    
+    "specialized_food": ["cubana"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": null,
+    
+    "capacity": 80,
+    
+    "reservation":  false,
+
+    "parking": false,
+
+    "delivery": false,
+
+    "electric generator": false,
+    
+    "hours": {
+        "monday": "cerrado",  
+        "tuesday": "abierto 24 horas",
+        "wednesday": "abierto 24 horas",
+        "thursday": "abierto 24 horas",
+        "friday": "abierto 24 horas",
+        "saturday": "abierto 24 horas",
+        "sunday": "abierto 24 horas"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": "pollo chiflado",
+                    "price": 400,
+                    "description": " "
+                },
+                {
+                    "item_name": "chuleton",
+                    "price": 950,
+                    "description": " "
+                },
+                {
+                    "item_name": "papas fritas",
+                    "price": 350,
+                    "description": " "
+                },
+                {
+                    "item_name": "croquetas",
+                    "price": 350,
+                    "description": " "
+                },
+                {
+                    "item_name": "tostones",
+                    "price": 250,
+                    "description": " "
+                }
+            ],
+                
+            "mains": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "fittings": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "paste": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "additions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "desserts": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+            "cocktails": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "drinks": [
+                {
+                    "item_name" : "cerveza dispensada (jarra)",
+                    "price" : 300
+                },
+                {
+                    "item_name" : "cerveza dispensada (termo)",
+                    "price" : 2000
+                },
+                {
+                    "item_name" : "cerveza parranda",
+                    "price" : 400
+                },
+                {
+                    "item_name" : "cerveza hollandia",
+                    "price" : 200
+                },
+                {
+                    "item_name" : "cerveza cacique",
+                    "price" : 240
+                },
+                {
+                    "item_name" : "cerveza unlaguer",
+                    "price" : 200
+                },
+                {
+                    "item_name" : "cerveza La Fria",
+                    "price" : 180
+                },
+                {
+                    "item_name" : "cerveza almara",
+                    "price" : 180
+                },
+                {
+                    "item_name" : "cerveza bucanero",
+                    "price" : 240
+                },
+                {
+                    "item_name" : "cerveza cristal",
+                    "price" : 250
+                }
+            ],
+
+            "infusions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ]
+        }  
+} 

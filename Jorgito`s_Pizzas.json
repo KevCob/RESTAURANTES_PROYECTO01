@@ -1,0 +1,172 @@
+{
+    "type": "Bar-Restaurante-Cafeteria",
+    "name": "Jorgito's Pizzas", 
+    "location": {
+        "address": "Pedroso entre Infanta y Cruz del Pader",
+        "municipe": "Cerro",
+        "province": "La Habana",
+        "coordinates":  "23.12090996621169, -82.37354001445844"
+    },
+    "sector": "particular",
+    
+    "qualification": 4.2,
+    
+    "specialized_food": ["italiana"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": 54031349,
+    
+    "capacity": 8,
+    
+    "reservation":  false,
+
+    "parking": false,
+
+    "delivery": true,
+
+    "electric generator": false,
+    
+    "hours": {
+        "monday": "11:00am - 11:00pm",  
+        "tuesday": "11:00am - 11:00pm",
+        "wednesday": "11:00am - 11:00pm",
+        "thursday": "11:00am - 11:00pm",
+        "friday": "11:00am - 11:00pm",
+        "saturday": "11:00am - 11:00pm",
+        "sunday": "11:00am - 11:00pm"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+                
+            ],
+                
+            "mains": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+                
+            ],
+
+            "fittings": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": "Pizza de napolitana",
+                    "price": 850,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pizza de chorizo",
+                    "price": 1000,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pizza de jamon",
+                    "price": 1000,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pizza de hawaiana",
+                    "price": 1150,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pizza de cebolla",
+                    "price": 100,
+                    "description": " "
+                }
+            ],
+
+            "paste": [
+                {
+                    "item_name": "Espaguetis",
+                    "price": 850,
+                    "description": ""
+                },
+                {
+                    "item_name": "Espaguetis de jamon",
+                    "price": 1100,
+                    "description": " "
+                },
+                {
+                    "item_name": "Espaguetis de chorizo",
+                    "price": 1000,
+                    "description": " "
+                }
+            ],
+
+            "additions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": "Hamburguesa",
+                    "price": 1200,
+                    "description": " "
+                },
+                {
+                    "item_name": "Hamburguesa de jamon y queso",
+                    "price": 1650,
+                    "description": ""
+                },
+                {
+                    "item_name": "Hamburguesa onbazar",
+                    "price": 2700,
+                    "description": " "
+                }
+            ],
+
+            "desserts": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+            "cocktails": [
+                {
+                    "item_name": "Pina colada",
+                    "price": 600 
+                }
+            ],
+
+            "infusions": [
+                {
+                    "item_name": "Cafe expreso",
+                    "price": 180
+                },
+                {
+                    "item_name": "Cafe cortado",
+                    "price": 220
+                    
+                },
+                {
+                    "item_name": "Capuchino",
+                    "price": 450
+                },
+                {
+                    "item_name": "Cafe bombon",
+                    "price": 450
+                }
+            ]
+        }  
+} 

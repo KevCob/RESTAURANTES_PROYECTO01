@@ -1,0 +1,152 @@
+{
+    "type": "Bar",
+    "name": "Mini Bar (Hotel Royalton Paseo Del Prado)", 
+    "location": {
+        "address": "Prado y Malecón",
+        "municipe": "Habana Vieja",
+        "province": "La Habana",
+        "coordinates":  "23.14556061167238, -82.35844252514089"
+    },
+    "sector": "estatal",
+    
+    "qualification": null,
+    
+    "specialized_food": ["bar"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": null,
+    
+    "capacity": null,
+    
+    "reservation":  true,
+
+    "parking": true,
+
+    "delivery": false,
+
+    "electric generator": true,
+    
+    "hours": {
+        "monday": "abierto 24 horas",  
+        "tuesday": "abierto 24 horas",
+        "wednesday": "abierto 24 horas",
+        "thursday": "abierto 24 horas",
+        "friday": "abierto 24 horas",
+        "saturday": "abierto 24 horas",
+        "sunday": "abierto 24 horas"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+                
+            "mains": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "fittings": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "paste": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "additions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "desserts": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+            "cocktails": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ],
+
+            "drinks": [
+                {
+                    "item_name": "Jugo de frutas / Fruit juice",
+                    "price": 360
+                  },
+                  {
+                    "item_name": "Refresco / Soda",
+                    "price": 390
+                  },
+                  {
+                    "item_name": "Agua tónica / Tonic water",
+                    "price": 450
+                  },
+                  {
+                    "item_name": "Agua natural / Natural water",
+                    "price": 600
+                  },
+                  {
+                    "item_name": "Agua gaseada / Sparkling water",
+                    "price": 600
+                  },
+                  {
+                    "item_name": "Cerveza nacional / National beer",
+                    "price": 600
+                  },
+                  {
+                    "item_name": "Cerveza importada / Imported beer",
+                    "price": 750
+                  },
+                  {
+                    "item_name": "Ron en miniatura (45ml) / Miniature rum (45ml)",
+                    "price": 850
+                  }
+            ],
+
+            "infusions": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ]
+        }  
+} 

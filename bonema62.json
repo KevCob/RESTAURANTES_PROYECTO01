@@ -1,0 +1,598 @@
+{
+    "type": "Bar-Restaurante",
+    "name": "Bone Ma 62", 
+    "location": {
+        "address": "Bulevar de San Rafael entre Prado y Consulado",
+        "municipe": "Habana Vieja",
+        "province": "La Habana",
+        "coordinates":  "23.137509028109648, -82.35967851702206"
+    },
+    "sector": "privado",
+    
+    "qualification": 4.4,
+    
+    "specialized_food": ["Comida Cubana"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": 78602134,
+    
+    "capacity": 70,
+    
+    "reservation":  true,
+
+    "parking": false,
+
+    "delivery": false,
+
+    "electric generator": true,
+    
+    "hours": {
+        "monday": "9:00am - 12:00pm",  
+        "tuesday": "9:00am - 12:00pm",
+        "wednesday": "9:00am - 12:00pm",
+        "thursday": "9:00am - 12:00pm",
+        "friday": "9:00am - 12:00pm",
+        "saturday": "9:00am - 12:00pm",
+        "sunday": "9:00am - 12:00pm"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": "Papas Fritas",
+                    "price": 1050,
+                    "description": " "
+                },
+                {
+                    "item_name": "Falafel",
+                    "price": 1350,
+                    "description": " "
+                },
+                {
+                    "item_name": "Sopa de Lentejas",
+                    "price": 1050,
+                    "description": " "
+                }
+                
+            ],
+                
+            "mains": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "fittings": [
+                {
+                    "item_name": "Ensalada Mixta",
+                    "price": 950,
+                    "description": " "
+                },
+                {
+                    "item_name": "Coban Salata",
+                    "price": 1200,
+                    "description": "Tomate, Pepino, Cebolla, Perejil, Pimiento Verde y Limon"
+                },
+                {
+                    "item_name": "Caprese",
+                    "price": 1450,
+                    "description": "Queso Mozzarella, Tomate y Albahaca"
+                },
+                {
+                    "item_name": "Ensalada Nizarda",
+                    "price": 1800,
+                    "description": "Vegetales, Atún, Cebolla, Huevo Hervido y Aceitunas"
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": "Margarita",
+                    "price": 2000,
+                    "description": "Salsa de Tomate, Queso Mozzarella y Albahaca. Tomato Sauce, Mozzarella Cheese and Basil"
+                },
+                {
+                    "item_name": "Friarielli y Salchicha Italiana",
+                    "price": 3000,
+                    "description": "Pizza Blanca, Queso Mozzarella, Salchicha y Brocoli Italiano. White Pizza, Mozzarella Cheese, Sausage and Italian Broccoli"
+                },
+                {
+                    "item_name": "Funghi",
+                    "price": 2200,
+                    "description": "Salsa de Tomate, Queso Mozzarella y Champinones. Tomato Sauce, Mozzarella Cheese and Mushrooms"
+                },
+                {
+                    "item_name": "Vegetariana",
+                    "price": 2300,
+                    "description": "Salsa de Tomate, Queso Mozzarella y Vegetales de Estacion. Tomato Sauce, Mozzarella Cheese and Season Vegetables"
+                },
+                {
+                    "item_name": "4 Quesos",
+                    "price": 2600,
+                    "description": "Queso Mozzarella, Queso Azul, Queso Scamorza Ahumado y Queso Parmesano. Mozzarella Cheese, Blue Cheese, Smoked Scamorza Cheese and Parmesan Cheese"
+                },
+                {
+                    "item_name": "Hawaiana",
+                    "price": 2600,
+                    "description": "Salsa de Tomate, Queso Mozzarella, Jamon y Pina. Tomato Sauce, Mozzarella Cheese, Ham and Pineapple"
+                },
+                {
+                    "item_name": "Diabola",
+                    "price":2700 ,
+                    "description": "Salsa de Tomate, Queso Mozzarella, y Chorizo Picante. Tomato Sauce, Mozzarella Cheese and Spicy Salami"
+                },
+                {
+                    "item_name": "Pizza de Salami",
+                    "price": 2800,
+                    "description": "Salsa de Tomate, Queso Mozzarella y Salami. Tomato Sauce, Mozzarella Cheese and Salami"
+                },
+                {
+                    "item_name": "Jamon Serrano",
+                    "price": 3200,
+                    "description": "Queso Mozzarella, Jamon Serrano, Rucula, Tomate Natural y Queso Parmesano. Mozzarella Cheese, Serrano Ham, Arugula, Natural Tomato and Parmesan Cheese"
+                },
+                {
+                    "item_name": "Atun y Cebolla",
+                    "price": 2600,
+                    "description": "Salsa de Tomate, Atun y Cebolla. Tomato Sauce, Tuna and Onion"
+                }
+            ],
+
+            "paste": [
+                {
+                    "item_name": "Napolitana",
+                    "price": 1900,
+                    "description": "Pasta, Salsa de Tomate y Queso Parmesano. Pasta, Tomato Sauce and Parmesan Cheese"
+                },
+                {
+                    "item_name": "Arrabiata",
+                    "price": 2000,
+                    "description": "Pasta, Salsa de Tomate, Ajo, Chile Rojo y Aceite de Oliva. Pasta, Tomato Sauce, Garlic, Red Pepper and Olive Oil"
+                },
+                {
+                    "item_name": "Pesto",
+                    "price": 2200,
+                    "description": "Pasta, Aceite de Oliva, Albahaca y Queso Parmesano. Pasta, Olive Oil, Basil and Parmesan Cheese"
+                },
+                {
+                    "item_name": "Bolognesa",
+                    "price": 2800,
+                    "description": "Pasta with Bolognesa Sauce"
+                },
+                {
+                    "item_name": "Carbonara",
+                    "price": 2650,
+                    "description": "Pasta, Bacon, Huevos, Aceite de Oliva, Pimienta Negra, y Queso Parmesano. Pasta, Bacon, Eggs, Olive Oil, Black Pepper, and Parmesan Cheese"
+                }
+                
+            ],
+
+            "additions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": "Sandwich de Vegetales",
+                    "price": 1400,
+                    "description": " "
+                },
+                {
+                    "item_name": "Sandwich de Jamon y Queso",
+                    "price": 1650,
+                    "description": ""
+                },
+                {
+                    "item_name": "Sandwich de Res con Lechuga, Tomate y Cebolla",
+                    "price": 1800,
+                    "description": ""
+                },
+                {
+                    "item_name": "Sándwich de Atún",
+                    "price": 1700,
+                    "description": " "
+                },
+                {
+                    "item_name": "Sándwich de Jamón Serrano",
+                    "price": 2250,
+                    "description": " "
+                },
+                {
+                    "item_name": "Hamburguesa Natural Smash",
+                    "price": 2150,
+                    "description": " "
+                },
+                {
+                    "item_name": "Hamburguesa de Falafel",
+                    "price": 1900,
+                    "description": " "
+                },
+                {
+                    "item_name": "Hamburguesa Smash con Bacon y Huevo Frito",
+                    "price": 2500,
+                    "description": " "
+                },
+                {
+                    "item_name": "Doner Kebab (Pan)",
+                    "price": 1700,
+                    "description": "Pan, Pollo Asado Doner, Vegetales y Salsa"
+                },
+                {
+                    "item_name": "Durum Kebab (Tortilla)",
+                    "price": 1750,
+                    "description": "Tortilla de Harina, Pollo Asado Doner, Vegetales y Salsa"
+                },
+                {
+                    "item_name": "Doner Falafel",
+                    "price": 1300,
+                    "description": "Pan, Falafel, Vegetales y Salsa"
+                },
+                {
+                    "item_name": "Doner Kofte",
+                    "price": 1750,
+                    "description": "Pan, Kofte de Res, Vegetales y Salsa"
+                },
+                {
+                    "item_name": "Durum Kofte",
+                    "price": 1750,
+                    "description": "Tortilla de Harina, Kofte de Res, Vegetales y Salsa"
+                },
+                {
+                    "item_name": "Plato de Doner Kebab",
+                    "price": 2300,
+                    "description": "Pollo Asado Doner, Pan, Papas Fritas, Vegetales y Salsa"
+                },
+                {
+                    "item_name": "Iskender Kebab",
+                    "price": 2400,
+                    "description": "Pollo Asado Doner, Pan, Mantequilla, Salsa de Tomate, Yogurt y Vegetales"
+                },
+                {
+                    "item_name": "Plato de Kofte de Res",
+                    "price": 2500,
+                    "description": "Kofte de Res, Pan, Papas Fritas, Vegetales y Salsa"
+                }
+            
+            ],
+
+            "desserts": [
+                {
+                    "item_name": "Flan Custard",
+                    "price": 700,
+                    "description": " "
+                },
+                {
+                    "item_name": "Copa de Helado / Ice Cream Cup",
+                    "price": 900,
+                    "description": " "
+                },
+                {
+                    "item_name": "Copa Lolita / Ice Cream with Custard",
+                    "price": 1050,
+                    "description": ""
+                },
+                {
+                    "item_name": "Cheesecake",
+                    "price": 1150,
+                    "description": " "
+                }
+                
+            ],
+            "cocktails": [
+                {
+                    "item_name": "Cuba Libre",
+                    "price": 1500
+                },
+                {
+                    "item_name": "Mojito",
+                    "price": 1600
+                },
+                {
+                    "item_name": "Gin Basil Smash",
+                    "price": 1700
+                },
+                {
+                    "item_name": "Caipirinha",
+                    "price": 1400
+                },
+                {
+                    "item_name": "Strawberry Caipi",
+                    "price": 1550
+                },
+                {
+                    "item_name": "Daiquiri",
+                    "price": 1500
+                },
+                {
+                    "item_name": "Strawberry Daiquiri",
+                    "price": 1600
+                },
+                {
+                    "item_name": "Pina Colada",
+                    "price": 1700
+                },
+                {
+                    "item_name": "Strawberry Colada",
+                    "price": 1800
+                },
+                {
+                    "item_name": "Margarita",
+                    "price": 1600
+                },
+                {
+                    "item_name": "Whisky Sour",
+                    "price": 1650
+                },
+                {
+                    "item_name": "Espresso Martini",
+                    "price": 1650
+                },
+                {
+                    "item_name": "Sangría",
+                    "price": 1500
+                }
+            ],
+
+            "drinks": [
+                {
+                    "item_name": "Vino Tinto (Copa)",
+                    "price": 950
+                },
+                {
+                    "item_name": "Vino Blanco (Copa)",
+                    "price": 950
+                },
+                {
+                    "item_name": "Beefeater",
+                    "price": 1500
+                },
+                {
+                    "item_name": "Gordons Gin",
+                    "price": 1500
+                },
+                {
+                    "item_name": "Tanqueray",
+                    "price": 1600
+                },
+                {
+                    "item_name": "Tanqueray 10",
+                    "price": 1800
+                },
+                {
+                    "item_name": "Gin Mare",
+                    "price": 1950
+                },
+                {
+                    "item_name": "Malfy Gin",
+                    "price": 2000
+                },
+                {
+                    "item_name": "Botanist",
+                    "price": 2100
+                },
+                {
+                    "item_name": "London No. 1",
+                    "price": 1900
+                },
+                {
+                    "item_name": "Jameson",
+                    "price": 1400
+                },
+                {
+                    "item_name": "Ballantine's",
+                    "price": 1100
+                },
+                {
+                    "item_name": "Ballantine's 12",
+                    "price": 1400
+                },
+                {
+                    "item_name": "Jack Daniels",
+                    "price": 1650
+                },
+                {
+                    "item_name": "Johnnie Walker Red Label",
+                    "price": 1400
+                },
+                {
+                    "item_name": "Johnnie Walker Black Label",
+                    "price": 1600
+                },
+                {
+                    "item_name": "Chivas Regal 12 Anos",
+                    "price": 1500
+                },
+                {
+                    "item_name": "Glenlivet 15",
+                    "price": 1800
+                },
+                {
+                    "item_name": "Bruichladdich",
+                    "price": 1900
+                },
+                {
+                    "item_name": "Highland Park",
+                    "price": 2250
+                },
+                {
+                    "item_name": "Laphroaig",
+                    "price": 2450
+                },
+                {
+                    "item_name": "Woodford Reserve",
+                    "price": 2250
+                },
+                {
+                    "item_name": "Havana Club Anejo 3 anos",
+                    "price": 800
+                },
+                {
+                    "item_name": "Havana Club Anejo Especial",
+                    "price": 1050
+                },
+                {
+                    "item_name": "Havana Club Anejo Reserva",
+                    "price": 1100
+                },
+                {
+                    "item_name": "Havana Club Anejo 7 anos",
+                    "price": 1400
+                },
+                {
+                    "item_name": "Ron Santiago Anejo",
+                    "price": 1200
+                },
+                {
+                    "item_name": "Ron Santiago 8 Anos",
+                    "price": 1650
+                },
+                {
+                    "item_name": "Ron Santiago 11 Anos",
+                    "price": 2200
+                },
+                {
+                    "item_name": "Seleccion de Maestros",
+                    "price": 1800
+                },
+                {
+                    "item_name": "Olmeca Blanco",
+                    "price": 750
+                },
+                {
+                    "item_name": "Olmeca Reposado",
+                    "price": 850
+                },
+                {
+                    "item_name": "Don Ramon Punta Plateada",
+                    "price": 1050
+                },
+                {
+                    "item_name": "Don Ramon Punta Dorada",
+                    "price": 1150
+                },
+                {
+                    "item_name": "Don julio Reposado",
+                    "price": 1500
+                },
+                {
+                    "item_name": "Baileys",
+                    "price": 1100
+                },
+                {
+                    "item_name": "Jagermeister",
+                    "price": 1800
+                },
+                {
+                    "item_name": "Agua Natural",
+                    "price": 450
+                },
+                {
+                    "item_name": "Agua Gaseada",
+                    "price": 550
+                },
+                {
+                    "item_name": "Agua Tonica MG",
+                    "price": 700
+                },
+                {
+                    "item_name": "Ginger Ale",
+                    "price": 700
+                },
+                {
+                    "item_name": "Coca Cola",
+                    "price": 800
+                },
+                {
+                    "item_name": "Coca Cola Zero",
+                    "price": 800
+                },
+                {
+                    "item_name": "Sprite",
+                    "price": 800
+                },
+                {
+                    "item_name": "Jugo de Fruta Nat.",
+                    "price": 600
+                },
+                {
+                    "item_name": "Limonada Natural",
+                    "price": 500
+                },
+                {
+                    "item_name": "Limonada Frappe",
+                    "price": 550
+                },
+                {
+                    "item_name": "Ayran",
+                    "price": 500
+                },
+                {
+                    "item_name": "Suero de Helado",
+                    "price": 1500
+                },
+                {
+                    "item_name": "Energy Drink",
+                    "price": 850
+                },
+                {
+                    "item_name": "Cerveza Cristal",
+                    "price": 600
+                },
+                {
+                    "item_name": "Cerveza Heineken",
+                    "price": 750
+                },
+                {
+                    "item_name": "Cerveza Corona",
+                    "price": 800
+                },
+                {
+                    "item_name": "Chelada (Servicio)",
+                    "price": 250
+                },
+                {
+                    "item_name": "Michelada (Servicio)",
+                    "price": 300
+                }
+            ],
+
+            "infusions": [
+                {
+                    "item_name": "Te",
+                    "price": 400
+                },
+                {
+                    "item_name": "Cafe Expreso",
+                    "price": 380
+                    
+                },
+                {
+                    "item_name": "Espresso Macchiato (Cortado)",
+                    "price": 400
+                },
+                {
+                    "item_name": "Americano",
+                    "price": 420
+                },
+                {
+                    "item_name": "Cappuccino",
+                    "price": 650
+                },
+                {
+                    "item_name": "Café con Leche",
+                    "price": 700
+                },
+                {
+                    "item_name": "Leche con Chocolate",
+                    "price": 700
+                }
+                
+            ]
+        }  
+} 

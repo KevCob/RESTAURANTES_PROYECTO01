@@ -1,0 +1,190 @@
+{
+    "type": "Bar-Restaurante-Cafeteria",
+    "name": "El Sauce", 
+    "location": {
+        "address": "Calle 403 % 180 & 184, Santiago de las Vegas",
+        "municipe": "Boyeros",
+        "province": "La Habana",
+        "coordinates":  "22.97148510128245, -82.38594063725743"
+    },
+    "sector": "privado",
+    
+    "qualification": 5,
+
+    "specialized_food": ["Pizza"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": 76833543,
+    
+    "capacity": 50,
+    
+    "reservation":  true,
+
+    "parking": false,
+
+    "delivery": true,
+
+    "electric generator": false,
+    
+    "hours": {
+        "monday": "",  
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": ""
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+                
+            "mains": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "fittings": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": "Pizza Napole",
+                    "price": 500,
+                    "description": ""
+                },
+                {
+                    "item_name": "Pizza de Jamon",
+                    "price": 700,
+                    "description": ""
+                },
+                {
+                    "item_name": "Pizza de Chorizo",
+                    "price": 700,
+                    "description": ""
+                },
+                {
+                    "item_name": "Pizza de Cebolla",
+                    "price": 600,
+                    "description": ""
+                },
+                {
+                    "item_name": "Pizza de Pimiento",
+                    "price": 600,
+                    "description": ""
+                },
+                {
+                    "item_name": "Pizza Hawaiana",
+                    "price": 750,
+                    "description": ""
+                },
+                {
+                    "item_name": "Pizza de Bacon",
+                    "price": 750,
+                    "description": ""
+                },
+                {
+                    "item_name": "Pizza de Atun",
+                    "price": 800,
+                    "description": ""
+                },
+                {
+                    "item_name": "Pizza de Aceitunas",
+                    "price": 700,
+                    "description": ""
+                },
+                {
+                    "item_name": "Pizza Sauce",
+                    "price": 900,
+                    "description": ""
+                }
+            ],
+
+            "paste": [
+                {
+                    "item_name": "Lasagna de Jamon",
+                    "price": 900,
+                    "description": ""
+                },
+                {
+                    "item_name": "Canelon",
+                    "price": 700,
+                    "description": ""
+                }
+            ],
+
+            "additions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "desserts": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+            "cocktails": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ],
+
+            "drinks": [
+                {
+                    "item_name": "Refresco",
+                    "price": 220
+                },
+                {
+                    "item_name": "Malta",
+                    "price": 250
+                },
+                {
+                    "item_name": "Cerveza",
+                    "price": 280
+                },
+                {
+                    "item_name": "Suero de Helado",
+                    "price": 550
+                }
+            ],
+
+            "infusions": [
+                {
+                    "item_name": "Café Expreso",
+                    "price": 100
+                },
+                {
+                    "item_name": "Cortadito",
+                    "price": 150
+                }
+            ]
+        }  
+} 

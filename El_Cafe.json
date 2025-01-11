@@ -1,0 +1,305 @@
+{
+    "item_name": "Bar-Restaurante",
+    "name": "El Cafe", 
+    "location": {
+        "address": "#358, Calle La Amargura",
+        "municipe": "Habana Vieja",
+        "province": "La Habana",
+        "coordinates":  "23.136615265811344, -82.3550049035281"
+    },
+    "sector": "privado",
+    
+    "qualification": 4.5,
+    
+    "specialized_food": ["Comida mixta"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": 78613817,
+    
+    "capacity": 20,
+    
+    "reservation":  true,
+
+    "parking": false,
+
+    "delivery": false,
+    
+    "electric generator": false,
+    
+    "hours": {
+        "monday": "8:00am  5:00pm",  
+        "tuesday": "8:00am  5:00pm",
+        "wednesday": "8:00am  5:00pm",
+        "thursday": "8:00am  5:00pm",
+        "friday": "8:00am  5:00pm",
+        "saturday": "8:00am  5:00pm",
+        "sunday": "8:00am  5:00pm"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name":"Tostadas de tomate",
+                    "price":500,
+                    "description": " "
+                },
+                {
+                    "item_name":"Tortilla con calabaza y cebolla",
+                    "price":950,
+                    "description": " "
+                },
+                {
+                    "item_name":"Galleta de avena y jengibre (c/u)",
+                    "price":40,
+                    "description": " "
+                },
+                {
+                    "item_name":"Ensalada Chikpea",
+                    "price":950,
+                    "description": " "
+                },
+                {
+                    "item_name":"Ensalada Chikpea con cordero",
+                    "price":1200,
+                    "description": " "
+                },
+                {
+                    "item_name":"Plato de frutas frescas",
+                    "price":60,
+                    "description": " "
+                },
+                {
+                    "item_name":"Tostadas de mantequilla",
+                    "price":80,
+                    "description": " "
+                },
+                {
+                    "item_name":"Tostadas de mantequilla con mermelada",
+                    "price":80,
+                    "description": " "
+                },
+                {
+                    "item_name":"Tostadas de mantequilla de mani",
+                    "price":80,
+                    "description": " "
+                },
+                {
+                    "item_name":"Huevos, tomate, aguacate, tostadas y mantequilla",
+                    "price":300,
+                    "description": " "
+                },
+                {
+                    "item_name":"Huevos, tomate, aguacate, tostadas, mantequilla y queso",
+                    "price":350,
+                    "description": " "
+                },
+                {
+                    "item_name":"Huevos, tomate, aguacate, tostadas, mantequilla y bacon",
+                    "price":500,
+                    "description": " "
+                },
+                {
+                    "item_name":"Huevos, tomate, aguacate, tostadas, mantequilla, bacon y queso",
+                    "price":500,
+                    "description": " "
+                },
+                {
+                    "item_name":"Hummus con pepino, tomate, zanahorias y tostadas",
+                    "price":300,
+                    "description": " "
+                }
+            ],
+                
+            "mains": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "fittings": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "paste": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "additions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name":"Sandwich vegano de hummus, vegetales asados y salsa picante",
+                    "price":300,
+                    "description": " "
+                },
+                {
+                    "item_name":"Sandwich de jamon y queso con tomate, aji y hierba buena",
+                    "price":400,
+                    "description": " "
+                },
+                {
+                    "item_name":"Sandwich de bacon, lechuga, tomate y aguacate",
+                    "price":500,
+                    "description": " "
+                },
+                {
+                    "item_name":"Sandwich de queso, pimenton y cebollino",
+                    "price":350,
+                    "description": " "
+                },
+                {
+                    "item_name":"Sandwich de cerdo asado con yuca, lechuga y mermelada de naranja agria",
+                    "price":450,
+                    "description": " "
+                },
+                {
+                    "item_name":"Sandwich de pollo con tomate, rucula y alioli verde",
+                    "price":400,
+                    "description": " "
+                }
+            ],
+
+            "desserts": [
+                {
+                    "item_name":"Yogurt con frutas frescas",
+                    "price":150,
+                    "description": " "
+                },
+                {
+                    "item_name":"Yogurt con frutas frescas y granola",
+                    "price":180,
+                    "description": " "
+                },
+                {
+                    "item_name":"Pancakes de frutas y miel",
+                    "price":300,
+                    "description": " "
+                },
+                {
+                    "item_name":"Panetela navidena",
+                    "price":120,
+                    "description": " "
+                }
+            ],
+            "cocktails": [
+                {
+                    "item_name":"Mojito",
+                    "price":250
+                },
+                {
+                    "item_name":"Caipirinha",
+                    "price":250
+                },
+                {
+                    "item_name":"Canchanchara",
+                    "price":250
+                },
+                {
+                    "item_name":"Dark & Stormy (jengibre y ron)",
+                    "price":250
+                },
+                {
+                    "item_name":"Limonada fresca",
+                    "price":120
+                }
+            ],
+
+            "drinks": [
+                {
+                    "item_name":"Jugos frescos",
+                    "price":120
+                },
+                {
+                    "item_name":"Refresco de jengibre",
+                    "price":100
+                },
+                {
+                    "item_name":"Chocolate caliente",
+                    "price":120
+                },
+                {
+                    "item_name":"Batidos",
+                    "price":150
+                },
+                {
+                    "item_name":"Batidos con leche vegana",
+                    "price":180
+                },
+                {
+                    "item_name":"Agua",
+                    "price":50
+                },
+                {
+                    "item_name":"Cerveza",
+                    "price":150
+                }
+            ],
+
+            "infusions": [
+                {
+                    "item_name":"Expresso",
+                    "price":60
+                },
+                {
+                    "item_name":"Cafe cortado",
+                    "price":80
+                },
+                {
+                    "item_name":"Cafe americano",
+                    "price":100
+                },
+                {
+                    "item_name":"Cafe con leche",
+                    "price":140
+                },
+                {
+                    "item_name":"Cappuchino",
+                    "price":150
+                },
+                {
+                    "item_name":"Cafe frappe",
+                    "price":160
+                },
+                {
+                    "item_name":"Cafe con leche y hielo",
+                    "price":140
+                },
+                {
+                    "item_name":"Cafe Clandestina",
+                    "price":80
+                },
+                {
+                    "item_name":"Long Black",
+                    "price":100
+                },
+                {
+                    "item_name":"Frappuccino",
+                    "price":160
+                }
+            ]
+        }  
+} 

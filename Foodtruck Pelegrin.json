@@ -1,0 +1,200 @@
+{
+    "type": "Bar-Restaurante-Cafeteria",
+    "name": "FoodTruck Pelegrin", 
+    "location": {
+        "address": " Miramar Trade Center, Centro de Negocios",
+        "municipe": "Playa",
+        "province": "La Habana",
+        "coordinates":  "23.108876604302726, -82.440550925563"
+    },
+    "sector": "privado",
+    
+    "qualification": 4.5,
+    
+    "specialized_food": ["cubana", "internacional"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": 52819512,
+    
+    "capacity": null,
+    
+    "reservation":  false,
+
+    "parking": true,
+
+    "delivery": false,
+
+
+    "electric generator": false,
+    
+    "hours": {
+        "monday": "8:00am - 9:00pm",  
+        "tuesday": "8:00am - 9:00pm",
+        "wednesday": "8:00am - 9:00pm",
+        "thursday": "8:00am - 9:00pm",
+        "friday": "8:00am - 9:00pm",
+        "saturday": "8:00am - 9:00pm",
+        "sunday": "8:00am - 9:00pm"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": "Waffles",
+                    "price": 700 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Desayuno",
+                    "price": 1250 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Bolitas de queso",
+                    "price": 850 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Papas fritas",
+                    "price": 600 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Croquetas",
+                    "price": 700 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Palomitas",
+                    "price": 850 ,
+                    "description": " "
+                }
+            ],
+                
+            "mains": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "fittings": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "paste": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "additions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": "Sandwich jamon y queso ",
+                    "price": 750 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Sandwich atun",
+                    "price": 850,
+                    "description": " "
+                },
+                {
+                    "item_name": "Sandwich cubano",
+                    "price": 1200 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Sandwich pelegrin",
+                    "price": 1300 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Sandwich pechuga",
+                    "price": 2500,
+                    "description": " "
+                },
+                {
+                    "item_name": "Perro caliente",
+                    "price": 750 ,
+                    "description": " "
+                }
+            ],
+
+            "desserts": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+            "cocktails": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ],
+
+            "drinks": [
+                {
+                    "item_name": "Jugos",
+                    "price": 270 
+                },
+                {
+                    "item_name": "Leche fria",
+                    "price": 370
+                }
+            ],
+
+            "infusions": [
+                {
+                    "item_name": "Expresso",
+                    "price": 150
+                },
+                {
+                    "item_name": "Cortado",
+                    "price": 250
+                    
+                },
+                {
+                    "item_name": "Capuchino",
+                    "price": 400 
+                },
+                {
+                    "item_name": "Cafe bombon",
+                    "price": 450 
+                },
+                {
+                    "item_name": "Frapuchino",
+                    "price": 550 
+                },
+                {
+                    "item_name": "Carajillo",
+                    "price": 350 
+                }
+            ]
+        }  
+} 

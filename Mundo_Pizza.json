@@ -1,0 +1,211 @@
+{
+    "type": "Bar-Restaurante-Cafeteria",
+    "name": "Mundo Pizza", 
+    "location": {
+        "address": "C. San Nicolás 309 entre Neptuno y San Miguel",
+        "municipe": "Centro Habana",
+        "province": "La Habana",
+        "coordinates":  "23.138030572262426, -82.36420227071567"
+    },
+    "sector": "privado",
+    
+    "qualification": 4,
+    
+    "specialized_food": ["Internacional","Pizzas"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": 53372715,
+    
+    "capacity": 42,
+    
+    "reservation":  true,
+
+    "parking": true,
+
+    "delivery": true,
+
+    "electric generator": true,
+    
+    "hours": {
+        "monday": "12:00pm - 10:00pm",  
+        "tuesday": "12:00pm - 10:00pm",
+        "wednesday": "12:00pm - 10:00pm",
+        "thursday": "12:00pm - 10:00pm",
+        "friday": "12:00pm - 10:00pm",
+        "saturday": "12:00pm - 10:00pm",
+        "sunday": "12:00pm - 10:00pm"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": "Croquetas Caseras",
+                    "price": 590,
+                    "description": ""
+                },
+                {
+                    "item_name": "Tostones Criollos",
+                    "price": 540,
+                    "description": ""
+                },
+                {
+                    "item_name": "Focaccia",
+                    "price": 560,
+                    "description": "Pizza Blanca, Aceite de Oliva, Hierbas Aromáticas"
+                },
+                {
+                    "item_name": "Pizza Rossa",
+                    "price": 590,
+                    "description": "Salsa de Tomate, ajo, aceite"
+                }
+            ],
+                
+            "mains": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "fittings": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": "Pizza Metro Criolla",
+                    "price": 2800,
+                    "description": "Salsa de Tomate, queso criollo, aromatizada con albahaca"
+                },
+                {
+                    "item_name": "Pizza Metro Casa",
+                    "price": 3700,
+                    "description": "Salsa de Tomate, queso, jamón, salsa pesto, vegetales grillados"
+                },
+                {
+                    "item_name": "Pizza Metro Gouda",
+                    "price": 5100,
+                    "description": "Salsa de Tomate, queso Gouda, aromatizada con albahaca"
+                },
+                {
+                    "item_name": "Pizza Metro Elección",
+                    "price": 5150,
+                    "description": "Salsa de Tomate, Queso  4 agregos no repetidos a elección del cliente"
+                },
+                {
+                    "item_name": "Pizza 1/2 Metro Mix",
+                    "price": 2500,
+                    "description": "4 ingredientes de la casa"
+                },
+                {
+                    "item_name": "Pizza 1/2 Metro Elección",
+                    "price": 2700,
+                    "description": "2 ingredientes incluidos a elección"
+                }
+            ],
+
+            "paste": [
+                {
+                    "item_name": "Espaguetis",
+                    "price": 950,
+                    "description": "Salsa de Tomate, queso Gouda"
+                },
+                {
+                    "item_name": "Lasagna",
+                    "price": 1250,
+                    "description": "Salsa de Tomate, bechamel, jamón, queso"
+                },
+                {
+                    "item_name": "Espaguetis al Pesto",
+                    "price": 1050,
+                    "description": "Salsa Pesto, queso Gouda"
+                },
+                {
+                    "item_name": "Espaguetis del Dia",
+                    "price": 1600,
+                    "description": "Inspiración de Mundo Pizza, preguntar al camarero"
+                }
+            ],
+
+            "additions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "desserts": [
+                {
+                    "item_name": "Postre del Dia",
+                    "price": 650,
+                    "description": ""
+                },
+                {
+                    "item_name": "Pizza a Chocolate",
+                    "price": 815,
+                    "description": ""
+                },
+                {
+                    "item_name": "Helado 3 Gracias",
+                    "price": 500,
+                    "description": ""
+                }
+            ],
+            "cocktails": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "drinks": [
+                {
+                    "item_name": "Cerveza",
+                    "price": 300
+                },
+                {
+                    "item_name": "Refresco",
+                    "price": 250
+                },
+                {
+                    "item_name": "Energizante",
+                    "price": 390
+                },
+                {
+                    "item_name": "Jugo Cajita",
+                    "price": 250
+                },
+                {
+                    "item_name": "Yogurt",
+                    "price": 250
+                },
+                {
+                    "item_name": "Malta",
+                    "price": 300
+                }
+            ],
+
+            "infusions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ]
+        }  
+} 

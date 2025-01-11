@@ -1,0 +1,367 @@
+{
+    "type": "Bar-Restaurante",
+    "name": "El cocinero", 
+    "location": {
+        "address": "Calle 26 #57 entre 11 y 13, Vedado",
+        "municipe": "Plaza de la Revolucion",
+        "province": "La Habana",
+        "coordinates":  "23.12735682638094, -82.40996375436582"
+    },
+    "sector": "privado",
+    
+    "qualification": 4.5,
+    
+    "specialized_food": ["comida caribeña", "latina", "cubana"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": 78322355,
+    
+    "capacity": 120,
+    
+    "reservation":  true,
+
+    "parking": true,
+
+    "delivery": false,
+
+    "electric generator": false,
+    
+    "hours": {
+        "monday": "12:00pm - 12:00am",  
+        "tuesday": "12:00pm - 12:00am",
+        "wednesday": "12:00pm - 12:00am",
+        "thursday": "12:00pm - 12:00am",
+        "friday": "12:00pm - 12:00am",
+        "saturday": "12:00pm - 12:00am",
+        "sunday": "12:00pm - 12:00am"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": "Pan popover con alioli",
+                    "price":1050 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Empanadas piconas con salsa casera",
+                    "price":1800 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Nuestras croquetas de pez con mayo de curry",
+                    "price":1500 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Taquitos de cerdo confitado con chutney de pimientos rojos",
+                    "price":2100 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Tacos de pescado con alcaparras, pepinillos, perejil y chutney de mango",
+                    "price":2100 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Tortas mexicanas con tartar de atun y mayo chipotle",
+                    "price":3000 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Nuestro ceviche de pez, acompanado de nachos",
+                    "price": 2400,
+                    "description": " "
+                },
+                {
+                    "item_name": "Ensalada de rucula, queso feta, datiles y vinagreta balsamica",
+                    "price":1800 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Mediterranea de pulpo con aceitunas, calabaza, cebolla morada asada, tomate deshidratado y almendras",
+                    "price":3600 ,
+                    "description": " "
+                }
+            ],
+                
+            "mains": [
+                {
+                    "item_name": "Burrata Caponata ",
+                    "price": 4800,
+                    "description": "Berenjena, tomate, cebolla y aceitunas verdes "
+                },
+                {
+                    "item_name": "Pollo teriyaki",
+                    "price": 4500,
+                    "description": " "
+                },
+                {
+                    "item_name": "Conejo asado con romero, zanahoria y vino blanco",
+                    "price": 6000,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pastas funghi y pollo con salsa de trufa",
+                    "price":5100 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Masas de cerdo con chimichurri y calabaza asada",
+                    "price":5400 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Arroz meloso con pato confitado",
+                    "price": 6000,
+                    "description": " "
+                },
+                {
+                    "item_name": "Estofado de cordero",
+                    "price": 6000,
+                    "description": " "
+                },
+                {
+                    "item_name": "Chipirones a la plancha con vegetales grillados",
+                    "price":4800 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pulpo gallego con batata ahumada y pimentón de la vera",
+                    "price":7800 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pez grill con pisto de verduras y salsa verde",
+                    "price":4800 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Fresquita langosta al grill con vegetales grillados",
+                    "price":6600 ,
+                    "description": " "
+                }
+            ],
+
+            "fittings": [
+                {
+                    "item_name": "Arroz blanco ",
+                    "price":900 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Vegetales salteados",
+                    "price":900 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Papas fritas",
+                    "price": 900,
+                    "description": " "
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "paste": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "additions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "desserts": [
+                {
+                    "item_name": "Tarta snicker",
+                    "price":1500 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Tarta de queso",
+                    "price":1800 ,
+                    "description": " "
+                }
+            ],
+            "cocktails": [
+                {
+                    "item_name": "Mexican dragon",
+                    "price":1800 
+                },
+                {
+                    "item_name": "Jungle bird",
+                    "price": 1800
+                },
+                {
+                    "item_name": "Gin basil smash",
+                    "price": 1800
+                },
+                {
+                    "item_name": "Penicilin",
+                    "price": 1800
+                },
+                {
+                    "item_name": "London maid",
+                    "price": 1400
+                },
+                {
+                    "item_name": "Pasion tropical",
+                    "price": 1500
+                },
+                {
+                    "item_name": "Santa",
+                    "price": 1350
+                },
+                {
+                    "item_name": "Ponche jamaiquino",
+                    "price": 900
+                },
+                {
+                    "item_name": "Sour pepino",
+                    "price":1200 
+                },
+                {
+                    "item_name": "Flor negra",
+                    "price": 1500
+                },
+                {
+                    "item_name": "Amaretto sour",
+                    "price":1800 
+                },
+                {
+                    "item_name": "Aperol sour",
+                    "price":1800 
+                },
+                {
+                    "item_name": "Aperol spritz",
+                    "price": 2250
+                },
+                {
+                    "item_name": "Aviation",
+                    "price": 1800
+                },
+                {
+                    "item_name": "Black russian",
+                    "price":2100 
+                },
+                {
+                    "item_name": "Blody mary",
+                    "price":1800 
+                },
+                {
+                    "item_name": "Caipirinha",
+                    "price":1500
+                },
+                {
+                    "item_name": "Caipiroska",
+                    "price":1800 
+                },
+                {
+                    "item_name": "Campari spritz",
+                    "price":2250 
+                },
+                {
+                    "item_name": "Canchanchara",
+                    "price": 1500
+                },
+                {
+                    "item_name": "Cuban manhattan",
+                    "price":3600 
+                },
+                {
+                    "item_name": "Cuban old fashion ",
+                    "price": 3600
+                },
+                {
+                    "item_name": "Daiquiri",
+                    "price":1800 
+                },
+                {
+                    "item_name": "Dark and stormy",
+                    "price":2250 
+                },
+                {
+                    "item_name": "Dry martini",
+                    "price":2100 
+                },
+                {
+                    "item_name": "Expreso martini",
+                    "price":2400 
+                },
+                {
+                    "item_name": "Gin tonic",
+                    "price":1800 
+                },
+                {
+                    "item_name": "Long island ice tea",
+                    "price":2400 
+                },
+                {
+                    "item_name": "Malibu Pina",
+                    "price":1850 
+                },
+                {
+                    "item_name": "Manhattan",
+                    "price":3000 
+                },
+                {
+                    "item_name": "Margarita",
+                    "price":1800
+                },
+                {
+                    "item_name": "Mint julep",
+                    "price":2400 
+                },
+                {
+                    "item_name": "Mojito",
+                    "price": 1500
+                },
+                {
+                    "item_name": "Moscow mule",
+                    "price": 1500
+                },
+                {
+                    "item_name": "Negroni",
+                    "price": 2400
+                },
+                {
+                    "item_name": "Old fashion",
+                    "price":3000 
+                },
+                {
+                    "item_name": "Paloma",
+                    "price": 2100
+                }
+            ],
+
+            "drinks": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "infusions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ]
+        }  
+} 

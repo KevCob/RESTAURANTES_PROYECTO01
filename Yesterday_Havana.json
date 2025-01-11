@@ -1,0 +1,360 @@
+{
+    "type": "Bar-Restaurante-Dulceria",
+    "name": "Yesterday Havana", 
+    "location": {
+        "address": "Rita % Blanchy y Calzada de Guines",
+        "municipe": "San Miguel del Padro",
+        "province": "La Habana",
+        "coordinates":  "23.098978185190347, -82.33972403216933"
+    },
+    "sector": "privado",
+    
+    "qualification": 4.5,
+    
+    "specialized_food": ["Comida Mixta"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": 76930649,
+    
+    "capacity": 40,
+    
+    "reservation":  true,
+
+    "parking": null,
+
+    "delivery": true,
+
+    "electric generator": null,
+    
+    "hours": {
+        "monday": "cerrado",  
+        "tuesday": "cerrado",
+        "wednesday": "12:00pm - 2:00am",
+        "thursday": "12:00pm - 2:00am",
+        "friday": "12:00pm - 2:00am",
+        "saturday": "12:00pm - 2:00am",
+        "sunday": "12:00pm - 2:00am"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": "Picadera Yesterday",
+                    "price": 3000,
+                    "description": "tostones al ajo, jamon, queso, chorizo, eperlan y fritura de malanga"
+                },
+                {
+                    "item_name": "Papas fritas",
+                    "price": 600,
+                    "description": " "
+                },
+                {
+                    "item_name": "Tacos de cerdo",
+                    "price": 800,
+                    "description": " "
+                },
+                {
+                    "item_name": "Tacos de pollo",
+                    "price": 800,
+                    "description": " "
+                },
+                {
+                    "item_name": "Eperlan",
+                    "price": 900,
+                    "description": " "
+                },
+                {
+                    "item_name": "Coctel de camarones",
+                    "price":1000,
+                    "description": " "
+                },
+                {
+                    "item_name": "Entremes de jamon, queso y chorizo",
+                    "price": 800,
+                    "description": " "
+                },
+                {
+                    "item_name": "Ensalada fria",
+                    "price": 650,
+                    "description": " "
+                },
+                {
+                    "item_name": "Toston al ajo",
+                    "price": 600,
+                    "description": " "
+                },
+                {
+                    "item_name": "Frituras de malanga",
+                    "price": 500,
+                    "description": " "
+                },
+                {
+                    "item_name": "Croquetas de la casa",
+                    "price": 500,
+                    "description": " "
+                },
+                {
+                    "item_name": "Fajitas de pollo",
+                    "price": 950,
+                    "description": " "
+                },
+                {
+                    "item_name": "Fajitas de cerdo",
+                    "price": 950,
+                    "description": " "
+                },
+                {
+                    "item_name": "Brochetas mixtas",
+                    "price": 2500,
+                    "description": " "
+                },
+                {
+                    "item_name": "Garbanzo frito",
+                    "price": 2000,
+                    "description": " "
+                },
+                {
+                    "item_name": "Fabada",
+                    "price": 2000,
+                    "description": " "
+                },
+                {
+                    "item_name": "Cema del dia",
+                    "price": 1000,
+                    "description": " "
+                }
+
+            ],
+                
+            "mains": [
+                {
+                    "item_name": "Mariscada Yesterday",
+                    "price": 7000,
+                    "description": " "
+                },
+                {
+                    "item_name": "Calamar al gusto",
+                    "price": 3000,
+                    "description": " "
+                },
+                {
+                    "item_name": "Langosta al gusto",
+                    "price": 3000,
+                    "description": " "
+                },
+                {
+                    "item_name": "3 delicias",
+                    "price": 3000,
+                    "description": "Res, cerdo y pollo "
+                },
+                {
+                    "item_name": "Camarones al ajo",
+                    "price": 2000,
+                    "description": " "
+                },
+                {
+                    "item_name": "Camarones grille",
+                    "price": 2000,
+                    "description": " "
+                },
+                {
+                    "item_name": "Enchilado de camarones",
+                    "price": 2000,
+                    "description": " "
+                },
+                {
+                    "item_name": "Camaron empanado",
+                    "price": 2500,
+                    "description": " "
+                },
+                {
+                    "item_name": "Filete de pescado",
+                    "price": 1800,
+                    "description": " "
+                },
+                {
+                    "item_name": "Filete de pescado Jhombill",
+                    "price": 2200,
+                    "description": " Pescado, camaron, queso, limon y mantequilla"
+                },
+                {
+                    "item_name": "Rueda de pescado frito",
+                    "price": 2500,
+                    "description": " "
+                },
+                {
+                    "item_name": "Bistec de cerdo",
+                    "price": 1800,
+                    "description": " "
+                },
+                {
+                    "item_name": "Cerdo encebollado",
+                    "price": 2000,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pechuga de pollo grille",
+                    "price": 1800,
+                    "description": " "
+                },
+                {
+                    "item_name": "Mar y tierra",
+                    "price": 5500,
+                    "description": "Langosta, camaron, pescado, cerdo y pechuga "
+                },
+                {
+                    "item_name": "Mar y tierra res",
+                    "price": 5500,
+                    "description": "Langosta, camaron, pescado, cerdo, pechuga y res "
+                },
+                {
+                    "item_name": "Cordero al vino",
+                    "price": 3000,
+                    "description": " "
+                },
+                {
+                    "item_name": "Costillas de cerdo",
+                    "price": 3000,
+                    "description": " "
+                },
+                {
+                    "item_name": "Cerdo desmechado",
+                    "price": 3000,
+                    "description": " "
+                },
+                {
+                    "item_name": "Masas fritas",
+                    "price": 3000,
+                    "description": " "
+                },
+                {
+                    "item_name": "Lonjas de cerdo",
+                    "price": 3000,
+                    "description": " "
+                },
+                {
+                    "item_name": "Lonjas ahumadas",
+                    "price": 3000,
+                    "description": " "
+                },
+                {
+                    "item_name": "Uruguayo",
+                    "price": 2500,
+                    "description": " "
+                },
+                {
+                    "item_name": "Canciller",
+                    "price": 2500,
+                    "description": " "
+                },
+                {
+                    "item_name": "Corden bleu",
+                    "price": 2500,
+                    "description": " "
+                },
+                {
+                    "item_name": "Solomillo de cerdo",
+                    "price": 4000,
+                    "description": " "
+                },
+                {
+                    "item_name": "Arroz a la marinera",
+                    "price": 3500,
+                    "description": " "
+                },
+                {
+                    "item_name": "Arroz campesino",
+                    "price": 3000,
+                    "description": " "
+                },
+                {
+                    "item_name": "Arroz frito (camaron)",
+                    "price": 2000,
+                    "description": " "
+                },
+                {
+                    "item_name": "Arroz frito (langosta)",
+                    "price": 2500,
+                    "description": " "
+                },
+                {
+                    "item_name": "Ropa vieja",
+                    "price": 2500,
+                    "description": " "
+                },
+                {
+                    "item_name": "Bistec de res",
+                    "price": 2500,
+                    "description": " "
+                }
+            ],
+
+            "fittings": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "paste": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "additions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "desserts": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+            "cocktails": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ],
+
+            "drinks": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ],
+
+            "infusions": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ]
+        }  
+} 

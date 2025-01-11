@@ -1,0 +1,335 @@
+{
+    "type": "Restaurante",
+    "name": "Don Burguer", 
+    "location": {
+        "address": "Calzada de 10 de Octubre, entre  Aranguren y Santa Isabel, La Palma",
+        "municipe": "Arroyo Naranjo",
+        "province": "La Habana",
+        "coordinates":  "23.07542277636338, -82.3589195783884"
+    },
+    "sector": "privado",
+    
+    "qualification": 5,
+
+    "specialized_food": ["cubana"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": 59107933,
+    
+    "capacity": 30,
+    
+    "reservation":  true,
+
+    "parking": true,
+
+    "delivery": false,
+
+    "electric generator": true,
+    
+    "hours": {
+        "monday": "11:00am - 11:00pm",  
+        "tuesday": "11:00am - 11:00pm",
+        "wednesday": "11:00am - 11:00pm",
+        "thursday": "11:00am - 11:00pm",
+        "friday": "11:00am - 11:00pm",
+        "saturday": "11:00am - 11:00pm",
+        "sunday": "11:00am - 11:00pm"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": "Ensalada fria",
+                    "price": 580 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Aceitunas",
+                    "price": 420,
+                    "description": " "
+                },
+                {
+                    "item_name": "Bolitas de queso",
+                    "price": 640 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Papitas",
+                    "price": 640 ,
+                    "description": " "
+                },
+                {
+                    "item_name": " Fajitas de pollo",
+                    "price": 940,
+                    "description": " "
+                },
+                {
+                    "item_name": "Entremes surtidos",
+                    "price": 1720,
+                    "description": " "
+                },
+                {
+                    "item_name": "Brusquetas",
+                    "price": 780 ,
+                    "description": " "
+                },
+                {
+                    "item_name": " Burritos de jamon de queso",
+                    "price": 1260,
+                    "description": " "
+                }
+            ],
+                
+            "mains": [
+                {
+                    "item_name": "Tacos de vegetales",
+                    "price": 620 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Tacos de cerdo",
+                    "price": 1120 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Tacos de pollo",
+                    "price": 1120 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Tacos de res",
+                    "price": 1280 ,
+                    "description": " "
+                }
+            ],
+
+            "fittings": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "paste": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "additions": [
+                {
+                    "item_name": " Jamon vicking",
+                    "price": 120 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Jamon pierna",
+                    "price": 190 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Bacon",
+                    "price": 190,
+                    "description": " "
+                },
+                {
+                    "item_name": "Queso",
+                    "price": 150,
+                    "description": " "
+                },
+                {
+                    "item_name": "Chorizo",
+                    "price": 120,
+                    "description": " "
+                },
+                {
+                    "item_name": "Huevo",
+                    "price": 190 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Cebolla",
+                    "price": 60,
+                    "description": " "
+                },
+                {
+                    "item_name": "Tomate",
+                    "price": 60 ,
+                    "description": " "
+                },
+                {
+                    "item_name": " Lechuga",
+                    "price": 30 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pepinillo encurtido",
+                    "price": 30 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pina glaseada",
+                    "price": 80 ,
+                    "description": " "
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": "Hamburguesa de cerdo ",
+                    "price": 740 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Hamburguesa de pollo",
+                    "price": 740 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Hamburguesa de res",
+                    "price": 860,
+                    "description": " "
+                },
+                {
+                    "item_name": "Doble hamburguesa de cerdo",
+                    "price": 1040,
+                    "description": " "
+                },
+                {
+                    "item_name": "Doble hamburguesa de pollo",
+                    "price": 1040 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Doble hamburguesa de res",
+                    "price": 1480 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Doble hamburguesa de cerdo",
+                    "price":2680 ,
+                    "description": "Bistec de cerdo, jamon vicking, queso y chorizo "
+                },
+                {
+                    "item_name": "Pan con bistec de cerdo",
+                    "price": 840 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pan con bistec de pollo",
+                    "price": 810,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pan con lechon",
+                    "price": 890 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Bocadito de atun",
+                    "price": 840 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Sandwich de jamon, queso y chorizo",
+                    "price": 890 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Sandwich cubano",
+                    "price": 1290 ,
+                    "description": " "
+                }
+            ],
+
+            "desserts": [
+                {
+                    "item_name": "Tres gracias",
+                    "price": 740 ,
+                    "description": " "
+                },
+                {
+                    "item_name": " Ensalada",
+                    "price": 1080 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Suero de helado",
+                    "price": 840 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Casquitos de guayaba",
+                    "price": 560 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Flan",
+                    "price": 560,
+                    "description": " "
+                },
+                {
+                    "item_name": "Dulce de coco",
+                    "price": 460 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Torrejas",
+                    "price": 680 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Dulce de frutabomba",
+                    "price": 460 ,
+                    "description": " "
+                }
+            ],
+            "cocktails": [
+                {
+                    "item_name": "Limonada frappe",
+                    "price": 380
+                },
+                {
+                    "item_name": "Limonada con hierba buena",
+                    "price": 460
+                }
+            ],
+
+            "drinks": [
+                {
+                    "item_name": "Agua",
+                    "price": 150
+                },
+                {
+                    "item_name": "Refrescos",
+                    "price": 240 
+                },
+                {
+                    "item_name": "Batido de frutas",
+                    "price": 390
+                },
+                {
+                    "item_name": "Malta",
+                    "price": 400
+                }
+            ],
+
+            "infusions": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ]
+        }  
+} 

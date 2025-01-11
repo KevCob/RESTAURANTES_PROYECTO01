@@ -1,0 +1,234 @@
+{
+    "type": "Bar-Restaurante",
+    "name": "Pedro's Bar", 
+    "location": {
+        "address": "209 Blvd. de San Rafael entre Aguila y Amistad",
+        "municipe": "Centro Habana",
+        "province": "La Habana",
+        "coordinates":  "23.13691089950695, -82.36186773236341"
+    },
+    "sector": "privado",
+    
+    "qualification": 5,
+    
+    "specialized_food": ["italiana"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": null,
+    
+    "capacity": 30,
+    
+    "reservation":  true,
+
+    "parking": false,
+
+    "delivery": false,
+
+    "electric generator": false,
+    
+    "hours": {
+        "monday": "2:00pm - 2:00am",  
+        "tuesday": "2:00pm - 2:00am",
+        "wednesday": "2:00pm - 2:00am",
+        "thursday": "2:00pm - 2:00am",
+        "friday": "2:00pm - 2:00am",
+        "saturday": "2:00pm - 2:00am",
+        "sunday": "2:00pm - 2:00am"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": "papas fritas",
+                    "price": 1150,
+                    "description": " "
+                },
+                {
+                    "item_name": "frituras de malanga",
+                    "price": 800,
+                    "description": " "
+                },
+                {
+                    "item_name": "croquetas",
+                    "price": 1050,
+                    "description": " "
+                },
+                {
+                    "item_name": "dados de queso",
+                    "price": 1350,
+                    "description": " "
+                },
+                {
+                    "item_name": "fajitas de pollo",
+                    "price": 1450,
+                    "description": " "
+                },
+                {
+                    "item_name": "tabla mixta",
+                    "price": 4600,
+                    "description": " "
+                }
+            ],
+                
+            "mains": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "fittings": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": "pizza de queso",
+                    "price": 1200,
+                    "description": " "
+                },
+                {
+                    "item_name": "pizza hawaiana",
+                    "price": 1500,
+                    "description": " "
+                },
+                {
+                    "item_name": "pizza de vegetales",
+                    "price": 1500,
+                    "description": " "
+                }
+            ],
+
+            "paste": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "additions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": "sandwich de jamon y queso",
+                    "price": 1200,
+                    "description": " "
+                },
+                {
+                    "item_name": "sandwich de pechuga",
+                    "price": 1550,
+                    "description": " "
+                },
+                {
+                    "item_name": "sandwich de atun",
+                    "price": 1500,
+                    "description": " "
+                },
+                {
+                    "item_name": "sandwich de lechon",
+                    "price": 1550,
+                    "description": " "
+                }
+            ],
+
+            "desserts": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+            "cocktails": [
+                {
+                    "item_name" : "canchanchara",
+                    "price" : 1150
+                },
+                {
+                    "item_name" : "mojito",
+                    "price" : 1100
+                },
+                {
+                    "item_name" : "caipis",
+                    "price" : 1100
+                },
+                {
+                    "item_name" : "daiquiri",
+                    "price" : 1100
+                },
+                {
+                    "item_name" : "gin tonic",
+                    "price" : 1450
+                },
+                {
+                    "item_name" : "margarita",
+                    "price" : 1050
+                },
+                {
+                    "item_name" : "cubata",
+                    "price" : 1050
+                },
+                {
+                    "item_name" : "sangria",
+                    "price" : 1350
+                },
+                {
+                    "item_name" : "piña colada",
+                    "price" : 1100
+                },
+                {
+                    "item_name" : "servicio de michelada",
+                    "price" : 300
+                },
+                {
+                    "item_name" : "servicio de chelada",
+                    "price" : 400
+                }
+            ],
+
+            "drinks": [
+                {
+                    "item_name" : "agua natural",
+                    "price" : 250
+                },
+                {
+                    "item_name" : "refresco",
+                    "price" : 500
+                },
+                {
+                    "item_name" : "energizante",
+                    "price" : 500
+                },
+                {
+                    "item_name" : "jarra de cerveza",
+                    "price" : 350
+                },
+                {
+                    "item_name" : "cerveza",
+                    "price" : 600
+                },
+                {
+                    "item_name" : "vasos de ceveza",
+                    "price" : 200
+                }
+            ],
+
+            "infusions": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ]
+        }  
+} 

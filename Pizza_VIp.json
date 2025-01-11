@@ -1,0 +1,339 @@
+{
+    "type": "Bar-Restaurante-Cafeteria",
+    "name": "Pizzas Vip", 
+    "location": {
+        "address": "E Guiral entre Luz y Maceo",
+        "municipe": "Guanabacoa",
+        "province": "La Habana",
+        "coordinates":  "23.12356261631935, -82.30423505951029"
+    },
+    "sector": "privado",
+    
+    "qualification": null,
+    
+    "specialized_food": ["Pizzas","Pastas"],
+
+    "payment method": ["Efectivo"],
+    
+    "phone": 52844312,
+    
+    "capacity": null,
+    
+    "reservation":  false,
+
+    "parking": null,
+
+    "delivery": true,
+
+    "electric generator": false,
+    
+    "hours": {
+        "monday": "10:00am- 10:00pm",  
+        "tuesday": "10:00am- 10:00pm",
+        "wednesday": "10:00am- 10:00pm",
+        "thursday": "10:00am- 10:00pm",
+        "friday": "10:00am- 10:00pm",
+        "saturday": "10:00am- 10:00pm",
+        "sunday": "10:00am- 10:00pm"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": "Croquetas de la Casa",
+                    "price": 400,
+                    "description": ""
+                },
+                {
+                    "item_name": "Fritura de Malanga",
+                    "price": 300,
+                    "description": ""
+                },
+                {
+                    "item_name": "Bolita de Queso",
+                    "price": 650,
+                    "description": ""
+                },
+                {
+                    "item_name": "Fajita de Pechuga",
+                    "price": 1100,
+                    "description": ""
+                },
+                {
+                    "item_name": "Ensalada Fría",
+                    "price": 370,
+                    "description": ""
+                },
+                {
+                    "item_name": "Papa Frita",
+                    "price": 580,
+                    "description": ""
+                },
+                {
+                    "item_name": "Fajita de Cerdo",
+                    "price": 1200,
+                    "description": ""
+                },
+                {
+                    "item_name": "Crema de Queso",
+                    "price": 500,
+                    "description": ""
+                },
+                {
+                    "item_name": "Crema Virginia",
+                    "price": 550,
+                    "description": ""
+                },
+                {
+                    "item_name": "Crema Aurora",
+                    "price": 520,
+                    "description": ""
+                },
+                {
+                    "item_name": "Crema Mixta",
+                    "price": 600,
+                    "description": ""
+                },
+                {
+                    "item_name": "Tacos de Jamón",
+                    "price": 1030,
+                    "description": ""
+                },
+                {
+                    "item_name": "Tacos de Res",
+                    "price": 1350,
+                    "description": ""
+                },
+                {
+                    "item_name": "Tacos de Cangrejo",
+                    "price": 1380,
+                    "description": ""
+                }
+            ],
+                
+            "mains": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "fittings": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": "Pizza de Queso",
+                    "price": 800,
+                    "description": ""
+                },
+                {
+                    "item_name": "Pizza de Cebolla",
+                    "price": 1000,
+                    "description": ""
+                },
+                {
+                    "item_name": "Pizza de Pimiento",
+                    "price": 1000,
+                    "description": ""
+                },
+                {
+                    "item_name": "Pizza de Jamón",
+                    "price": 1100,
+                    "description": ""
+                },
+                {
+                    "item_name": "Pizza de Chorizo",
+                    "price": 1050,
+                    "description": ""
+                },
+                {
+                    "item_name": "Pizza de Hawaiana",
+                    "price": 1260,
+                    "description": ""
+                },
+                {
+                    "item_name": "Pizza de Bacón",
+                    "price": 1240,
+                    "description": ""
+                },
+                {
+                    "item_name": "Pizza Doble Queso",
+                    "price": 1250,
+                    "description": ""
+                },
+                {
+                    "item_name": "Pizza de Camarón",
+                    "price": 1700,
+                    "description": ""
+                },
+                {
+                    "item_name": "Pizza de Res",
+                    "price": 1300,
+                    "description": ""
+                },
+                {
+                    "item_name": "Pizza de Atún con Cebolla",
+                    "price": 1450,
+                    "description": ""
+                },
+                {
+                    "item_name": "Pizza de Jamón Serrano",
+                    "price": 1570,
+                    "description": ""
+                },
+                {
+                    "item_name": "Pizza de Aceituna",
+                    "price": 1200,
+                    "description": ""
+                }
+            ],
+
+            "paste": [
+                {
+                    "item_name": "Espaguetis Napolitano",
+                    "price": 720,
+                    "description": ""
+                },
+                {
+                    "item_name": "Espaguetis Boloñesa",
+                    "price": 1350,
+                    "description": ""
+                },
+                {
+                    "item_name": "Espaguetis Carbonara",
+                    "price": 1350,
+                    "description": ""
+                },
+                {
+                    "item_name": "Espaguetis Alfredo",
+                    "price": 1150,
+                    "description": ""
+                },
+                {
+                    "item_name": "Espaguetis de Atún",
+                    "price": 1270,
+                    "description": ""
+                },
+                {
+                    "item_name": "Espaguetis Pollo",
+                    "price": 1120,
+                    "description": ""
+                },
+                {
+                    "item_name": "Espaguetis de Camarones",
+                    "price": 1400,
+                    "description": ""
+                },
+                {
+                    "item_name": "Espaguetis Chorizo",
+                    "price": 1150,
+                    "description": ""
+                },
+                {
+                    "item_name": "Espaguetis Negro Di Mare",
+                    "price": 1500,
+                    "description": ""
+                }
+            ],
+
+            "additions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "desserts": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+            "cocktails": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "drinks": [
+                {
+                    "item_name": "Henike",
+                    "price": 360
+                },
+                {
+                    "item_name": "Cerveza Importada",
+                    "price": 250
+                },
+                {
+                    "item_name": "Cerveza de Lata Cristal",
+                    "price": 300
+                },
+                {
+                    "item_name": "Cerveza de Botella",
+                    "price": 300
+                },
+                {
+                    "item_name": "Pomitos de Agua",
+                    "price": 150
+                },
+                {
+                    "item_name": "Refresco de Pomito",
+                    "price": 180
+                },
+                {
+                    "item_name": "Refresco de Lata",
+                    "price": 220
+                },
+                {
+                    "item_name": "Malta",
+                    "price": 300
+                },
+                {
+                    "item_name": "Jugos de Lata",
+                    "price": 280
+                },
+                {
+                    "item_name": "Jugos de Cajita",
+                    "price": 180
+                },
+                {
+                    "item_name": "Tigón",
+                    "price": 300
+                },
+                {
+                    "item_name": "Refresco Importado",
+                    "price": 280
+                },
+                {
+                    "item_name": "Malta Importada",
+                    "price": 270
+                }
+            ],
+
+            "infusions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ]
+        }  
+} 

@@ -1,0 +1,419 @@
+{
+    "type": "Bar-Restaurante-Cafeteria",
+    "name": "700º", 
+    "location": {
+        "address": "avenida 41 esquina 86",
+        "municipe": "Marianao",
+        "province": "La Habana",
+        "coordinates":  "23.088058099587446, -82.42179558984083"
+    },
+    "sector": "privado",
+    
+    "qualification": 3,
+    
+    "specialized_food": ["Comida Mixta"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": 52842130,
+    
+    "capacity": 80,
+    
+    "reservation": true ,
+
+    "parking": true,
+
+    "delivery": true,
+
+    "electric generator": true,
+    
+    "hours": {
+        "monday": "11:00am - 3:00am",  
+        "tuesday": "11:00am - 3:00am",
+        "wednesday": "11:00am - 3:00am",
+        "thursday": "11:00am - 3:00am",
+        "friday": "11:00am - 3:00am",
+        "saturday": "11:00am - 3:00am",
+        "sunday": "11:00am - 3:00am"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": "tostones rellenos jamon y queso",
+                    "price": 890,
+                    "description": " "
+                },
+                {
+                    "item_name": "croquetas de la casa",
+                    "price": 890,
+                    "description": " "
+                },
+                {
+                    "item_name": "finger de pollo empanizado",
+                    "price": 890,
+                    "description": " "
+                },
+                {
+                    "item_name": "tacos de pollo",
+                    "price": 990,
+                    "description": " "
+                },
+                {
+                    "item_name": "tacos de cerdo",
+                    "price": 1100,
+                    "description": " "
+                },
+                {
+                    "item_name": "frituras de malanga",
+                    "price": 790,
+                    "description": " "
+                },
+                {
+                    "item_name": "entremes de aceituna",
+                    "price": 1130,
+                    "description": " "
+                },
+                {
+                    "item_name": "papas fritas",
+                    "price": 890,
+                    "description": " "
+                },
+                {
+                    "item_name": "eperlan de pescado",
+                    "price": 1380,
+                    "description": " "
+                },
+                {
+                    "item_name": "coctel de langosta",
+                    "price": 1600,
+                    "description": " "
+                },
+                {
+                    "item_name": "coctel de camaron",
+                    "price": 1600,
+                    "description": " "
+                }
+            ],
+                
+            "mains": [
+                {
+                    "item_name": "lonjas de cerdo al carbon ",
+                    "price": 1850,
+                    "description": " "
+                },
+                {
+                    "item_name": "saltimboca de cerdo",
+                    "price": 1750,
+                    "description": " "
+                },
+                {
+                    "item_name": "bistec de cerdo",
+                    "price": 1650,
+                    "description": " "
+                },
+                {
+                    "item_name": "fajitas de cerdo salteadas",
+                    "price": 1650,
+                    "description": " "
+                },
+                {
+                    "item_name": "solomillo de cerdo",
+                    "price": 2900,
+                    "description": " "
+                },
+                {
+                    "item_name": "masas de cerdo en salsa teriyaki",
+                    "price": 2200,
+                    "description": " "
+                },
+                {
+                    "item_name": "fricase de cerdo",
+                    "price": 2200,
+                    "description": " "
+                },
+                {
+                    "item_name": "pechuga de pollo",
+                    "price": 1650,
+                    "description": " "
+                },
+                {
+                    "item_name": "bistec uruguayo",
+                    "price": 1850,
+                    "description": " "
+                },
+                {
+                    "item_name": "ropa vieja de res",
+                    "price": 2200,
+                    "description": " "
+                },
+                {
+                    "item_name": "filete de pescado",
+                    "price": 1850,
+                    "description": " "
+                },
+                {
+                    "item_name": "camaron al gusto",
+                    "price": 2800,
+                    "description": " "
+                },
+                {
+                    "item_name": "enchilado de langosta",
+                    "price": 2800,
+                    "description": " "
+                },
+                {
+                    "item_name": "filete de pescado",
+                    "price": 1850,
+                    "description": " "
+                },
+                {
+                    "item_name": "camaron al gusto",
+                    "price": 2800,
+                    "description": " "
+                },
+                {
+                    "item_name": "enchilado de langosta",
+                    "price": 2800,
+                    "description": " "
+                },
+                {
+                    "item_name": "paella de marisco",
+                    "price": 3550,
+                    "description": " "
+                },
+                {
+                    "item_name": "cazuela de marisc",
+                    "price": 3600,
+                    "description": " "
+                },
+                {
+                    "item_name": "Mar y tierra campesina",
+                    "price": 3550,
+                    "description": " "
+                },
+                {
+                    "item_name": "filete john bill",
+                    "price": 3550,
+                    "description": " "
+                }
+            ],
+
+            "fittings": [
+                {
+                    "item_name": "arroz moro",
+                    "price": 100,
+                    "description": " "
+                },
+                {
+                    "item_name": "vianda frita",
+                    "price": 100,
+                    "description": " "
+                },
+                {
+                    "item_name": "platano maduro frito",
+                    "price": 100,
+                    "description": " "
+                },
+                {
+                    "item_name": "ensalada estacion",
+                    "price": 100,
+                    "description": " "
+                },
+                {
+                    "item_name": "platano chatinos",
+                    "price": 100,
+                    "description": " "
+                },
+                {
+                    "item_name": "arroz blanco",
+                    "price": 100,
+                    "description": " "
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": "napolitana",
+                    "price": 1200,
+                    "description": " "
+                },
+                {
+                    "item_name": "hawaiana",
+                    "price": 1450,
+                    "description": " "
+                }
+            ],
+
+            "paste": [
+                {
+                    "item_name": "espaguetis napolitano",
+                    "price": 1100,
+                    "description": ""
+                },
+                {
+                    "item_name": "espaguetis con camaron",
+                    "price": 2500,
+                    "description": " "
+                },
+                {
+                    "item_name": "espaguetis de langosta",
+                    "price": 2500,
+                    "description": " "
+                },
+                {
+                    "item_name": "espaguetis marineros",
+                    "price": 1100,
+                    "description": " "
+                }
+            ],
+
+            "additions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "desserts": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+            "cocktails": [
+                {
+                    "item_name": "servicio michelada",
+                    "price": 490
+                },
+                {
+                    "item_name": "servicio de chelada",
+                    "price": 300
+                },
+                {
+                    "item_name": "caipiroska",
+                    "price": 380
+                },
+                {
+                    "item_name": "caipirisima",
+                    "price": 380
+                },
+                {
+                    "item_name": "mojito",
+                    "price": 450
+                },
+                {
+                    "item_name": "caipirina",
+                    "price": 380
+                },
+                {
+                    "item_name": "sangria",
+                    "price": 400
+                },
+                {
+                    "item_name": "vodca tonic",
+                    "price": 480
+                },
+                {
+                    "item_name": "gin tonic",
+                    "price": 550
+                },
+                {
+                    "item_name": "cuba libre",
+                    "price": 480
+                },
+                {
+                    "item_name": "cubata especial",
+                    "price": 490
+                },
+                {
+                    "item_name": "daiquiri",
+                    "price": 380
+                },
+                {
+                    "item_name": "pina colada",
+                    "price": 450
+                },
+                {
+                    "item_name": "vino tinto",
+                    "price": 400
+                },
+                {
+                    "item_name": "limonada frescura",
+                    "price": 250
+                },
+                {
+                    "item_name": "limonada natural",
+                    "price": 250
+                }
+            ],
+
+            "drinks": [
+                {
+                    "item_name": "agua natural",
+                    "price": 290
+                },
+                {
+                    "item_name": "refresco internacional",
+                    "price": 380
+                },
+                {
+                    "item_name": "malta internacional",
+                    "price": 440
+                },
+                {
+                    "item_name": "energizante",
+                    "price": 550
+                },
+                {
+                    "item_name": "red bull",
+                    "price": 830
+                },
+                {
+                    "item_name": "cerveza internacional",
+                    "price": 350
+                },
+                {
+                    "item_name": "dispensada cristal",
+                    "price": 350
+                },
+                {
+                    "item_name": "cerveza bucanero",
+                    "price": 550
+                },
+                {
+                    "item_name": "cerveza cristal",
+                    "price": 550
+                },
+                {
+                    "item_name": "cerveza corona",
+                    "price": 750
+                },
+                {
+                    "item_name": "cerveza sol",
+                    "price": 750
+                },
+                {
+                    "item_name": "cerveza heineken",
+                    "price": 750
+                }
+            ],
+
+            "infusions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ]
+        }  
+} 

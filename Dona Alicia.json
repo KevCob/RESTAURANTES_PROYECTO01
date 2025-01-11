@@ -1,0 +1,760 @@
+{
+    "type": "Bar-Restaurante",
+    "name": "Dona Alicia", 
+    "location": {
+        "address": " Calle Reina esq, Padre Varela",
+        "municipe": "Centro Habana",
+        "province": "La Habana",
+        "coordinates":  "23.133178519943957, -82.3706256209112"
+    },
+    "sector": "privado",
+    
+    "qualification": 4.4,
+    
+    "specialized_food": ["Criolla","cubana","internacional","italiana"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": 78666009,
+    
+    "capacity": 65,
+    
+    "reservation":  true,
+
+    "parking": false ,
+
+    "delivery": true,
+
+    "electric generator": false,
+    
+    "hours": {
+        "monday": "12:00pm - 12:00am",  
+        "tuesday": "12:00pm - 12:00am",
+        "wednesday": "12:00pm - 12:00am",
+        "thursday": "12:00pm - 12:00am",
+        "friday": "12:00pm - 12:00am",
+        "saturday": "12:00pm - 12:00am",
+        "sunday": "12:00pm - 12:00am"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": "Tacos De Camaron",
+                    "price": 1500 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Tacos De Pollo",
+                    "price": 1000 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Tacos Al Pastor",
+                    "price": 1025 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Coctel De Langosta ",
+                    "price": 1000 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Tostones Rellenos Con Jamon",
+                    "price": 700,
+                    "description": " "
+                },
+                {
+                    "item_name": "Bolitas De Queso ",
+                    "price": 1450 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Fritura De Malanga",
+                    "price": 560 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Tacos De Pollo En Salsa Pico De Gallo",
+                    "price": 1250 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Tacos De Cerdo En Salsa De Pico De Gallo",
+                    "price": 1200,
+                    "description": " "
+                }
+            ],
+                
+            "mains": [
+                {
+                    "item_name": "Langosta Salteada Al Ajo",
+                    "price": 3250 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Langosta Grille C/ Salsa De La Casa",
+                    "price": 3000 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Enchilado De Langosta",
+                    "price": 3500,
+                    "description": " "
+                },
+                {
+                    "item_name": "Langosta Termidor",
+                    "price": 3125 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Ropa Vieja Res Con Salsa De Tomate",
+                    "price": 1995 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Ropa Vieja Res Sin Salsa De Tomate",
+                    "price": 1970 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Camaron Termidor",
+                    "price": 3000 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Camaron Salteado Con Ajo",
+                    "price": 2600 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Camarones Enchilados",
+                    "price": 2800 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pulpo Salteado Al Ajo",
+                    "price": 2625 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pulpo Enchilado ",
+                    "price": 2750 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pescado Gratinado Jamon Y Queso",
+                    "price": 2750 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Dados De Pescado Al Ajo",
+                    "price": 2200 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Dados De Pescado En Salsa Cubana",
+                    "price": 2430 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pescado Grille C/ Salsa De La Casa",
+                    "price": 2100 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Ropa Vieja De Cordero Sin Salsa De Tomate",
+                    "price": 1675,
+                    "description": " "
+                },
+                {
+                    "item_name": "Ropa Vieja De Cordero Con Salsa De Tomate",
+                    "price": 1700 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Estofado De Cordero Al Vino Tinto ",
+                    "price": 2300 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Chilindron De Cordero",
+                    "price": 2200 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Bistec De Cerdo Gratinado Con Jamón Y Queso",
+                    "price": 2200 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Bistec De La Abuela Con Mojo Criollo",
+                    "price": 1700 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Masas De Cerdo Italianas",
+                    "price": 3500 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Masas De Cerdo Con Salsa Agridulce",
+                    "price": 2350 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Masa De Cerdo Con Mojo Criollo",
+                    "price": 2350 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Lomo Deshuesado Con Mojo Criollo",
+                    "price": 2000,
+                    "description": " "
+                },
+                {
+                    "item_name": "Lomo Ahumado Al Graten",
+                    "price": 2500 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Lomo Ahumado Agridulce",
+                    "price": 2250 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Fajitas De Cerdo A La Campesina ",
+                    "price": 2200 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Fajita Pollo Crema",
+                    "price": 2700 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Montado De Pollo, Jamon Y Queso",
+                    "price": 2500 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pollo Gratinado",
+                    "price": 2375,
+                    "description": " "
+                },
+                {
+                    "item_name":" Arroz Frito Con Camaron",
+                    "price": 2450 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Arroz Frito",
+                    "price": 1825,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pescado Del Dia",
+                    "price": 1950 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Ropa Vieja De Cerdo Con Salsa De Tomate",
+                    "price": 1900,
+                    "description": " "
+                },
+                {
+                    "item_name": "Ropa Vieja De Cerdo Sin Salsa De Tomate",
+                    "price": 1820 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Dados De Pescado En Salsa Italiana",
+                    "price": 2900 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Lomo Ahumado Grille",
+                    "price": 2000 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Lomo Deshuesado Al Graten",
+                    "price": 2125 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pollo Doña Alicia",
+                    "price": 3250 ,
+                    "description": " "
+                },
+
+                {
+                    "item_name": "Bistec De La Abuela Con Salsa De Cebolla",
+                    "price": 2000 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Lomo Deshuesado En Salsa De Cebolla",
+                    "price": 2000 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Fajitas De Pollo A La Campesina",
+                    "price": 2400 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Fricase De Cerdo",
+                    "price": 2600 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Arroz Marinero",
+                    "price": 3550,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pollo Entero Relleno",
+                    "price": 10000,
+                    "description": " "
+                }
+            ],  
+
+            "fittings": [
+                {
+                    "item_name": "Tostones Naturales",
+                    "price": 250 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Vegetales De Temporada",
+                    "price": 350 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Arroz Blanco",
+                    "price": 220 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Arroz Moro",
+                    "price": 320 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Toston Al Ajo",
+                    "price": 350,
+                    "description": " "
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": "Pizza De Jamon",
+                    "price": 1600 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pizza De Camarones",
+                    "price": 2000 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pizza De Atun",
+                    "price": 1750 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pizza De Bacon",
+                    "price": 2000 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pizza Napolitana",
+                    "price": 1150 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pizza De Aji Y Cebolla",
+                    "price": 1550 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pizza Estilo Margarita",
+                    "price": 1250 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pizza Ropa Vieja De Cerdo",
+                    "price": 1800 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pizza 4 Queso",
+                    "price": 2000,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pizza Hawaiana",
+                    "price": 1625 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pizza De Salsa Pesto",
+                    "price":1200,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pizza Al Pastor",
+                    "price": 2000 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pizza De Ropa Vieja De Res",
+                    "price": 2150 ,
+                    "description": ""
+                }
+                
+            ],
+
+            "paste": [
+                {
+                    "item_name": "Lasaña De Jamon",
+                    "price": 1650 ,
+                    "description": ""
+                },
+                {
+                    "item_name": "Espaguetis Con Jamón Y Queso Gouda",
+                    "price": 1510 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Espaguetis Con Camarones Y Queso Gouda",
+                    "price": 2220 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Espaguetis Carbonara",
+                    "price": 2115 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Espaguetis Napoles C/ Gouda",
+                    "price": 1105 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Espaguetis Con Atun",
+                    "price": 1660 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Canelon De Camaron",
+                    "price": 1850 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Canelones De Jamon",
+                    "price": 1650,
+                    "description": " "
+                },
+                {
+                    "item_name": "Espaguetis En Salsa Blanca Cremosa Con Parmesano Y Albahaca Natural",
+                    "price": 1500 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Espaguettis De Vegetales Con Grana Padano",
+                    "price": 1650,
+                    "description": " "
+                }
+            ],
+
+            "additions": [
+                {
+                    "item_name": "Jamon",
+                    "price": 300 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Queso",
+                    "price": 600 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Champinones",
+                    "price": 375 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Cebolla",
+                    "price": 275 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pimiento",
+                    "price": 205,
+                    "description": " "
+                },
+                {
+                    "item_name": "Atun",
+                    "price": 550 ,
+                    "description": " "
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "desserts": [
+                {
+                    "item_name": "Cake De Chocolate",
+                    "price": 850 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Cisne",
+                    "price": 95 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Trufa De Chocolate",
+                    "price": 160 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Eclear",
+                    "price": 530 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Rosca Reyes",
+                    "price": 350,
+                    "description": " "
+                },
+                {
+                    "item_name": "Arroz Con Leche",
+                    "price": 580 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Cheesecake De Fresa",
+                    "price": 520 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Tortica",
+                    "price": 100,
+                    "description": " "
+                }
+            ],
+            "cocktails": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ],
+
+            "drinks": [
+                {
+                    "item_name": "Malta Nacional Bucanero",
+                    "price": 405 
+                },
+                {
+                    "item_name": "Pepsi Cola De Lata",
+                    "price": 380 
+                },
+                {
+                    "item_name": "Refresco Importado 7 Up",
+                    "price": 320
+                },
+                {
+                    "item_name": "Jugo Kermato",
+                    "price": 710 
+                },
+                {
+                    "item_name": "Red Bull",
+                    "price": 900 
+                },
+                {
+                    "item_name": "Agua Tónica Mg",
+                    "price": 600
+                },
+                {
+                    "item_name": "Agua Natural Buona",
+                    "price": 280
+                },
+                {
+                    "item_name": "Refresco Santa Naranja",
+                    "price": 350
+                },
+                {
+                    "item_name": "Agua Gaseada Tehuacan",
+                    "price": 650 
+                },
+                {
+                    "item_name": "Refresco Ritz Cola",
+                    "price": 345 
+                },
+                {
+                    "item_name": "Cerveza Importada Modelo Especial",
+                    "price": 650
+                },
+                {
+                    "item_name": "Cerveza Presidente",
+                    "price": 595 
+                },
+                {
+                    "item_name": "Heineken Botella ",
+                    "price": 495 
+                },
+                {
+                    "item_name": "Johnnie Walker Etiqueta Roja",
+                    "price": 9050
+                },
+                {
+                    "item_name": "Chivas Regal 12 ",
+                    "price": 19500
+                },
+                {
+                    "item_name": "H.c Seleccion De Maestros",
+                    "price": 8950
+                },
+                {
+                    "item_name": "H.c Añejo Reserva",
+                    "price": 4300
+                },
+                {
+                    "item_name": "H.c Añejo Especial",
+                    "price": 2625 
+                },
+                {
+                    "item_name": "Tequila Olmeca Silver",
+                    "price": 5800
+                },
+                {
+                    "item_name": "Cerveza Nacional Cristal",
+                    "price": 440
+                },
+                {
+                    "item_name": "Ron Santiago De Cuba Carta Blanca",
+                    "price": 3500 
+                },
+                {
+                    "item_name": "Whisky Black & White",
+                    "price": 4125
+                },
+                {
+                    "item_name": "Whisky J/w Black Label",
+                    "price": 17500
+                },
+                {
+                    "item_name": "Ron Santiago De Cuba Añejo 12",
+                    "price": 12000 
+                },
+                {
+                    "item_name": "Black Tears",
+                    "price": 2000 
+                },
+                {
+                    "item_name": "Cerveza Corona",
+                    "price": 660
+                },
+                {
+                    "item_name": "H.c.pacto Navío",
+                    "price": 10000 
+                },
+                {
+                    "item_name": "Cerveza Presidente Licht",
+                    "price": 570
+                },
+                {
+                    "item_name": "Vino tinto Frontera Merlot ",
+                    "price": 2300
+                },
+                {
+                    "item_name": "Espumoso Cava Mistinguett Brut",
+                    "price": 3800
+                },
+                {
+                    "item_name": "Espumoso Cava Brut Reserva Mistinguett",
+                    "price": 3800
+                },
+                {
+                    "item_name": "Espumoso Gran Baron Cava Brut",
+                    "price": 3800 
+                },
+                {
+                    "item_name": "Vino tinto Frontera Cabernet Sauvignon ",
+                    "price": 2100 
+                },
+                {
+                    "item_name": "Vino blanco Frontera Chardonay",
+                    "price": 2100
+                },
+                {
+                    "item_name": "Vino tinto Frontera Merlot",
+                    "price": 2100
+                },
+                {
+                    "item_name": "Espumoso Cava Mistinguett Brut",
+                    "price": 3800
+                },
+                {
+                    "item_name": "Espumoso Cava Brut Reserva Mistinguett",
+                    "price": 3800
+                },
+                {
+                    "item_name": "Espumoso Gran Barón Cava Brut",
+                    "price": 3800 
+                },
+                {
+                    "item_name": "Vino tinto Frontera Cabernet Sauvignon ",
+                    "price": 2100 
+                },
+                {
+                    "item_name": "Vino blanco Frontera Chardonay",
+                    "price": 2100
+                },
+                {
+                    "item_name": "Vino tinto Frontera Merlot",
+                    "price": 2100
+                },
+                {
+                    "item_name": "Espumoso Torre De La Vid (Brut)",
+                    "price": 2750
+                },
+                {
+                    "item_name": "Vino Espumoso Rocamar (Brut)",
+                    "price": 2750 
+                },
+                {
+                    "item_name": "Vino Rosado Espumoso Calavina",
+                    "price": 2500
+                },
+                {
+                    "item_name": "Vino Blanco Espumoso Calavina Brut",
+                    "price": 2500
+                },
+                {
+                    "item_name": "Cava Brut Rose Gran Baron",
+                    "price": 2250 
+                },
+                {
+                    "item_name": "Vino Blanco Espumoso Semisecos Condelier",
+                    "price": 2625
+                }
+            ],
+
+            "infusions": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ]
+        }  
+} 

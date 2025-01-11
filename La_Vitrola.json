@@ -1,0 +1,550 @@
+{
+    "type": "Bar-Restaurant",
+    "name": "La Vitrola", 
+    "location": {
+        "address": "Plaza Vieja entre Muralla y San Ignacio",
+        "municipe": "Habana Vieja",
+        "province": "La Habana",
+        "coordinates":  "23.13552900516459, -82.3502524323634"
+    },
+    "sector": "privado",
+    
+    "qualification": 4,
+    
+    "specialized_food": ["Comida mixta"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": 78018264,
+    
+    "capacity": 30,
+    
+    "reservation":  true,
+
+    "parking": false,
+
+    "delivery": false,
+
+    "electric generator": true,
+    
+    "hours": {
+        "monday": "8:30am - 2:00am",  
+        "tuesday": "8:30am - 2:00am",
+        "wednesday": "8:30am - 2:00am",
+        "thursday": "8:30am - 2:00am",
+        "friday": "8:30am - 2:00am",
+        "saturday": "8:30am - 2:00am",
+        "sunday": "8:30am - 2:00am"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name":"Yuca with cheese",
+                    "price":440
+                },
+                {
+                    "item_name":"Bruschetta",
+                    "price":540
+                },
+                {
+                    "item_name":"Croquettes",
+                    "price":440
+                },
+                {
+                    "item_name":"Fish eperlan",
+                    "price":1730
+                },
+                {
+                    "item_name":"Meat ball",
+                    "price":720
+                },
+                {
+                    "item_name":"Fried pork chunks",
+                    "price":1730
+                },
+                {
+                    "item_name":"Fried pork ribs",
+                    "price":1730
+                },
+                {
+                    "item_name":"Beef of chicken or pork burguer",
+                    "price":870
+                },
+                {
+                    "item_name":"Ham and cheese sandwich",
+                    "price":720
+                },
+                {
+                    "item_name":"Tuna fish sandwich",
+                    "price":720
+                },
+                {
+                    "item_name":"Chicken or pork tacos",
+                    "price":1040
+                },
+                {
+                    "item_name":"Shrimps tacos",
+                    "price":1240
+                },
+                {
+                    "item_name":"Fried Chickpea",
+                    "price":870
+                },
+                {
+                    "item_name":"Fried Stuffed Plantain",
+                    "price":650
+                },
+                {
+                    "item_name":"Tamales in leaves",
+                    "price":360
+                },
+                {
+                    "item_name":"Tamales Vitrola",
+                    "price":700
+                },
+                {
+                    "item_name":"Vitrola Mixed",
+                    "price":2880
+                },
+                {
+                    "item_name":"Vitrola salad",
+                    "price":530
+                },
+                {
+                    "item_name":"Plaza Vieja salad",
+                    "price":720
+                },
+                {
+                    "item_name":"Picadera Vitrola",
+                    "price":1730
+                },
+                {
+                    "item_name":"Assorted Picadera",
+                    "price":1730
+                },
+                {
+                    "item_name":"Shrimps cocktail",
+                    "price":1590
+                },
+                {
+                    "item_name":"Fish cebiche",
+                    "price":1880
+                },
+                {
+                    "item_name":"Octopus in Gardin / Grill",
+                    "price":3000
+                },
+                {
+                    "item_name":"Grandma's Patacon",
+                    "price":1500
+                }
+            ],
+                
+            "mains": [
+                {
+                    "item_name":"Mixed Grill",
+                    "price":2160
+                },
+                {
+                    "item_name":"Rural Grill",
+                    "price":2600
+                },
+                {
+                    "item_name":"Skewer of your choice",
+                    "price":1160
+                },
+                {
+                    "item_name":"Grilled chicken breast",
+                    "price":1160
+                },
+                {
+                    "item_name":"Chicken Gordon Blue",
+                    "price":1440
+                },
+                {
+                    "item_name":"Chicken or pork fajitas",
+                    "price":1160
+                },
+                {
+                    "item_name":"Grilled Chicken",
+                    "price":1160
+                },
+                {
+                    "item_name":"Uruguayo steak",
+                    "price":1440
+                },
+                {
+                    "item_name":"Pork steak with onion",
+                    "price":1230
+                },
+                {
+                    "item_name":"Beef steak",
+                    "price":2160
+                },
+                {
+                    "item_name":"Fried beef",
+                    "price":1440
+                },
+                {
+                    "item_name":"Ropa Vieja",
+                    "price":1440
+                },
+                {
+                    "item_name":"Lamb stew",
+                    "price":2600
+                },
+                {
+                    "item_name":"Fried pork chunks",
+                    "price":1730
+                },
+                {
+                    "item_name":"Fried pork ribs",
+                    "price":1730
+                },
+                {
+                    "item_name":"Fried rice with shrimps",
+                    "price":1020
+                },
+                {
+                    "item_name":"Three piece of pork loin",
+                    "price":1730
+                },
+                {
+                    "item_name":"Land and sea",
+                    "price":2600
+                },
+                {
+                    "item_name":"Grilled fish fillet / breaded",
+                    "price":1850
+                },
+                {
+                    "item_name":"Fish fillet gouda",
+                    "price":2100
+                },
+                {
+                    "item_name":"Camarones al gusto",
+                    "price":1590
+                },
+                {
+                    "item_name":"Fried whole fish",
+                    "price":2600
+                },
+                {
+                    "item_name":"John Bill fish",
+                    "price":2400
+                },
+                {
+                    "item_name":"Fish fillet Monte Toro",
+                    "price":2400
+                },
+                {
+                    "item_name":"Fish fillet Canciller",
+                    "price":2600
+                }
+            ],
+
+            "fittings": [
+                {
+                    "Type":"Fried viands",
+                    "price":240
+                },
+                {
+                    "Type":"Vegetable salad",
+                    "price":300
+                },
+                {
+                    "Type":"White rice",
+                    "price":160
+                },
+                {
+                    "Type":"Moro rice",
+                    "price":240
+                },
+                {
+                    "Type":"Day beans",
+                    "price":240
+                },
+                {
+                    "Type":"Rice with vegetables",
+                    "price":240
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item_name":"Pizza Margarita",
+                    "price":1250
+                },
+                {
+                    "item_name":"Pizza de jamon viking",
+                    "price":1650
+                },
+                {
+                    "item_name":"Pizza de jamon pierna",
+                    "price":1900
+                },
+                {
+                    "item_name":"Pizza de jamon serrano",
+                    "price":2500
+                },
+                {
+                    "item_name":"Pizza Hawaiana",
+                    "price":1750
+                },
+                {
+                    "item_name":"Pizza de atun",
+                    "price":1750
+                },
+                {
+                    "item_name":"Pizza Cuatro Estaciones",
+                    "price":1750
+                },
+                {
+                    "item_name":"Pizza de salame",
+                    "price":1900
+                },
+                {
+                    "item_name":"Pizza de cebolla",
+                    "price":1350
+                },
+                {
+                    "item_name":"Pizza de champignones",
+                    "price":1750
+                },
+                {
+                    "item_name":"Pizza de Calzone",
+                    "price":1750
+                },
+                {
+                    "item_name":"Pizza de pepperone",
+                    "price":2500
+                },
+                {
+                    "item_name":"Pizza Retro",
+                    "price":3000
+                },
+                {
+                    "item_name":"Pizza Habanera",
+                    "price":1900
+                },
+                {
+                    "item_name":"Pizza Cuatro Quesos",
+                    "price":2500
+                },
+                {
+                    "item_name":"Pizza de camarones",
+                    "price":2250
+                },
+                {
+                    "item_name":"Pizza mixta",
+                    "price":2500
+                },
+                {
+                    "item_name":"Pizza de sardina",
+                    "price":1500
+                },
+                {
+                    "item_name":"Pizza de langosta",
+                    "price":3750
+                }
+            ],
+
+            "paste": [
+                {
+                    "item_name":"Pasta Cuatro Quesos",
+                    "price":2190
+                },
+                {
+                    "item_name":"Pasta Alberto",
+                    "price":1740
+                },
+                {
+                    "item_name":"Pasta Bolognesa",
+                    "price":1900
+                },
+                {
+                    "item_name":"Pasta Carbonara",
+                    "price":1740
+                },
+                {
+                    "item_name":"Pasta Puttanesca",
+                    "price":2590
+                },
+                {
+                    "item_name":"Pasta Al Pesto",
+                    "price":1740
+                },
+                {
+                    "item_name":"Pasta de jamon",
+                    "price":1740
+                },
+                {
+                    "item_name":"Pasta de chorizo",
+                    "price":1740
+                },
+                {
+                    "item_name":"Pasta al ajo",
+                    "price":1560
+                },
+                {
+                    "item_name":"Pasta al pomodoro",
+                    "price":1560
+                },
+                {
+                    "item_name":"Pasta Retro",
+                    "price":2590
+                },
+                {
+                    "item_name":"Pasta al Horno",
+                    "price":2590
+                },
+                {
+                    "item_name":"Pasta Amatriciana",
+                    "price":1740
+                },
+                {
+                    "item_name":"Pasta frutti di mare",
+                    "price":2590
+                },
+                {
+                    "item_name":"Pasta Focaccia",
+                    "price":750
+                },
+                {
+                    "item_name":"Lasagna",
+                    "price":1740
+                },
+                {
+                    "item_name":"Canelones",
+                    "price":1740
+                }
+            ],
+
+            "additions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name":"Chicken sandwich",
+                    "price":720
+                },
+                {
+                    "item_name":"Cuban sandwich",
+                    "price":940
+                },
+                {
+                    "item_name":"Vitrola sandwich",
+                    "price":940
+                }
+            ],
+
+            "desserts": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+            "cocktails": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ],
+
+            "drinks": [
+                {
+                    "item_name":"National water",
+                    "price":390
+                },
+                {
+                    "item_name":"National softdrinks",
+                    "price":400
+                },
+                {
+                    "item_name":"Imported softdrinks",
+                    "price":400
+                },
+                {
+                    "item_name":"Softdrink dispensed",
+                    "price":250
+                },
+                {
+                    "item_name":"Malt drink",
+                    "price":400
+                },
+                {
+                    "item_name":"Imported malt",
+                    "price":400
+                },
+                {
+                    "item_name":"Glass of dispensed beer",
+                    "price":180
+                },
+                {
+                    "item_name":"Imported beer",
+                    "price":350
+                },
+                {
+                    "item_name":"Dispensed beer mug",
+                    "price":350
+                },
+                {
+                    "item_name":"National Michelada",
+                    "price":340
+                },
+                {
+                    "item_name":"Imported Michelada",
+                    "price":540
+                },
+                {
+                    "item_name":"Lemonade",
+                    "price":390
+                },
+                {
+                    "item_name":"Natural juice",
+                    "price":240
+                },
+                {
+                    "item_name":"Fruits milk shake",
+                    "price":450
+                },
+                {
+                    "item_name":"Ice cream milk shake",
+                    "price":540
+                }
+            ],
+
+            "infusions": [
+                {
+                    "item_name":"Expresso",
+                    "price":240
+                },
+                {
+                    "item_name":"American coffee",
+                    "price":240
+                },
+                {
+                    "item_name":"Coffe with a dash of milk",
+                    "price":300
+                },
+                {
+                    "item_name":"Coffee with milk",
+                    "price":300
+                },
+                {
+                    "item_name":"Chocolate with milk",
+                    "price":390
+                },
+                {
+                    "item_name":"Capuccino",
+                    "price":390
+                }
+            ]
+        }  
+} 

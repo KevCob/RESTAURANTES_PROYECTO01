@@ -1,0 +1,245 @@
+{
+    "type": "Restaurante-Cafeteria",
+    "name": "La Hamburguesita", 
+    "location": {
+        "address": "Calle Cienfuegos entre Apodaca y Gloria",
+        "municipe": "Habana Vieja",
+        "province": "La Habana",
+        "coordinates":  "23.131650837595345, -82.35778799003404"
+    },
+    "sector": "privado",
+    
+    "qualification": 5,
+    
+    "specialized_food": ["Americana"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": 78661294,
+    
+    "capacity": 25,
+    
+    "reservation":  false,
+
+    "parking": true,
+
+    "delivery": false,
+
+    "electric generator": false,
+    
+    "hours": {
+        "monday": "11:00am - 11:00pm",  
+        "tuesday": "11:00am - 11:00pm",
+        "wednesday": "11:00am - 11:00pm",
+        "thursday": "11:00am - 11:00pm",
+        "friday": "11:00am - 11:00pm",
+        "saturday": "11:00am - 11:00pm",
+        "sunday": "11:00am - 11:00pm"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": "Croquetas",
+                    "price": 350,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Frituras de malanga",
+                    "price": 350,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Tostones hawaianos",
+                    "price": 400,
+                    "description": " "
+                  }
+            ],
+                
+            "mains": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "fittings": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "paste": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "additions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": "Hamburguesa Clasica",
+                    "price": 550,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Hamburguesa Hawaiana",
+                    "price": 650,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Hamburguesa Casa blanca",
+                    "price": 700,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Hamburguesa Submarino",
+                    "price": 670,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Hamburguesa Belleza habanera",
+                    "price": 700,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Hamburguesa Locura cienfueguera",
+                    "price": 800,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Hamburguesa Biplanta",
+                    "price": 850,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Hamburguesa Cubana",
+                    "price": 950,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Hamburguesa Milanesa",
+                    "price": 950,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Sandwich Pollo",
+                    "price": 450,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Sandwich Jamon",
+                    "price": 400,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Sandwich Queso",
+                    "price": 400,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Sandwich Jamon y queso",
+                    "price": 500,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Sandwich Atun",
+                    "price": 750,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Sandwich Cubano",
+                    "price": 750,
+                    "description": " "
+                  }
+            ],
+
+            "desserts": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+            "cocktails": [
+                {
+                    "item_name": "Limonada frape",
+                    "price": 200
+                  }
+            ],
+
+            "drinks": [
+                {
+                    "item_name": "Jugos naturales",
+                    "price": 150
+                  },
+                  {
+                    "item_name": "Batidos de frutas",
+                    "price": 200
+                  },
+                  {
+                    "item_name": "Malteada",
+                    "price": 350
+                  },
+                  {
+                    "item_name": "Malta",
+                    "price": 280
+                  },
+                  {
+                    "item_name": "Refresco nacional",
+                    "price": 250
+                  },
+                  {
+                    "item_name": "Refresco importado",
+                    "price": 280
+                  },
+                  {
+                    "item_name": "Cervezas nacionales",
+                    "price": 280
+                  },
+                  {
+                    "item_name": "Cervezas importadas",
+                    "price": 250
+                  },
+                  {
+                    "item_name": "Energizante",
+                    "price": 280
+                  },
+                  {
+                    "item_name": "Agua natural",
+                    "price": 150
+                  }
+                  
+            ],
+
+            "infusions": [
+                {
+                    "item_name": "Cafe expreso",
+                    "price": 100
+                  },
+                  {
+                    "item_name": "Cafe bombom",
+                    "price": 150
+                  }
+            ]
+        }  
+} 

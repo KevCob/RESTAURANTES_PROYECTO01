@@ -1,0 +1,257 @@
+{
+    "type": "Bar-Restaurante-Cafeteria",
+    "name": "Habana Tokio", 
+    "location": {
+        "address": "Calle Obrapía entre Bernaza y Villegas",
+        "municipe": " Habana Vieja",
+        "province": "La Habana",
+        "coordinates":  "23.137436298849373, -82.3563168151748"
+    },
+    "sector": "privado",
+    
+    "qualification": 4.6,
+    
+    "specialized_food": ["Japonesa"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": 59172392,
+    
+    "capacity": 20,
+    
+    "reservation":  true,
+
+    "parking": false,
+
+    "delivery": true,
+    
+    "electric generator": true,
+    
+    "hours": {
+        "monday": "12:00pm - 11:00pm",  
+        "tuesday": "12:00pm - 11:00pm",
+        "wednesday": "12:00pm - 11:00pm",
+        "thursday": "12:00pm - 11:00pm",
+        "friday": "12:00pm - 11:00pm",
+        "saturday": "12:00pm - 11:00pm",
+        "sunday": "12:00pm - 11:00pm"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+                
+            "mains": [
+                {
+                    "item_name": "Takoyaki",
+                    "price": 1000,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Sushi (Makizushi) Atún",
+                    "price": 1750,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Sushi (Makizushi) Salmón",
+                    "price": 2100,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Sushi (Makizushi) Mixto",
+                    "price": 2750,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Chashu",
+                    "price": 1000,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Sashimi Salmón",
+                    "price": 2900,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Sashimi Calamar",
+                    "price": 2900,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Tataki Atún",
+                    "price": 2300,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Yakitori",
+                    "price": 2400,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Karaage",
+                    "price": 2400,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Chicken Teriyaki",
+                    "price": 2400,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Tempura Vegetales",
+                    "price": 2300,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Tempura Calamar o Camarón",
+                    "price": 3000,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Tempura Udon",
+                    "price": 2000,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Ramen (Shoyu o Miso) Camarón",
+                    "price": 2550,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Ramen (Shoyu o Miso) Camarón Grande",
+                    "price": 3000,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Katsudon",
+                    "price": 2850,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Tonkatsu",
+                    "price": 2750,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Yakisoba",
+                    "price": 2750,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Yakisoba Mariscos o Calamar",
+                    "price": 3100,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Yakisoba Camarón",
+                    "price": 3100,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Combo Habana-Tokio",
+                    "price": 3900,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Combo Sashimi Atún",
+                    "price": 4200,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Combo Sashimi Salmón",
+                    "price": 4400,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Oyakodon",
+                    "price": 2800,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Okonomiyaki",
+                    "price": 800,
+                    "description": ""
+                  }
+            ],
+
+            "fittings": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "paste": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "additions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "desserts": [
+                {
+                    "item_name": "Kakigoori",
+                    "price": 800,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Flan",
+                    "price": 600,
+                    "description": ""
+                  }
+            ],
+            "cocktails": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "drinks": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "infusions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ]
+        }  
+} 

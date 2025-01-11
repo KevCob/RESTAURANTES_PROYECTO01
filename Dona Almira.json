@@ -1,0 +1,288 @@
+{
+    "type": "Restaurante-Cafeteria",
+    "name": "Dona Almira", 
+    "location": {
+        "address": "Calle Finlay No.979 % Avenida de Los Pinos y Fernandez de Castro",
+        "municipe": "Arroyo Naranjo",
+        "province": "La Habana",
+        "coordinates":  "23.064390060079617, -82.37574330537674"
+    },
+    "sector": "privado",
+    
+    "qualification": 4.6,
+
+    "specialized_food": ["cubana"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": 76472432,
+    
+    "capacity": 20,
+    
+    "reservation":  true,
+
+    "parking": false,
+
+    "delivery": false,
+
+    "electric generator": false,
+    
+    "hours": {
+        "monday": "cerrado",  
+        "tuesday": "cerrado",
+        "wednesday": "10:00am - 11:00pm",
+        "thursday": "10:00am - 11:00pm",
+        "friday": "10:00am - 11:00pm",
+        "saturday": "10:00am - 11:00pm",
+        "sunday": "10:00am - 11:00pm"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": "Tostones rellenos",
+                    "price": 850 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Tamal en cazuela",
+                    "price": 785 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Vegetales rellenos",
+                    "price": 895 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Racion de chicharrones",
+                    "price": 300 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Aderezo Dona Almira",
+                    "price": 385 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Salsa Agridulce",
+                    "price": 395,
+                    "description": " "
+                },
+                {
+                    "item_name": "Ensalada de Chorizo",
+                    "price": 1225 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Ceviche de pescado",
+                    "price": 685 ,
+                    "description": " "
+                }
+                
+            ],
+                
+            "mains": [
+                {
+                    "item_name": "Mignon de Pescado Grille",
+                    "price": 1370 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Mignon de Pescado a las Finas Hierbas",
+                    "price": 1410 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Mignon de Pescado Dona Almira",
+                    "price": 1650 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Mignon de Pescado Gratinado",
+                    "price": 1585 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Mignon de Pescado con Queso y Bacon",
+                    "price":  1720 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Bistec Americano",
+                    "price": 2430 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Nasobuco",
+                    "price": 1860 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Bistec de Higado",
+                    "price": 1290 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Higado a la Italiana",
+                    "price": 1380 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Lomo Rostizado",
+                    "price": 2150 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pollo Dona Almira",
+                    "price": 1340 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pollo Barbacoa",
+                    "price": 1195 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pollo Salsa Agridulce",
+                    "price": 1295 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pollo Grille",
+                    "price": 1195 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pollo en Fricase",
+                    "price": 1200 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pollo a la Pasa",
+                    "price": 1220,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pollo Grille con Camarones",
+                    "price": 1375 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Cerdo Enrrollado Asado",
+                    "price": 1545 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Cerdo Enrollado Salsa Agridulce",
+                    "price": 1570,
+                    "description": " "
+                },
+                {
+                    "item_name": "Cerdo Enrollado Glaseado",
+                    "price": 1550,
+                    "description": " "
+                },
+                {
+                    "item_name": "Fricase de Cerdo",
+                    "price": 1520 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Picada a La Habanera",
+                    "price": 1290 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Ropa Vieja",
+                    "price": 1305 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Vaca Frita",
+                    "price": 1260 ,
+                    "description": " "
+                }
+                
+            ],
+
+            "fittings": [
+                {
+                    "item_name": "Arroz Congris",
+                    "price": 120 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Ensalada Estacion",
+                    "price": 285 ,
+                    "description": " "
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "paste": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "additions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "desserts": [
+                {
+                    "item_name": "Musse Variados",
+                    "price": 570 ,
+                    "description": " "
+                }
+            ],
+            "cocktails": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "drinks": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "infusions": [
+                {
+                    "item_name": "Cafe cubano",
+                    "price": 150
+                },
+                {
+                    "item_name": "Cortado",
+                    "price": 180 
+                    
+                }
+            ]
+        }  
+} 

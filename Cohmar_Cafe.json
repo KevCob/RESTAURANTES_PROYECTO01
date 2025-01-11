@@ -1,0 +1,528 @@
+{
+    "type": "Bar-Restaurante",
+    "name": "Cohmar Cafe", 
+    "location": {
+        "address": "Boulevard de San Rafael, & Amistad",
+        "municipe": "Centro Habana",
+        "province": "La Habana",
+        "coordinates":  "23.13713706188433, -82.36148787289606"
+    },
+    "sector": "privado",
+    
+    "qualification": 5,
+    
+    "specialized_food": ["criolla", "internacional", "cubana"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": 63683372,
+    
+    "capacity": 25,
+    
+    "reservation":  false,
+
+    "parking": false,
+
+    "delivery": false,
+
+    "electric generator": false,
+    
+    "hours": {
+        "monday": "10:00am - 10:00pm",  
+        "tuesday": "10:00am - 10:00pm",
+        "wednesday": "10:00am - 10:00pm",
+        "thursday": "10:00am - 10:00pm",
+        "friday": "10:00am - 10:00pm",
+        "saturday": "10:00am - 10:00pm",
+        "sunday": "10:00am - 10:00pm"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": "croquetas de jamón",
+                    "price": 650,
+                    "description": " "
+                },
+                {
+                    "item_name": "frituras de malanga",
+                    "price": 550,
+                    "description": " "
+                },
+                {
+                    "item_name": "tostones rellenos",
+                    "price": 725,
+                    "description": " "
+                },
+                {
+                    "item_name": "brusqueta de queso",
+                    "price": 695,
+                    "description": " "
+                },
+                {
+                    "item_name": "brusqueta de serrano",
+                    "price": 1350,
+                    "description": " "
+                },
+                {
+                    "item_name": "picadera mixta",
+                    "price": 1825,
+                    "description": " "
+                }
+            ],
+                
+            "mains": [
+                {
+                    "item_name": "fajitas de pollo naturales",
+                    "price": 1950,
+                    "description": " "
+                },
+                {
+                    "item_name": "pechuga de pollo grille",
+                    "price": 1950,
+                    "description": " "
+                },
+                {
+                    "item_name": "lonjas de cerdo en salsa agridulce",
+                    "price": 1965,
+                    "description": " "
+                },
+                {
+                    "item_name": "bistec de cerdo encebollado",
+                    "price": 1965,
+                    "description": " "
+                },
+                {
+                    "item_name": "vaca frita de cerdo",
+                    "price": 1965,
+                    "description": " "
+                },
+                {
+                    "item_name": "ropa vieja de cerdo",
+                    "price": 1965,
+                    "description": " "
+                },
+                {
+                    "item_name": "lomo ahumado al mojo criollo",
+                    "price": 1975,
+                    "description": " "
+                }
+            ],
+
+            "fittings": [
+                {
+                    "item_name": "arroz moro",
+                    "price": 350,
+                    "description": " "
+                },
+                {
+                    "item_name": "arroz blanco",
+                    "price": 325,
+                    "description": " "
+                },
+                {
+                    "item_name": "arroz pilaf",
+                    "price": 325,
+                    "description": " "
+                },
+                {
+                    "item_name": "tostón natural",
+                    "price": 325,
+                    "description": " "
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "paste": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "additions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": "bocata de jamón",
+                    "price": 570,
+                    "description": " "
+                },
+                {
+                    "item_name": "bocata de queso",
+                    "price": 585,
+                    "description": " "
+                },
+                {
+                    "item_name": "bocata de j/queso",
+                    "price": 650,
+                    "description": " "
+                },
+                {
+                    "item_name": "bocata de j. pierna",
+                    "price": 695,
+                    "description": " "
+                },
+                {
+                    "item_name": "bocata de j. pierna/q",
+                    "price": 695,
+                    "description": " "
+                },
+                {
+                    "item_name": "bocata de chorizo",
+                    "price": 570,
+                    "description": " "
+                },
+                {
+                    "item_name": "bocata de chorizo/q",
+                    "price": 650,
+                    "description": " "
+                },
+                {
+                    "item_name": "bocata mixto",
+                    "price": 785,
+                    "description": " "
+                },
+                {
+                    "item_name": "bocata cubano",
+                    "price": 1375,
+                    "description": " "
+                },
+                {
+                    "item_name": "sandwich de jamón",
+                    "price": 460,
+                    "description": " "
+                },
+                {
+                    "item_name": "sandwich de queso",
+                    "price": 465,
+                    "description": " "
+                },
+                {
+                    "item_name": "sandwich de j/queso",
+                    "price": 535,
+                    "description": " "
+                },
+                {
+                    "item_name": "sandwich de j. pierna",
+                    "price": 650,
+                    "description": " "
+                },
+                {
+                    "item_name": "sandwich de j. pierna/q",
+                    "price": 695,
+                    "description": " "
+                },
+                {
+                    "item_name": "sandwich de chorizo",
+                    "price": 465,
+                    "description": " "
+                },
+                {
+                    "item_name": "sandwich de chorizo/q",
+                    "price": 535,
+                    "description": " "
+                },
+                {
+                    "item_name": "sandwich mixto",
+                    "price": 650,
+                    "description": " "
+                }
+            ],
+
+            "desserts": [
+                {
+                    "item_name": "copa 4 bolas",
+                    "price": 450,
+                    "description": " "
+                },
+                {
+                    "item_name": "copa 3 bolas",
+                    "price": 350,
+                    "description": " "
+                }
+                
+            ],
+            "cocktails": [
+                {
+                    "item_name": "limonada frappe",
+                    "price": 400
+                },
+                {
+                    "item_name": "limonada natural",
+                    "price": 400
+                },
+                {
+                    "item_name": "fruit punch",
+                    "price": 400
+                },
+                {
+                    "item_name": "pina colada",
+                    "price": 450
+                },
+                {
+                    "item_name": "michelada",
+                    "price": 225
+                },
+                {
+                    "item_name": "chelada",
+                    "price": 225
+                },
+                {
+                    "item_name": "piña colada",
+                    "price": 650
+                },
+                {
+                    "item_name": "mojito",
+                    "price": 600
+                },
+                {
+                    "item_name": "cuba libre",
+                    "price": 560
+                },
+                {
+                    "item_name": "cubata",
+                    "price": 575
+                },
+                {
+                    "item_name": "daiquiri",
+                    "price": 600
+                },
+                {
+                    "item_name": "daiquiri rebelde",
+                    "price": 650
+                },
+                {
+                    "item_name": "daiquiri fresa",
+                    "price": 650
+                },
+                {
+                    "item_name": "daiquiri platano",
+                    "price": 650
+                },
+                {
+                    "item_name": "cubanito",
+                    "price": 600
+                },
+                {
+                    "item_name": "caipirissima",
+                    "price": 600
+                },
+                {
+                    "item_name": "havana special",
+                    "price": 600
+                },
+                {
+                    "item_name": "churry",
+                    "price": 650
+                },
+                {
+                    "item_name": "canchanchara",
+                    "price": 500
+                },
+                {
+                    "item_name": "old fashioned",
+                    "price": 600
+                },
+                {
+                    "item_name": "gin tonic",
+                    "price": 850
+                },
+                {
+                    "item_name": "vodka tonic",
+                    "price": 850
+                },
+                {
+                    "item_name": "margarita",
+                    "price": 600
+                },
+                {
+                    "item_name": "sangria",
+                    "price": 650
+                },
+                {
+                    "item_name": "tinto de verano",
+                    "price": 600
+                },
+                {
+                    "item_name": "ron collins",
+                    "price": 550
+                },
+                {
+                    "item_name": "dapirina",
+                    "price": 600
+                },
+                {
+                    "item_name": "caipiroska",
+                    "price": 600
+                },
+                {
+                    "item_name": "bloody mary",
+                    "price": 650
+                },
+                {
+                    "item_name": "ron punch",
+                    "price": 550
+                }
+            ],
+
+            "drinks": [
+                {
+                    "item_name": "agua natural",
+                    "price": 195
+                },
+                {
+                    "item_name": "agua tonica importada",
+                    "price": 550
+                },
+                {
+                    "item_name": "malta",
+                    "price": 385
+                },
+                {
+                    "item_name": "refresco cola",
+                    "price": 275
+                },
+                {
+                    "item_name": "refresco limon",
+                    "price": 275
+                },
+                {
+                    "item_name": "refresco naranja",
+                    "price": 275
+                },
+                {
+                    "item_name": "energizantes",
+                    "price": 400
+                },
+                {
+                    "item_name": "malteada frappe",
+                    "price": 660
+                },
+                {
+                    "item_name": "malteada",
+                    "price": 500
+                },
+                {
+                    "item_name": "cerveza nacional",
+                    "price": 420
+                },
+                {
+                    "item_name": "cerveza importada",
+                    "price": 350
+                },
+                {
+                    "item_name": "tinto",
+                    "price": 400
+                },
+                {
+                    "item_name": "blanco",
+                    "price": 400
+                },
+                {
+                    "item_name": "rosado",
+                    "price": 400
+                }
+            ],
+
+            "infusions": [
+                {
+                    "item_name": "café carajillo",
+                    "price": 450
+                },
+                {
+                    "item_name": "café daiquirí",
+                    "price": 500
+                },
+                {
+                    "item_name": "café al licor",
+                    "price": 460
+                },
+                {
+                    "item_name": "café rocío de gallo",
+                    "price": 375
+                },
+                {
+                    "item_name": "café mazagran",
+                    "price": 450
+                },
+                {
+                    "item_name": "café fariseo",
+                    "price": 750
+                },
+                {
+                    "item_name": "café napolitano",
+                    "price": 500
+                },
+                {
+                    "item_name": "café ruso",
+                    "price": 580
+                },
+                {
+                    "item_name": "café miss ochun",
+                    "price": 560
+                },
+                {
+                    "item_name": "café habano",
+                    "price": 540
+                },
+                {
+                    "item_name": "café irlandés",
+                    "price": 450
+                },
+                {
+                    "item_name": "café bella cubana",
+                    "price": 650
+                },
+                {
+                    "item_name": "café expresso",
+                    "price": 195
+                },
+                {
+                    "item_name": "café americano",
+                    "price": 205
+                },
+                {
+                    "item_name": "café cortado",
+                    "price": 240
+                },
+                {
+                    "item_name": "café con leche",
+                    "price": 350
+                },
+                {
+                    "item_name": "café capuccino",
+                    "price": 365
+                },
+                {
+                    "item_name": "café bombón",
+                    "price": 385
+                },
+                {
+                    "item_name": "café frapuccino",
+                    "price": 600
+                },
+                {
+                    "item_name": "café frapuccino de chocolate",
+                    "price": 650
+                },
+                {
+                    "item_name": "té variado",
+                    "price": 150
+                }
+            ]
+        }  
+} 

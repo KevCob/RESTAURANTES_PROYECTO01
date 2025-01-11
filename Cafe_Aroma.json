@@ -1,0 +1,502 @@
+{
+    "type": "Bar-Restaurante-Cafeteria",
+    "name": "Cafe Aroma", 
+    "location": {
+        "address": "Calle 244 No. 5106 e/ 51 y 61, San Agustín",
+        "municipe": "La Lisa",
+        "province": "La Habana",
+        "coordinates":  "23.052405448223777, -82.4605687"
+    },
+    "sector": "privado",
+    
+    "qualification": 4.9,
+    
+    "specialized_food": ["Mixta","Cafes"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": 53397639,
+    
+    "capacity": 30,
+    
+    "reservation": true ,
+
+    "parking": null,
+
+    "delivery": false,
+
+    "electric generator": false,
+    
+    "hours": {
+        "monday": "12:00pm - 12:00am",  
+        "tuesday": "12:00pm - 12:00am",
+        "wednesday": "12:00pm - 12:00am",
+        "thursday": "12:00pm - 12:00am",
+        "friday": "12:00pm - 12:00am",
+        "saturday": "12:00pm - 12:00am",
+        "sunday": "12:00pm - 12:00am"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": "Nachos con Salsa",
+                    "price": 200,
+                    "description": " "
+                },
+                {
+                    "item_name": "Croquetas",
+                    "price": 320,
+                    "description": " "
+                },
+                {
+                    "item_name": "Picadera Aroma",
+                    "price": 550,
+                    "description": " "
+                },
+                {
+                    "item_name": "Garbanzos Fritos",
+                    "price": 600,
+                    "description": " "
+                },
+                {
+                    "item_name": "Eperlan de Pescado",
+                    "price": 700,
+                    "description": " "
+                },
+                {
+                    "item_name": "Enchilado de Cangrejo",
+                    "price": 600,
+                    "description": " "
+                },
+                {
+                    "item_name": "Fajitas de Cerdo",
+                    "price": 600,
+                    "description": " "
+                },
+                {
+                    "item_name": "Tacos de Pollo",
+                    "price": 500,
+                    "description": " "
+                },
+                {
+                    "item_name": "Tacos de Cangrejo",
+                    "price": 600,
+                    "description": " "
+                },
+                {
+                    "item_name": "Tacos de Cerdo",
+                    "price": 620,
+                    "description": " "
+                },
+                {
+                    "item_name": "Tacos de Ropa Vieja",
+                    "price": 750,
+                    "description": " "
+                },
+                {
+                    "item_name": "Tacos de Jamon Pierna",
+                    "price": 750,
+                    "description": " "
+                },
+                {
+                    "item_name": "Tostones rellenos de Jamon y Queso",
+                    "price": 380,
+                    "description": " "
+                },
+                {
+                    "item_name": "Tostones Rellenos de Atun",
+                    "price": 400,
+                    "description": " "
+                },
+                {
+                    "item_name": "Tostones Rellenos de Ropa Vieja",
+                    "price": 500,
+                    "description": " "
+                }
+                
+            ],
+                
+            "mains": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+                
+            ],
+
+            "fittings": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "paste": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "additions": [
+                {
+                    "item_name": "agrego de Jamon",
+                    "price": 220,
+                    "description": " "
+                },
+                {
+                    "item_name": "agrego de queso blanco",
+                    "price": 200,
+                    "description": " "
+                },
+                {
+                    "item_name": "agrego de queso gouda",
+                    "price": 220,
+                    "description": ""
+                },
+                {
+                    "item_name": "agrego de aceitunas",
+                    "price": 200,
+                    "description": " "
+                },
+                {
+                    "item_name": "agrego de pina",
+                    "price": 170,
+                    "description": " "
+                },
+                {
+                    "item_name": "agrego de atun",
+                    "price": 250,
+                    "description": " "
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": "Sandwich de Jamon y Queso",
+                    "price": 320,
+                    "description": ""
+                },
+                {
+                    "item_name": "Sandwich de Jamon y Queso",
+                    "price": 360,
+                    "description": ""
+                },
+                {
+                    "item_name": "Sandwich de Jamon",
+                    "price": 360,
+                    "description": " "
+                },
+                {
+                    "item_name": "Sandwich de Queso",
+                    "price": 320,
+                    "description": " "
+                },
+                {
+                    "item_name": "Sandwich de Queso",
+                    "price": 360,
+                    "description": " "
+                },
+                {
+                    "item_name": "Sandwich de Pollo",
+                    "price": 370,
+                    "description": " "
+                },
+                {
+                    "item_name": "Sandwich de Atun",
+                    "price": 480,
+                    "description": " "
+                },
+                {
+                    "item_name": "Sandwich Hawaiano",
+                    "price": 380,
+                    "description": " "
+                },
+                {
+                    "item_name": "Sandwich Hawaiano",
+                    "price": 430,
+                    "description": " "
+                },
+                {
+                    "item_name": "Hamburguesa Sencilla",
+                    "price": 450,
+                    "description": " "
+                }
+            ],
+
+            "desserts": [
+                {
+                    "item_name": "Donas",
+                    "price": 200,
+                    "description": " "
+                },
+                {
+                    "item_name": "Helado/Galletas",
+                    "price": 320,
+                    "description": " "
+                },
+                {
+                    "item_name": "Bola de Helado",
+                    "price": 140,
+                    "description": ""
+                },
+                {
+                    "item_name": "Dulce Aroma",
+                    "price": 350,
+                    "description": " "
+                }
+            ],
+            "cocktails": [
+                {
+                    "item_name": "Caipirinha",
+                    "price": 250
+                },
+                {
+                    "item_name": "Daiquiri",
+                    "price": 250
+                },
+                {
+                    "item_name": "Caipiroska",
+                    "price": 280
+                },
+                {
+                    "item_name": "Caipirisima",
+                    "price": 280
+                },
+                {
+                    "item_name": "Screwdriver",
+                    "price": 280
+                },
+                {
+                    "item_name": "Mojito",
+                    "price": 300
+                },
+                {
+                    "item_name": "Mojito Ruso",
+                    "price": 300
+                },
+                {
+                    "item_name": "Cremas de Tequila",
+                    "price": 320
+                },
+                {
+                    "item_name": "Pina Colada",
+                    "price": 350
+                },
+                {
+                    "item_name": "Martini",
+                    "price": 300
+                },
+                {
+                    "item_name": "Copa de Vino",
+                    "price": 300
+                },
+                {
+                    "item_name": "Gin & Tonic",
+                    "price": 350
+                },
+                {
+                    "item_name": "Sex on the Beach",
+                    "price": 320
+                },
+                {
+                    "item_name": "Sangria",
+                    "price": 350
+                },
+                {
+                    "item_name": "Margarita",
+                    "price": 350
+                },
+                {
+                    "item_name": "Orgasmo",
+                    "price": 350
+                }
+            ],
+
+            "drinks": [
+                {
+                    "item_name": "Cervezas Importadas",
+                    "price": 230
+                },
+                {
+                    "item_name": "Habana Club 3 anos",
+                    "price": 250
+                },
+                {
+                    "item_name": "Habana Club Especial",
+                    "price": 280
+                },
+                {
+                    "item_name": "Habana Club Reserva",
+                    "price": 300
+                },
+                {
+                    "item_name": "Habana Club 7 anos",
+                    "price": 350
+                },
+                {
+                    "item_name": "Habana Club Smoky",
+                    "price": 350
+                },
+                {
+                    "item_name": "Seleccion de Maestros",
+                    "price": 600
+                },
+                {
+                    "item_name": "Pacto Navio",
+                    "price": 600
+                },
+                {
+                    "item_name": "Black Tears Super Dry",
+                    "price": 250
+                },
+                {
+                    "item_name": "Black Tears Roble Superior",
+                    "price": 300
+                },
+                {
+                    "item_name": "Jameson",
+                    "price": 450
+                },
+                {
+                    "item_name": "Ballantines",
+                    "price": 300
+                },
+                {
+                    "item_name": "Chivas Regal 12",
+                    "price": 500
+                },
+                {
+                    "item_name": "Red Label",
+                    "price": 450
+                },
+                {
+                    "item_name": "Black Label",
+                    "price": 500
+                },
+                {
+                    "item_name": "Buchanans",
+                    "price": 500
+                },
+                {
+                    "item_name": "Tequila Olmeca",
+                    "price": 300
+                },
+                {
+                    "item_name": "Crema Baileys",
+                    "price": 300
+                },
+                {
+                    "item_name": "Jagermeiste",
+                    "price": 380
+                },
+                {
+                    "item_name": "Vodka",
+                    "price": 250
+                },
+                {
+                    "item_name": "Ciroc",
+                    "price": 400
+                },
+                {
+                    "item_name": "Jugo Natural",
+                    "price": 300
+                },
+                {
+                    "item_name": "Limonada",
+                    "price": 250
+                },
+                {
+                    "item_name": "Batido de Chocolate",
+                    "price": 100
+                },
+                {
+                    "item_name": "Batido de Frutas",
+                    "price": 180
+                },
+                {
+                    "item_name": "Batido de Helado",
+                    "price": 280
+                },
+                {
+                    "item_name": "Batido de Helado Plus",
+                    "price": 330
+                }
+            ],
+
+            "infusions": [
+                {
+                    "item_name": "Expresso",
+                    "price": 100
+                },
+                {
+                    "item_name": "Capuccino",
+                    "price": 150
+                    
+                },
+                {
+                    "item_name": "Cortadito",
+                    "price": 120
+                },
+                {
+                    "item_name": "Moka",
+                    "price": 180
+                },
+                {
+                    "item_name": "Carajillo",
+                    "price": 180
+                },
+                {
+                    "item_name": "Especiado",
+                    "price": 120
+                },
+                {
+                    "item_name": "Americano",
+                    "price": 180
+                },
+                {
+                    "item_name": "Bombom",
+                    "price": 110
+                },
+                {
+                    "item_name": "Cremoso",
+                    "price": 115
+                },
+                {
+                    "item_name": "Frapuccino",
+                    "price": 380
+                },
+                {
+                    "item_name": "Frapuccino Moka",
+                    "price": 550
+                },
+                {
+                    "item_name": "Frapuccino Aroma",
+                    "price": 280
+                },
+                {
+                    "item_name": "Frapuccino Sorpresa",
+                    "price": 300
+                },
+                {
+                    "item_name": "Frapuccino Mousse",
+                    "price": 350
+                },
+                {
+                    "item_name": "Capricho",
+                    "price": 350
+                }
+            ]
+        }  
+} 

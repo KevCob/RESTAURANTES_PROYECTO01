@@ -1,0 +1,346 @@
+{
+    "type": "Bar-Restaurante",
+    "name": "Fin de Siglo", 
+    "location": {
+        "address": "Esquina Aguila y San Martin",
+        "municipe": "Centro Habana",
+        "province": "La Habana",
+        "coordinates":  "23.136041318926157, -82.36214978250345"
+    },
+    "sector": "privado",
+    
+    "qualification": 5,
+    
+    "specialized_food": ["Cubana","Italiana"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": 59529982,
+    
+    "capacity": 25,
+    
+    "reservation":  false,
+
+    "parking": false,
+
+    "delivery": false,
+
+    "electric generator": false,
+    
+    "hours": {
+        "monday": "10:00am - 10:00pm",  
+        "tuesday": "10:00am - 10:00pm",
+        "wednesday": "10:00am - 10:00pm",
+        "thursday": "10:00am - 10:00pm",
+        "friday": "10:00am - 10:00pm",
+        "saturday": "10:00am - 10:00pm",
+        "sunday": "10:00am - 10:00pm"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": "croquetas de la casa",
+                    "price": 700,
+                    "description": " "
+                },
+                {
+                    "item_name": "pollo salteado con vegetales",
+                    "price": 800,
+                    "description": " "
+                },
+                {
+                    "item_name": "tabla de jamon y queso",
+                    "price": 1200,
+                    "description": " "
+                },
+                {
+                    "item_name": "picadera Fin de siglo",
+                    "price": 2500,
+                    "description": " "
+                }
+            ],
+                
+            "mains": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "fittings": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": "pizza de queso blanco",
+                    "price": 800,
+                    "description": " "
+                },
+                {
+                    "item_name": "pizza de queso blanco con jamon",
+                    "price": 950,
+                    "description": " "
+                },
+                {
+                    "item_name": "pizza de queso blanco con chorizo",
+                    "price": 950,
+                    "description": " "
+                },
+                {
+                    "item_name": "pizza de queso blanco hawaiana",
+                    "price": 1500,
+                    "description": " "
+                },
+                {
+                    "item_name": "pizza de queso gouda",
+                    "price": 1200,
+                    "description": " "
+                },
+                {
+                    "item_name": "pizza de queso gouda con jamon",
+                    "price": 1400,
+                    "description": " "
+                },  
+                {
+                    "item_name": "pizza de queso gouda con chorizo",
+                    "price": 1400,
+                    "description": " "
+                },
+                {
+                    "item_name": "pizza de queso gouda hawaiana",
+                    "price": 1800,
+                    "description": " "
+                }
+            ],
+
+            "paste": [
+                {
+                    "item_name": "spaghetti de queso blanco",
+                    "price": 900,
+                    "description": " "
+                },
+                {
+                    "item_name": "spaghetti de queso blanco con jamon",
+                    "price": 1000,
+                    "description": " "
+                },
+                {
+                    "item_name": "spaghetti de queso blanco con chorizo",
+                    "price": 1000,
+                    "description": " "
+                },
+                {
+                    "item_name": "spaghetti de queso blanco con pollo",
+                    "price": 850,
+                    "description": " "
+                },
+                {
+                    "item_name": "spaghetti de queso gouda",
+                    "price": 1200,
+                    "description": " "
+                },
+                {
+                    "item_name": "spaghetti de queso gouda con jamon",
+                    "price": 1400,
+                    "description": " "
+                },  
+                {
+                    "item_name": "spaghetti de queso gouda con chorizo",
+                    "price": 1400,
+                    "description": " "
+                }
+            ],
+
+            "additions": [
+                {
+                    "item_name": "queso blanco",
+                    "price": 500,
+                    "description": " "
+                },
+                {
+                    "item_name": "queso gouda",
+                    "price": 700,
+                    "description": " "
+                },
+                {
+                    "item_name": "jamon",
+                    "price": 450,
+                    "description": " "
+                },
+                {
+                    "item_name": "pollo",
+                    "price": 350,
+                    "description": " "
+                },
+                {
+                    "item_name": "piña",
+                    "price": 550,
+                    "description": " "
+                },
+                {
+                    "item_name": "chorizo",
+                    "price": 450,
+                    "description": " "
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "desserts": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+            "cocktails": [
+                {
+                    "item_name": "caipirinha",
+                    "price": 550
+                },
+                {
+                    "item_name": "caipirissima",
+                    "price": 550
+                },
+                {
+                    "item_name": "caipiroska",
+                    "price": 660
+                },
+                {
+                    "item_name": "daiquiri",
+                    "price": 550
+                },
+                {
+                    "item_name": "daiquiri Rebelde",
+                    "price": 550
+                },
+                {
+                    "item_name": "margarita",
+                    "price": 990
+                },
+                {
+                    "item_name": "cubata",
+                    "price": 550
+                },
+                {
+                    "item_name": "chelada",
+                    "price": 770
+                },
+                {
+                    "item_name": "michelada",
+                    "price": 880
+                }
+            ],
+
+            "drinks": [
+                {
+                    "item_name" : "refresco",
+                    "price" : 300
+                },
+                {
+                    "item_name" : "cerveza dispensada",
+                    "price" : 400
+                },
+                {
+                    "item_name": "cuba Libre",
+                    "price": 550
+                },
+                {
+                    "item_name": "3 Anos",
+                    "price": 385
+                },
+                {
+                    "item_name": "carta Blanca",
+                    "price": 330
+                },
+                {
+                    "item_name": "especial",
+                    "price": 440
+                },
+                {
+                    "item_name": "pacto Navío",
+                    "price": 20000
+                },
+                {
+                    "item_name": "cuban spiced",
+                    "price": 550
+                },
+                {
+                    "item_name": "ron santiago",
+                    "price": 880
+                },
+                {
+                    "item_name": "jameson",
+                    "price": 1100
+                },
+                {
+                    "item_name": "clan sampbell",
+                    "price": 990
+                },
+                {
+                    "item_name": "vat 69",
+                    "price": 990
+                },
+                {
+                    "item_name": "ballantines",
+                    "price": 13500
+                },
+                {
+                    "item_name": "old partner",
+                    "price": 35000
+                },
+                {
+                    "item_name": "red label",
+                    "price": 1100
+                },
+                {
+                    "item_name": "beeffatter",
+                    "price": 440
+                },
+                {
+                    "item_name": "jagger",
+                    "price": 990
+                },
+                {
+                    "item_name": "tequila silver",
+                    "price": 880
+                },
+                {
+                    "item_name": "tequila reposado",
+                    "price": 990
+                },
+                {
+                    "item_name": "tequila chocolate",
+                    "price": 1100
+                },
+                {
+                    "item_name": "rua vieja",
+                    "price": 880
+                },
+                {
+                    "item_name": "amaretto",
+                    "price": 880
+                }
+            ],
+
+            "infusions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ]
+        }  
+} 

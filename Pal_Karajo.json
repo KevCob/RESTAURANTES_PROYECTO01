@@ -1,0 +1,209 @@
+{
+    "type": "Cafeteria",
+    "name": "Pal'Karajo", 
+    "location": {
+        "address": "Avenida 101 Esquina 16 Centro",
+        "municipe": "Cotorro",
+        "province": "La Habana",
+        "coordinates":  "23.045754014037833, -82.27038368811118"
+    },
+    "sector": "privado",
+    
+    "qualification": null,
+    
+    "specialized_food": ["sandwich"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": 53237074,
+    
+    "capacity": 12,
+    
+    "reservation":  true,
+
+    "parking": true,
+
+    "delivery": false,
+
+    "electric generator": false,
+    
+    "hours": {
+        "monday": "10:00am - 10:00pm",  
+        "tuesday": "10:00am - 10:00pm",
+        "wednesday": "10:00am - 10:00pm",
+        "thursday": "10:00am - 10:00pm",
+        "friday": "10:00am - 10:00pm",
+        "saturday": "10:00am - 10:00pm",
+        "sunday": "10:00am - 10:00pm"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": "chicarrita de boniato",
+                    "price": 200,
+                    "description": " "
+                }
+            ],
+                
+            "mains": [
+                {
+                    "item_name": "tacos de cerdo mechados",
+                    "price": 890,
+                    "description": " "
+                },
+                {
+                    "item_name": "tacos de cerdo estofados",
+                    "price": 990,
+                    "description": " "
+                }
+            ],
+
+            "fittings": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "paste": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "additions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": " pan Pal'Karajo",
+                    "price": 790,
+                    "description": " "
+                },
+                {
+                    "item_name": "pan con lechon",
+                    "price": 450,
+                    "description": " "
+                },
+                {
+                    "item_name": "pan con jamon",
+                    "price": 300,
+                    "description": " "
+                },
+                {
+                    "item_name": "pan con chorizo",
+                    "price": 250,
+                    "description": " "
+                },
+                {
+                    "item_name": "pan con jamon y chorizo",
+                    "price": 400,
+                    "description": " "
+                }
+            ],
+
+            "desserts": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+            "cocktails": [
+                {
+                    "item_name": "michelada con cristal",
+                    "price": 550
+                },
+                {
+                    "item_name": "chelada con cristal",
+                    "price": 550
+                },
+                {
+                    "item_name": "Pina Colada",
+                    "price": 400
+                },
+                {
+                    "item_name": "Limonada",
+                    "price": 400
+                }
+            ],
+
+            "drinks": [
+                {
+                    "item_name": "jugo de mango",
+                    "price": 200
+                },
+                {
+                    "item_name": "jugo de pina",
+                    "price": 200
+                },
+                {
+                    "item_name": "batido de mango",
+                    "price": 380
+                },
+                {
+                    "item_name": "batido de mamey",
+                    "price": 400
+                },
+                {
+                    "item_name": "batido de trigo",
+                    "price": 380
+                },
+                {
+                    "item_name": "batido de maní",
+                    "price": 400
+                },
+                {
+                    "item_name": "batido de maní con chocolate",
+                    "price": 450
+                },
+                {
+                    "item_name": "malteada",
+                    "price": 500
+                }
+            ],
+
+            "infusions": [
+                {
+                    "item_name": "expresso",
+                    "price": 100
+                },
+                {
+                    "item_name": "cortado",
+                    "price": 150
+                    
+                },
+                {
+                    "item_name": "capuccino",
+                    "price": 300
+                    
+                },
+                {
+                    "item_name": "frapuccino",
+                    "price": 400
+                    
+                },
+                {
+                    "item_name": "bombon",
+                    "price": 300
+                    
+                }
+            ]
+        }  
+} 

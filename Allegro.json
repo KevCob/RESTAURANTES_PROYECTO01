@@ -1,0 +1,160 @@
+{
+    "type": "Restaurante-Cafeteria",
+    "name": "Allegro", 
+    "location": {
+        "address": "Paseo de la Villa, Villa Panamericana",
+        "municipe": "Habana del Este",
+        "province": "La Habana",
+        "coordinates":  "23.164158289847958, -82.3080389633564"
+    },
+    "sector": "estatal",
+    
+    "qualification": 4,
+    
+    "specialized_food": ["Comida italiana"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": 7661010,
+    
+    "capacity": 30,
+    
+    "reservation":  false,
+
+    "parking": false,
+
+    "delivery": false,
+
+    "electric generator": false,
+    
+    "hours": {
+        "monday": "12:00pm - 9:00pm",  
+        "tuesday": "12:00pm - 9:00pm",
+        "wednesday": "12:00pm - 9:00pm",
+        "thursday": "12:00pm - 9:00pm",
+        "friday": "12:00pm - 9:00pm",
+        "saturday": "12:00pm - 9:00pm",
+        "sunday": "12:00pm - 9:00pm"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": "Crema de queso",
+                    "price": 313,
+                    "description": " "
+                },
+                {
+                    "item_name": "Crema Aurora",
+                    "price": 315,
+                    "description": " "
+                },
+                {
+                    "item_name": "Crema Virginia",
+                    "price": 329,
+                    "description": " "
+                }
+            ],
+                
+            "mains": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "fittings": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": "Pizza napolitana",
+                    "price": 390,
+                    "description": ""
+                },
+                {
+                    "item_name": "Pizza de jamon",
+                    "price": 540,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pizza de chorizo",
+                    "price": 588,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pizza de bacon",
+                    "price": 735,
+                    "description": " "
+                }
+            ],
+
+            "paste": [
+                
+                {
+                    "item_name": "Spaghettis napolitanos",
+                    "price": 410,
+                    "description": " "
+                },
+                {
+                    "item_name": "Spaghettis de jamon",
+                    "price": 570,
+                    "description": " "
+                },
+                {
+                    "item_name": "Lazagna de jamon",
+                    "price": 550,
+                    "description": " "
+                }
+            ],
+
+            "additions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "desserts": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+            "cocktails": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ],
+
+            "drinks": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ],
+
+            "infusions": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ]
+        }  
+} 

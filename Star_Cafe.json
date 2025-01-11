@@ -1,0 +1,505 @@
+{
+    "type": "Bar-Restaurante-Cafeteria",
+    "name": "Star Cafe", 
+    "location": {
+        "address": "216 Empedrado",
+        "municipe": "Plaza de la Revolucion",
+        "province": "La Habana",
+        "coordinates":  "23.141094353520803, -82.35193028818678"
+    },
+    "sector": "privado",
+    
+    "qualification": 4.3,
+    
+    "specialized_food": ["Pizza", "Internacional", "Cubana"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": 63965030,
+    
+    "capacity": 44,
+    
+    "reservation":  true,
+
+    "parking": true,
+
+    "delivery": true,
+
+    "electric generator": true,
+    
+    "hours": {
+        "monday": "7:00am - 2:00am",  
+        "tuesday": "7:00am - 2:00am",
+        "wednesday": "7:00am - 2:00am",
+        "thursday": "7:00am - 2:00am",
+        "friday": "7:00am - 2:00am",
+        "saturday": "7:00am - 2:00am",
+        "sunday": "7:00am - 2:00am"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": "Croquetas",
+                    "price": 900,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Bruschetta mixta",
+                    "price": 900,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Toston de platano maduro",
+                    "price": 500,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Toston de platano maduro con jamon y queso",
+                    "price": 1000,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Toston de platano maduro con atun",
+                    "price": 1100,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Berenjena a la Parmesana",
+                    "price": 1800,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Nachos",
+                    "price": 4200,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Picadera",
+                    "price": 6000,
+                    "description": ""
+                  },
+                  {  
+                    "item_name": "Toston Europeo",
+                    "price": 1600,
+                    "description": ""
+                  }
+            ],
+                
+            "mains": [
+                {
+                    "item_name": "Camarones al gusto",
+                    "price": 3600,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Pulpo al gusto",
+                    "price": 4000,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Taco de cerdo o res",
+                    "price": 4200,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Brocheta de pollo y cerdo",
+                    "price": 4200,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Masa de cerdo frita",
+                    "price": 4000,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Bistec encebollado",
+                    "price": 4000,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Cordon Blue",
+                    "price": 4000,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Ropa vieja",
+                    "price": 4000,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Pechuga a la Milanesa",
+                    "price": 4000,
+                    "description": ""
+                  }
+            ],
+
+            "fittings": [
+                {
+                    "item_name": "Congris",
+                    "price": 800,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Judias",
+                    "price": 1100,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Patatas fritas",
+                    "price": 1100,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Verduras saladas",
+                    "price": 800,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Ensalada mixta",
+                    "price": 1050,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Caesar salad",
+                    "price": 2600,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Caraibi salad",
+                    "price": 3000,
+                    "description": ""
+                  }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": "Margarita",
+                    "price": 1300,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Jamon",
+                    "price": 1700,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Jamon Serrano",
+                    "price": 3000,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Chorizo",
+                    "price": 1800,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Atun",
+                    "price": 2400,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Atun y cebolla",
+                    "price": 2400,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Hawaiana",
+                    "price": 1800,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Vegetales",
+                    "price": 2400,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Pizza focaccia",
+                    "price": 1200,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Pizza Mixta",
+                    "price": 2500,
+                    "description": ""
+                  }
+            ],
+
+            "paste": [
+                {
+                    "item_name": "Penne con salmon",
+                    "price": 2500,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Penne con camarones",
+                    "price": 2700,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Penne con atun",
+                    "price": 2500,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Penne vegetariano",
+                    "price": 2000,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Lasagna de jamon y queso",
+                    "price": 1800,
+                    "description": ""
+                  }
+            ],
+
+            "additions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "sandwich": [
+             
+            {
+              "item_name": "Club Sandwich",
+              "price": 2400,
+              "description": ""
+            },
+            {
+              "item_name": "Sandwich de atun",
+              "price": 2000,
+              "description": ""
+            },
+            {
+              "item_name": "Pan Perro",
+              "price": 1600,
+              "description": ""
+            },
+            {
+              "item_name": "Hamburguesa Combo",
+              "price": 2150,
+              "description": ""
+            },
+            {
+              "item_name": "Huevo adicional",
+              "price": 700,
+              "description": ""
+            },
+            {
+              "item_name": "Sandwich Cubano",
+              "price": 3000,
+              "description": ""
+            }
+            ],
+
+            "desserts": [
+                {
+                    "item_name": "Torrejas",
+                    "price": 1300,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Arroz con leche",
+                    "price": 950,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Dulce de coco",
+                    "price": 950,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Dulce de fruta",
+                    "price": 1050,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Crepes",
+                    "price": 1600,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Cascaquito de guayaba",
+                    "price": 950,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Churros",
+                    "price": 1200,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Pizza frita dulce",
+                    "price": 1400,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Pizza frita salada",
+                    "price": 1700,
+                    "description": ""
+                  }
+            ],
+            "cocktails": [
+                {
+                    "item_name": "Mojito",
+                    "price": 1000
+                  },
+                  {
+                    "item_name": "Cuba libre",
+                    "price": 1050
+                  },
+                  {
+                    "item_name": "Cubata",
+                    "price": 1100
+                  },
+                  {
+                    "item_name": "Caipirina",
+                    "price": 1100
+                  },
+                  {
+                    "item_name": "Caipiroska",
+                    "price": 1100
+                  },
+                  {
+                    "item_name": "Caipirissima",
+                    "price": 1100
+                  },
+                  {
+                    "item_name": "Pina Colada",
+                    "price": 1200
+                  },
+                  {
+                    "item_name": "Sangria",
+                    "price": 1200
+                  },
+                  {
+                    "item_name": "Tinto verano",
+                    "price": 1100
+                  },
+                  {
+                    "item_name": "Limonada Frappe",
+                    "price": 600
+                  },
+                  {
+                    "item_name": "Limonada Frescura",
+                    "price": 750
+                  },
+                  {
+                    "item_name": "Limonada con Fruta",
+                    "price": 800
+                  }
+            ],
+
+            "drinks": [
+                {
+                    "item_name": "Agua natural",
+                    "price": 400
+                  },
+                  {
+                    "item_name": "Refresco",
+                    "price": 700
+                  },
+                  {
+                    "item_name": "Malta",
+                    "price": 800
+                  },
+                  {
+                    "item_name": "Energizzante",
+                    "price": 800
+                  },
+                  {
+                    "item_name": "Havana 3 anos",
+                    "price": 800
+                  },
+                  {
+                    "item_name": "Havana Especial",
+                    "price": 950
+                  },
+                  {
+                    "item_name": "Havana Reserva",
+                    "price": 1050
+                  },
+                  {
+                    "item_name": "Havana 7 anos",
+                    "price": 1100
+                  },
+                  {
+                    "item_name": "Santiago 12 anos",
+                    "price": 1200
+                  },
+                  {
+                    "item_name": "Smoothies (2 sabores a elegir)",
+                    "price": 1600
+                  }
+            ],
+
+            "infusions": [
+                {
+                    "item_name": "Espresso",
+                    "price": 450
+                  },
+                  {
+                    "item_name": "Americano",
+                    "price": 550
+                  },
+                  {
+                    "item_name": "Macchiato",
+                    "price": 500
+                  },
+                  {
+                    "item_name": "Espresso con nata",
+                    "price": 700
+                  },
+                  {
+                    "item_name": "Cafe con leche",
+                    "price": 700
+                  },
+                  {
+                    "item_name": "Cappuccino",
+                    "price": 650
+                  },
+                  {
+                    "item_name": "Cafe Latte",
+                    "price": 650
+                  },
+                  {
+                    "item_name": "Mocha",
+                    "price": 950
+                  },
+                  {
+                    "item_name": "Irlandes",
+                    "price": 1400
+                  },
+                  {
+                    "item_name": "Frappe",
+                    "price": 750
+                  },
+                  {
+                    "item_name": "Frappe con nata",
+                    "price": 1100
+                  },
+                  {
+                    "item_name": "Caramel",
+                    "price": 950
+                  },
+                  {
+                    "item_name": "Bonbon",
+                    "price": 1100
+                  },
+                  {
+                    "item_name": "Bonmello",
+                    "price": 1300
+                  },
+                  {
+                    "item_name": "Cococcino",
+                    "price": 1400
+                  },
+                  {
+                    "item_name": "Muy Nuit",
+                    "price": 1500
+                  }
+            ]
+        }  
+} 

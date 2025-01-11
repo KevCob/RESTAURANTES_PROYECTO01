@@ -1,0 +1,683 @@
+{
+    "type": "Bar-Restaurante-Cafeteria",
+    "name": "Toto e Pepino", 
+    "location": {
+        "address": "Calle 8 entre 5ta y Calzada, Vedado",
+        "municipe": "Plaza de la Revolucion",
+        "province": "La Habana",
+        "coordinates":  "23.135877861692762, -82.40428126252529"
+    },
+    "sector": "privado",
+    
+    "qualification": 4.5,
+    
+    "specialized_food": ["Comida Italiana", "Campania"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": 52503196,
+    
+    "capacity": 50,
+    
+    "reservation":  true,
+
+    "parking": true,
+
+    "delivery": true,
+
+    "electric generator": true,
+    
+    "hours": {
+        "monday": "11:00am - 12:00am",  
+        "tuesday": "11:00am - 12:00am",
+        "wednesday": "11:00am - 12:00am",
+        "thursday": "11:00am - 12:00am",
+        "friday": "11:00am - 12:00am",
+        "saturday": "11:00am - 12:00am",
+        "sunday": "11:00am - 12:00am"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": "Insalata caprese",
+                    "price":2160 ,
+                    "description": "Ensalada de tomate natural y queso mozzarella "
+                },
+                {
+                    "item_name": "Entrante de crudo y mozzarella",
+                    "price":3330 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Cocktail di gamberi",
+                    "price": 2520,
+                    "description": " "
+                },
+                {
+                    "item_name": "Carpaccio di polpo",
+                    "price":2700 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Parmiggiana de melanzane",
+                    "price":2520 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Insalata di polpo",
+                    "price":3240 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Arancine al burrro",
+                    "price":1890 ,
+                    "description": "Croquetas de arroz condimentadas con azafran y rellenas con jamon cotto, mozzarella y salsa bechamel "
+                },
+                {
+                    "item_name": "Stracetti di pizza frita",
+                    "price":3150 ,
+                    "description": "Bastoncitos de pizza frita, rucula, tomate natural, jamon serrano y queso parmesano "
+                },
+                {
+                    "item_name": "Carpaccio di manzo",
+                    "price":3060 ,
+                    "description": "Finas rodajas de carne de res cruda, rucula, parmesano y aceite de oliva extra virgen "
+                },
+                {
+                    "item_name": "Antipasto alla italiana per due",
+                    "price":5040 ,
+                    "description": "Picadera de quesos y embutidos con aceitunas negras y pan "
+                }
+            ],
+                
+            "mains": [
+                {
+                    "item_name": "Risotto 4 formaggi",
+                    "price":3600 ,
+                    "description": "4 tipos de quesos, mozzarella, provolone ahumado, azul y parmesano "
+                },
+                {
+                    "item_name": "Risotto al funghi porcini",
+                    "price":3510 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Risotto alla pescatota",
+                    "price":4500 ,
+                    "description": "Arroz italiano elaborado con mixto de mariscos y frutos del mar "
+                },
+                {
+                    "item_name": "Stracetti di manzo",
+                    "price":7920 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Polpo di giorno",
+                    "price":4590 ,
+                    "description": "Pulpo del dia "
+                },
+                {
+                    "item_name": "Grigliata di pesce di giorno",
+                    "price":6480 ,
+                    "description": "grillada de mariscos con langosta, camarones, pulpo y pescado "
+                },
+                {
+                    "item_name": "Pargo alla mediterranea",
+                    "price":5040 ,
+                    "description": "Pargo entero con salsa mediterranea "
+                },
+                {
+                    "item_name": "Gamberi alla griglia",
+                    "price": 4770,
+                    "description": "Grillada de camarones "
+                },
+                {
+                    "item_name": "Scalopine di maiale all limone",
+                    "price":3240 ,
+                    "description": "Escalope de cerdo al limon "
+                },
+                {
+                    "item_name": "pollo grille",
+                    "price":2880 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Porchetta ariccia",
+                    "price":3960 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Fileto di manzo al pepe verde",
+                    "price":9000 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Fileto di manzo al ferri",
+                    "price":7920 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pollo cordon bleu",
+                    "price":3420 ,
+                    "description": "Pollo empanizado con queso provolone ahumado y jamon cocido "
+                },
+                {
+                    "item_name": "Pollo alla diavola",
+                    "price":3060 ,
+                    "description": "Pollo en cuartos con ajo, pimienta, aceite de oliva, romero y limon "
+                },
+                {
+                    "item_name": "Filetto di pesce",
+                    "price":4320 ,
+                    "description": "Filete de pescado "
+                },
+                {
+                    "item_name": "Aragosta alla griglia",
+                    "price":5400 ,
+                    "description": "Grillada de langosta "
+                }
+            ],
+
+            "fittings": [
+                {
+                    "item_name": "Insalata del giorno",
+                    "price":1800 ,
+                    "description": "Ensalada del dia "
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": "Panuozzo porcheta, mozzarella e melanzane",
+                    "price":4320 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Salsiccia e friarielli",
+                    "price":4557 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Toto e pepino specialita",
+                    "price":5760 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pizza diavola",
+                    "price":3060 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Mimosa",
+                    "price":3060 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Focaccia al rosmarino",
+                    "price":1440 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Marinara",
+                    "price": 1800,
+                    "description": "Salsa de tomate, oregano y ajo, sin queso "
+                },
+                {
+                    "item_name": "Margherita",
+                    "price": 2340,
+                    "description": "Salsa de tomate, albahaca, queso mozzarella y parmesano "
+                },
+                {
+                    "item_name": "Blanca",
+                    "price":2520 ,
+                    "description": "Mozzarella y tomate natural "
+                },
+                {
+                    "item_name": "Calzone napoletano",
+                    "price": 2880,
+                    "description": "Jamon cocido y mozzarella "
+                },
+                {
+                    "item_name": "Focaccia con crudo, rucula a parmigiano",
+                    "price":3420 ,
+                    "description": "Serrano, rucula y lascas de parmesano "
+                },
+                {
+                    "item_name": "Marinara con acciugue",
+                    "price":2340 ,
+                    "description": "Salsa de tomate, oregano, ajo, anchoas(sin queso) "
+                },
+                {
+                    "item_name": "Vegetariana",
+                    "price": 3420 ,
+                    "description": "Salsa de tomate, mozzarella, champignon y vegetales de estacion "
+                },
+                {
+                    "item_name": "Margherita con champignon",
+                    "price":2610 ,
+                    "description": " Salsa de tomate, champignon. mozzarella y parmesano"
+                },
+                {
+                    "item_name": "Tonno, cipolie e olive",
+                    "price":3420 ,
+                    "description": " Atun, cebolla y aceitunas negras"
+                },
+                {
+                    "item_name": "Caprese",
+                    "price":3060 ,
+                    "description": "Tomate fruta "
+                },
+                {
+                    "item_name": "Pizza di mortadella",
+                    "price":3060 ,
+                    "description": "Salsa de tomate, mozzarella, mortadella italiana con pistacho "
+                },
+                {
+                    "item_name": "Capricciosa",
+                    "price":3780 ,
+                    "description": "Salsa de tomate, aceitunas, champignon, mozzarella y jamon cocido "
+                },
+                {
+                    "item_name": "4 Formaggi",
+                    "price":3600 ,
+                    "description": "4 tipos de quesos "
+                },
+                {
+                    "item_name": "Carnevale",
+                    "price": 3420,
+                    "description": " Con albondigas de res"
+                },
+                {
+                    "item_name": "Proscuitto cotto",
+                    "price": 2880,
+                    "description": "Salsa de tomate, mozzarella y jamon cocido"
+                },
+                {
+                    "item_name": "Rotolo",
+                    "price":3780 ,
+                    "description": "Rollo de pizza con mozzarella, rucula, tomate natural y jamon serrano "
+                },
+                {
+                    "item_name": "Saltimbocca crudo e mozzarella",
+                    "price":3254 ,
+                    "description": "Pan pizza con jamon serrano y queso mozzarella "
+                },
+                {
+                    "item_name": "Prosciutto crudo cornicione ripieno de ricotta",
+                    "price":4680 ,
+                    "description": "Serrano y borde de queso ricotta "
+                }
+            ],
+
+            "paste": [
+                {
+                    "item_name": "Lasagna al ragu napoletano",
+                    "price":3960 ,
+                    "description": ""
+                },
+                {
+                    "item_name": "Pasta con polpette",
+                    "price":3780 ,
+                    "description": "Con albondigas de res, queso ricotta y parmesano "
+                },
+                {
+                    "item_name": "Penne al granchio",
+                    "price":3150,
+                    "description": "Pasta penne con salsa roja con masas de cangrejo "
+                },
+                {
+                    "item_name": "Ravioli di pollo e friarielli",
+                    "price":3150 ,
+                    "description": "relleno con queso ricotta, friarielli y pechuga de pollo "
+                },
+                {
+                    "item_name": "Pasta cacio e pepe",
+                    "price":3060 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Spaghetti alla putanesca",
+                    "price":3420,
+                    "description": "Espaguetis con tomate natural, anchoas, pepperoncino, alcaparras, aceitunas negras, ajo, aceite de oliva extra virgen, albahaca, perejil y oregano "
+                },
+                {
+                    "item_name": "Ravioli caprese",
+                    "price":2700 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Ravioli di carne",
+                    "price":2880 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pasta al pesto di albahaca",
+                    "price": 3060,
+                    "description": "Pasta fresca con pesto de albahaca basilica "
+                },
+                {
+                    "item_name": "Penne all ragu napoletano",
+                    "price":3780 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pappardelle alla boscaiola",
+                    "price":4140 ,
+                    "description": "Pasta fresca con crema de leche, panceta, hongos, cebolla, parmesano, salchicha italiana y aceite de oliva "
+                }
+            ],
+
+            "additions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "desserts": [
+                {
+                    "item_name": "Dolce della casa",
+                    "price": 1594,
+                    "description": "Dulce de la casa "
+                }
+            ],
+            "cocktails": [
+                {
+                    "item_name": "Sangria",
+                    "price":1620
+                },
+                {
+                    "item_name": "Mojito",
+                    "price":1530 
+                },
+                {
+                    "item_name": "Cubata",
+                    "price": 1710 
+                },
+                {
+                    "item_name": "Cuba libre",
+                    "price":1530 
+                },
+                {
+                    "item_name": "Havana special",
+                    "price": 1530
+                },
+                {
+                    "item_name": "Aperol spritz",
+                    "price":2160 
+                },
+                {
+                    "item_name": "Gin tonic",
+                    "price":1800 
+                },
+                {
+                    "item_name": "Vodka tonic",
+                    "price":1800 
+                }
+            ],
+
+            "drinks": [
+                {
+                    "item_name": "cerveza peroni italiana de botella",
+                    "price":1080
+                },
+                {
+                    "item_name": "Cerveza heineken de botella",
+                    "price":990
+                },
+                {
+                    "item_name": "Agua san pellegrino",
+                    "price":1800
+                },
+                {
+                    "item_name": "Agua san bernardo",
+                    "price": 810 
+                },
+                {
+                    "item_name": "Aguas nacionales",
+                    "price":540 
+                },
+                {
+                    "item_name": "Jugos naturales ",
+                    "price":630
+                },
+                {
+                    "item_name": "Refrescos importados",
+                    "price": 720
+                },
+                {
+                    "item_name": "Red bull",
+                    "price": 810 
+                },
+                {
+                    "item_name": "cerveza halcon peregrino ",
+                    "price": 720 
+                },
+                {
+                    "item_name": "Copa de vino",
+                    "price": 1188
+                },
+                {
+                    "item_name": "Piancarda, garofoli, rosso conero",
+                    "price":9000 
+                },
+                {
+                    "item_name": "Chianti classico",
+                    "price": 9000
+                },
+                {
+                    "item_name": "Pirovano barbera d asti",
+                    "price": 7200
+                },
+                {
+                    "item_name": "Coli",
+                    "price": 5400
+                },
+                {
+                    "item_name": "Pirovano nero d avola",
+                    "price": 7200
+                },
+                {
+                    "item_name": "Montepulciano d abruzzo",
+                    "price": 7200 
+                },
+                {
+                    "item_name": "Frontera cabernet savignon",
+                    "price": 5400 
+                },
+                {
+                    "item_name": "Aglianico D.O.C.",
+                    "price":9000 
+                },
+                {
+                    "item_name": "Valpolicella classico",
+                    "price": 9000
+                },
+                {
+                    "item_name": "Havana club special",
+                    "price": 540
+                },
+                {
+                    "item_name": "Havana club 3 anos",
+                    "price": 450
+                },
+                {
+                    "item_name": "Santiago anejo tradicion",
+                    "price": 540 
+                },
+                {
+                    "item_name": "Santiago 8 anos",
+                    "price": 720
+                },
+                {
+                    "item_name": "Santiago extra seco",
+                    "price":2160 
+                },
+                {
+                    "item_name": "Santiago 12 anos",
+                    "price": 2520
+                },
+                {
+                    "item_name": "Santiago carta blanca",
+                    "price": 450
+                },
+                {
+                    "item_name": "Aguardiente black tears",
+                    "price": 435
+                },
+                {
+                    "item_name": "Santiago 11 anos",
+                    "price": 2340
+                },
+                {
+                    "item_name": "Havana club ritual",
+                    "price": 360
+                },
+                {
+                    "item_name": "Havaba club reserva",
+                    "price": 720
+                },
+                {
+                    "item_name": "Havana club 7 anos",
+                    "price": 1800
+                },
+                {
+                    "item_name": "Pacto navio",
+                    "price": 2340
+                },
+                {
+                    "item_name": "Havana club seleccion de maestros",
+                    "price": 2340
+                },
+                {
+                    "item_name": "Grappa",
+                    "price": 1620
+                },
+                {
+                    "item_name": "Limoncello",
+                    "price":1260 
+                },
+                {
+                    "item_name": "Baileys",
+                    "price": 1170 
+                },
+                {
+                    "item_name": "Fernet",
+                    "price": 1238
+                },
+                {
+                    "item_name": "Frangelico",
+                    "price": 1990
+                },
+                {
+                    "item_name": "Jaggermeister",
+                    "price": 1260 
+                },
+                {
+                    "item_name": "Amaro",
+                    "price": 1980
+                },
+                {
+                    "item_name": "Disaronno",
+                    "price": 1980
+                },
+                {
+                    "item_name": "Marraschino",
+                    "price": 810
+                },
+                {
+                    "item_name": "Sambuca",
+                    "price": 1170
+                },
+                {
+                    "item_name": "Proseco borgo molino",
+                    "price": 5400
+                },
+                {
+                    "item_name": "Fiano di avellino",
+                    "price":9000 
+                },
+                {
+                    "item_name": "Moma, trebbiano-chardonnay, rubicone",
+                    "price":7200 
+                },
+                {
+                    "item_name": "Dogajolo carpineto",
+                    "price": 7200
+                },
+                {
+                    "item_name": "Gavi, michele chiarlo",
+                    "price": 7200
+                },
+                {
+                    "item_name": "Verdicchio classico garofoli",
+                    "price": 9000
+                },
+                {
+                    "item_name": "Buglioni musa",
+                    "price":7200 
+                },
+                {
+                    "item_name": "Ciari",
+                    "price": 7200
+                },
+                {
+                    "item_name": "Falanghina",
+                    "price": 5400
+                },
+                {
+                    "item_name": "Greco di Tuffo",
+                    "price": 9000
+                },
+                {
+                    "item_name": "Frontera chardonnay",
+                    "price": 5400
+                },
+                {
+                    "item_name": "Buglioni bianco",
+                    "price": 7200
+                },
+                {
+                    "item_name": "Coli",
+                    "price": 5400
+                },
+                {
+                    "item_name": "Buglioni rosse",
+                    "price": 7200
+                }
+            ],
+
+            "infusions": [
+                {
+                    "item_name": "Frapuccino",
+                    "price":1440 
+                },
+                {
+                    "item_name": "Expresso",
+                    "price": 540
+                    
+                },
+                {
+                    "item_name": "Cortado",
+                    "price":630 
+                },
+                {
+                    "item_name": "Capuccino",
+                    "price": 990
+                },
+                {
+                    "item_name": "Cafe con leche",
+                    "price": 900
+                }
+            ]
+        }  
+} 

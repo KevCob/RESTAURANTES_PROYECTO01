@@ -1,0 +1,991 @@
+{
+    "type": "Bar-Restaurante",
+    "name": "Mimosa", 
+    "location": {
+        "address": "Salud entre C.Cerrada del Paseo y Escobar",
+        "municipe": "Centro Habana",
+        "province": "La Habana",
+        "coordinates":  "23.13356833336648, -82.3680681381318"
+    },
+    "sector": "privado",
+    
+    "qualification": 4.4,
+    
+    "specialized_food": ["internacional","Italiana", "Cubana"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": 59705636,
+    
+    "capacity": 80,
+    
+    "reservation":  true,
+
+    "parking": true,
+
+    "delivery": true,
+
+    "electric generator": false,
+    
+    "hours": {
+        "monday": "12:pm - 11:00pm",  
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": ""
+    },
+    "menu":    {
+            "starters": [
+                { 
+                    "item_name": "croquetas de jamón", 
+                    "price": 1280 ,
+                    "description": ""
+                },
+                { 
+                    "item_name": "focaccia al orégano", 
+                    "price": 994 ,
+                    "description": ""
+                },
+                { 
+                    "item_name": "brusqueta tradicional", 
+                    "price": 1337 ,
+                    "description": ""
+                },
+                { 
+                    "item_name": "galletas caseras con pate de jamón", 
+                    "price": 1337 ,
+                    "description": ""
+                },
+                { 
+                    "item_name": "ensalada caprese", 
+                    "price": 1881 ,
+                    "description": ""
+                },
+                { 
+                    "item_name": "menestra de verduras", 
+                    "price": 1881 ,
+                    "description": ""
+                },
+                { 
+                    "item_name": "coctel de camarones", 
+                    "price": 2082 ,
+                    "description": ""
+                },
+                { 
+                    "item_name": "variedad de quesos c/frutos secos", 
+                    "price": 2164 ,
+                    "description": ""
+                },
+                { 
+                    "item_name": "entremes de jamón serrano", 
+                    "price": 3057 ,
+                    "description": ""
+                },
+                { 
+                    "item_name": "ensalada de frutas secas", 
+                    "price": 1463 ,
+                    "description": ""
+                },
+                { 
+                    "item_name": "bastones de queso frito sobre salsa pommodoro", 
+                    "price": 2168 ,
+                    "description": ""
+                },
+                { 
+                    "item_name": "antipasto mimosa", 
+                    "price": 2361 ,
+                    "description": ""
+                },
+                { 
+                    "item_name": "papas fritas al aroma de ajo", 
+                    "price": 1096 ,
+                    "description": ""
+                },
+                { 
+                    "item_name": "ensalada fría italiana", 
+                    "price": 659 ,
+                    "description": ""
+                },
+                { 
+                    "item_name": "crema de queso", 
+                    "price": 1197 ,
+                    "description": ""
+                },
+                { 
+                    "item_name": "crema virginia", 
+                    "price": 1197 ,
+                    "description": ""
+                },
+                { 
+                    "item_name": "crema aurora", 
+                    "price": 1197 ,
+                    "description": ""
+                },
+                { 
+                    "item_name": "crema de hongos", 
+                    "price": 1850 ,
+                    "description": ""
+                },
+                { 
+                    "item_name": "crema crema de queso azul", 
+                    "price": 2107  ,
+                    "description": ""
+                },
+                { 
+                    "item_name": "crema de vegetales",  
+                    "price": 1136  ,
+                    "description": ""
+                },
+                { 
+                    "item_name": "crema de camarón",  
+                    "price": 1785  ,
+                    "description": ""
+                },
+                { 
+                    "item_name": "crema de mariscos",  
+                    "price": 2083  ,
+                    "description": ""
+                },
+                { 
+                    "item_name": "fondue de queso",  
+                    "price": 2191  ,
+                    "description": ""
+                },
+                { 
+                    "item_name": "sopa de pollo y apio",  
+                    "price": 1220  ,
+                    "description": ""
+                }
+            ],
+                
+            "mains": [
+                { 
+                    "item_name": "plamontese", 
+                    "price": 2846 ,
+                    "description": ""
+                },
+                { 
+                    "item_name": "risotto mar y tierra", 
+                    "price": 3326 ,
+                    "description": ""
+                },
+                { 
+                    "item_name": "risotto di mare", 
+                    "price": 3326 ,
+                    "description": ""
+                },
+                { 
+                    "item_name": "risotto al trio de carne", 
+                    "price": 2846 ,
+                    "description": ""
+                },
+                { 
+                    "item_name": "risotto de vegetales", 
+                    "price": 2370 ,
+                    "description": ""
+                },
+                { 
+                    "item_name": "risotto nero di mare", 
+                    "price": 3326,
+                    "description": ""
+                },
+                { 
+                    "item_name": "rigatoni a las 3 carne", 
+                    "price": 2179 ,
+                    "description": ""
+                },
+                { 
+                    "item_name": "capricho mimosa", 
+                    "price": 2080 ,
+                    "description": ""
+                },
+                { 
+                    "item_name": "camarones al viecco rone", 
+                    "price": 2985 ,
+                    "description": ""
+                },
+                { 
+                    "item_name": "camarones al aroma de porcini y tartufo", 
+                    "price": 2985 ,
+                    "description": ""
+                },
+                { 
+                    "item_name": "lomitos de pescado al horno en crema", 
+                    "price": 2787 ,
+                    "description": ""
+                },
+                { 
+                    "item_name": "pescado al oliva y pommodoro", 
+                    "price": 2787 ,
+                    "description": ""
+                },
+                { 
+                    "item_name": "pescado grille en salsa pamesana", 
+                    "price": 2787 ,
+                    "description": ""
+                },
+                { 
+                    "item_name": "filetes de res a la amatrcciana", 
+                    "price": 2142 ,
+                    "description": ""
+                },
+                { 
+                    "item_name": "conejo a las finas hierbas en papillote", 
+                    "price": 2417 ,
+                    "description": ""
+                },
+                { 
+                    "item_name": "escalope de cerdo grille", 
+                    "price": 2987 ,
+                    "description": ""
+                }
+            ],
+
+            "fittings": [
+                { 
+                    "item_name": "arroz pilaf", 
+                    "price": 162 ,
+                    "description": ""
+                },
+                { 
+                    "item_name": "arroz blanco", 
+                    "price": 162 ,
+                    "description": ""
+                },
+                { 
+                    "item_name": "arroz moro", 
+                    "price": 162 ,
+                    "description": ""
+                }
+            ],
+
+            "pizza": [
+                { 
+                    "item_name": "pizza napolitana", 
+                    "price": 999 ,
+                    "description": ""
+                },
+                { 
+                    "item_name": "pizza margarita", 
+                    "price": 1513 ,
+                    "description": ""
+                },
+                { 
+                    "item_name": "pizza de jamon", 
+                    "price": 1566 ,
+                    "description": ""
+                },
+                { 
+                    "item_name": "pizza hawaiana", 
+                    "price": 1549 ,
+                    "description": ""
+                },
+                { 
+                    "item_name": "pizza de bacon", 
+                    "price": 1976 ,
+                    "description": ""
+                },
+                { 
+                    "item_name": "pizza de chorizo, jamon y salame", 
+                    "price": 2240 ,
+                    "description": ""
+                },
+                { 
+                    "item_name": "pizza de camarones", 
+                    "price": 2465 ,
+                    "description": ""
+                },
+                { 
+                    "item_name": "pizza de pimientos", 
+                    "price": 2023 ,
+                    "description": ""
+                },
+                { 
+                    "item_name": "pizza de cebolla", 
+                    "price": 1620 ,
+                    "description": ""
+                },
+                { 
+                    "item_name": "pizza de filete de res", 
+                    "price": 2875 ,
+                    "description": ""
+                },
+                { 
+                    "item_name": "pizza de champiñones", 
+                    "price": 2062 ,
+                    "description": ""
+                },
+                { 
+                    "item_name": "pizza de vegetales", 
+                    "price": 2013 ,
+                    "description": ""
+                },
+                { 
+                    "item_name": "pizza de atun", 
+                    "price": 2472 ,
+                    "description": ""
+                },
+                { 
+                    "item_name": "pizza de bacon y camarones", 
+                    "price": 2179 ,
+                    "description": ""
+                },
+                { 
+                    "item_name": "pizza al pesto", 
+                    "price": 1910 ,
+                    "description": ""
+                },
+                { 
+                    "item_name": "pizza de jamon y camarones", 
+                    "price": 2376 ,
+                    "description": ""
+                },
+                { 
+                    "item_name": "pizza marinera", 
+                    "price": 2812 ,
+                    "description": ""
+                },
+                { 
+                    "item_name": "pizza de aceitunas verdes deshuesadas", 
+                    "price": 2179 ,
+                    "description": ""
+                },
+                { 
+                    "item_name": "pizza mimosa", 
+                    "price": 2560 ,
+                    "description": ""
+                },
+                { 
+                    "item_name": "pizza a caballo", 
+                    "price": 2238 ,
+                    "description": ""
+                },
+                { 
+                    "item_name": "pizza gran jumbo", 
+                    "price": 3344,
+                    "description": ""
+                },
+                {  
+                    "item_name":"pizza 4 quesos",
+                    "price":2693,
+                    "description": ""
+                },
+                {
+                    "item_name":"pizza strombolis quesos, ahumados",
+                    "price":2860,
+                    "description": ""
+                },
+                {
+                    "item_name":"pizza calzone",
+                    "price":2575,
+                    "description": ""
+                },
+                {
+                    "item_name":"pizza a la toscana",
+                    "price":2677,
+                    "description": ""
+                },
+                {
+                    "item_name":"pizza 4 jamones",
+                    "price":2910,
+                    "description": ""
+                }
+            ],
+
+            "paste": [
+                { 
+                    "item_name": "ravioli relleno con jamon", 
+                    "price": 1906 ,
+                    "description": ""
+                },
+                { 
+                    "item_name": "ravioli relleno c/mouse de camaron", 
+                    "price": 2084 ,
+                    "description": ""
+                },
+                { 
+                    "item_name": "noquis al queso azul", 
+                    "price": 2001 ,
+                    "description": ""
+                },
+                {
+                    "item_name": "noquis al pomodoro y queso parmesano", 
+                    "price": 2032 ,
+                    "description": ""
+                },
+                { 
+                    "item_name": "fetuccini alfredo", 
+                    "price": 1895 ,
+                    "description": ""
+                },
+                { 
+                    "item_name": "lenguini de mare", 
+                    "price": 2209 ,
+                    "description": ""
+                },
+                { 
+                    "item_name": "lasagna a la bolognesa", 
+                    "price": 2150 ,
+                    "description": ""
+                },
+                { 
+                    "item_name": "lasagna rellena con jamon", 
+                    "price": 2150 ,
+                    "description": ""
+                },
+                { 
+                    "item_name": "canelones rellenos con camarones", 
+                    "price": 2346 ,
+                    "description": ""
+                },
+                { 
+                    "item_name": "canelones de jamon", 
+                    "price": 2091 ,
+                    "description": ""
+                },
+                { 
+                    "item_name": "canelones rellenos mixtos", 
+                    "price": 2345 ,
+                    "description": ""
+                },
+                { 
+                    "item_name": "spaghetti/fusili/macarrones con salsa mar y tierra", 
+                    "price": 3013 ,
+                    "description": ""
+                },
+                { 
+                    "item_name": "spaghetti/fusili/macarrones con salsa al pesto", 
+                    "price": 1638 ,
+                    "description": ""
+                },
+                { 
+                    "item_name": "spaghetti/fusili/macarrones con salsa al pommodoro", 
+                    "price": 1513 ,
+                    "description": ""
+                },
+                { 
+                    "item_name": "spaghetti/fusili/macarrones con salsa a la carbonara", 
+                    "price": 2171 ,
+                    "description": ""
+                },
+                { 
+                    "item_name": "spaghetti/fusili/macarrones con salsa arrabiata", 
+                    "price": 1477 ,
+                    "description": ""
+                },
+                { 
+                    "item_name": "spaghetti/fusili/macarrones con salsa a la marinera", 
+                    "price": 2987 ,
+                    "description": ""
+                },
+                { 
+                    "item_name": "spaghetti/fusili/macarrones con salsa al burro", 
+                    "price": 1638 ,
+                    "description": ""
+                },
+                { 
+                    "item_name": "spaghetti/fusili/macarrones con salsa a la bolognesa", 
+                    "price": 2128 ,
+                    "description": ""
+                },
+                { 
+                    "item_name": "spaghetti/fusili/macarrones con salsa napolitana", 
+                    "price": 999 ,
+                    "description": ""
+                },
+                { 
+                    "item_name": "spaghetti/fusili/macarrones con salsa alfredo", 
+                    "price": 1836 ,
+                    "description": ""
+                },
+                { 
+                    "item_name": "spaghetti/fusili/macarrones con salsa panna", 
+                    "price": 2091 ,
+                    "description": ""
+                },
+                { 
+                    "item_name": "spaghetti/fusili/macarrones con salsa con filete de res a su gusto", 
+                    "price": 2168 ,
+                    "description": ""
+                },
+                { 
+                    "item_name": "spaghetti/fusili/macarrones con salsa al aglio", 
+                    "price": 1425 ,
+                    "description": ""
+                },
+                { 
+                    "item_name": "spaghetti/fusili/macarrones con salsa al jamon", 
+                    "price": 1836 ,
+                    "description": ""
+                },
+                { 
+                    "item_name": "spaghetti/fusili/macarrones nero di mare", 
+                    "price": 3328 ,
+                    "description": ""
+                },
+                { 
+                    "item_name": "macarrones mimosa 4 quesos c/pechuga", 
+                    "price": 2617 ,
+                    "description": ""
+                }
+            ],
+
+            "additions": [
+            {   
+                "item_name": "queso parmesano", 
+                "price": 489 ,
+                "description": ""
+            },
+            { 
+                "item_name": "queso gouda", 
+                "price": 489 ,
+                "description": ""
+            },
+            { 
+                "item_name": "embutidos", 
+                "price": 345 ,
+                "description": ""
+            },
+            { 
+                "item_name": "aceitunas", 
+                "price": 438 ,
+                "description": ""
+            },
+            { 
+                "item_name": "champiñones", 
+                "price": 591 ,
+                "description": ""
+            },
+            { 
+                "item_name": "cebolla", 
+                "price": 269 ,
+                "description": ""
+            },
+            { 
+                "item_name": "pimientos", 
+                "price": 269,
+                "description": "" 
+            },
+            { 
+                "item_name": "mariscos", 
+                "price": 628,
+                "description": "" 
+            },
+            { 
+                "item_name": "atún", 
+                "price": 642,
+                "description": "" 
+            },
+            { 
+                "item_name": "bacon", 
+                "price": 408,
+                "description": "" 
+            }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "desserts": [
+                { 
+                    "item_name": "flan de caramelo", 
+                    "price": 540,
+                    "description": "" 
+                },
+                { 
+                    "item_name": "ensalada de helado mimosa", 
+                    "price": 734,
+                    "description": "" 
+                },
+                { 
+                    "item_name": "cheese cake", 
+                    "price": 761,
+                    "description": "" 
+                },
+                { 
+                    "item_name": "copa de helado tradicional", 
+                    "price": 550,
+                    "description": "" 
+                },
+                { 
+                    "item_name": "copa lolita", 
+                    "price": 709,
+                    "description": "" 
+                },
+                { 
+                    "item_name": "torta helada", 
+                    "price": 667,
+                    "description": "" 
+                },
+                { 
+                    "item_name": "suero de helado", 
+                    "price": 779,
+                    "description": "" 
+                },
+                { 
+                    "item_name": "torta bombón", 
+                    "price": 1083,
+                    "description": "" 
+                }
+            ],
+            "cocktails": [
+                { 
+                    "item_name": "limonada frappe", 
+                    "price": 531 
+                },
+                { 
+                    "item_name": "limonada clarete", 
+                    "price": 801 
+                },
+                { 
+                    "item_name": "mojito", 
+                    "price": 531 
+                },
+                { 
+                    "item_name": "ron collins", 
+                    "price": 531 
+                },
+                { 
+                    "item_name": "daiquiri", 
+                    "price": 531 
+                },
+                { 
+                    "item_name": "havana special", 
+                    "price": 531 
+                },
+                { 
+                    "item_name": "cubata", 
+                    "price": 531 
+                },
+                { 
+                    "item_name": "cubanito", 
+                    "price": 531 
+                },
+                { 
+                    "item_name": "mulata", 
+                    "price": 531 
+                },
+                { 
+                    "item_name": "mimosa", 
+                    "price": 739 
+                },
+                { 
+                    "item_name": "bloody mar", 
+                    "price": 739 
+                },
+                { 
+                    "item_name": "piña colada", 
+                    "price": 739 
+                },
+                { 
+                    "item_name": "margarita", 
+                    "price": 739 
+                },
+                { 
+                    "item_name": "martini", 
+                    "price": 739 
+                },
+                { 
+                    "item_name": "screwdriver", 
+                    "price": 739 
+                },
+                { 
+                    "item_name": "caipirinha", 
+                    "price": 739 
+                },
+                { 
+                    "item_name": "tom collins", 
+                    "price": 739 
+                },
+                { 
+                    "item_name": "gin tonic", 
+                    "price": 739 
+                },
+                { 
+                    "item_name": "sangria", 
+                    "price": 739 
+                },
+                { 
+                    "item_name": "sangria tropical", 
+                    "price": 739 
+                }
+            ],
+
+            "drinks": [
+                { 
+                    "item_name": "agua nacional", 
+                    "price": 190 
+                },
+                { 
+                    "item_name": "agua importada", 
+                    "price": 250 
+                },
+                { 
+                    "item_name": "refresco nacional", 
+                    "price": 270 
+                },
+                { 
+                    "item_name": "refresco importado", 
+                    "price": 320 
+                },
+                { 
+                    "item_name": "malta", 
+                    "price": 335 
+                },
+                { 
+                    "item_name": "kermato", 
+                    "price": 491 
+                },
+                { 
+                    "item_name": "malteada", 
+                    "price": 693 
+                },
+                { 
+                    "item_name": "red bull", 
+                    "price": 740 
+                },
+                { 
+                    "item_name": "cola dietética", 
+                    "price": 398 
+                },
+                { 
+                    "item_name": "jugos naturales", 
+                    "price": 366 
+                },
+                { 
+                    "item_name": "jugos importados", 
+                    "price": 320 
+                },
+                { 
+                    "item_name": "cerveza nacional", 
+                    "price": 350 
+                },
+                { 
+                    "item_name": "cerveza importada", 
+                    "price": 320 
+                },
+                { 
+                    "item_name": "copa de cerveza", 
+                    "price": 300 
+                },
+                { 
+                    "item_name": "jarra de cerveza", 
+                    "price": 626 
+                },
+                {
+                    "item_name":"habana club añejo blanco",
+                    "price" :235
+                },
+                {
+                    "item_name":"habana club 3 años",
+                    "price" :235
+                },
+                {
+                    "item_name":"habana club añejo especial",
+                    "price" :256
+                },
+                {
+                    "item_name":"habana club reserva",
+                    "price" :531
+                },
+                {
+                    "item_name":"habana club añejo 7 años",
+                    "price" :489
+                },
+                {
+                    "item_name": "habana club selección de maestro",
+                    "price": 1132
+                },
+                {
+                    "item_name": "habana club unio",
+                    "price": null
+                },
+                {
+                    "item_name": "habana club tributo",
+                    "price": null
+                },
+                {
+                    "item_name": "aguardiente santero",
+                    "price": 245
+                },
+                {
+                    "item_name": "ron santiago añejo",
+                    "price": 323
+                },
+                {
+                    "item_name": "amaretto disaronno",
+                    "price": 565
+                },
+                {
+                    "item_name": "frangelico",
+                    "price": 1018
+                },
+                {
+                    "item_name": "baileys",
+                    "price": 565
+                },
+                {
+                    "item_name": "sambuco",
+                    "price": 565
+                },
+                {
+                    "item_name": "anis del mono dulce",
+                    "price": 519
+                },
+                {
+                    "item_name": "pernod",
+                    "price": 387
+                },
+                {
+                    "item_name": "ricard",
+                    "price": 387
+                },
+                {
+                    "item_name": "cmapari",
+                    "price":165
+                },
+                {
+                    "item_name": "licores cubanos",
+                    "price":165
+                }, 
+                {
+                    "item_name": "chivas regal",
+                    "price":1485
+                },
+                {
+                    "item_name": "jhonnie walker black level",
+                    "price":534
+                },
+                {
+                    "item_name": "jhonnie walker red level",
+                    "price":444
+                },
+                {
+                    "item_name":  "jhonnie walker blue level j&b",
+                    "price":630
+                },
+                {
+                    "item_name": "havana special",
+                    "price ":531
+                },
+                {
+                    "item_name": "cuba libre",
+                    " price ":531
+                },
+                {
+                    "item_name": "clan campbell",
+                    "price ":418
+                },
+                {
+                    "item_name": "wisky single malt",
+                    "price ":1106
+                },
+                {
+                    "item_name": "jameson",
+                    "price ":895
+                },
+                {
+                    "item_name": "jack daniels ballantines",
+                    "price ":740
+                },
+                { 
+                    "item_name": "vermouth rojo", 
+                    "price": 283 
+                },
+                { 
+                    "item_name": "vermouth rosado dulce", 
+                    "price": 283 
+                },
+                { 
+                    "item_name": "vermouth seco", 
+                    "price": 285 
+                },
+                { 
+                    "item_name": "copa de vino del dia tinto", 
+                    "price": 786 
+                },
+                { 
+                    "item_name": "copa de vino del dia blanco", 
+                    "price": 786 
+                },
+                { 
+                    "item_name": "copa de vino del dia rosado", 
+                    "price": 786 
+                },
+                { 
+                    "item_name": "brandy", 
+                    "price": 316 
+                },
+                { 
+                    "item_name": "ginebra", 
+                    "price": 687 
+                },
+                { 
+                    "item_name": "ginebra beefeater", 
+                    "price": 716 
+                },
+                { 
+                    "item_name": "tequila reposado", 
+                    "price": 532 
+                },
+                { 
+                    "item_name": "tequila blanco", 
+                    "price": 454 
+                },
+                { 
+                    "item_name": "brandy torres 5", 
+                    "price": 484 
+                },
+                { 
+                    "item_name": "brandy torres 10", 
+                    "price": 468 
+                }
+            ],
+
+            "infusions": [
+                { 
+                    "item_name": "té negro", 
+                    "price": 165 
+                },
+                { 
+                    "item_name": "té frío", 
+                    "price": 165 
+                },
+                { 
+                    "item_name": "café expreso", 
+                    "price": 120 
+                },
+                { 
+                    "item_name": "café americano", 
+                    "price": 190 
+                },
+                { 
+                    "item_name": "café cortado", 
+                    "price": 199 
+                },
+                { 
+                    "item_name": "café con leche", 
+                    "price": 199  
+                },
+                {  
+                    "item_name":"café carajillo",
+                    "price" :199
+                },
+                {
+                    "item_name":"café rocio de gallo",
+                    "price" :199
+                },
+                {
+                    "item_name":"café capuccino",
+                    "price" :199
+                }
+            ]
+        }  
+} 

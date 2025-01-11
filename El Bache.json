@@ -1,0 +1,221 @@
+{
+    "type": "Restaurante-Cafeteria",
+    "name": "El Bache", 
+    "location": {
+        "address": "Calle 30 entre 95 y 97,Las Brisas",
+        "municipe":"Cotorro",
+        "province": "La Habana",
+        "coordinates":  "23.043056190451246, -82.26299304585932"
+    },
+    "sector": "privado",
+    
+    "qualification": null,
+    
+    "specialized_food": ["italiana"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": 54703920,
+    
+    "capacity": 30,
+    
+    "reservation":  true,
+
+    "parking": true,
+
+    "delivery": true,
+
+    "electric generator": true,
+    
+    "hours": {
+        "monday": "10:00am - 10:00pm",  
+        "tuesday": "10:00am - 10:00pm",
+        "wednesday": "10:00am - 10:00pm",
+        "thursday": "10:00am - 10:00pm",
+        "friday": "10:00am - 10:00pm",
+        "saturday": "10:00am - 10:00pm",
+        "sunday": "10:00am - 10:00pm"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+                
+            ],
+                
+            "mains": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+                
+            ],
+
+            "fittings": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": "Napolitana",
+                    "price": 600 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Doble queso",
+                    "price": 800 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Queso gouda",
+                    "price": 900 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Jamon",
+                    "price": 800 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Chorizo",
+                    "price": 800 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Aceitunas",
+                    "price": 800 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Atun",
+                    "price": 1350,
+                    "description": " "
+                },
+                {
+                    "item_name": "Cebolla",
+                    "price": 800 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "4 Estaciones",
+                    "price": 1450 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Hawaiana",
+                    "price": 1100,
+                    "description": " "
+                }
+            ],
+
+            "paste": [
+                {
+                    "item_name": "Lasagna",
+                    "price": 800 ,
+                    "description": ""
+                },
+                {
+                    "item_name": "Lasagna de queso gouda",
+                    "price": 1200 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Espaguetti con queso gouda",
+                    "price": 900 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Espaguetti",
+                    "price": 600 ,
+                    "description": " "
+                }
+            ],
+
+            "additions": [
+                {
+                    "item_name": "Queso",
+                    "price": 300 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Jamon",
+                    "price": 200,
+                    "description": " "
+                },
+                {
+                    "item_name": "Chorizo",
+                    "price": 200,
+                    "description": ""
+                },
+                {
+                    "item_name": "Aceitunas",
+                    "price": 200 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Atun",
+                    "price": 750,
+                    "description": " "
+                },
+                {
+                    "item_name": "Cebolla",
+                    "price": 200 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pina",
+                    "price": 300,
+                    "description": " "
+                },
+                {
+                    "item_name": "Gouda",
+                    "price": 650 ,
+                    "description": " "
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "desserts": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+            "cocktails": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ],
+
+            "drinks": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ],
+
+            "infusions": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ]
+        }  
+} 

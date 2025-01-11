@@ -1,0 +1,232 @@
+{
+    "type": "Restaurante",
+    "": "Doping pizza", 
+    "location": {
+        "address": "Zanja entre San Francisco y Espada",
+        "municipe": "Centro Habana",
+        "province": "La Habana",
+        "coordinates":  "23.133855871057047, -82.37691017469287"
+    },
+    "sector": "privado",
+    
+    "qualification": 3.2,
+    
+    "specialized_food": ["italiana"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": 51260311,
+    
+    "capacity": null,
+    
+    "reservation":  false,
+
+    "parking": false,
+
+    "delivery": false,
+
+    "electric generator": false,
+    
+    "hours": {
+        "monday": "12:00pm - 12:00am",  
+        "tuesday": "12:00pm - 12:00am",
+        "wednesday": "12:00pm - 12:00am",
+        "thursday": "12:00pm - 12:00am",
+        "friday": "12:00pm - 12:00am",
+        "saturday": "12:00pm - 12:00am",
+        "sunday": "12:00pm - 12:00am"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": "ensalada fria natural",
+                    "price": 500,
+                    "description": " "
+                },
+                {
+                    "item_name": "ensalada fria de jamon",
+                    "price": 600,
+                    "description": " "
+                },
+                {
+                    "item_name": "ensalada fria de atun",
+                    "price": 700,
+                    "description": " "
+                }
+            ],
+                
+            "mains": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "fittings": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": "pizza napolitana",
+                    "price": 1000,
+                    "description": " "
+                },
+                {
+                    "item_name": "pizza de jamon",
+                    "price": 1100,
+                    "description": " "
+                },
+                {
+                    "item_name": "pizza hawaiana",
+                    "price": 1300,
+                    "description": " "
+                },
+                {
+                    "item_name": "pizza de atun",
+                    "price": 1300,
+                    "description": " "
+                },
+                {
+                    "item_name": "pizza de chorizo",
+                    "price": 1400,
+                    "description": " "
+                },
+                {
+                    "item_name": "pizza de bacon",
+                    "price": 1400,
+                    "description": " "
+                },
+                {
+                    "item_name": "pizza doping extreme",
+                    "price": 1500,
+                    "description": " "
+                }
+            ],
+
+            "paste": [
+                {
+                    "item_name": "spaghetti napoles",
+                    "price": 900,
+                    "description": " "
+                },
+                {
+                    "item_name": "lasana",
+                    "price": 1300,
+                    "description": " "
+                }
+            ],
+
+            "additions": [
+                {
+                    "item_name": "queso",
+                    "price": 450,
+                    "description": " "
+                },
+                {
+                    "item_name": "jamon",
+                    "price": 350,
+                    "description": " "
+                },
+                {
+                    "item_name": "chorizo",
+                    "price": 350,
+                    "description": " "
+                },
+                {
+                    "item_name": "atun",
+                    "price": 400,
+                    "description": " "
+                },
+                {
+                    "item_name": "cebolla",
+                    "price": 200,
+                    "description": " "
+                },
+                {
+                    "item_name": "pimiento",
+                    "price": 200,
+                    "description": " "
+                },
+                {
+                    "item_name": "aceituna",
+                    "price": 300,
+                    "description": " "
+                },
+                {
+                    "item_name": "bacon",
+                    "price": 400,
+                    "description": " "
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "desserts": [
+                {
+                    "item_name": "paletica de helado clasica",
+                    "price" : 150,
+                    "description": " "
+                }
+            ],
+            "cocktails": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ],
+
+            "drinks": [
+                {
+                    "item_name" : "agua",
+                    "price" : 150
+                },
+                {
+                    "item_name" : "refresco",
+                    "price" : 250
+                },
+                {
+                    "item_name" : "malta",
+                    "price" : 300
+                },
+                {
+                    "item_name": "malteada",
+                    "price": 650
+                },
+                {
+                    "item_name" : "jugos",
+                    "price" : 300
+                },
+                {
+                    "item_name" : "batido de helado (12oz)",
+                    "price" : 550
+                },
+                {
+                    "item_name" : "batido de helado (16oz)",
+                    "price" : 750
+                },
+                {
+                    "item_name" : "cerveza",
+                    "price" : 300
+                }
+            ],
+
+            "infusions": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ]
+        }  
+} 

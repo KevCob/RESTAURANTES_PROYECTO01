@@ -1,0 +1,274 @@
+{
+    "type": "Bar-Restaurante",
+    "name": "Lo de Monik", 
+    "location": {
+        "address": "",
+        "municipe": "Plaza de la Revolucion",
+        "province": "La Habana",
+        "coordinates":  "23.141345644414816, -82.3553965539762"
+    },
+    "sector": "privado",
+    
+    "qualification": 4.7,
+    
+    "specialized_food": ["Internacional","cubana"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": 78644029,
+    
+    "capacity": 35,
+    
+    "reservation":  true,
+
+    "parking": false,
+
+    "delivery": false,
+
+    "electric generator": true,
+    
+    "hours": {
+        "monday": "11:00am - 11:00pm",  
+        "tuesday": "11:00am - 11:00pm",
+        "wednesday": "11:00am - 11:00pm",
+        "thursday": "11:00am - 11:00pm",
+        "friday": "11:00am - 11:00pm",
+        "saturday": "11:00am - 11:00pm",
+        "sunday": "11:00am - 11:00pm"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": "Yucas Bravas / Yucca With Hot Tacos Sauce",
+                    "price": 600.00,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Croquetas / Croquette",
+                    "price": 560.00,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Tamal en Cazuela",
+                    "price": 1500.00,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Tostones Rellenos de Jamón y queso",
+                    "price": 1100.00,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Ropa Vieja",
+                    "price": 1200.00,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Cerdo",
+                    "price": 1300.00,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Fituras de Malanga",
+                    "price": 600.00,
+                    "description": " "
+                  }
+            ],
+                
+            "mains": [
+                {
+                    "item_name": "Vegetales / Vegetables Tacos",
+                    "price": 1200.00,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Pollo / Chicken Tacos",
+                    "price": 1500.00,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Cerdo / Pork Tacos",
+                    "price": 2200.00,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Ropa Vieja / Shredded Beef Tacos",
+                    "price": 2000.00,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Camarón / Shrimps Tacos",
+                    "price": 3000.00,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Pescado / Fish Tacos",
+                    "price": 2300.00,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Punta de Filete / Beef Tacos",
+                    "price": 3800.00,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Langosta / Lobster Tacos",
+                    "price": 2200.00,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Pulpo / Octopus Tacos",
+                    "price": 2500.00,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Pollo Grillado / Grilled Chicken",
+                    "price": 1500.00,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Camarón Grillado / Grilled Shrimps",
+                    "price": 3000.00,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Ropa Vieja / Shredded Beef",
+                    "price": 2000.00,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Ropa Vieja con Garbanzos / Shredded Beef With Chic",
+                    "price": 2400.00,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Pescado Empanado / Fish and Chips",
+                    "price": 2500.00,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Masas de Cerdo / Pork Masses",
+                    "price": 2800.00,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Pescado Grillado / Grilled Fish",
+                    "price": 2300.00,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Pulpo Grillado / Grilled Octopus",
+                    "price": 3800.00,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Langosta / Lobster",
+                    "price": 3000.00,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Punta de Filete a la Deutch",
+                    "price": 3800.00,
+                    "description": " "
+                  }
+            ],
+
+            "fittings": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "paste": [
+                {
+                    "item_name": "Pasta Napolitana",
+                    "price": 1700.00,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Pasta de Pollo con Salsa Alfredo",
+                    "price": 2000.00,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Pasta Frutti di Mare",
+                    "price": 2300.00,
+                    "description": " "
+                  }
+            ],
+
+            "additions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": "Sandwich de Vegetales",
+                    "price": 850.00,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Sandwich de Jamón y Queso",
+                    "price": 1000.00,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Sandwich de Pollo",
+                    "price": 1500.00,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Sandwich de Atún",
+                    "price": 1000.00,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Sandwich Cubano",
+                    "price": 2000.00,
+                    "description": " "
+                  }
+            ],
+
+            "desserts": [
+                {
+                    "item_name": "Postre de la Casa / House's Dessert",
+                    "price": 600.00,
+                    "description": " "
+                }
+            ],
+            "cocktails": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ],
+
+            "drinks": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ],
+
+            "infusions": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ]
+        }  
+} 

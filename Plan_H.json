@@ -1,0 +1,395 @@
+{
+    "type": "Bar-Restaurante",
+    "name": "Plan H", 
+    "location": {
+        "address": "308 P de Marti Ánimas y Virtudes",
+        "municipe": "Habana Vieja",
+        "province": "La Habana",
+        "coordinates":  "23.139325457451932, -82.35937998794891"
+    },
+    "sector": "privado",
+    
+    "qualification": 5,
+    
+    "specialized_food": ["Comida Asiática", "Internacional", "Tailandesa"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": 78616212,
+    
+    "capacity": 40,
+    
+    "reservation":  true,
+
+    "parking": true,
+
+    "delivery": false,
+
+    "electric generator": false,
+    
+    "hours": {
+        "monday": "cerrado",  
+        "tuesday": "11:30am - 12:00am",
+        "wednesday": "11:30am - 12:00am",
+        "thursday": "11:30am - 12:00am",
+        "friday": "11:30am - 12:00am",
+        "saturday": "11:30am - 12:00am",
+        "sunday": "11:30am - 12:00am"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": "Ceviche de Pescado Plan H",
+                    "price": 2000,
+                    "description": " "
+                },
+                {
+                    "item_name": "Tapache Serrano",
+                    "price": 1900,
+                    "description": " "
+                },
+                {
+                    "item_name": "Ceviche de Atún de Verano",
+                    "price":  2382,
+                    "description": " "
+                },
+                {
+                    "item_name": "Ceviche de Pulpo",
+                    "price": 2450,
+                    "description": " "
+                },
+                {
+                    "item_name": "Croquetas Plan H",
+                    "price": 1000,
+                    "description": " "
+                },
+                {
+                    "item_name": "Brochetas de Pollo",
+                    "price": 2300,
+                    "description": " "
+                },
+                {
+                    "item_name": "Tapa de Pulpo a la Habanera",
+                    "price": 2600,
+                    "description": " "
+                },
+                {
+                    "item_name": "Mix de Casabe Crujiente",
+                    "price": 2050,
+                    "description": " "
+                },
+                {
+                    "item_name": "Tabla de 5 Quesos",
+                    "price": 3658,
+                    "description": " "
+                },
+                {
+                    "item_name": "Tabla Parrillera",
+                    "price": 3320,
+                    "description": " "
+                },
+                {
+                    "item_name": "Tabla Mixta Plan H",
+                    "price": 4138,
+                    "description": " "
+                },
+                {
+                    "item_name": "Aceitunas Negras",
+                    "price": 350,
+                    "description": " "
+                },
+                {
+                    "item_name": "Aceitunas Verdes",
+                    "price": 250,
+                    "description": " "
+                },
+                {
+                    "item_name": "Papas Fritas",
+                    "price": 773,
+                    "description": " "
+                }
+            ],
+                
+            "mains": [
+                {
+                    "item_name": "Pollo California",
+                    "price": 2465,
+                    "description": " "
+                },
+                {
+                    "item_name": "Lomo de Res",
+                    "price": 3350,
+                    "description": " "
+                },
+                {
+                    "item_name": "Atún Natural",
+                    "price": 3500,
+                    "description": " "
+                }
+            ],
+
+            "fittings": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "paste": [
+                {
+                    "item_name": "Pasta al Pesto Provenzal",
+                    "price": 1615,
+                    "description": ""
+                },
+                {
+                    "item_name": "Pasta Bolognesa",
+                    "price": 2400,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pasta con Salmón",
+                    "price": 2976,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pasta a la Amatriciana",
+                    "price": 2600,
+                    "description": " "
+                }
+            ],
+
+            "additions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "desserts": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+            "cocktails": [
+                {
+                    "item_name": "Michelada",
+                    "price": 700
+                },
+                {
+                    "item_name": "Chelada",
+                    "price": 600
+                },
+                {
+                    "item_name": "Cuba Libre",
+                    "price": 800
+                },
+                {
+                    "item_name": "Pina Colada",
+                    "price": 1000
+                },
+                {
+                    "item_name": "Mojito Natural",
+                    "price": 850
+                },
+                {
+                    "item_name": "Mojito Tonic",
+                    "price": 1020
+                },
+                {
+                    "item_name": "Daiquirí",
+                    "price": 850
+                },
+                {
+                    "item_name": "Mimosas",
+                    "price": 900
+                },
+                {
+                    "item_name": "Ice on the Rock",
+                    "price": 1325
+                },
+                {
+                    "item_name": "Aperol Spritz",
+                    "price": 1450
+                },
+                {
+                    "item_name": "Sangria Tonic Blanca",
+                    "price": 1100
+                },
+                {
+                    "item_name": "Sangria Tinta",
+                    "price": 1100
+                },
+                {
+                    "item_name": "Sangria Tonic Tinta",
+                    "price": 1592
+                }
+            ],
+
+            "drinks": [
+                {
+                    "item_name": "Refresco Ritz Cola",
+                    "price": 300
+                },
+                {
+                    "item_name": "Refresco Ritz Naranja",
+                    "price": 300
+                },
+                {
+                    "item_name": "Redbull",
+                    "price": 450
+                },
+                {
+                    "item_name": "Jugo Natural",
+                    "price": 490
+                },
+                {
+                    "item_name": "Agua Natural Don Aguiar",
+                    "price": 420
+                },
+                {
+                    "item_name": "Agua Tónica ME",
+                    "price": 580
+                },
+                {
+                    "item_name": "Agua Ginger Ale",
+                    "price": 650
+                },
+                {
+                    "item_name": "I Heart Chardonnay",
+                    "price": 875
+                },
+                {
+                    "item_name": "I Heart Pinot Grigio",
+                    "price": 875
+                },
+                {
+                    "item_name": "I Heart Reisling",
+                    "price": 875
+                },
+                {
+                    "item_name": "Etcetera Rueda Verdejo 2022",
+                    "price": 875
+                },
+                {
+                    "item_name": "Mapu Sauvignon Blanc",
+                    "price": 875
+                },
+                {
+                    "item_name": "Cava Mistinguett Brut",
+                    "price": 945
+                },
+                {
+                    "item_name": "Cava Freixenet Rose",
+                    "price": 875
+                },
+                {
+                    "item_name": "Cava Brut Cordon Negro Freixenet",
+                    "price": 4650
+                },
+                {
+                    "item_name": "Enate Chardonnay 2021",
+                    "price": 11230
+                },
+                {
+                    "item_name": "Freye Parellada Moscat 2022",
+                    "price": 5600
+                },
+                {
+                    "item_name": "Cerveza Cristal",
+                    "price": 600
+                },
+                {
+                    "item_name": "Habana Club 3 Anos",
+                    "price": 392
+                },
+                {
+                    "item_name": "Habana Club Anejo Especial",
+                    "price": 438
+                },
+                {
+                    "item_name": "Ron Ritual",
+                    "price": 490
+                },
+                {
+                    "item_name": "Habana Club Anejo Reserva",
+                    "price": 590
+                },
+                {
+                    "item_name": "Habana Club 7 Anos",
+                    "price": 790
+                },
+                {
+                    "item_name": "Habana Club Cuban Smoky",
+                    "price": 1150
+                },
+                {
+                    "item_name": "Seleccion de Maestro",
+                    "price": 2215
+                },
+                {
+                    "item_name": "Pacto Navio",
+                    "price": 1900
+                }
+          
+            ],
+
+            "infusions": [
+                {
+                    "item_name": "Expresso",
+                    "price": 260
+                  },
+                  {
+                    "item_name": "Americano",
+                    "price": 260
+                  },
+                  {
+                    "item_name": "Cortado",
+                    "price": 350
+                  },
+                  {
+                    "item_name": "Cafe con Leche",
+                    "price": 650
+                  },
+                  {
+                    "item_name": "Capuchino",
+                    "price": 600
+                  },
+                  {
+                    "item_name": "Cafe Bombon",
+                    "price": 670
+                  },
+                  {
+                    "item_name": "Frapuchino",
+                    "price": 630
+                  },
+                  {
+                    "item_name": "Mocachino",
+                    "price": 555
+                  },
+                  {
+                    "item_name": "Te",
+                    "price": 150
+                  }
+            ]
+        }  
+} 

@@ -1,0 +1,281 @@
+{
+    "type": "Restaurante",
+    "name": "Fonda Al Pirata", 
+    "location": {
+        "address": "San Ignacio #76 e/ O'Reilly y Empedrado",
+        "municipe": "Habana Vieja",
+        "province": "La Habana",
+        "coordinates":  "23.140492623277456, -82.35174687469267"
+    },
+    "sector": "privado",
+    
+    "qualification": 4.5,
+    
+    "specialized_food": ["Caribena", "Cubana"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": 52539750,
+    
+    "capacity": 24 ,
+    
+    "reservation":  true,
+
+    "parking": false,
+
+    "delivery": false,
+
+    "electric generator": true,
+    
+    "hours": {
+        "monday": "8:00am - 12:00am",  
+        "tuesday": "8:00am - 12:00am",
+        "wednesday": "8:00am - 12:00am",
+        "thursday": "8:00am - 12:00am",
+        "friday": "8:00am - 12:00am",
+        "saturday": "8:00am - 12:00am",
+        "sunday": "8:00am - 12:00am"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": "Tostadas Piratas",
+                    "price": 960,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Hummus y Vegetales",
+                    "price": 1920,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Tapas Piratas",
+                    "price": 1920,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Bolitas de queso",
+                    "price": 1920,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Bolitas de queso picantes",
+                    "price": 1920,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Ceviche",
+                    "price": 2240,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Coctel de Langosta",
+                    "price": 2720,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Crudo de Pulpo",
+                    "price": 2880,
+                    "description": " "
+                  }
+            ],
+                
+            "mains": [
+              {
+                "item_name": "Ensaladas Piratas de Corazon",
+                "price": 1440,
+                "description": " "
+              },
+              {
+                "item_name": "Botija Pirata",
+                "price": 1920,
+                "description": " "
+              },
+              {
+                "item_name": "Combinacion Pirata",
+                "price": 3200,
+                "description": " "
+              },
+              {
+                "item_name": "Galeon el Olones",
+                "price": 3360,
+                "description": " "
+              },
+              {
+                "item_name": "Filete de Pescado",
+                "price": 3840,
+                "description": " "
+              },
+              {
+                "item_name": "Pescado Entero",
+                "price": 5120,
+                "description": " "
+              },
+              {
+                "item_name": "Langosta a su Gusto",
+                "price": 6080,
+                "description": " "
+              }
+            ],
+
+            "fittings": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "paste": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "additions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": "Hamburguesa Vegana",
+                    "price": 1440,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Sandwich Verde",
+                    "price": 1600,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Hamburguesa Barba Roja",
+                    "price": 2240,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Sandwich de Pechuga",
+                    "price": 2240,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Sandwich Mary Read",
+                    "price": 2240,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Club Sandwich Pollo",
+                    "price": 2560,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Club Sandwich Atun",
+                    "price": 2720,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Sandwich Abordaje",
+                    "price": 3040,
+                    "description": " "
+                  }
+            ],
+
+            "desserts": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+            "cocktails": [
+                {
+                    "item_name": "Cocteleria",
+                    "price": 1104
+                  },
+                  {
+                    "item_name": "Cocteles Afrutados",
+                    "price": 1216
+                  },
+                  {
+                    "item_name": "Pina Colada",
+                    "price": 1440
+                  },
+                  {
+                    "item_name": "Sangria",
+                    "price": 1440
+                  },
+                  {
+                      "item_name": "Pina Colada",
+                      "price": 1280
+                  },
+                  {
+                    "item_name": "Limonada",
+                    "price": 640
+                  },
+                  {
+                    "item_name": "Limonada de Frutas",
+                    "price": 720
+                  }
+            ],
+
+            "drinks": [
+                {
+                    "item_name": "Jugo Natural",
+                    "price": 640
+                  }
+            ],
+
+            "infusions": [
+                {
+                    "item_name": "Te",
+                    "price": 384
+                  },
+                  {
+                    "item_name": "Cafe expreso",
+                    "price": 480
+                  },
+                  {
+                    "item_name": "Cafe americano",
+                    "price": 480
+                  },
+                  {
+                    "item_name": "Cortadito",
+                    "price": 512
+                  },
+                  {
+                    "item_name": "Cafe Bombon",
+                    "price": 608
+                  },
+                  {
+                    "item_name": "Cafe expreso doble",
+                    "price": 640
+                  },
+                  {
+                    "item_name": "Cafe con leche",
+                    "price": 672
+                  },
+                  {
+                    "item_name": "Frappuccino",
+                    "price": 1232
+                  },
+                  {
+                    "item_name": "Frappuccino Mocca",
+                    "price": 1232
+                 
+                  }
+            ]
+        }  
+} 
