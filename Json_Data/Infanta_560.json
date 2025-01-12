@@ -1,0 +1,179 @@
+{
+    "type": "Restaurante",
+    "name": "", 
+    "location": {
+        "address": "Infanta 560",
+        "municipe": "Plaza de la Revolucion",
+        "province": "La Habana",
+        "coordinates":  "23.13499567642231, -82.37838807795364"
+    },
+    "sector": "privado",
+    
+    "qualification": null,
+    
+    "specialized_food": ["italiana"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": null,
+    
+    "capacity": 15,
+    
+    "reservation":  false,
+
+    "parking": false,
+
+    "delivery": false,
+
+    "electric generator": false,
+    
+    "hours": {
+        "monday": "8:00am - 10:00pm",  
+        "tuesday": "8:00am - 10:00pm",
+        "wednesday": "8:00am - 10:00pm",
+        "thursday": "8:00am - 10:00pm",
+        "friday": "8:00am - 10:00pm",
+        "saturday": "8:00am - 10:00pm",
+        "sunday": "8:00am - 10:00pm"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": "picadera (300g)",
+                    "price": 550,
+                    "description": ""
+                }
+            ],
+                
+            "mains": [
+                {
+                    "item_name": "fajas de pollo (300g)",
+                    "price": 600,
+                    "description": ""
+                }
+            ],
+
+            "fittings": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": "pizza napolitana (250g)",
+                    "price": 200,
+                    "description": ""
+                },
+                {
+                    "item_name": "pizza hawaiana (300g)",
+                    "price": 300,
+                    "description": ""
+                },
+                {
+                    "item_name": "pizza queso gouda (250g)",
+                    "price": 320,
+                    "description": ""
+                },
+                {
+                    "item_name": "pizza familiar napolitana (500g)",
+                    "price": 380,
+                    "description": ""
+                },
+                {
+                    "item_name": "pizza familiar hawaiana (600g)",
+                    "price": 700,
+                    "description": ""
+                },
+                {
+                    "item_name": "pizza familiar queso gouda (500g)",
+                    "price": 700,
+                    "description": ""
+                }
+            ],
+
+            "paste": [
+                {
+                    "item_name": "spaghetti (470g)",
+                    "price": 300 ,
+                    "description": ""
+                },
+                {
+                    "item_name": "spaghetti queso gouda (470g)",
+                    "price": 420,
+                    "description": ""
+                }
+            ],
+
+            "additions": [
+                {
+                    "item_name": "jamon",
+                    "price": 80,
+                    "description": ""
+                },
+                {
+                    "item_name": "pina",
+                    "price": 80,
+                    "description": ""
+                },
+                {
+                    "item_name": "pimiento",
+                    "price": 80,
+                    "description": ""
+                },
+                {
+                    "item_name": "queso",
+                    "price": 80,
+                    "description": ""
+                },
+                {
+                    "item_name": "queso gouda",
+                    "price": 100,
+                    "description": ""
+                },
+                {
+                    "item_name": "cebolla",
+                    "price": 80,
+                    "description": ""
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "desserts": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+            "cocktails": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ],
+
+            "drinks": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ],
+
+            "infusions": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ]
+        }  
+} 

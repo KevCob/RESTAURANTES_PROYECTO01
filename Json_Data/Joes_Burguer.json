@@ -1,0 +1,196 @@
+{
+    "type": "Bar-Restaurante-Cafeteria",
+    "name": "Joe's Burguer", 
+    "location": {
+        "address": "Esquina Mayia Rodriguez y Aranguren",
+        "municipe": "10 de octubre",
+        "province": "La Habana",
+        "coordinates":  "23.088147890970745, -82.37788683401902"
+    },
+    "sector": "privado",
+
+    "qualification":  3.6,
+    
+    "specialized_food": ["americana","internacional"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": null,
+    
+    "capacity": 20,
+    
+    "reservation":  false,
+
+    "parking": true,
+
+    "delivery": true,
+
+    "electric generator": false,
+    
+    "hours": {
+        "monday": "8:00am - 10:00pm",  
+        "tuesday": "8:00am - 10:00pm",
+        "wednesday": "8:00am - 10:00pm",
+        "thursday": "8:00am - 10:00pm",
+        "friday": "8:00am - 10:00pm",
+        "saturday": "8:00am - 10:00pm",
+        "sunday": "8:00am - 10:00pm"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+                
+            "mains": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "fittings": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "paste": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "additions": [
+                {
+                    "Addition":"Queso",
+                    "Price":120,
+                    "description": " "
+                },
+                {
+                    "Addition":"Lechuga",
+                    "Price":100,
+                    "description": " "
+                },
+                {
+                    "Addition":"Jamon",
+                    "Price":100,
+                    "description": " "
+                },
+                {
+                    "Addition":"Chorizo",
+                    "Price":80,
+                    "description": " "
+                },
+                {
+                    "Addition":"Bacon",
+                    "Price":150,
+                    "description": " "
+                },
+                {
+                    "Addition":"Huevo",
+                    "Price":150,
+                    "description": " "
+                },
+                {
+                    "Addition":"Cebolla",
+                    "Price":150,
+                    "description": " "
+                },
+                {
+                    "Addition":"Pepinillo",
+                    "Price":30,
+                    "description": " "
+                },
+                {
+                    "Addition":"Tomate",
+                    "Price":100,
+                    "description": " "
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "Plate":"Hamburguesa de cerdo",
+                    "Price":500,
+                    "description": " "
+                },
+                {
+                    "Plate":"Hamburguesa de pollo",
+                    "Price":500,
+                    "description": " "
+                },
+                {
+                    "Plate":"Hamburguesa de res",
+                    "Price":700,
+                    "description": " "
+                },
+                {
+                    "Plate":"Hamburguesa doble",
+                    "Price":900,
+                    "description": " "
+                },
+                {
+                    "Plate":"Bocadito de jamon y queso",
+                    "Price":450,
+                    "description": " "
+                }
+            ],
+
+            "desserts": [
+                {
+                    "Plate":"Copa de helado",
+                    "Price":300
+                },
+                {
+                    "Type":"Potes de helado",
+                    "Price":1000
+                }
+            ],
+            "cocktails": [
+                {
+                    "Type":"Limonada frappe",
+                    "Price":500
+                }
+            ],
+
+            "drinks": [
+                {
+                    "Type":"Cerveza",
+                    "Price":350
+                },
+                {
+                    "Type":"Batido de helado",
+                    "Price":700
+                },
+                {
+                    "Type":"Malteada",
+                    "Price":500
+                }
+            ],
+
+            "infusions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ]
+        }  
+} 

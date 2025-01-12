@@ -1,0 +1,497 @@
+{
+    "type": "Bar-Restaurante-Cafeteria",
+    "name": "El_Kilometro_Zero", 
+    "location": {
+        "address": "Monserrate #437 Esq Teniente Rey",
+        "municipe": "Habana Vieja ",
+        "province": "La Habana",
+        "coordinates": "23.13577030941659, -82.35714206462553"
+    },
+    "sector": "privado",
+    
+    "qualification": 4.5 ,
+    
+    "specialized_food": ["criolla"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": 78600116 ,
+    
+    "capacity": 70 ,
+    
+    "reservation": true  ,
+
+    "parking": false ,
+
+    "delivery": false,
+
+    "electric generator": false ,
+    
+    "hours": {
+        "monday": "",  
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": ""
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": "Cesta de Pan",
+                    "price": 850 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Croquetas de la Casa",
+                    "price": 1140 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Tamal Cubano",
+                    "price": 2080 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Tacos de la Casa",
+                    "price": 1795 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Quesadilla de Vaca Frita",
+                    "price": 1760 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Fajitas de Pollo al Estilo KM ZERO",
+                    "price": 2170 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Carpaccio de Res",
+                    "price": 3000 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Carpaccio de Pescado",
+                    "price": 2300 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Eperlan",
+                    "price": 2250 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Ceviche",
+                    "price": 2225 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pica Pica Boom",
+                    "price": 3200 ,
+                    "description": " "
+                }
+
+            ],
+                
+            "mains": [
+                {
+                    "item_name": "Pollo Moreno",
+                    "price": 2865 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Vaca Frita",
+                    "price": 2940 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Ropa Vieja",
+                    "price": 2970 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Lonjas de Cerdo",
+                    "price": 3040 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Masas de Cerdo",
+                    "price": 3075 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pesca del Dia",
+                    "price": 4480 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pescado en Costra",
+                    "price": 4995 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Camarones al Gusto",
+                    "price": 5250 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pescado Entero al Josper",
+                    "price": 8370 ,
+                    "description": ""
+                },
+                {
+                    "item_name": "Caldereta de Mariscos",
+                    "price": 9800 ,
+                    "description": ""
+                },
+                {
+                    "item_name": "Langosta KM ZERO",
+                    "price": 6650 ,
+                    "description": ""
+                },
+                {
+                    "item_name": "Ribeye al Josper",
+                    "price": 6000 ,
+                    "description": ""
+                },
+                {
+                    "item_name": "Arroz a la Cubana",
+                    "price": 2880 ,
+                    "description": ""
+                }
+            ],
+
+            "fittings": [
+                {
+                    "item_name": "Arroz",
+                    "price": 580 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Frijoles",
+                    "price": 620 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Vianda Frita",
+                    "price": 640 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Papas Fritas",
+                    "price": 1280,
+                    "description": " "
+                },
+                {
+                    "item_name": "Ensalada Organica",
+                    "price": 995 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Ensalada Coronada con Atun",
+                    "price": 1760 ,
+                    "description": " "
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "paste": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "additions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "desserts": [
+                {
+                    "item_name": "Tarta de Limon",
+                    "price": 1960 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Tarta de Chocolate",
+                    "price": 1650 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Postre Casero",
+                    "price": 960 ,
+                    "description": " "
+                }
+            ],
+            "cocktails": [
+                {
+                    "item_name": "Idea 43",
+                    "price": 2325 
+                },
+                {
+                    "item_name": "Pacto Zero",
+                    "price": 2760 
+                },
+                {
+                    "item_name": "Sex on KM",
+                    "price": 2015 
+                },
+                {
+                    "item_name": "Aperol Gin",
+                    "price": 2015 
+                },
+                {
+                    "item_name": "Mojito Capitolio",
+                    "price": 1705 
+                },
+                {
+                    "item_name": "Canchanchara KMZ",
+                    "price": 1860 
+                },
+                {
+                    "item_name": "Santiago Dark",
+                    "price": 1860 
+                },
+                {
+                    "item_name": "El Tropical",
+                    "price": 1785
+                },
+                {
+                    "item_name": "Cuban Flavor",
+                    "price": 1860
+                },
+                {
+                    "item_name": "Pina Colada Tentacion",
+                    "price": 1950
+                },
+                {
+                    "item_name": "Gin Tonic Afrodisiaco",
+                    "price": 1950 
+                },
+                {
+                    "item_name": "Mezcalita Chica Mala",
+                    "price": 2995 
+                },
+                {
+                    "item_name": "Daiquiri",
+                    "price": 1085 
+                },
+                {
+                    "item_name": "Mojito",
+                    "price": 1085
+                },
+                {
+                    "item_name": "Cuba Libre",
+                    "price": 1250 
+                },
+                {
+                    "item_name": "Canchanchara",
+                    "price": 1085 
+                },
+                {
+                    "item_name": "Havana Special",
+                    "price": 1085 
+                },
+                {
+                    "item_name": "Cubanito",
+                    "price": 1250
+                },
+                {
+                    "item_name": "Ron Fashioned",
+                    "price": 1705 
+                },
+                {
+                    "item_name": "Cuban Manhatan",
+                    "price": 1705 
+                },
+                {
+                    "item_name": "Los Calpis",
+                    "price": 1250 
+                },
+                {
+                    "item_name": "Moscow Mule",
+                    "price": 2015 
+                },
+                {
+                    "item_name": "Espresso Martini",
+                    "price": 1705 
+                },
+                {
+                    "item_name": "Bloody Mary XL",
+                    "price": 2945
+                },
+                {
+                    "item_name": "Screwdriver",
+                    "price": 1250
+                },
+                {
+                    "item_name": "Vodka Tonic",
+                    "price": 1860 
+                },
+                {
+                    "item_name": "Gin Tonic",
+                    "price": 1860
+                },
+                {
+                    "item_name": "Martini",
+                    "price": 1705 
+                },
+                {
+                    "item_name": "Negroni",
+                    "price": 1860
+                },
+                {
+                    "item_name": "Margarita",
+                    "price": 1395
+                },
+                {
+                    "item_name": "Tequila Sunrise",
+                    "price": 1550 
+                },
+                {
+                    "item_name": "Long Island",
+                    "price": 1860
+                },
+                {
+                    "item_name": "Amaretto Sour",
+                    "price": 1705 
+                },
+                {
+                    "item_name": "Whisky Sour",
+                    "price": 1860 
+                },
+                {
+                    "item_name": "Aperol Spritz",
+                    "price": 1860 
+                },
+                {
+                    "item_name": "Sangria",
+                    "price": 1550
+                },
+                {
+                    "item_name": "Mimosa",
+                    "price": 1800 
+                },
+                {
+                    "item_name": "Tinto Verano",
+                    "price": 1800
+                },
+                {
+                    "item_name": "Limonada Frescura",
+                    "price": 960
+                },
+                {
+                    "item_name": "Servicio Chelada",
+                    "price": 310 
+                },
+                {
+                    "item_name": "Servicio Michelada",
+                    "price": 465
+                }
+                
+
+          ],
+
+            "drinks": [
+                {
+                    "item_name": "Agua Natural",
+                    "price": 495 
+                },
+                {
+                    "item_name": "Agua con Gas Mondariz",
+                    "price": 1300
+                },
+                {
+                    "item_name": "Agua Tonica Importada",
+                    "price": 960 
+                },
+                {
+                    "item_name": "Refrescos Importados",
+                    "price": 675
+                },
+                {
+                    "item_name": "Malta Bucanero",
+                    "price": 750 
+                },
+                {
+                    "item_name": "Jugos Naturales",
+                    "price": 790 
+                },
+                {
+                    "item_name": "Energizante",
+                    "price": 900
+                },
+                {
+                    "item_name": "Cristal de Botella",
+                    "price": 840
+                },
+                {
+                    "item_name": "Bucanero de Botella",
+                    "price": 840 
+                }
+            ],
+
+            "infusions": [
+                {
+                    "item_name": "Espresso",
+                    "price": 480
+                },
+                {
+                    "item_name": "Americano",
+                    "price": 515
+                },
+                {
+                    "item_name": "Cortado",
+                    "price": 550 
+                },
+                {
+                    "item_name": "Macchiato",
+                    "price": 550 
+                },
+                {
+                    "item_name": "Cafe con Leche",
+                    "price": 620
+                },
+                {
+                    "item_name": "Cappuccino",
+                    "price": 655
+                },
+                {
+                    "item_name": "Cafe Bombon",
+                    "price": 725
+                },
+                {
+                    "item_name": "Frappuccino",
+                    "price": 120 
+                },
+                {
+                    "item_name": "Havana Quemado",
+                    "price":1760
+                    
+                }
+            ]
+        }  
+} 

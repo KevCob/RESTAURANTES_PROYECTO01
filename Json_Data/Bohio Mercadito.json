@@ -1,0 +1,174 @@
+{
+    "type": "Bar-Restaurante-Cafeteria",
+    "name": "Bohio Mercadito", 
+    "location": {
+        "address": "calle 19 entre 12 y 10, Vedado",
+        "municipe": "Plaza de la Revolucion",
+        "province": "La Habana",
+        "coordinates":  "23.13336490258953, -82.39873911512949"
+    },
+    "sector": "privado",
+    
+    "qualification": 4.2,
+    
+    "specialized_food": ["Bar","Americana"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": 52369431,
+    
+    "capacity": 30,
+    
+    "reservation":  false,
+
+    "parking": true,
+
+    "delivery": false,
+
+    "electric generator": true,
+    
+    "hours": {
+        "monday": "10:00am - 9:00pm",  
+        "tuesday": "10:00am - 9:00pm",
+        "wednesday": "10:00am - 9:00pm",
+        "thursday": "10:00am - 9:00pm",
+        "friday": "10:00am - 9:00pm",
+        "saturday": "10:00am - 9:00pm",
+        "sunday": "10:00am - 9:00pm"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+                
+            "mains": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "fittings": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "paste": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "additions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": "Baguette jamon y queso ",
+                    "price":700 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Croissant jamon y queso",
+                    "price":900 ,
+                    "description": " "
+                }
+            ],
+
+            "desserts": [
+                {
+                    "item_name": "Croissant nutella",
+                    "price":800 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Mini croissants chocolate",
+                    "price": 150,
+                    "description": " "
+                },
+                {
+                    "item_name": "Dona chocolate",
+                    "price":250 ,
+                    "description": " "
+                }
+            ],
+            "cocktails": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "drinks": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "infusions": [
+                {
+                    "item_name": "Capuccino",
+                    "price": 250
+                },
+                {
+                    "item_name": "Expresso",
+                    "price": 100
+                    
+                },
+                {
+                    "item_name": "Cortado",
+                    "price":150 
+                },
+                {
+                    "item_name": "Cafe bombon",
+                    "price": 250
+                },
+                {
+                    "item_name": "Affogato",
+                    "price":500 
+                },
+                {
+                    "item_name": "Frappuccino",
+                    "price":500 
+                },
+                {
+                    "item_name": "Te Frutos del bosque/platano",
+                    "price":600 
+                },
+                {
+                    "item_name": "Te Mango",
+                    "price":500 
+                },
+                {
+                    "item_name": "Te Frutabomba",
+                    "price":500 
+                }
+            ]
+        }  
+} 

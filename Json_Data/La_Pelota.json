@@ -1,0 +1,178 @@
+{
+    "type": "Bar-Restaurante-Cafeteria",
+    "name": "La Pelota", 
+    "location": {
+        "address": "Esquina 23 y 12, Vedado",
+        "municipe": "Plaza de la Revolucion",
+        "province": "La Habana",
+        "coordinates":  "23.127100478844387, -82.39964090333302"
+    },
+    "sector": "estatal",
+    
+    "qualification": 2.3,
+    
+    "specialized_food": ["criolla","cubana"],
+
+    "payment method": ["Efectivo"],
+    
+    "phone": null,
+    
+    "capacity": 70,
+    
+    "reservation":  false,
+
+    "parking": false,
+
+    "delivery": false,
+
+    "electric generator": false,
+    
+    "hours": {
+        "monday": "9:45am - 9:45pm",  
+        "tuesday": "9:45am - 9:45pm",
+        "wednesday": "9:45am - 9:45pm",
+        "thursday": "9:45am - 9:45pm",
+        "friday": "9:45am - 9:45pm",
+        "saturday": "9:45am - 9:45pm",
+        "sunday": "9:45am - 9:45pm"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": "chicharrón 58g",
+                    "price": 120,
+                    "description": " "
+                },
+                {
+                    "item_name": "bistec de cerdo",
+                    "price": 600,
+                    "description": " "
+                },
+                {
+                    "item_name": "entrante de jamón",
+                    "price": 300,
+                    "description": ""
+                }
+            ],
+                
+            "mains": [
+                {
+                    "item_name": "bistec de cerdo",
+                    "price": 600,
+                    "description": " "
+                },
+                {
+                    "item_name": "masa de cerdo frita",
+                    "price": 600,
+                    "description": " "
+                },
+                {
+                    "item_name": "costilla de credo frito",
+                    "price": 600,
+                    "description": " "
+                },
+                {
+                    "item_name": "pollo grillé",
+                    "price": 550,
+                    "description": " "
+                },
+                {
+                    "item_name": "pollo asado",
+                    "price": 550,
+                    "description": " "
+                },
+                {
+                    "item_name": "picadillo",
+                    "price": 250,
+                    "description": " "
+                }
+            ],
+
+            "fittings": [
+                {
+                    "item_name": "arroz moro",
+                    "price": 100,
+                    "description": " "
+                },
+                {
+                    "item_name": "vianda hervida",
+                    "price": 40,
+                    "description": " "
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "paste": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "additions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "desserts": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+            "cocktails": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "drinks": [
+                {
+                    "item_name": "energizante",
+                    "price": 200
+                },
+                {
+                    "item_name": "refresco de cola",
+                    "price": 190
+                },
+                {
+                    "item_name": "jugo de frutas",
+                    "price": 180
+                },
+                {
+                    "item_name": "cerveza importada",
+                    "price": 200
+                }
+            ],
+
+            "infusions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ]
+        }  
+} 

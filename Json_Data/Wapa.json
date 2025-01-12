@@ -1,0 +1,353 @@
+{
+    "type": "Restaurante",
+    "name": "Wapa", 
+    "location": {
+        "address": "Calle 4 entre 15 y 17, Vedado",
+        "municipe": "Plaza de la Revolucion",
+        "province": "La Habana",
+        "coordinates":  "23.13336490258953, -82.39873911512949"
+    },
+    "sector": "privado",
+    
+    "qualification": 3.6,
+    
+    "specialized_food": ["Cubana", "Centroamericana"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": 78314553,
+    
+    "capacity": 70,
+    
+    "reservation":  true,
+
+    "parking": true,
+
+    "delivery": true,
+
+    "electric generator": false,
+    
+    "hours": {
+        "monday": "11:30am - 11:00pm",  
+        "tuesday": "11:30am - 11:00pm",
+        "wednesday": "11:30am - 11:00pm",
+        "thursday": "11:30am - 11:00pm",
+        "friday": "11:30am - 11:00pm",
+        "saturday": "11:30am - 11:00pm",
+        "sunday": "11:30am - 11:00pm"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": "croquetas de la abuela",
+                    "price": 700,
+                    "description": " "
+                },
+                {
+                    "item_name": "croquetas de jamon serrano",
+                    "price": 1000,
+                    "description": " "
+                },
+                {
+                    "item_name": "crema de queso",
+                    "price": 600,
+                    "description": " "
+                },
+                {
+                    "item_name": "bolitas de queso",
+                    "price": 1000,
+                    "description": " "
+                },
+                {
+                    "item_name": "ceviche de pescado",
+                    "price": 2000,
+                    "description": " "
+                },
+                {
+                    "item_name": "ceviche mixto tropical",
+                    "price": 2600,
+                    "description": " "
+                },
+                {
+                    "item_name": "ceviche de camaron",
+                    "price": 2900,
+                    "description": " "
+                },
+                {
+                    "item_name": "coctel de camaron",
+                    "price": 2000,
+                    "description": " "
+                },
+                {
+                    "item_name": "baston de pollo",
+                    "price": 1900,
+                    "description": " "
+                },
+                {
+                    "item_name": "daditos de pescado",
+                    "price": 2100,
+                    "description": " "
+                },
+                {
+                    "item_name": "fritura de malanga",
+                    "price": 500,
+                    "description": " "
+                },
+                {
+                    "item_name": "brusquetas",
+                    "price": 900,
+                    "description": " "
+                },
+                {
+                    "item_name": "tartaleta de jamon y queso",
+                    "price": 900,
+                    "description": " "
+                },
+                {
+                    "item_name": "tartaleta de pollo",
+                    "price": 1350,
+                    "description": " "
+                },
+                {
+                    "item_name": "tartaleta de atún",
+                    "price": 1100,
+                    "description": " "
+                }
+            ],
+                
+            "mains": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "fittings": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": "pizza",
+                    "price": 1200,
+                    "description": " "
+                }
+            ],
+
+            "paste": [
+                {
+                    "item_name": "lasana",
+                    "price": 1300,
+                    "description": ""
+                },
+                {
+                    "item_name": "canelon de jamon",
+                    "price": 1200,
+                    "description": " "
+                },
+                {
+                    "item_name": "canelon bolonesa",
+                    "price": 1750,
+                    "description": " "
+                }
+            ],
+
+            "additions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "desserts": [
+                {
+                    "item_name": "wapeton",
+                    "price": 2000,
+                    "description": " "
+                },
+                {
+                    "item_name": "wapeton dinamita",
+                    "price": 2000,
+                    "description": " "
+                },
+                {
+                    "item_name": "wapeton volcan",
+                    "price": 2000,
+                    "description": " "
+                },
+                {
+                    "item_name": "wapito",
+                    "price": 1200,
+                    "description": " "
+                },
+                {
+                    "item_name": "copa de helado",
+                    "price": 1000,
+                    "description": " "
+                },
+                {
+                    "item_name": "tartaleta",
+                    "price": 1000,
+                    "description": " "
+                },
+                {
+                    "item_name": "bola de helado",
+                    "price": 300,
+                    "description": " "
+                }
+            ],
+            "cocktails": [
+                {
+                    "item_name": "michelada",
+                    "price": 600
+                },
+                {
+                    "item_name": "sangria",
+                    "price": 1000
+                },
+                {
+                    "item_name": "cuba libre",
+                    "price": 800
+                },
+                {
+                    "item_name": "caipirina",
+                    "price": 500
+                },
+                {
+                    "item_name": "caipirisima",
+                    "price": 550
+                },
+                {
+                    "item_name": "ron collins",
+                    "price": 850
+                },
+                {
+                    "item_name": "pina colada",
+                    "price": 850
+                },
+                {
+                    "item_name": "barbie",
+                    "price": 700
+                },
+                {
+                    "item_name": "canchanchara",
+                    "price": 550
+                },
+                {
+                    "item_name": "daiquiri",
+                    "price": 650
+                }
+            ],
+
+            "drinks": [
+                {
+                    "item_name": "agua natural",
+                    "price": 300
+                },
+                {
+                    "item_name": "refresco importado",
+                    "price": 400
+                },
+                {
+                    "item_name": "malta",
+                    "price": 500
+                },
+                {
+                    "item_name": "malteada",
+                    "price": 800
+                },
+                {
+                    "item_name": "cerveza importada",
+                    "price": 450
+                },
+                {
+                    "item_name": "cerveza naciona",
+                    "price": 550
+                },
+                {
+                    "item_name": "batidos de frutas naturales",
+                    "price": 700
+                },
+                {
+                    "item_name": "batidos de helados",
+                    "price": 1200
+                }
+            ],
+
+            "infusions": [
+                {
+                    "item_name": "expresso",
+                    "price": 220
+                },
+                {
+                    "item_name": "americano",
+                    "price": 360
+                    
+                },
+                {
+                    "item_name": "cortadito",
+                    "price": 250
+                    
+                },
+                {
+                    "item_name": "cappuccino",
+                    "price": 550
+                    
+                },
+                {
+                    "item_name": "cappuccino wapa",
+                    "price": 600
+                    
+                },
+                {
+                    "item_name": "bombon",
+                    "price": 600
+                    
+                },
+                {
+                    "item_name": "mocaccino",
+                    "price": 550
+                    
+                },
+                {
+                    "item_name": "chocolate caliente",
+                    "price": 350
+                    
+                },
+                {
+                    "item_name": "frappuccino",
+                    "price": 950
+                    
+                },
+                {
+                    "item_name": "Q locura",
+                    "price": 850
+                    
+                },
+                {
+                    "item_name": "cafe con leche",
+                    "price": 550
+                    
+                },
+                {
+                    "item_name": "te",
+                    "price": 100
+                    
+                }
+            ]
+        }  
+} 

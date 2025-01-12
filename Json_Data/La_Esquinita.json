@@ -1,0 +1,327 @@
+{
+    "type": "Restaurante",
+    "name": "La Esquinita", 
+    "location": {
+        "address": "Juan Lefont entre Libertad y Johnson, Santos Suárez",
+        "municipe": "10 de Octubre",
+        "province": "La Habana",
+        "coordinates":  "23.099899183973307, -82.37926905264563"
+    },
+    "sector": "privado",
+    
+    "qualification": 5,
+
+    "specialized_food": ["criolla","cubana","italiana"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": null,
+    
+    "capacity": 35,
+    
+    "reservation":  true,
+
+    "parking": false,
+
+    "delivery": true,
+
+    "electric generator": true,
+    
+    "hours": {
+        "monday": "11:00am - 11:00pm",  
+        "tuesday": "11:00am - 11:00pm",
+        "wednesday": "11:00am - 11:00pm",
+        "thursday": "11:00am - 11:00pm",
+        "friday": "11:00am - 11:00pm",
+        "saturday": "11:00am - 11:00pm",
+        "sunday": "11:00am - 11:00pm"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": "Croquetas",
+                    "price": 300,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Tostones Rellenos",
+                    "price": 450,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Frituras de Malanga",
+                    "price": 500,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Papas Fritas",
+                    "price": 500,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Picadera",
+                    "price": 1500,
+                    "description": ""
+                  }
+            ],
+                
+            "mains": [
+                {
+                    "item_name": "Arroz Frito",
+                    "price": 700,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Bistec de Cerdo",
+                    "price": 1200,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Fajitas de Pollo",
+                    "price": 1200,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Pechuga de Pollo Grillé",
+                    "price": 1200,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Chop Suey de Cerdo",
+                    "price": 1200,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Cordon Bleu",
+                    "price": 1300,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Bistec Uruguayo",
+                    "price": 1500,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Bistec Encebollado de Res",
+                    "price": 1700,
+                    "description": ""
+                  }
+            ],
+
+            "fittings": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": "Pizza pequeña de Queso Blanco",
+                    "price": 200,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Pizza Pequeña Queso Blanco Hawaiana",
+                    "price": 400,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Pizza Pequeña Queso Gouda",
+                    "price": 300,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Pizza Pequeña Queso Gouda Hawaiana",
+                    "price": 450,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Pizza Grande de Queso Blanco",
+                    "price": 400,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Pizza Grande de Queso Blanco Hawaiana",
+                    "price": 550,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Pizza Grande de Queso Gouda",
+                    "price": 650,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Pizza Grande de Queso Gouda Hawaiana",
+                    "price": 800,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Pizza Pequeña Especial 'La esquinita'",
+                    "price": 600,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Pizza Grande Especial 'La esquinita'",
+                    "price": 1200,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Pizza Familiar 'La esquinita'",
+                    "price": 3000,
+                    "description": ""
+                  }
+            ],
+
+            "paste": [
+                {
+                    "item_name": "Espagueti (Blanco)",
+                    "price": 350,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Espagueti (Gouda)",
+                    "price": 450,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Espagueti (Blanco y Jamón)",
+                    "price": 450,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Espagueti (Gouda y Jamón)",
+                    "price": 600,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Espagueti (Blanco y Chorizo)",
+                    "price": 450,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Espagueti (Gouda y Chorizo)",
+                    "price": 600,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Espagueti (Blanco y Cebolla)",
+                    "price": 450,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Espagueti (Gouda y Cebolla)",
+                    "price": 600,
+                    "description": ""
+                  }
+            ],
+
+            "additions": [
+                {
+                    "item_name": "Doble Queso Blanco",
+                    "price": 100,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Doble Queso Gouda",
+                    "price": 250,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Jamón",
+                    "price": 100,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Chorizo",
+                    "price": 100,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Cebolla",
+                    "price": 100,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Pimiento",
+                    "price": 100,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Piña",
+                    "price": 100,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Aceituna",
+                    "price": 150,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Atún",
+                    "price": 300,
+                    "description": ""
+                  }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": "Hamburguesa Sencilla",
+                    "price": 450,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Hamburguesa (Jamón)",
+                    "price": 550,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Hamburguesa (Gouda)",
+                    "price": 550,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Hamburguesa (Jamón y Gouda)",
+                    "price": 650,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Hamburguesa Especial 'La Esquinita'",
+                    "price": 750,
+                    "description": ""
+                  }
+            ],
+
+            "desserts": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+            "cocktails": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "drinks": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "infusions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ]
+        }  
+} 

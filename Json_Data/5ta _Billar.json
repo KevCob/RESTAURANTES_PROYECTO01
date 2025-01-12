@@ -1,0 +1,405 @@
+{
+    "type": "Bar-Restaurante-Cafeteria",
+    "name": "5ta Billar", 
+    "location": {
+        "address": "Av. Rotoria entre enlace y A",
+        "municipe": "Regla",
+        "province": "La Habana",
+        "coordinates":  "23.123441938216946, -82.32315460160667"
+    },
+    "sector": "privado",
+    
+    "qualification": 4.8,
+    
+    "specialized_food": ["Internacional"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": 52943290,
+    
+    "capacity": 30,
+    
+    "reservation":  true,
+
+    "parking": false,
+
+    "delivery": false,
+
+    "electric generator": false,
+    
+    "hours": {
+        "monday": "1:00pm - 1:00am",  
+        "tuesday": "1:00pm - 1:00am",
+        "wednesday": "1:00pm - 1:00am",
+        "thursday": "1:00pm - 1:00am",
+        "friday": "1:00pm - 1:00am",
+        "saturday": "1:00pm - 1:00am",
+        "sunday": ""
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": "CACAHUATES PICANTE",
+                    "price": 110,
+                    "description": ""
+                },
+                {
+                    "item_name": "TOSTONES RELLENOS J&G",
+                    "price": 750,
+                    "description": ""
+                },
+                {
+                    "item_name": "TOSTONES RELLENOS ATUN",
+                    "price": 980,
+                    "description": ""
+                },
+                {
+                    "item_name": "TOSTONES RELLENOS CARNE",
+                    "price": 900,
+                    "description": ""
+                },
+                {
+                    "item_name": "CROQUETAS BOLA 9",
+                    "price": 650,
+                    "description": ""
+                },
+                {
+                    "item_name": "BOLITA DDE QUESO",
+                    "price": 850,
+                    "description": ""
+                },
+                {
+                    "item_name": "FAJITAS DE POLLO",
+                    "price": 920,
+                    "description": ""
+                },
+                {
+                    "item_name": "EPERLAN",
+                    "price": 950,
+                    "description": ""
+                },
+                {
+                    "item_name": "ENTREMÉS",
+                    "price": 960,
+                    "description": ""
+                },
+                {
+                    "item_name": "SURTIDO 5TABILLA",
+                    "price": 1650,
+                    "description": ""
+                },
+                {
+                    "item_name": "SURTIDO PREMIUM",
+                    "price": 2950,
+                    "description": ""
+                },
+                {
+                    "item_name": "ROSITAS DE MAIZ",
+                    "price": 600,
+                    "description": ""
+                }
+            ],
+                
+            "mains": [
+                {
+                    "item_name": "TACOS DE CERDO",
+                    "price": 950,
+                    "description": ""
+                },
+                {
+                    "item_name": "POLLO A LA GORDON BLUE",
+                    "price": 1800,
+                    "description": ""
+                },
+                {
+                    "item_name": "URUGUAYO DE CERDO",
+                    "price": 2100,
+                    "description": ""
+                },
+                {
+                    "item_name": "BISTEC DE POLLO ENCEBOLLADO",
+                    "price": 1600,
+                    "description": ""
+                },
+                {
+                    "item_name": "BISTEC DE CERDO ENCEBOLLADO",
+                    "price": 1900,
+                    "description": ""
+                },
+                {
+                    "item_name": "BROCHETAS DE CERDO AL CARBÓN",
+                    "price": 1800,
+                    "description": ""
+                },
+                {
+                    "item_name": "BABY CHICKEN",
+                    "price": 960,
+                    "description": ""
+                },
+                {
+                    "item_name": "KINGS CHICKEN",
+                    "price": 1350,
+                    "description": ""
+                },
+                {
+                    "item_name": "LOMO DE CERDO ASADO AL CARBÓN",
+                    "price": 1800,
+                    "description": ""
+                },
+                {
+                    "item_name": "CHORIZADA AL CARBÓN",
+                    "price": 2000,
+                    "description": ""
+                },
+                {
+                    "item_name": "LA PARRILLADA",
+                    "price": 4950,
+                    "description": ""
+                }
+            ],
+
+            "fittings": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": "Focaccia",
+                    "price": 700,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Pizza napolitana",
+                    "price": 1100,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Pizza mixta",
+                    "price": 1600,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Pizza cuatro estaciones",
+                    "price": 1900,
+                    "description": ""
+                  }
+            ],
+
+            "paste": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "additions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "desserts": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+            "cocktails": [
+                {
+                    "item_name": "margarita",
+                    "price": 400
+                },
+                {
+                    "item_name": "margarita blue",
+                    "price": 400
+                },
+                {
+                    "item_name": "tequila sunrise",
+                    "price": 400
+                },
+                {
+                    "item_name": "medusa",
+                    "price": 650
+                },
+                {
+                    "item_name": "margarita",
+                    "price": 720
+                },
+                {
+                    "item_name": "margarita blue",
+                    "price": 780
+                },
+                {
+                    "item_name": "servicio chelada",
+                    "price": 450
+                },
+                {
+                    "item_name": "servicio michelada",
+                    "price": 350
+                },
+                {
+                    "item_name": "jagger bomb",
+                    "price": 1200
+                },
+                {
+                    "item_name": "mojito corona",
+                    "price": 900
+                },
+                {
+                    "item_name": "corona sunrise",
+                    "price": 880
+                },
+                {
+                    "item_name": "sangria",
+                    "price": 760
+                },
+                {
+                    "item_name": "jarra de sangria",
+                    "price": 3720
+                },
+                {
+                    "item_name": "alexander",
+                    "price": 1000
+                },
+                {
+                    "item_name": "eclipse",
+                    "price": 1020
+                },
+                {
+                    "item_name": "mai tai",
+                    "price": 550
+                },
+                {
+                    "item_name": "orgasmo",
+                    "price": 1080
+                },
+                {
+                    "item_name": "aperol sprits",
+                    "price": 1650
+                },
+                {
+                    "item_name": "italian sunset",
+                    "price": 780
+                },
+                {
+                    "item_name": "mimosa",
+                    "price": 1500
+                },
+                {
+                    "item_name": "Limonada frappe",
+                    "price": 300
+                },
+                {
+                    "item_name": "Limonada frappe curacao",
+                    "price": 350
+                },
+                {
+                    "item_name": "Limonada frappe granadina",
+                    "price": 380
+                },
+                {
+                    "item_name": "Limonada frappe melocoton",
+                    "price": 400
+                },
+                {
+                    "item_name": "Limonada frappe menta",
+                    "price": 380
+                },
+                {
+                    "item_name": "Limonada frappe mora",
+                    "price": 380
+                },
+                {
+                    "item_name": "Limonada frappe naranja",
+                    "price": 470
+                },
+                {
+                    "item_name": "Limonada frescura (hierbabuena)",
+                    "price": 350
+                },
+                {
+                    "item_name": "limonada frappe piña",
+                    "price": 350
+                },
+                {
+                    "item_name": "Limonada frappe tropical blue",
+                    "price": 350
+                }
+            ],
+
+            "drinks": [
+                {
+                    "item_name": "Cervezas Nacionales",
+                    "price": 400
+                },
+                {
+                    "item_name": "Cerveza corona",
+                    "price": 600
+                },
+                {
+                    "item_name": "Cervezaz importadas",
+                    "price": 320
+                },
+                {
+                    "item_name": "Malteada",
+                    "price": 250
+                },
+                {
+                    "item_name": "San francisco",
+                    "price": 350
+                },
+                {
+                    "item_name": "Refresco",
+                    "price": 340
+                },
+                {
+                    "item_name": "Malta",
+                    "price": 400
+                },
+                {
+                    "item_name": "Red bull",
+                    "price": 750
+                },
+                {
+                    "item_name": "Agua natural",
+                    "price": 220
+                },
+                {
+                    "item_name": "Kermato",
+                    "price": 680
+                },
+                {
+                    "item_name": "Tigon",
+                    "price": 400
+                },
+                {
+                    "item_name": "Jugo",
+                    "price": 230
+                }
+            ],
+
+            "infusions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ]
+        }  
+} 

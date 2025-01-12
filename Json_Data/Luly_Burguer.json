@@ -1,0 +1,203 @@
+{
+    "type": "Restaurante-Cafeteria",
+    "name": "Luly Hamburguesas", 
+    "location": {
+        "address": "Calzada de Santa Catalina entre Calzada de Diez de Octubre y Parraga, Víbora",
+        "municipe": "10 de Octubre",
+        "province": "La Habana",
+        "coordinates":  "23.093303995429743, -82.36446379545066"
+    },
+    "sector": "privado",
+    
+    "qualification": null,
+    
+    "specialized_food": ["americana"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": 52823877,
+    
+    "capacity": 10,
+    
+    "reservation": false,
+
+    "parking": true,
+
+    "delivery": true,
+
+    "electric generator": false,
+    
+    "hours": {
+        "monday": "10:10am - 10:00pm",  
+        "tuesday": "10:10am - 10:00pm",
+        "wednesday": "10:10am - 10:00pm",
+        "thursday": "10:10am - 10:00pm",
+        "friday": "10:10am - 10:00pm",
+        "saturday": "10:10am - 10:00pm",
+        "sunday": "10:10am - 10:00pm"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+                
+            "mains": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "fittings": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "paste": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "additions": [
+                {
+                    "item_name": "Salami",
+                    "price": 60,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Queso",
+                    "price": 140,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Chorizo",
+                    "price": 80,
+                    "description": " "
+                  }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": "Hamburguesa Especial",
+                    "price": 1000,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Hamburguesa Jamón y Queso",
+                    "price": 680,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Hamburguesa Sencilla",
+                    "price": 480,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Sandwich Jamón y Queso",
+                    "price": 610,
+                    "description": " "
+                  },{
+                    "item_name": "Media Noche Especial",
+                    "price": 470,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Media Noche Especial",
+                    "price": 220,
+                    "description": " "
+                  }
+            ],
+
+            "desserts": [
+                {
+                    "item_name": "Helado Chocolate",
+                    "price": 900,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Helado Fresa",
+                    "price": 900,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Helado Naranja / Piña",
+                    "price": 900,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Helado Mantecado",
+                    "price": 900,
+                    "description": " "
+                  }
+            ],
+            "cocktails": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "drinks": [
+                {
+                    "item_name": "Pepoi Cola",
+                    "price": 210
+                  },
+                  {
+                    "item_name": "Limón",
+                    "price": 270
+                  },
+                  {
+                    "item_name": "Naranja",
+                    "price": 270
+                  },
+                  {
+                    "item_name": "Malta Turbo",
+                    "price": 300
+                  },
+                  {
+                    "item_name": "Cerveza King",
+                    "price": 220
+                  },
+                  {
+                    "item_name": "Keamato",
+                    "price": 460
+                  },
+                  {
+                    "item_name": "Agua Natural",
+                    "price": 100
+                  },
+                  {
+                    "item_name": "Cerveza Carstal",
+                    "price": 300
+                  }
+            ],
+
+            "infusions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ]
+        }  
+} 

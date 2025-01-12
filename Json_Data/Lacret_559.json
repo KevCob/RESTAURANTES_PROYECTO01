@@ -1,0 +1,469 @@
+{
+    "type": "Bar-Restaurante-Cafeteria",
+    "name": "Lacret 559", 
+    "location": {
+        "address": "Gral. Lacret entre Avenida Mayia Rodriguez y Goicuria",
+        "municipe": "10 de Octubre",
+        "province": "La Habana",
+        "coordinates":  "23.10168916405231, -82.3749154033336"
+    },
+    "sector": "privado",
+    
+    "qualification": 4.3,
+    
+    "specialized_food": ["mixta"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": 52906422,
+    
+    "capacity": 28,
+    
+    "reservation":  true,
+
+    "parking": true,
+
+    "delivery": false,
+
+    "electric generator": true,
+    
+    "hours": {
+        "monday": "12:00pm - 11:00pm",  
+        "tuesday": "12:00pm - 11:00pm",
+        "wednesday": "12:00pm - 11:00pm",
+        "thursday": "12:00pm - 11:00pm",
+        "friday": "12:00pm - 11:00pm",
+        "saturday": "12:00pm - 11:00pm",
+        "sunday": "12:00pm - 11:00pm"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": "Frituras de Malanga",
+                    "price": 425,
+                    "description": ""
+                },
+                {
+                    "item_name": "Croquetas 559",
+                    "price": 650,
+                    "description": ""
+                },
+                {
+                    "item_name": "Croquetón de Res",
+                    "price": 1000,
+                    "description": ""
+                },
+                {
+                    "item_name": "Eperlán de Pescado",
+                    "price": 700,
+                    "description": ""
+                },
+                {
+                    "item_name": "Carpaccio de Res",
+                    "price": 1550,
+                    "description": ""
+                },
+                {
+                    "item_name": "Carpaccio de Langosta",
+                    "price": 1500,
+                    "description": ""
+                },
+                {
+                    "item_name": "Carpaccio de Pulpo",
+                    "price": 1600,
+                    "description": ""
+                },
+                {
+                    "item_name": "Ceviche",
+                    "price": 950,
+                    "description": ""
+                },
+                {
+                    "item_name": "Piquillos rellenos del mar",
+                    "price": 1050,
+                    "description": ""
+                },
+                {
+                    "item_name": "Piquillos rellenos de ropa vieja",
+                    "price": 1550,
+                    "description": ""
+                },
+                {
+                    "item_name": "Papas bravas",
+                    "price": 700,
+                    "description": ""
+                },
+                {
+                    "item_name": "Fajitas de pollo",
+                    "price": 700,
+                    "description": ""
+                },
+                {
+                    "item_name": "Brusquetas a la parmesana",
+                    "price": 600,
+                    "description": ""
+                },
+                {
+                    "item_name": "Totopitos al ajo",
+                    "price": 400,
+                    "description": ""
+                },
+                {
+                    "item_name": "Totopitos picantes ",
+                    "price": 400,
+                    "description": ""
+                },
+                {
+                    "item_name": "Papas Fritas",
+                    "price": 700,
+                    "description": ""
+                }
+            ],
+                
+            "mains": [
+                {
+                    "item_name": "Tacos de Res",
+                    "price": 1550,
+                    "description": ""
+                },
+                {
+                    "item_name": "Tacos de Mar",
+                    "price": 1550,
+                    "description": ""
+                },
+                {
+                    "item_name": "Tacos de Cerdo",
+                    "price": 1200,
+                    "description": ""
+                },
+                {
+                    "item_name": "Tacos de Pollo",
+                    "price": 1000,
+                    "description": ""
+                },
+                {
+                    "item_name": "Ropa Vieja de Res",
+                    "price": 2025,
+                    "description": ""
+                },
+                {
+                    "item_name": "Pechuga de pollo Grillé",
+                    "price": 1975,
+                    "description": ""
+                },
+                {
+                    "item_name": "Pechuga de pollo a la Gordon Blue",
+                    "price": 2175,
+                    "description": ""
+                },
+                {
+                    "item_name": "Pescado Grillé",
+                    "price": 1975,
+                    "description": ""
+                },
+                {
+                    "item_name": "Pescado Enchilado",
+                    "price": 1975,
+                    "description": ""
+                },
+                {
+                    "item_name": "Pescado Canciller",
+                    "price": 2175,
+                    "description": ""
+                },
+                {
+                    "item_name": "Langosta al Gusto",
+                    "price": 2600,
+                    "description": ""
+                },
+                {
+                    "item_name": "Camarones al gusto",
+                    "price": 2400,
+                    "description": ""
+                },
+                {
+                    "item_name": "Lomo ahumado",
+                    "price": 2175,
+                    "description": ""
+                },
+                {
+                    "item_name": "Lomo importado",
+                    "price": 2500,
+                    "description": ""
+                },
+                {
+                    "item_name": "Chuleta de cerdo",
+                    "price": 2100,
+                    "description": ""
+                },
+                {
+                    "item_name": "Enchilado de Cangrado",
+                    "price": 2400,
+                    "description": ""
+                },
+                {
+                    "item_name": "Hamburguesa de Res",
+                    "price": 850,
+                    "description": ""
+                }
+            ],
+
+            "fittings": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": "Pizza Queso Azul",
+                    "price": 2000,
+                    "description": ""
+                },
+                {
+                    "item_name": "Pizza Napolitana",
+                    "price": 1360,
+                    "description": ""
+                },
+                {
+                    "item_name": "Margarita",
+                    "price": 1400,
+                    "description": ""
+                },
+                {
+                    "item_name": "Pizza Parmesana",
+                    "price": 1800,
+                    "description": ""
+                },
+                {
+                    "item_name": "Pizza Carbonara",
+                    "price": 1950,
+                    "description": ""
+                },
+                {
+                    "item_name": "Pizza Hawaina",
+                    "price": 1800,
+                    "description": ""
+                },
+                {
+                    "item_name": "Pizza Cantábrica",
+                    "price": 1800,
+                    "description": ""
+                },
+                {
+                    "item_name": "Pizza Marina",
+                    "price": 2400,
+                    "description": ""
+                },
+                {
+                    "item_name": "Pizza Mediterránea",
+                    "price": 1800,
+                    "description": ""
+                },
+                {
+                    "item_name": "Pizza Mixta Lacret",
+                    "price": 2700,
+                    "description": ""
+                },
+                {
+                    "item_name": "Pizza de Jamón",
+                    "price": 1500,
+                    "description": ""
+                },
+                {
+                    "item_name": "Pizza de Chorizo",
+                    "price": 1450,
+                    "description": ""
+                },
+                {
+                    "item_name": "Pizza Con Bacon",
+                    "price": 1850,
+                    "description": ""
+                },
+                {
+                    "item_name": "Pizza de Cebolla",
+                    "price": 1400,
+                    "description": ""
+                },
+                {
+                    "item_name": "Pizza de Pimiento",
+                    "price": 1500,
+                    "description": ""
+                },
+                {
+                    "item_name": "Pizza con Vegetales",
+                    "price": 1700,
+                    "description": ""
+                },
+                {
+                    "item_name": "Pizza de Champiñón",
+                    "price": 1700,
+                    "description": ""
+                },
+                {
+                    "item_name": "Pizza de Atún",
+                    "price": 2300,
+                    "description": ""
+                },
+                {
+                    "item_name": "Pizza de Aceituna",
+                    "price": 1400,
+                    "description": ""
+                },
+                {
+                    "item_name": "Pizza con Jamón Serrano",
+                    "price": 3000,
+                    "description": ""
+                },
+                {
+                    "item_name": "Pizza con Jamón Ibérico",
+                    "price": 3400,
+                    "description": ""
+                },
+                {
+                    "item_name": "Pizza con Pepperoni",
+                    "price": 2000,
+                    "description": ""
+                },
+                {
+                    "item_name": "Pizza Ranchera",
+                    "price": 2500,
+                    "description": ""
+                }
+            ],
+
+            "paste": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "additions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "desserts": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+            "cocktails": [
+                {
+                    "item_name": "Sangría",
+                    "price": 660
+                },
+                {
+                    "item_name": "Tinto de Verano",
+                    "price": 660
+                },
+                {
+                    "item_name": "Calimocho",
+                    "price": 560
+                },
+                {
+                    "item_name": "Screwdriver",
+                    "price": 470
+                },
+                {
+                    "item_name": "Caipiroska",
+                    "price": 570
+                },
+                {
+                    "item_name": "Caipirissima",
+                    "price": 570
+                },
+                {
+                    "item_name": "Caipirinha",
+                    "price": 600
+                },
+                {
+                    "item_name": "Cubata",
+                    "price": 470
+                },
+                {
+                    "item_name": "Cuba Libre",
+                    "price": 470
+                },
+                {
+                    "item_name": "Cubanito",
+                    "price": 480
+                },
+                {
+                    "item_name": "Mojito",
+                    "price": 580
+                },
+                {
+                    "item_name": "Barbados Surprise",
+                    "price": 580
+                },
+                {
+                    "item_name": "Whiscola",
+                    "price": 460
+                },
+                {
+                    "item_name": "Old Fashioned",
+                    "price": 650
+                },
+                {
+                    "item_name": "Long island",
+                    "price": 850
+                },
+                {
+                    "item_name": "Gin Tobic",
+                    "price": 610
+                },
+                {
+                    "item_name": "Canchánchara",
+                    "price": 580
+                },
+                {
+                    "item_name": "Limonada",
+                    "price": 500
+                }
+            ],
+
+            "drinks": [
+                {
+                    "item_name": "Energizante",
+                    "price": 430
+                },
+                {
+                    "item_name": "Refresco",
+                    "price": 350
+                },
+                {
+                    "item_name": "Malta",
+                    "price": 430
+                },
+                {
+                    "item_name": "Jugos Naturales",
+                    "price": 300
+                }
+            ],
+
+            "infusions": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ]
+        }  
+} 

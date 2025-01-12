@@ -1,0 +1,279 @@
+{
+    "type": "Restaurante",
+    "name": "D'Mitu", 
+    "location": {
+        "address": "Calle 1ra #64 Altos entre Gertrudis y Lagueruela, La Víbora",
+        "municipe": "10 de Octubre",
+        "province": "La Habana",
+        "coordinates":  "23.086352376882374, -82.36493068982392"
+    },
+    "sector": "privado",
+    
+    "qualification":  2.5,
+    
+    "Super Pizzaecialized_food": ["Comida Italiana"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": 53578505,
+    
+    "capacity": 12,
+    
+    "reservation":  true,
+
+    "parking": true,
+
+    "delivery": true,
+
+    "electric generator": true,
+    
+    "hours": {
+        "monday": "10:00am - 10:00pm",  
+        "tuesday": "10:00am - 10:00pm",
+        "wednesday": "10:00am - 10:00pm",
+        "thursday": "10:00am - 10:00pm",
+        "friday": "10:00am - 10:00pm",
+        "saturday": "10:00am - 10:00pm",
+        "sunday": "10:00am - 10:00pm"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+                
+            "mains": [
+                {
+                    "name": "Takazo D' Mitu",
+                    "price": 1000,
+                    "description": " "
+                  },
+                  {
+                    "name": "Pastelon a su gusto",
+                    "price": 1700,
+                    "description": " "
+                  },
+                  {
+                    "name": "Super Takazo",
+                    "price": 1900,
+                    "description": " "
+                  },
+                  {
+                    "name": "Fugazzeta D' Mitu",
+                    "price": 2100,
+                    "description": " "
+                  }
+            ],
+
+            "fittings": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": "Pizza Queso",
+                    "price": 850,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Pizza Jamon",
+                    "price": 1000,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Pizza Chorizo",
+                    "price": 1000,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Pizza Hawaiana",
+                    "price": 1050,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Pizza Familiar Mixta",
+                    "price": 2800,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Pizza Familiar con bordes de queso",
+                    "price": 3200,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Super Pizza Queso",
+                    "price": 1200,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Super Pizza Jamon",
+                    "price": 1300,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Super Pizza Chorizo",
+                    "price": 1300,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Super Pizza Hawaiana",
+                    "price": 1300,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Super Pizza Mixta",
+                    "price": 2000,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Calzone D' Mitu",
+                    "price": 900,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Pizza D' Mitu",
+                    "price": 1400,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Pizza Sol",
+                    "price": 2000,
+                    "description": " "
+                  }
+            ],
+
+            "paste": [
+                {
+                    "item_name": "Canelones",
+                    "price": 800,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Super Pizzaaguetis",
+                    "price": 800,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Fettuccine",
+                    "price": 800,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Farfalle",
+                    "price": 800,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Lasana",
+                    "price": 900,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Raviolis",
+                    "price": 900,
+                    "description": " "
+                  }
+            ],
+
+            "additions": [
+                {
+                    "item_name": "Pina",
+                    "price": 200,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Queso",
+                    "price": 300,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Cebolla",
+                    "price": 200,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Aceituna",
+                    "price": 350,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Pimiento",
+                    "price": 200,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Chorizo",
+                    "price": 300,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Jamon",
+                    "price": 300,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Champinon",
+                    "price": 400,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Bacon",
+                    "price": 500,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Atun",
+                    "price": 450,
+                    "description": " "
+                  },
+                  {
+                    "item_name": "Camaron",
+                    "price": 600,
+                    "description": " "
+                  }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "desserts": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+            "cocktails": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ],
+
+            "drinks": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ],
+
+            "infusions": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ]
+        }  
+} 

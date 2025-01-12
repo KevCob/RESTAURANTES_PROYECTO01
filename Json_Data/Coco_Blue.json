@@ -1,0 +1,289 @@
+{
+    "type": "Bar-Restaurante-Cafeteria",
+    "name": "Coco Blue", 
+    "location": {
+        "address": "entre 11 y 13 Vedado, 112 Calle 14",
+        "municipe": "Plaza de la Revolucion",
+        "province": "La Habana",
+        "coordinates":  "23.1310792818174, -82.4048009798343"
+    },
+    "sector": "privado",
+    
+    "qualification": 4.5,
+    
+    "specialized_food": ["Caribeña", "Bar", "Café", "Pub", "Cubana"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": 78374828,
+    
+    "capacity": 70,
+    
+    "reservation":  true,
+
+    "parking": true,
+
+    "delivery": false,
+
+    "electric generator": false,
+    
+    "hours": {
+        "monday": "cerrado",  
+        "tuesday": "cerrado",
+        "wednesday": "cerrado",
+        "thursday": "10:00am - 12:30am",
+        "friday": "10:00am - 12:30am",
+        "saturday": "10:00am - 12:30am",
+        "sunday": "10:00am - 12:30am"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": "NACHOS",
+                    "price": 400.00,
+                    "description": "Cuartos de tortilla mexicana fritos y salsa agridulce de fruta"
+                },
+                
+                {
+                    "item_name": "BONIATO FRITO",
+                    "price": 500.00,
+                    "description": ""
+                },
+                
+                {
+                    "item_name": "FRITURAS DE MALANGA",
+                    "price": 700.00,
+                    "description": ""
+                },
+                
+                {
+                    "item_name": "CROQUETAS DE PESCADO",
+                    "price": 1000.00,
+                    "description": ""
+                },
+                
+                {
+                    "item_name": "CROQUETAS DE RES",
+                    "price": 1100.00,
+                    "description": ""
+                },
+                
+                {
+                    "item_name": "TACOS DE POLLO",
+                    "price": 1100.00,
+                    "description": ""
+                },
+                
+                {
+                    "item_name": "TACOS DE VEGETALES",
+                    "price": 1000.00,
+                    "description": "Vegetales salteados y Pico de Gallo sobre tortilla mexicana"
+                },
+                
+                {
+                    "item_name": "TACOS DE RES",
+                    "price": 1200.00,
+                    "description": "Carne de res salteada con vegetales y Pico de Gallo sobre tortilla mexicana"
+                },
+                
+                {
+                    "item_name": "CEVICHE",
+                    "price": 1600.00,
+                    "description": "Dados de pescado crudo en limón aromatizados con morrones, cebollas, tomate concasse, pepino, sal y pimienta"
+                },
+                
+                {
+                    "item_name": "FAJITAS DE POLLO",
+                    "price": 1200.00,
+                    "description": ""
+                }
+            ],
+                
+            "mains": [
+                {
+                    "item_name": "BISTEC DE POLLO",
+                    "price": 2000.00,
+                    "description": ""
+                },
+                {
+                    "item_name": "FILETE DE PESCADO",
+                    "price": 2000.00,
+                    "description": ""
+                },
+                {
+                    "item_name": "ROPA VIEJA",
+                    "price": 2100.00,
+                    "description": ""
+                }
+            ],
+
+            "fittings": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "paste": [
+                {
+                    "item_name": "ESPAGUETTI NAPOLITANO",
+                    "price": 1600.00,
+                    "description": ""
+                }
+            ],
+
+            "additions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "desserts": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+            "cocktails": [
+                {
+                    "item_name": "Mojito",
+                    "price": 700.00
+                },
+                {
+                    "item_name": "Cuba Libre",
+                    "price": 700.00
+                },
+                {
+                    "item_name": "Cubata",
+                    "price": 600.00
+                },
+                {
+                    "item_name": "Daiquirí",
+                    "price": 700.00
+                },
+                {
+                    "item_name": "Daiquirí de Sabores",
+                    "price": 750.00
+                },
+                {
+                    "item_name": "Caipiriña",
+                    "price": 600.00
+                },
+                {
+                    "item_name": "Caipiroska Base",
+                    "price": 570.00
+                },
+                {
+                    "item_name": "Caipirísima",
+                    "price": 650.00
+                },
+                {
+                    "item_name": "Piña Colada",
+                    "price": 700.00
+                },
+                {
+                    "item_name": "Chelada",
+                    "price": 880.00
+                },
+                {
+                    "item_name": "Michelada",
+                    "price": 900.00
+                },
+                {
+                    "item_name": "Sangría",
+                    "price": 1100.00
+                },
+                {
+                    "item_name": "Margarita",
+                    "price": 800.00
+                },
+                {
+                    "item_name": "Long Island",
+                    "price": 1100.00
+                },
+                {
+                    "item_name": "Jagger Bomb",
+                    "price": 1000.00
+                },
+                {
+                    "item_name": "Blue Lagon",
+                    "price": 1100.00
+                }
+            ],
+
+            "drinks": [
+                {
+                    "item_name": "Cristal dispensada",
+                    "price": 400.00
+                },
+                {
+                    "item_name": "Cubetazo",
+                    "price": 2800.00,
+                    "description": "6 cervezas ZUBR + 1 nacho"
+                },
+                {
+                    "item_name": "Agua Natural",
+                    "price": 450.00
+                },
+                {
+                    "item_name": "Agua Tónica",
+                    "price": 500.00
+                },
+                {
+                    "item_name": "Gaseada",
+                    "price": 600.00
+                },
+                {
+                    "item_name": "Refrescos",
+                    "price": 500.00
+                },
+                {
+                    "item_name": "Energizante",
+                    "price": 700.00
+                }
+            ],
+
+            "infusions": [
+                {
+                    "item_name": "Expresso",
+                    "price": 400.00
+                },
+                {
+                    "item_name": "Cortado",
+                    "price": 450.00
+                },
+                {
+                    "item_name": "Capuccino",
+                    "price": 500.00
+                },
+                {
+                    "item_name": "Frappuccino",
+                    "price": 600.00
+                },
+                {
+                    "item_name": "Americano",
+                    "price": 350.00
+                }
+            ]
+        }  
+} 

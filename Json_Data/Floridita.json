@@ -1,0 +1,307 @@
+{
+    "type": "Bar-Restaurante",
+    "name": "Floridita", 
+    "location": {
+        "address": "Obispo No 557 esquina Monserrate",
+        "municipe": "Habana Vieja",
+        "province": "La Habana",
+        "coordinates": "23.137505971829647, -82.35738137449714"
+    },
+    "sector": "estatal",
+    
+    "qualification": 4.4,
+    
+    "specialized_food": ["Mariscos"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": 78671300 ,
+    
+    "capacity": 80 ,
+    
+    "reservation": true ,
+
+    "parking": true ,
+
+    "delivery": true ,
+
+    "electric generator": false,
+    
+    "hours": {
+        "monday": "12:00pm - 1:00am",  
+        "tuesday": "12:00pm - 1:00am",
+        "wednesday": "12:00pm - 1:00am",
+        "thursday": "12:00pm - 1:00am",
+        "friday": "12:00pm - 1:00am",
+        "saturday": "12:00pm - 1:00am",
+        "sunday": "12:00pm - 1:00am"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": "Ceviche Caribeño",
+                    "price": 1200 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Coctel de Langosta",
+                    "price": 1200 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "El Viejo y Mar(Para Compartir)",
+                    "price": 2150 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Jamon Serrano",
+                    "price": 1350 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Seleccion de Quesos",
+                    "price": 1200 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pica Pica del Chef",
+                    "price": 750 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Tapas de Mariscos",
+                    "price": 1050 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pasta Frutti de Mare",
+                    "price": 1450 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Cazuelita Colonial",
+                    "price": 1100 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Crema Floridita",
+                    "price": 600 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Sopa Noche de Paris",
+                    "price": 350 ,
+                    "description": " "
+                }
+            ],
+                
+            "mains": [
+                {
+                    "item_name": "Langosta a su Gusto",
+                    "price": 2400 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Gran Plato Hemingway",
+                    "price": 2400 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Cazuelita del Pescador",
+                    "price": 2400 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Cayuka Mixta",
+                    "price": 2400 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Papa & Mary",
+                    "price": 2350 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Camarones Flambeados al Ron",
+                    "price": 2200 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pincho de Camarones",
+                    "price": 1950 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Filete de Pescado al Estilo Hemingway",
+                    "price": 2200,
+                    "description": " "
+                },
+                {
+                    "item_name": "Filete de Pescado a la Parrilla",
+                    "price": 1800 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Clasica Ropa Vieja",
+                    "price": 1800 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Solomillo de Res",
+                    "price": 2400 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Cazerola de Pollo Gregorin",
+                    "price": 1450,
+                    "description": " "
+                },
+                {
+                    "item_name": "Arroz Marinero",
+                    "price": 1450 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Bistec de Cerdo Finca Vijia",
+                    "price": 1700 ,
+                    "description": " "
+                }
+
+            ],
+
+            "fittings": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "paste": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "additions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "desserts": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+            "cocktails": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ],
+
+            "drinks": [
+                {
+                    "item_name": "Cava Sangre de Toro Brut",
+                    "price": 2500
+                },
+                {
+                    "item_name": "Cava Freixenet Cordon Negro Brut",
+                    "price": 2650 
+                },
+                {
+                    "item_name": "Henkell Troken",
+                    "price": 2700 
+                },
+                {
+                    "item_name": "Gewurztraminer, Vinas del Vero Somontano 2021",
+                    "price": 4250 
+                },
+                {
+                    "item_name": "Beronia Rueda",
+                    "price": 3500
+                },
+                {
+                    "item_name": "La Vielle de Ferme 2022",
+                    "price": 2550 
+                },
+                {
+                    "item_name": "Vinas del Vero Pinot, Somontano 2021",
+                    "price": 3650 
+                },
+                {
+                    "item_name": "Sangre de Toro, Rioja",
+                    "price": 2850 
+                },
+                {
+                    "item_name": "Marques de Caceres Gaudium 2016",
+                    "price": 12500 
+                },
+                {
+                    "item_name": "Beronia, Crianza Tempranillo 2019",
+                    "price": 3870
+                },
+                {
+                    "item_name": "Chateau Los Boldos, Carmenere 2020",
+                    "price": 4750 
+                },
+                {
+                    "item_name": "Veramonte Merlot, 2019 Reserva(Organico)",
+                    "price": 3950 
+                },
+                {
+                    "item_name": "Veramonte Carmenere 2020 Reserva(Organico)",
+                    "price": 3950 
+                },
+                {
+                    "item_name": "Villa Antinori Toscana 2019",
+                    "price": 5950 
+                },
+                {
+                    "item_name": "Peppoli Chianti Classico 2019 Antinori",
+                    "price": 4670
+                },
+                {
+                    "item_name": "Campo Viejo Tempranillo Rioja 2021",
+                    "price": 2800 
+                },
+                {
+                    "item_name": "Wines by the Glass",
+                    "price": 750
+                }
+                 
+                
+
+            ],
+
+            "infusions": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ]
+        }  
+} 

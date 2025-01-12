@@ -1,0 +1,289 @@
+{
+    "type": "Bar-Restaurante-Cafeteria",
+    "name": "El Tráfico", 
+    "location": {
+        "address": "Calzada de Guines entre 90 y 94",
+        "municipe": "San Miguel del Padron",
+        "province": "La Habana",
+        "coordinates":  "23.08014437636423, -82.32075326489488"
+    },
+    "sector": "estatal",
+    
+    "qualification": 2.8,
+    
+    "specialized_food": ["italiana","criolla"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": null,
+    
+    "capacity": 20,
+    
+    "reservation":  false,
+
+    "parking": true,
+
+    "delivery": false,
+
+    "electric generator": false,
+    
+    "hours": {
+        "monday": "10:00am - 10:00pm",  
+        "tuesday": "10:00am - 10:00pm",
+        "wednesday": "10:00am - 10:00pm",
+        "thursday": "10:00am - 10:00pm",
+        "friday": "10:00am - 10:00pm",
+        "saturday": "10:00am - 10:00pm",
+        "sunday": "10:00am - 10:00pm"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+                
+            "mains": [
+                {
+                    "item_name": "bistec de pollo",
+                    "price": 1500,
+                    "description": " "
+                },
+                {
+                    "item_name": "bistec de cerdo",
+                    "price": 1950,
+                    "description": " "
+                },
+                {
+                    "item_name": "bistec de res",
+                    "price": 1950,
+                    "description": " "
+                },
+                {
+                    "item_name": "pechuga de pollo",
+                    "price": 1950,
+                    "description": " "
+                },
+                {
+                    "item_name": "chuleta de cerdo",
+                    "price": 1950,
+                    "description": " "
+                },
+                {
+                    "item_name": "masa de cerdo frita",
+                    "price": 2000,
+                    "description": " "
+                },
+                {
+                    "item_name": "cerdo guisado",
+                    "price": 2000,
+                    "description": " "
+                },
+                {
+                    "item_name": "lomo ahumado",
+                    "price": 2000,
+                    "description": " "
+                },
+                {
+                    "item_name": "costilla de cerdo",
+                    "price": 2000,
+                    "description": " "
+                },
+                {
+                    "item_name": "ropa vieja",
+                    "price": 2000,
+                    "description": " "
+                },
+                {
+                    "item_name": "filete de merluza",
+                    "price": 2000,
+                    "description": " "
+                }
+            ],
+
+            "fittings": [
+                {
+                    "item_name": "arroz moro",
+                    "price": 300,
+                    "description": " "
+                },
+                {
+                    "item_name": "vianda",
+                    "price": 150,
+                    "description": " "
+                },
+                {
+                    "item_name": "ensalada",
+                    "price": 200,
+                    "description": " "
+                },
+                {
+                    "item_name": "tamal",
+                    "price": 200,
+                    "description": " "
+                },
+                {
+                    "item_name": "papas fritas",
+                    "price": 600,
+                    "description": " "
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": "pizza de queso blanco",
+                    "price": 280,
+                    "description": " "
+                },
+                {
+                    "item_name": "pizza de queso blanco XL",
+                    "price": 770,
+                    "description": " "
+                },
+                {
+                    "item_name": "pizza de queso gouda",
+                    "price": 320,
+                    "description": " "
+                },
+                {
+                    "item_name": "pizza de queso gouda XL",
+                    "price": 830,
+                    "description": " "
+                },
+                {
+                    "item_name": "pizza de queso parmesano",
+                    "price": 350,
+                    "description": " "
+                },
+                {
+                    "item_name": "pizza de queso parmesano XL",
+                    "price": 850,
+                    "description": " "
+                }
+            ],
+
+            "paste": [
+                {
+                    "item_name": "espaguetti con queso blanco",
+                    "price": 400,
+                    "description": ""
+                },
+                {
+                    "item_name": "espaguetti con queso gouda",
+                    "price": 420,
+                    "description": " "
+                },
+                {
+                    "item_name": "espaguetti con queso parmesano",
+                    "price": 450,
+                    "description": " "
+                }
+            ],
+
+            "additions": [
+                {
+                    "item_name": "Queso Blanco",
+                    "price": 300,
+                    "description": " "
+                },
+                {
+                    "item_name": "Queso Gouda",
+                    "price": 320,
+                    "description": " "
+                },
+                {
+                    "item_name": "Queso Parmesano",
+                    "price": 350,
+                    "description": " "
+                },
+                {
+                    "item_name": "cebolla",
+                    "price": 200,
+                    "description": " "
+                },
+                {
+                    "item_name": "pimiento",
+                    "price": 200,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pina",
+                    "price": 200,
+                    "description": " "
+                },
+                {
+                    "item_name": "camaron",
+                    "price": 350,
+                    "description": " "
+                },
+                {
+                    "item_name": "jamon",
+                    "price": 200,
+                    "description": " "
+                },
+                {
+                    "item_name": "chorizo",
+                    "price": 200,
+                    "description": " "
+                },
+                {
+                    "item_name": "bacon",
+                    "price": 200,
+                    "description": " "
+                },
+                {
+                    "item_name": "salchicha",
+                    "price": 200,
+                    "description": " "
+                },
+                {
+                    "item_name": "aceituna",
+                    "price": 300,
+                    "description": " "
+                },
+                {
+                    "item_name": "atun",
+                    "price": 300,
+                    "description": " "
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "desserts": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+            "cocktails": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ],
+
+            "drinks": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ],
+
+            "infusions": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ]
+        }  
+} 

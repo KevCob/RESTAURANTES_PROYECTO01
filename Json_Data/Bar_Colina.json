@@ -1,0 +1,169 @@
+{
+    "type": "Bar",
+    "name": "Bar Colina", 
+    "location": {
+        "address": "esquina b y calzada de guines reparto merceditas",
+        "municipe": "San Miguel del Padron",
+        "province": "La Habana",
+        "coordinates":  "23.08127313197817, -82.32409134565678"
+    },
+    "sector": "privado",
+    
+    "qualification": null,
+    
+    "specialized_food": ["italiana"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": 56343050,
+    
+    "capacity": 200,
+    
+    "reservation":  true,
+
+    "parking": true,
+
+    "delivery": false,
+
+    "electric generator": true,
+    
+    "hours": {
+        "monday": "11:00am - 11:00pm",  
+        "tuesday": "11:00am - 11:00pm",
+        "wednesday": "11:00am - 11:00pm",
+        "thursday": "11:00am - 11:00pm",
+        "friday": "11:00am - 11:00pm",
+        "saturday": "11:00am - 11:00pm",
+        "sunday": "11:00am - 11:00pm"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": "entremes de jamón y queso",
+                    "price": 600,
+                    "description": " "
+                },
+                {
+                    "item_name": "croquetas",
+                    "price": 400,
+                    "description": " "
+                },
+                {
+                    "item_name": "frituras de malanga",
+                    "price": 550,
+                    "description": " "
+                },
+                {
+                    "item_name": "tostones",
+                    "price": 400,
+                    "description": " "
+                },
+                {
+                    "item_name": "tostones rellenos",
+                    "price": 600,
+                    "description": " "
+                },
+                {
+                    "item_name": "chicharrita",
+                    "price": 300,
+                    "description": " "
+                }
+            ],
+                
+            "mains": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "fittings": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": "pizza napolitana grande",
+                    "price": 650,
+                    "description": " "
+                },
+                {
+                    "item_name": "pizza napolitana",
+                    "price": 220,
+                    "description": " "
+                }
+            ],
+
+            "paste": [
+                {
+                    "item_name": "espaguetti napolitano",
+                    "price": 550,
+                    "description": ""
+                }
+            ],
+
+            "additions": [
+                {
+                    "item_name": "queso",
+                    "price": 200,
+                    "description": " "
+                },
+                {
+                    "item_name": "chorizo",
+                    "price": 300,
+                    "description": " "
+                },
+                {
+                    "item_name": "jamon",
+                    "price": 300,
+                    "description": " "
+                },
+                {
+                    "item_name": "pina",
+                    "price": 150,
+                    "description": " "
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "desserts": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+            "cocktails": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ],
+
+            "drinks": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ],
+
+            "infusions": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ]
+        }  
+} 

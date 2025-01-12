@@ -1,0 +1,477 @@
+{
+    "type": "Bar-Restaurante-Cafeteria",
+    "name": "La Ronda", 
+    "location": {
+        "address": "Callé Guasabacoa esquina Calzada de Luyanó",
+        "municipe": "10 de Octubre",
+        "province": "La Habana",
+        "coordinates":  "23.105445368647896, -82.35839531190437"
+    },
+    "sector": "privado",
+    
+    "qualification": null,
+    
+    "specialized_food": ["mixta"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": 76990583,
+    
+    "capacity": 40,
+    
+    "reservation":  true,
+
+    "parking": true,
+
+    "delivery": true,
+
+    "electric generator": null,
+    
+    "hours": {
+        "monday": "10:00am - 11:00pm",  
+        "tuesday": "10:00am - 11:00pm",
+        "wednesday": "10:00am - 11:00pm",
+        "thursday": "10:00am - 11:00pm",
+        "friday": "10:00am - 11:00pm",
+        "saturday": "10:00am - 11:00pm",
+        "sunday": "10:00am - 11:00pm"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": "Vianda frita",
+                    "price": 380,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Tostones Naturales",
+                    "price": 370,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Fajita Cerdo Salteada",
+                    "price": 980,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Tostones rellenos jamón y queso",
+                    "price": 620,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Fajita de cerdo empanada",
+                    "price": 1180,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Tabla RONDA",
+                    "price": 1200,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Alitas Empanadas",
+                    "price": 1100,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Coctel de Pescado",
+                    "price": 600,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Tamal en cazuela",
+                    "price": 300,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Coctel de Camarones",
+                    "price": 1500,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Entremés de Jamón, Queso, Chorizo y Aceituna",
+                    "price": 1050,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Epertán",
+                    "price": 960,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Ensalada Fría",
+                    "price": 500,
+                    "description": ""
+                  }
+            ],
+                
+            "mains": [
+                {
+                    "item_name": "Masa de cerdo frita",
+                    "price": 1890,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Lomo a la Barbacoa",
+                    "price": 1180,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Bistec de cerdo grille",
+                    "price": 1100,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Fricase de cerdo",
+                    "price": 1950,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Cerdo salteado con vegetales",
+                    "price": 1300,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Cerdo Agridulce",
+                    "price": 1140,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Bistec Uruguayo de cerdo",
+                    "price": 1450,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Lonjas de cerdo asado",
+                    "price": 1460,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Brochetas de cerdo",
+                    "price": 2350,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Bistec de Cerdo Empanado",
+                    "price": 1250,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Bistec de cerdo Encebollado",
+                    "price": 1160,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Lomo de cerdo a la piña",
+                    "price": 1220,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Filete de Pescado Empanado",
+                    "price": 1200,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Pollo asado a la Criolla",
+                    "price": 1030,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Pollo Frito a la Criolla",
+                    "price": 1030,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Pollo a la Barbacoa",
+                    "price": 1150,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Arroz Frito sin Mariscos",
+                    "price": 690,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Arroz Frito con Camarones",
+                    "price": 1150,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Monte Mary (para 2 pers.)",
+                    "price": 3500,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Enchilado de Camarones",
+                    "price": 1850,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Camarones Empanados",
+                    "price": 1920,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Camarones al Ajillo",
+                    "price": 1920,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Grillada del Mar",
+                    "price": 2800,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Paella Marinera para dos",
+                    "price": 2100,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Filete de Pescado Grille",
+                    "price": 1090,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Bistec de Res Encebollado",
+                    "price": 1060,
+                    "description": ""
+                  }
+            ],
+
+            "fittings": [
+                {
+                    "item_name": "Arroz Blanco",
+                    "price": 180,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Arroz Moro",
+                    "price": 290,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Vegetales Salteados",
+                    "price": 380,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Ensalada a la Estación",
+                    "price": 370,
+                    "description": ""
+                  }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": "Pizza Napolitana",
+                    "price": 980,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Pizza Napolitana Doble Queso",
+                    "price": 1300,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Pizza con Jamón",
+                    "price": 1220,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Pizza con Chorizo",
+                    "price": 1280,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Pizza con Cebolla",
+                    "price": 1080,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Pizza Hawaiana",
+                    "price": 1450,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Pizza con Aceituna",
+                    "price": 1380,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Pizza Super Ronda",
+                    "price": 2100,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Pizza con Camarones",
+                    "price": 1750,
+                    "description": ""
+                  }
+            ],
+
+            "paste": [
+                {
+                    "item_name": "Espagueti Napolitano",
+                    "price": 780,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Espagueti Doble Queso",
+                    "price": 950,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Espagueti con Jamón",
+                    "price": 840,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Espagueti con Chorizo",
+                    "price": 840,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Espagueti con Cebolla",
+                    "price": 780,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Espagueti con Camarones",
+                    "price": 1300,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Espagueti a la Boloñesa",
+                    "price": 980,
+                    "description": ""
+                  }
+            ],
+
+            "additions": [
+                {
+                    "item_name": "Kétchup",
+                    "price": 160,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Mostaza",
+                    "price": 160,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Mayonesa",
+                    "price": 160,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Lechuga",
+                    "price": 160,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Tomate",
+                    "price": 160,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Pepinillo",
+                    "price": 170,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Cebolla",
+                    "price": 210,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Piña",
+                    "price": 240,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Aceituna",
+                    "price": 230,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Chorizo",
+                    "price": 260,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Jamón",
+                    "price": 260,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Queso Gouda",
+                    "price": 380,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Pimiento",
+                    "price": 210,
+                    "description": ""
+                  }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": "Pan con Bistec",
+                    "price": 580,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Pan con Cerdo",
+                    "price": 1840,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Pan Cubano",
+                    "price": 980,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Hamburguesa de Cerdo",
+                    "price": 640,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Hamburguesa de Chorizo",
+                    "price": 640,
+                    "description": ""
+                  }
+            ],
+
+            "desserts": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+            "cocktails": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "drinks": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "infusions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ]
+        }  
+} 

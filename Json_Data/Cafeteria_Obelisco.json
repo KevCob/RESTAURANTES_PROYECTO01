@@ -1,0 +1,150 @@
+{
+    "type": "Cafeteria",
+    "name": "Cafeteria obelisco", 
+    "location": {
+        "address": "Avenida 31",
+        "municipe": "Marianao",
+        "province": "La Habana",
+        "coordinates":  "23.086090107291625, -82.42853148002152"
+    },
+    "sector": "estatal",
+    
+    "qualification": null,
+    
+    "specialized_food": ["mixta"],
+
+    "payment method": ["Efectivo"],
+    
+    "phone": null,
+    
+    "capacity": 30,
+    
+    "reservation":  false,
+
+    "parking": false,
+
+    "delivery": false,
+
+    "electric generator": false,
+    
+    "hours": {
+        "monday": "9:00am - 6:00pm",  
+        "tuesday": "9:00am - 6:00pm",
+        "wednesday": "9:00am - 6:00pm",
+        "thursday": "9:00am - 6:00pm",
+        "friday": "9:00am - 6:00pm",
+        "saturday": "9:00am - 6:00pm",
+        "sunday": "9:00am - 6:00pm"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": "bolitas de carne",
+                    "price": 200,
+                    "description": " "
+                },
+                {
+                    "item_name": "Dados de queso",
+                    "price": 180,
+                    "description": " "
+                }
+            ],
+                
+            "mains": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "fittings": [
+                {
+                    "item_name": "Frijol negro",
+                    "price": 55,
+                    "description": " "
+                },
+                {
+                    "item_name": "Arroz blanco",
+                    "price": 70,
+                    "description": " "
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": "Pizza de queso",
+                    "price": 200,
+                    "description": " "
+                }
+            ],
+
+            "paste": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "additions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "desserts": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+            "cocktails": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ],
+
+            "drinks": [
+                {
+                    "item_name": "agua saborizada",
+                    "price": 50
+                },
+                {
+                    "item_name": "agua natural",
+                    "price": 180
+                },
+                {
+                    "item_name": "Cerveza cristal",
+                    "price": 180
+                },
+                {
+                    "item_name": "Vino blanco entre Rio",
+                    "price": 160
+                },
+                {
+                    "item_name": "Vino blanco",
+                    "price": 160
+                }
+            ],
+
+            "infusions": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ]
+        }  
+} 

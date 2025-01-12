@@ -1,0 +1,550 @@
+{
+    "type": "Bar-Restaurante",
+    "name": "Leyendhabana", 
+    "location": {
+        "address": "Calle Santa Rosa No. 217 e/ Infanta y Cruz del Padre",
+        "municipe": "Cerro",
+        "province": "La Habana",
+        "coordinates": "23.119269806423606, -82.3720336019368"
+    },
+    "sector": "Privado",
+    
+    "qualification":4.6 ,
+    
+    "specialized_food": ["Comida Caribena"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": 78781332 ,
+    
+    "capacity": 60,
+    
+    "reservation": true  ,
+
+    "parking": true ,
+
+    "delivery": false ,
+
+    "electric generator": true ,
+    
+    "hours": {
+        "monday": "",  
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": ""
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": "Tartaletas mixtas",
+                    "price": 1235 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pulpitos al ajillo",
+                    "price": 1265 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pimientos de piquillo rellenos",
+                    "price": 1300 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Frituras de malanga",
+                    "price": 585 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Rollitos de salmon rellenos de queso crema y uvas pasas",
+                    "price": 1600,
+                    "description": " "
+                }
+            ],
+                
+            "mains": [
+                {
+                    "item_name": "Filete mignon con salsa a eleccion",
+                    "price": 3867 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Suprema de pollo a la crema",
+                    "price": 2112 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Cordero asado al romero",
+                    "price": 2210 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Filete de salmon rosa grille",
+                    "price": 3331 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Langosta grille",
+                    "price": 3737 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Camarones Leyendhabana perfumados al vino blanco",
+                    "price": 2518 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Filete de pescado con crema de limon, uvas pasas y frutos secos",
+                    "price": 2323 ,
+                    "description": " "
+                }
+            ],
+
+            "fittings": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "paste": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "additions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "desserts": [
+                {
+                    "item_name": "Tarta de crema",
+                    "price": 1251 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Brownie",
+                    "price": 1251 ,
+                    "description": " "
+                }
+            ],
+            
+            "cocktails": [
+                {
+                    "item_name": "Coctel Sex on the Beach",
+                    "price": 975  
+                },
+                {
+                    "item_name": "Coctel Screwdriver",
+                    "price": 975 
+                },
+                {
+                    "item_name": "Coctel Mojito",
+                    "price": 812  
+                },
+                {
+                    "item_name": "Coctel Cubanito",
+                    "price": 812  
+                },
+                {
+                    "item_name": "Coctel Cubalibre",
+                    "price": 812  
+                }
+                 
+            ],
+
+            "drinks": [
+                {
+                    "item_name": "Ron Abuelo Anejo Reserva Especial",
+                    "price": 1300
+                },
+                {
+                    "item_name": "Ron Arecha 15 anos",
+                    "price": 1625 
+                },
+                {
+                    "item_name": "Ron Bacardi Gold",
+                    "price": 1625 
+                },
+                {
+                    "item_name": "Ron Havana Club 15 anos",
+                    "price": 4875
+                },
+                {
+                    "item_name": "Ron Havana Club 3 anos",
+                    "price": 503
+                },
+                {
+                    "item_name": "Ron Havana Club 7 anos",
+                    "price": 812
+                },
+                {
+                    "item_name": "Ron Havana Club Blanco",
+                    "price": 325
+                },
+                {
+                    "item_name": "Ron Havana Club Especial",
+                    "price": 617
+                },
+                {
+                    "item_name": "Ron Havana Club Maximo",
+                    "price": 650
+                },
+                {
+                    "item_name": "Ron Havana Club Reserva",
+                    "price": 715 
+                },
+                {
+                    "item_name": "Ron Havana Club Ritual",
+                    "price": 650 
+                },
+                {
+                    "item_name": "Ron Legendario Anejo Blanco",
+                    "price": 325 
+                },
+                {
+                    "item_name": "Ron Legendario Dorado",
+                    "price": 487 
+                },
+                {
+                    "item_name": "Ron Legendario Elixir",
+                    "price": 487 
+                },
+                {
+                    "item_name": "Ron Mulata 15 anos",
+                    "price": 2600 
+                },
+                {
+                    "item_name": "Ron Santa Teresa Gran Reserva",
+                    "price": 1462
+                },
+                {
+                    "item_name": "Ron Santiago 11 anos",
+                    "price": 2112 
+                },
+                {
+                    "item_name": "Ron Santiago 20 anos",
+                    "price": 4875 
+                },
+                {
+                    "item_name": "Ron Santiago Anejo",
+                    "price": 503 
+                },
+                {
+                    "item_name": "Ron Seleccion de MAESTROS",
+                    "price": 1787 
+                },
+                {
+                    "item_name": "Ron Vigia Gran Anejo",
+                    "price": 2275 
+                },
+                {
+                    "item_name": "Whisky Ballantines 12 anos",
+                    "price": 1950
+                },
+                {
+                    "item_name": "Whisky Ballantines Finest",
+                    "price": 975 
+                },
+                {
+                    "item_name": "Whisky Chivas Regal 12 anos",
+                    "price": 1625
+                },
+                {
+                    "item_name": "Whisky Chivas Regal 18 anos",
+                    "price": 4550
+                },
+                {
+                    "item_name": "Whisky Clan Campbell",
+                    "price": 845 
+                },
+                {
+                    "item_name": "Whisky J&B",
+                    "price": 975
+                },
+                {
+                    "item_name": "Whisky Jack Daniels",
+                    "price": 1950 
+                },
+                {
+                    "item_name": "Whisky Jameson",
+                    "price": 975 
+                },
+                {
+                    "item_name": "Whisky Johnny Walker Black Label",
+                    "price": 1950 
+                },
+                {
+                    "item_name": "Whisky Johnny Walker Blue Label",
+                    "price": 8125 
+                },
+                {
+                    "item_name": "Whisky Johnny Walker Double Black",
+                    "price": 3250
+                },
+                {
+                    "item_name": "Whisky Johnny Walker Red Label",
+                    "price": 975 
+                },
+                {
+                    "item_name": "Whisky The Glenlivet 12 anos",
+                    "price": 1950 
+                },
+                {
+                    "item_name": "Brandy Cognac Gautier",
+                    "price": 3250 
+                },
+                {
+                    "item_name": "Brandy Torres 10",
+                    "price": 2275 
+                },
+                {
+                    "item_name": "Brandy Torres 5",
+                    "price": 1462
+                },
+                {
+                    "item_name": "Ginebra Gordons",
+                    "price": 975
+                },
+                {
+                    "item_name": "Ginebra Master",
+                    "price": 975 
+                },
+                {
+                    "item_name": "Ginebra Tanqueray",
+                    "price": 1625 
+                },
+                {
+                    "item_name": "Vodka Absolut",
+                    "price": 1300 
+                },
+                {
+                    "item_name": "Vodka Absolut Ruby Red",
+                    "price": 1625 
+                },
+                {
+                    "item_name": "Vodka Absolut Vanilia",
+                    "price": 1625 
+                },
+                {
+                    "item_name": "Vodka Russian Shot",
+                    "price": 650 
+                },
+                {
+                    "item_name": "Tequila Jarana Reposado 100% Agave",
+                    "price": 975 
+                },
+                {
+                    "item_name": "Tequila Jarana Silver 100% Agave",
+                    "price": 650
+                },
+                {
+                    "item_name": "Tequila Jose Cuervo Reposado",
+                    "price": 1300 
+                },
+                {
+                    "item_name": "Tequila Jose Cuervo Silver",
+                    "price": 975
+                },
+                {
+                    "item_name": "Vermouth Cinzano Bianco",
+                    "price": 975 
+                },
+                {
+                    "item_name": "Vermouth Cinzano Extra Dry",
+                    "price": 975 
+                },
+                {
+                    "item_name": "Vermouth Cinzano Rosso",
+                    "price": 975 
+                },
+                {
+                    "item_name": "Vermouth Martini Bianco",
+                    "price": 975
+                },
+                {
+                    "item_name": "Licor Amaretto del Conti",
+                    "price": 1300 
+                },
+                {
+                    "item_name": "Licor Amarula",
+                    "price": 1300 
+                },
+                {
+                    "item_name": "Licor Anis del Mono dulce",
+                    "price": 1300 
+                },
+                {
+                    "item_name": "Licor Baileys",
+                    "price": 1300 
+                },
+                {
+                    "item_name": "Licor Crema Catalana",
+                    "price": 812 
+                },
+                {
+                    "item_name": "Licor Frangelico",
+                    "price": 1625
+                },
+                {
+                    "item_name": "Licor Kahlua",
+                    "price": 975
+                },
+                {
+                    "item_name": "Licor Malibu",
+                    "price": 650
+                },
+                {
+                    "item_name": "Licor Ricard",
+                    "price": 975 
+                },
+                {
+                    "item_name": "Licor Tia Maria ",
+                    "price": 1462 
+                },
+                {
+                    "item_name": "Vino Blanco ",
+                    "price": 1137 
+                },
+                {
+                    "item_name": "Vino Rosado ",
+                    "price": 1137 
+                },
+                {
+                    "item_name": "Vino Tinto",
+                    "price": 1137 
+                },
+                {
+                    "item_name": "Agua Ciego Montero mineral gaseada",
+                    "price": 325  
+                },
+                {
+                    "item_name": "Agua Ciego Montero mineral natural",
+                    "price": 325  
+                },
+                {
+                    "item_name": "Agua Ciego Montero tonica",
+                    "price": 325  
+                },
+                {
+                    "item_name": "Agua Fever Tree tonic",
+                    "price": 1625 
+                },
+                {
+                    "item_name": "Agua MG tonic",
+                    "price": 975  
+                },
+                {
+                    "item_name": "Agua Panna",
+                    "price": 812  
+                },
+                {
+                    "item_name": "Agua San Pellegrino",
+                    "price": 812  
+                },
+                {
+                    "item_name": "Agua Schweppes tonic",
+                    "price": 1300  
+                },
+                {
+                    "item_name": "Cerveza Importada",
+                    "price": 812  
+                },
+                {
+                    "item_name": "Cerveza Nacional",
+                    "price": 568 
+                },
+                {
+                    "item_name": "Jugo La Estancia",
+                    "price": 487  
+                },
+                {
+                    "item_name": "Jugos Naturales",
+                    "price": 487  
+                },
+                {
+                    "item_name": "Malta Importada",
+                    "price": 487  
+                },
+                {
+                    "item_name": "Malta nacional",
+                    "price": 390 
+                },
+                {
+                    "item_name": "Refresco Coca Cola",
+                    "price": 633 
+                },
+                {
+                    "item_name": "Refresco Fanta",
+                    "price": 633  
+                },
+                {
+                    "item_name": "Refresco Ironbeer",
+                    "price": 325  
+                },
+                {
+                    "item_name": "Refresco Kermato",
+                    "price": 568  
+                },
+                {
+                    "item_name": "Refresco Limon",
+                    "price": 325  
+                },
+                {
+                    "item_name": "Refresco Naranja",
+                    "price": 325 
+                },
+                {
+                    "item_name": "Refresco Pepsi",
+                    "price": 633 
+                },
+                {
+                    "item_name": "Refresco Pinita",
+                    "price": 325  
+                },
+                {
+                    "item_name": "Refresco Sprite",
+                    "price": 633  
+                },
+                {
+                    "item_name": "Refresco Tukola",
+                    "price": 325  
+                }
+           
+            ],
+
+            "infusions": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ]
+        }  
+} 

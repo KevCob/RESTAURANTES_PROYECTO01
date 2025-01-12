@@ -1,0 +1,346 @@
+{
+    "type": "Restaurante",
+    "name": "El Pavo", 
+    "location": {
+        "address": "Esquina San Luis y Via Blanca",
+        "municipe": "Guanabacoa",
+        "province": "La Habana",
+        "coordinates":  "23.124602415605764, -82.31935775223077"
+    },
+    "sector": "privado",
+    
+    "qualification": 4.3,
+    
+    "specialized_food": ["criolla", "internacional","italiana"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": 58222469,
+    
+    "capacity": 45,
+    
+    "reservation":  true,
+
+    "parking": true,
+
+    "delivery": true,
+
+    "electric generator": false,
+    
+    "hours": {
+        "monday": "12:00pm - 11:00pm",  
+        "tuesday": "12:00pm - 11:00pm",
+        "wednesday": "12:00pm - 11:00pm",
+        "thursday": "12:00pm - 11:00pm",
+        "friday": "12:00pm - 11:00pm",
+        "saturday": "12:00pm - 11:00pm",
+        "sunday": "12:00pm - 11:00pm"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": "Ensalada Fría de Jamón",
+                    "price": 450,
+                    "description": ""
+                },
+                {
+                    "item_name": "Ensalada Fría de Atún",
+                    "price": 500,
+                    "description": ""
+            
+                },
+                {
+                    "item_name": "Croquetas",
+                    "price": 200,
+                    "description": ""
+                },
+                {
+                    "item_name": "Fajitas",
+                    "price": 500,
+                    "description": ""
+                },
+                {
+                    "item_name": "Tostón relleno de Jamón",
+                    "price": 450,
+                    "description": ""
+                },
+                {
+                    "item_name": "Tostón relleno de Atún",
+                    "price": 450,
+                    "description": ""
+                },
+                {
+                    "item_name": "Costillas",
+                    "price": 800,
+                    "description": ""
+                },
+                {
+                    "item_name": "Cóctel de Camarón",
+                    "price": 700,
+                    "description": ""
+                },
+                {
+                    "item_name": "Garbanzo Frito",
+                    "price": 400,
+                    "description": ""
+                },
+                {
+                    "item_name": "Eperlan",
+                    "price": 600,
+                    "description": ""
+                },
+                {
+                    "item_name": "Entremés",
+                    "price": 800,
+                    "description": ""
+                }
+            ],
+                
+            "mains": [
+                {
+                    "item_name": "Pollo Grille",
+                    "price": 1100,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Masa de Cerdo",
+                    "price": 1600,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Cerdo a la Milanesa",
+                    "price": 1400,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Bistec de Cerdo",
+                    "price": 1300,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Bistec de Res",
+                    "price": 1300,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Ropa Vieja",
+                    "price": 1600,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Camarones Enchilados",
+                    "price": 1300,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Camarones al Ajillo",
+                    "price": 1300,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Camarones Grille",
+                    "price": 1200,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Camarones Rebosados",
+                    "price": 1300,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Enchilado de Langosta",
+                    "price": 1400,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Langosta Grille",
+                    "price": 1300,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Pescado Grille",
+                    "price": 1400,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Marinada al Pavo",
+                    "price": 2500,
+                    "description": "Camarón ,langosta, pescado, +2 copas de vino"
+                }
+            ],
+
+            "fittings": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": "Pizza Napolitana",
+                    "price": 600,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Pizza de Vegetales",
+                    "price": 650,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Pizza de Jamón",
+                    "price": 800,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Pizza de Chorizo",
+                    "price": 800,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Pizza Hawaiana",
+                    "price": 850,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Pizza de Carne",
+                    "price": 800,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Pizza de Camarones",
+                    "price": 1000,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Pizza Especial 'El Pavo' ",
+                    "price": 1500,
+                    "description": ""
+                  }
+            ],
+
+            "paste": [
+                {
+                    "item_name": "Espaguetis Napolitano",
+                    "price": 600,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Espaguetis con Jamón",
+                    "price": 800,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Espaguetis Boloñesa",
+                    "price": 800,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Espaguetis con Camarones",
+                    "price": 1000,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Espaguetis con Atún",
+                    "price": 950,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Espaguetis con Bacon",
+                    "price": 800,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Lasagna de Jamón",
+                    "price": 800,
+                    "description": ""
+                  },
+                  {
+                    "item_name": "Lasagna de Carne",
+                    "price": 900,
+                    "description": ""
+                  }
+            ],
+
+            "additions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "desserts": [
+                {
+                    "item_name": "Flan de Leche",
+                    "price": 180,
+                    "description": ""
+                  }
+            ],
+            "cocktails": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ],
+
+            "drinks": [
+                {
+                    "item_name": "Cerveza Nacional",
+                    "price": 250
+                },
+                {
+                    "item_name": "Cerveza Nacional",
+                    "price": 200
+                },
+                {
+                    "item_name": "Cerveza Corona",
+                    "price": 300
+                },
+                {
+                    "item_name": "Agua Natural",
+                    "price": 180
+                },
+                {
+                    "item_name": "Agua Gaseada",
+                    "price": 180
+                },
+                {
+                    "item_name": "Refresco Nacional",
+                    "price": 225
+                },
+                {
+                    "item_name": "Refresco Importado",
+                    "price": 260
+                },
+                {
+                    "item_name": "Malta Importada",
+                    "price": 225
+                },
+                {
+                    "item_name": "Malta HyperMalt",
+                    "price": 260
+                },
+                {
+                    "item_name": "Jugo(Cajita)",
+                    "price": 180
+                }
+            ],
+
+            "infusions": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ]
+        }  
+} 

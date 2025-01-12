@@ -1,0 +1,224 @@
+{
+    "type": "Bar-Restaurante-Cafeteria",
+    "name": "Nameless", 
+    "location": {
+        "address": "Avenida Rancho Boyeros % 407A & 409, Santiago de las Vegas",
+        "municipe": "Boyeros",
+        "province": "La Habana",
+        "coordinates":  "22.9752725188445, -82.38492436527059"
+    },
+    "sector": "privado",
+    
+    "qualification": null,
+
+    "specialized_food": ["italiana","criolla","cubana"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": null,
+    
+    "capacity": 30,
+    
+    "reservation":  false,
+
+    "parking": null,
+
+    "delivery": false,
+
+    "electric generator": null,
+    
+    "hours": {
+        "monday": "9:00am - 10:00pm",  
+        "tuesday": "9:00am - 10:00pm",
+        "wednesday": "9:00am - 10:00pm",
+        "thursday": "9:00am - 10:00pm",
+        "friday": "9:00am - 10:00pm",
+        "saturday": "9:00am - 10:00pm",
+        "sunday": "9:00am - 10:00pm"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+                
+            "mains": [
+                {
+                    "item_name": "Arroz Frito",
+                    "price": 700,
+                    "description": ""
+                },
+                {
+                    "item_name": "Pollo Frito",
+                    "price": 1000,
+                    "description": ""
+                },
+                {
+                    "item_name": "Chuleta de Cerdo Natural",
+                    "price": 1000,
+                    "description": ""
+                },
+                {
+                    "item_name": "Lomo de cerdo natural",
+                    "price": 1000,
+                    "description": ""
+                },
+                {
+                    "item_name": "Bistec de cerdo",
+                    "price": 1000,
+                    "description": ""
+                },
+                {
+                    "item_name": "Bistec de res",
+                    "price": 1300,
+                    "description": ""
+                },
+                {
+                    "item_name": "Uruguayo de res",
+                    "price": 1700,
+                    "description": ""
+                },
+                {
+                    "item_name": "Canciller",
+                    "price": 1700,
+                    "description": ""
+                },
+                {
+                    "item_name": "Pechuga",
+                    "price": 1200,
+                    "description": ""
+                },
+                {
+                    "item_name": "Fricase de res",
+                    "price": 1000,
+                    "description": ""
+                },
+                {
+                    "item_name": "Gordem Blue",
+                    "price": 1700,
+                    "description": ""
+                },
+                {
+                    "item_name": "Picadera mixta",
+                    "price": 1600,
+                    "description": ""
+                },
+                {
+                    "item_name": "Costilla de cerdo ahumada",
+                    "price": 1000,
+                    "description": ""
+                },
+                {
+                    "item_name": "Costilla de cerdo a la barbacoa ",
+                    "price": 1200,
+                    "description": ""
+                }
+            ],
+
+            "fittings": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": "Pizza Napolitana",
+                    "price": 600,
+                    "description": ""
+                },
+                {
+                    "item_name": "Pizza de Jamon",
+                    "price": 700,
+                    "description": ""
+                },
+                {
+                    "item_name": "Pizza de aceitunas",
+                    "price": 900,
+                    "description": ""
+                },
+                {
+                    "item_name": "Pizza de cebolla",
+                    "price": 700,
+                    "description": ""
+                },
+                {
+                    "item_name": "Pizza Marinera",
+                    "price": 1500,
+                    "description": ""
+                },
+                {
+                    "item_name": "Pizza Doble Via",
+                    "price": 1500,
+                    "description": ""
+                },
+                {
+                    "item_name": "Pizza Hawaiana",
+                    "price": 850,
+                    "description": ""
+                },
+                {
+                    "item_name": "Pizza de Chorizo",
+                    "price": 900,
+                    "description": ""
+                }
+            ],
+
+            "paste": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "additions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "desserts": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+            "cocktails": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ],
+
+            "drinks": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ],
+
+            "infusions": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ]
+        }  
+} 
