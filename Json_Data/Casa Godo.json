@@ -1,0 +1,225 @@
+{
+    "type": "Restaurante",
+    "name": "Casa Godo", 
+    "location": {
+        "address": "Ave. Mayia Rodriguez # 358 e/ San Mariano y Vista Alegre, El Monaco",
+        "municipe": "10 de Octubre",
+        "province": "La Habana",
+        "coordinates": "23.094140100551975, -82.37774190333381"
+    },
+    "sector": "privado",
+    
+    "qualification": 3.4 ,
+    
+    "specialized_food": ["cubana", "internacional"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": 76034192 ,
+    
+    "capacity": 50,
+    
+    "reservation": true  ,
+
+    "parking": false ,
+
+    "delivery": false ,
+
+    "electric generator": false ,
+    
+    "hours": {
+        "monday": "12:00pm - 11:00pm",  
+        "tuesday": "12:00pm - 11:00pm",
+        "wednesday": "12:00pm - 11:00pm",
+        "thursday": "12:00pm - 11:00pm",
+        "friday": "12:00pm - 11:00pm",
+        "saturday": "12:00pm - 11:00pm",
+        "sunday": "12:00pm - 11:00pm"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": "Croquetas de Pescado",
+                    "price": 650 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Coctel de Camaron",
+                    "price": 1000 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Entremes de Jamon, Queso y Aceitunas",
+                    "price": 850,
+                    "description": " "
+                },
+                {
+                    "item_name": "Tostones rellenos con Cerdo",
+                    "price": 650 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Garbanzo Frito",
+                    "price": 700 ,
+                    "description": " "
+                }
+            ],
+                
+            "mains": [
+                {
+                    "item_name": "Churrasco de Cerdo",
+                    "price": 3200 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Chilindron de Cordero",
+                    "price": 2000 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Langosta grille o Enchilada",
+                    "price": 3000 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Masas de Cerdo",
+                    "price": 2000,
+                    "description": " "
+                },
+                {
+                    "item_name": "Bistec de Cerdo",
+                    "price": 2000,
+                    "description": " "
+                },
+                {
+                    "item_name": "Lonjas de Cerdo",
+                    "price": 1800 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Lomo Ahumado",
+                    "price": 1800 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Filete de Pescado",
+                    "price": 2200 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Filete de Pescado con Vegetales Salteados",
+                    "price": 2300 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Filete de Pescado con Camarones",
+                    "price": 2900 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Camaron Salteado o Enchilado",
+                    "price": 2600 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pechuga de Pollo",
+                    "price": 1800 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pollo Deshuesado",
+                    "price": 950 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pulpo Salteado al ajo",
+                    "price": 3100 ,
+                    "description": " "
+                }
+            ],
+
+            "fittings": [
+                {
+                    "item_name": "Arroz Frito sin camaron",
+                    "price": 850 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Arroz Frito con Camaron",
+                    "price": 1200 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Ensalada de Vegetales",
+                    "price": 250 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Racion de Moro",
+                    "price": 200 ,
+                    "description": " "
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "paste": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "additions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "desserts": [
+                {
+                    "item_name": "Torta",
+                    "price": 550,
+                    "description": " "
+                }
+                 
+            ],
+            "cocktails": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ],
+
+            "drinks": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ],
+
+            "infusions": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ]
+        }  
+} 

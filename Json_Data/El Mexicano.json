@@ -1,0 +1,185 @@
+{
+    "type": "Bar-Restaurante-Cafeteria",
+    "name": "El Mexicano", 
+    "location": {
+        "address": "Avenida Quinta",
+        "municipe": "Guanabacoa",
+        "province": "La Habana",
+        "coordinates": "23.130866904291352, -82.30698134006616"
+    },
+    "sector": "privado",
+    
+    "qualification": 4.7,
+    
+    "specialized_food": ["pizzas", "pastas"],
+
+    "payment method": ["Efectivo"],
+    
+    "phone": 72635413,
+    
+    "capacity": 20,
+    
+    "reservation":  false,
+
+    "parking": false,
+
+    "delivery": false,
+
+    "electric generator": false,
+    
+    "hours": {
+        "monday": "10:00am - 10:00pm",  
+        "tuesday": "10:00am - 10:00pm",
+        "wednesday": "10:00am - 10:00pm",
+        "thursday": "10:00am - 10:00pm",
+        "friday": "10:00am - 10:00pm",
+        "saturday": "10:00am - 10:00pm",
+        "sunday": "10:00am - 10:00pm"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+                
+            "mains": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "fittings": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item": "Pizza Queso Gouda",
+                    "price": 450,
+                    "description": ""
+                }
+            ],
+
+            "paste": [
+                {
+                    "item": "Spaguetti Queso Gouda",
+                    "price": 770,
+                    "description": ""
+                }
+            ],
+
+            "additions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "item": "Sandwich de Jamón y Queso",
+                    "price": 350,
+                    "description": ""
+                },
+                {
+                    "item": "Sandwich de Queso Jamón Especial",
+                    "price": 600,
+                    "description": ""
+                }
+            ],
+
+            "desserts": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+            "cocktails": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ],
+
+            "drinks": [
+                {
+                    "item": "Cerveza",
+                    "price": 200
+                },
+                {
+                    "item": "Holandia",
+                    "price": 200
+                },
+                {
+                    "item": "Cristal Lata",
+                    "price": 250
+                },
+                {
+                    "item": "Cristal Botella",
+                    "price": 200
+                },
+                {
+                    "item": "Shaka",
+                    "price": 350
+                },
+                {
+                    "item": "Tigon",
+                    "price": 300
+                },
+                {
+                    "item": "Malta 1 Hyper",
+                    "price": 270
+                },
+                {
+                    "item": "Pepsi",
+                    "price": 270
+                },
+                {
+                    "item": "Mirinda",
+                    "price": 280
+                },
+                {
+                    "item": "Perla negra",
+                    "price": 270
+                },
+                {
+                    "item": "Ironbeer",
+                    "price": 240
+                },
+                {
+                    "item": "Orange",
+                    "price": 220
+                },
+                {
+                    "item": "Cola Polo",
+                    "price": 220
+                },
+                {
+                    "item": "Limon",
+                    "price": 220
+                },
+                {
+                    "item": "Coca Cola",
+                    "price": 280
+                }
+            ],
+
+            "infusions": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ]
+        }  
+} 

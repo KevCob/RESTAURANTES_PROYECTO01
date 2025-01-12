@@ -1,0 +1,225 @@
+{
+    "type": "Bar-Restaurante-Cafeteria",
+    "name": "El Pellizco", 
+    "location": {
+        "address": "Desconocida",
+        "municipe": "Guanabacoa",
+        "province": "La Habana",
+        "coordinates": "23.05809340873481, -82.22647413651553"
+    },
+    "sector": "privado",
+    
+    "qualification": 3.6 ,
+    
+    "specialized_food": ["criolla"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": null,
+    
+    "capacity": 24,
+    
+    "reservation":  false,
+
+    "parking": true,
+
+    "delivery": false,
+
+    "electric generator": false,
+    
+    "hours": {
+        "monday": "11:00am - 12:00am",  
+        "tuesday": "11:00am - 12:00am",
+        "wednesday": "11:00am - 12:00am",
+        "thursday": "11:00am - 12:00am",
+        "friday": "11:00am - 12:00am",
+        "saturday": "11:00am - 12:00am",
+        "sunday": "11:00am - 12:00am"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item": "Ración de Chicharrón",
+                    "price": 150,
+                    "description": ""
+                },
+                {
+                    "item": "Ración de Empella",
+                    "price": 100,
+                    "description": ""
+                },
+                {
+                    "item": "Caldoza de la Casa",
+                    "price": 250,
+                    "description": ""
+                },
+                {
+                    "item": "Ración de Tostones",
+                    "price": 80,
+                    "description": ""
+                },
+                {
+                    "item": "Ración de Mariquitas",
+                    "price": 80,
+                    "description": ""
+                },
+                {
+                    "item": "Plátano maduro frito",
+                    "price": 80,
+                    "description": ""
+                }
+            ],
+                
+            "mains": [
+                {
+                    "item": "Bistec de Hígado",
+                    "price": 400,
+                    "description": ""
+                },
+                {
+                    "item": "Hígado a la Italiana",
+                    "price": 450,
+                    "description": ""
+                },
+                {
+                    "item": "Bistec de Cerdo",
+                    "price": 600,
+                    "description": ""
+                },
+                {
+                    "item": "Masa de Cerdo",
+                    "price": 650,
+                    "description": ""
+                },
+                {
+                    "item": "Chuleta de Cerdo",
+                    "price": 650,
+                    "description": ""
+                },
+                {
+                    "item": "Lomo Ahumado",
+                    "price": 650,
+                    "description": ""
+                },
+                {
+                    "item": "Lonjas de Cerdo Asada",
+                    "price": 600,
+                    "description": ""
+                },
+                {
+                    "item": "Pollo Asado",
+                    "price": 450,
+                    "description": ""
+                },
+                {
+                    "item": "Costilla Asada",
+                    "price": 650,
+                    "description": ""
+                },
+                {
+                    "item": "Ropa Vieja de Cerdo",
+                    "price": 650,
+                    "description": ""
+                },
+                {
+                    "item": "Fricase de Costilla",
+                    "price": 650,
+                    "description": ""
+                }
+            ],
+
+            "fittings": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item": "Pizza Napolitana",
+                    "price": 200,
+                    "description": ""
+                }
+            ],
+
+            "paste": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "additions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "desserts": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+            "cocktails": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "drinks": [
+                {
+                    "item": "Cerveza Nacional",
+                    "price": 220
+                },
+                {
+                    "item": "Cerveza Importada",
+                    "price": 220
+                },
+                {
+                    "item": "Jugo de Caja",
+                    "price": 150
+                },
+                {
+                    "item": "Jugo de Botella",
+                    "price": 120
+                },
+                {
+                    "item": "Malta",
+                    "price": 150
+                },
+                {
+                    "item": "Agua Natural",
+                    "price": 100
+                },
+                {
+                    "item": "Energizante",
+                    "price": 220
+                }
+            ],
+
+            "infusions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ]
+        }  
+} 

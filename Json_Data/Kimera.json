@@ -1,0 +1,385 @@
+{
+    "type": "Bar-Restaurante",
+    "name": "Kimera", 
+    "location": {
+        "address": "#311, Calle Lacret entre Juan Bruno Zallas y Cortina, Santos Suarez",
+        "municipe": "10 de Octubre",
+        "province": "La Habana",
+        "coordinates": "23.100196337428876, -82.36994932052565"
+    },
+    "sector": "privado",
+    
+    "qualification": 4.8,
+    
+    "specialized_food": ["internaciona", "cubana", "italiana"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": 76419083,
+    
+    "capacity": 20,
+    
+    "reservation":  false,
+
+    "parking": false,
+
+    "delivery": false,
+
+    "electric generator": true,
+    
+    "hours": {
+        "monday": "12:00pm - 1:00am",  
+        "tuesday": "12:00pm - 1:00am",
+        "wednesday": "12:00pm - 1:00am",
+        "thursday": "12:00pm - 1:00am",
+        "friday": "12:00pm - 1:00am",
+        "saturday": "12:00pm - 1:00am",
+        "sunday": "12:00pm - 1:00am"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": "Ensalada de vegetales", 
+                    "price": 450,
+                    "description": " "
+                },
+                {
+                    "item_name": "Croquetas", 
+                    "price": 500,
+                    "description": " "
+                },
+                {
+                    "item_name": "Frituras", 
+                    "price": 500,
+                    "description": " "
+                },
+                {
+                    "item_name": "Ceviche", 
+                    "price": 800,
+                    "description": " "
+                },
+                {
+                    "item_name": "Ensalada fría", 
+                    "price": 900,
+                    "description": " "
+                },
+                {
+                    "item_name": "Eperlan", 
+                    "price": 1000,
+                    "description": " "
+                },
+                {
+                    "item_name": "Baston de pollo", 
+                    "price": 1000,
+                    "description": " "
+                },
+                {
+                    "item_name": "Picadera de pollo o cerdo", 
+                    "price": 1200,
+                    "description": " "
+                },
+                {
+                    "item_name": "Combo Kimera", 
+                    "price": 4000,
+                    "description": " "
+                },
+                {
+                    "item_name": "Crema Aurora", 
+                    "price": 500,
+                    "description": " "
+                },
+                {
+                    "item_name": "Crema de queso", 
+                    "price": 600,
+                    "description": " "
+                },
+                {
+                    "item_name": "Crema Virginia", 
+                    "price": 600,
+                    "description": " "
+                },
+                {
+                    "item_name": "Crema Reina", 
+                    "price": 650,
+                    "description": " "
+                }
+            ],
+                
+            "mains": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "fittings": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": "Pizza napolitana", 
+                    "price": 900,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pizza de aji o cebolla", 
+                    "price": 1200,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pizza de jamon", 
+                    "price": 1400,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pizza Hawaiana", 
+                    "price": 1500,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pizza de aceitunas", 
+                    "price": 1500,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pizza de pollo", 
+                    "price": 1500,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pizza Doble Queso", 
+                    "price": 1700,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pizza de atun", 
+                    "price": 1800,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pizza de cerdo", 
+                    "price": 1900,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pizza de Ropa Vieja", 
+                    "price": 2000,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pizza del mar Kimera", 
+                    "price": 2500,
+                    "description": " "
+                }
+            ],
+
+            "paste": [
+                {
+                    "item_name": "Lasagna", 
+                    "price": 1400,
+                    "description": " "
+                },
+                {
+                    "item_name": "Espaghettis napolitano", 
+                    "price": 800,
+                    "description": " "
+                },
+                {
+                    "item_name": "Espaghettis de jamon", 
+                    "price": 1300,
+                    "description": " "
+                },
+                {
+                    "item_name": "Espaghettis Doble Queso", 
+                    "price": 1400,
+                    "description": " "
+                },
+                {
+                    "item_name": "Espaghettis Carbonara", 
+                    "price": 1600,
+                    "description": " "
+                },
+                {
+                    "item_name": "Espaghettis del mar Kimera", 
+                    "price": 2500,
+                    "description": " "
+                }
+            ],
+
+            "additions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "desserts": [
+                {
+                    "item_name": "Helado", 
+                    "price": 320,
+                    "description": " "
+                },
+                {
+                    "item_name": "Flan", 
+                    "price": 350,
+                    "description": " "
+                },
+                {
+                    "item_name": "Tartaleta", 
+                    "price": 250,
+                    "description": " "
+                }
+            ],
+            "cocktails": [
+                {
+                    "item_name": "Michelada", 
+                    "price": 300
+                },
+                {
+                    "item_name": "Cuba Libre", 
+                    "price": 500
+                },
+                {
+                    "item_name": "Mojito", 
+                    "price": 550
+                },
+                {
+                    "item_name": "Cubanito", 
+                    "price": 500
+                },
+                {
+                    "item_name": "Cubata", 
+                    "price": 550
+                },
+                {
+                    "item_name": "Destornillador", 
+                    "price": 550
+                },
+                {
+                    "item_name": "Daiquiri", 
+                    "price": 600
+                },
+                {
+                    "item_name": "Caipiroska", 
+                    "price": 600
+                },
+                {
+                    "item_name": "Caipirinha", 
+                    "price": 600
+                },
+                {
+                    "item_name": "Caipirissima", 
+                    "price": 600
+                },
+                {
+                    "item_name": "Canchanchara", 
+                    "price": 600
+                },
+                {
+                    "item_name": "Vodka Tonic", 
+                    "price": 600
+                },
+                {
+                    "item_name": "Whisky Tonic", 
+                    "price": 600
+                },
+                {
+                    "item_name": "Gin Tonic", 
+                    "price": 700
+                },
+                {
+                    "item_name": "Piña Colada", 
+                    "price": 700
+                },
+                {
+                    "item_name": "Sangría", 
+                    "price": 800
+                },
+                {
+                    "item_name": "Margarita", 
+                    "price": 900
+                }
+            ],
+
+            "drinks": [
+                {
+                    "item_name": "Agua", 
+                    "price": 250
+                },
+                {
+                    "item_name": "Refresco", 
+                    "price": 300
+                },
+                {
+                    "item_name": "Cerveza", 
+                    "price": 320
+                },
+                {
+                    "item_name": "Energizante", 
+                    "price": 400
+                },
+                {
+                    "item_name": "Malta", 
+                    "price": 400
+                },
+                {
+                    "item_name": "Malteada", 
+                    "price": 600
+                },
+                {
+                    "item_name": "Batido de frutas", 
+                    "price": 400
+                },
+                {
+                    "item_name": "Batido de helado", 
+                    "price": 500
+                },
+                {
+                    "item_name": "Jugos", 
+                    "price": 250
+                },
+                {
+                    "item_name": "Café Expresso", 
+                    "price": 150
+                },
+                {
+                    "item_name": "Café Cortadito", 
+                    "price": 200
+                },
+                {
+                    "item_name": "Café Cappuccino", 
+                    "price": 220
+                },
+                {
+                    "item_name": "Café Bombón", 
+                    "price": 300
+                },
+                {
+                    "item_name": "Café Frappuccino", 
+                    "price": 350
+                }
+            ],
+
+            "infusions": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ]
+        }  
+} 

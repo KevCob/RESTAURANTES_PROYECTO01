@@ -1,0 +1,278 @@
+{
+    "type": "Bar-Restaurante-Cafeteria",
+    "name": "Vale & Vane", 
+    "location": {
+        "address": "San Martin entre Corrales y Aparicion",
+        "municipe": "Guanabacoa",
+        "province": "La Habana",
+        "coordinates": "23.121664387894754, -82.29610398447532"
+    },
+    "sector": "privado",
+    
+    "qualification": 4.8,
+    
+    "specialized_food": ["italiana","criolla"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": 77947261,
+    
+    "capacity": 24,
+    
+    "reservation":  false,
+
+    "parking": true,
+
+    "delivery": true,
+
+    "electric generator": false,
+    
+    "hours": {
+        "monday": "9:00am - 9:00pm",  
+        "tuesday": "9:00am - 9:00pm",
+        "wednesday": "9:00am - 9:00pm",
+        "thursday": "9:00am - 9:00pm",
+        "friday": "9:00am - 9:00pm",
+        "saturday": "9:00am - 9:00pm",
+        "sunday": "9:00am - 9:00pm"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+                
+            "mains": [
+                {
+                    "item": "Chuleta de Cerdo",
+                    "price": 1100,
+                    "description": ""
+                },
+                {
+                    "item": "Bistec Cerdo Grille",
+                    "price": 1200,
+                    "description": ""
+                },
+                {
+                    "item": "Masa de Cerdo Frita",
+                    "price": 1300,
+                    "description": ""
+                },
+                {
+                    "item": "Bistec Encebollado",
+                    "price": 1450,
+                    "description": ""
+                },
+                {
+                    "item": "Costilla Cerdo",
+                    "price": 1650,
+                    "description": ""
+                },
+                {
+                    "item": "Lomo Ahumado",
+                    "price": 1400,
+                    "description": ""
+                },
+                {
+                    "item": "Uruguayo",
+                    "price": 1600,
+                    "description": ""
+                },
+                {
+                    "item": "Bistec princesa",
+                    "price": 1720,
+                    "description": ""
+                },
+                {
+                    "item": "Garbanzo Frito",
+                    "price": 1300,
+                    "description": ""
+                },
+                {
+                    "item": "Pollo Frito",
+                    "price": 1000,
+                    "description": ""
+                },
+                {
+                    "item": "Suprema Grille",
+                    "price": 1400,
+                    "description": ""
+                },
+                {
+                    "item": "Bistec Princesa",
+                    "price": 1920,
+                    "description": ""
+                },
+                {
+                    "item": "Suprema Encebollada",
+                    "price": 1650,
+                    "description": ""
+                },
+                {
+                    "item": "Filete Pescado Grille",
+                    "price": 1800,
+                    "description": ""
+                },
+                {
+                    "item": "Camarón Grille",
+                    "price": 1800,
+                    "description": ""
+                },
+                {
+                    "item": "Enchilado Camarón",
+                    "price": 1850,
+                    "description": ""
+                },
+                {
+                    "item": "Mar y Tierra",
+                    "price": 2500,
+                    "description": "Cerdo, pescado y camarón"
+                },
+                {
+                    "item": "Vaca Frita",
+                    "price": 1600,
+                    "description": ""
+                },
+                {
+                    "item": "Ropa Vieja",
+                    "price": 1600,
+                    "description": ""
+                }
+            ],
+
+            "fittings": [
+                {
+                    "item": "Espagueti Napolitano",
+                    "price": 650,
+                    "description": "queso gouda"
+                },
+                {
+                    "item": "Espagueti con Jamón",
+                    "price": 900,
+                    "description": "queso gouda"
+                },
+                {
+                    "item": "Espagueti con Chorizo",
+                    "price": 900,
+                    "description": "queso gouda"
+                },
+                {
+                    "item": "Espagueti doble Queso",
+                    "price": 920,
+                    "description": "queso gouda"
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item": "Pizza Napolitana",
+                    "price": 350,
+                    "description": "queso gouda"
+                },
+                {
+                    "item": "Pizza Napolitana",
+                    "price": 650,
+                    "description": "queso gouda"
+                },
+                {
+                    "item": "Pizza Familiar",
+                    "price": 2500,
+                    "description": "queso gouda"
+                }
+            ],
+
+            "paste": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "additions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "desserts": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+            "cocktails": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ],
+
+            "drinks": [
+                {
+                    "item": "Cerveza Cristal (lata)",
+                    "price": 280
+                },
+                {
+                    "item": "Cerveza Cristal (botella)",
+                    "price": 380
+                },
+                {
+                    "item": "Cerveza Hollandia",
+                    "price": 250
+                },
+                {
+                    "item": "Cerveza Wild Hill",
+                    "price": 250
+                },
+                {
+                    "item": "Tigon",
+                    "price": 280
+                }, {
+                    "item": "Agua Natural",
+                    "price": 180
+                },
+                {
+                    "item": "Refresco lata",
+                    "price": 250
+                },
+                {
+                    "item": "Malta Hyper Malta",
+                    "price": 270
+                },
+                {
+                    "item": "Malta Bucanero",
+                    "price": 300
+                },
+                {
+                    "item": "Jugo Natural (cajita)",
+                    "price": 200
+                },
+                {
+                    "item": "Jugo Natural (lata)",
+                    "price": 270
+                }
+            ],
+
+            "infusions": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ]
+        }  
+} 

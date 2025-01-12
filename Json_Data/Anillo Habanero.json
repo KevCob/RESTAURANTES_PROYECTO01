@@ -1,0 +1,311 @@
+{
+    "type": "Bar-Restaurante-Cafeteria",
+    "name": "Anillo Habanero", 
+    "location": {
+        "address": "Primer Anillo de La Habana",
+        "municipe": "Guanabacoa",
+        "province": "La Habana",
+        "coordinates": "23.098029367090493, -82.26549627264866"
+    },
+    "sector": "privado",
+    
+    "qualification": 4.5,
+    
+    "specialized_food": ["criolla","pizzas","cócteles","pastas"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": 52042710,
+    
+    "capacity": 60,
+    
+    "reservation":  true,
+
+    "parking": true,
+
+    "delivery": false,
+
+    "electric generator": true,
+    
+    "hours": {
+        "monday": "10:00am - 11:00pm",  
+        "tuesday": "10:00am - 11:00pm",
+        "wednesday": "10:00am - 11:00pm",
+        "thursday": "10:00am - 11:00pm",
+        "friday": "10:00am - 11:00pm",
+        "saturday": "10:00am - 11:00pm",
+        "sunday": "10:00am - 11:00pm"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item": "Picadera Anillo",
+                    "price": 3000,
+                    "description": ""
+                },
+                {
+                    "item": "Tacos de vegetales",
+                    "price": 600,
+                    "description": ""
+                },
+                {
+                    "item": "Croquetas Habaneras",
+                    "price": 400,
+                    "description": ""
+                },
+                {
+                    "item": "Nachos, Salsa Rosa y Guacamole",
+                    "price": 400,
+                    "description": ""
+                },
+                {
+                    "item": "Brochetas",
+                    "price": 1300,
+                    "description": ""
+                },
+                {
+                    "item": "Cóctel de camarones",
+                    "price": 2000,
+                    "description": ""
+                },
+                {
+                    "item": "Frituras",
+                    "price": 300,
+                    "description": ""
+                },
+                {
+                    "item": "Tostones rellenos",
+                    "price": 550,
+                    "description": ""
+                },
+                {
+                    "item": "Tacos de Pollo",
+                    "price": 800,
+                    "description": ""
+                }
+            ],
+                
+            "mains": [
+                {
+                    "item": "Lomo ahumado",
+                    "price": 2000,
+                    "description": ""
+                },
+                {
+                    "item": "Chuletas de cerdo",
+                    "price": 3000,
+                    "description": ""
+                },
+                {
+                    "item": "Ropa vieja",
+                    "price": 3000,
+                    "description": ""
+                },
+                {
+                    "item": "Vaca Frita",
+                    "price": 3000,
+                    "description": ""
+                },
+                {
+                    "item": "Camarones enchilados",
+                    "price": 3500,
+                    "description": ""
+                },
+                {
+                    "item": "Camarones al ajillo",
+                    "price": 3500,
+                    "description": ""
+                }
+            ],
+
+            "fittings": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item": "Pizza Napolitana",
+                    "price": 800,
+                    "description": "Pizza con 90g de queso blanco"
+                }
+            ],
+
+            "paste": [
+                {
+                    "item": "Spaguetis Napolés",
+                    "price": 850,
+                    "description": "Spaguetis con 45g de queso blanco"
+                }
+            ],
+
+            "additions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "desserts": [
+                {
+                    "item": "Tarta de Vainilla",
+                    "price": 750,
+                    "description": ""
+                },
+                {
+                    "item": "Cheesecake de Limón",
+                    "price": 750,
+                    "description": ""
+                },
+                {
+                    "item": "Coctel de Frutas Importadas",
+                    "price": 350,
+                    "description": ""
+                }
+            ],
+            "cocktails": [
+                {
+                    "item": "Michelada",
+                    "price": 600
+                },
+                {
+                    "item": "Margarita",
+                    "price": 800
+                },
+                {
+                    "item": "Caipiroska",
+                    "price": 800
+                },
+                {
+                    "item": "Cócteles Analcohólicos",
+                    "price": 500
+                },
+                {
+                    "item": "Caipirisima",
+                    "price": 800
+                },
+                {
+                    "item": "Vodka Tonic",
+                    "price": 900
+                },
+                {
+                    "item": "Screwdriver",
+                    "price": 800
+                },
+                {
+                    "item": "Gin Tonic",
+                    "price": 900
+                },
+                {
+                    "item": "Agua Marina",
+                    "price": 800
+                },
+                {
+                    "item": "Cancha",
+                    "price": 800
+                },
+                {
+                    "item": "Tinto de Verano",
+                    "price": 800
+                },
+                {
+                    "item": "Limonada Frappé",
+                    "price": 250
+                },
+                {
+                    "item": "Daiquirí",
+                    "price": 800
+                },
+                {
+                    "item": "Chelada",
+                    "price": 450
+                },
+                {
+                    "item": "Piña Colada",
+                    "price": 1000
+                },
+                {
+                    "item": "Sangría",
+                    "price": 1000
+                },
+                {
+                    "item": "Cerveza Nacional",
+                    "price": 350
+                }
+            ],
+
+            "drinks": [
+                {
+                    "item": "Cerveza importada",
+                    "price": 300
+                },
+                {
+                    "item": "Trago Jonny Walker",
+                    "price": 500
+                },
+                {
+                    "item": "William Lawsons",
+                    "price": 350
+                },
+                {
+                    "item": "Lyubov Vodka",
+                    " price": 200
+                },
+                {
+                    "item": "Energizantes Importados",
+                    "price": 500
+                },
+                {
+                    "item": "Maltas Importadas",
+                    "price": 320
+                },
+                {
+                    "item": "Pepsi Refresco gaseado",
+                    "price": 400
+                },
+                {
+                    "item": "Jugos naturales",
+                    "price": 250
+                },
+                {
+                    "item": "Agua natural",
+                    "price": 200
+                },
+                {
+                    "item": "Kermato",
+                    "price": 700
+                },
+                {
+                    "item": "Refrescos Importados",
+                    "price": 300
+                }
+            ],
+
+            "infusions": [
+                {
+                    "item": "Expresso",
+                    "price": 100
+                },
+                {
+                    "item": "Cortadito",
+                    "price": 200
+                },
+                {
+                    "item": "Capuchino",
+                    "price": 250
+                }
+            ]
+        }  
+} 

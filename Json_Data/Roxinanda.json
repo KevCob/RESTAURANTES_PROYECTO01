@@ -1,0 +1,172 @@
+{
+    "type": "Bar-Restaurante-Cafeteria",
+    "name": "Roxinanda", 
+    "location": {
+        "address": "esquina de Santa Catalina y calzada de 10 de Octubre",
+        "municipe": "10 de Octubre",
+        "province": "La Habana",
+        "coordinates": "23.093622177255977, -82.3641803168269"
+    },
+    "sector": "privado",
+    
+    "qualification": 4.6,
+    
+    "specialized_food": ["Hamburguesa"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": null,
+    
+    "capacity": 12,
+    
+    "reservation":  false,
+
+    "parking": false,
+
+    "delivery": false,
+
+    "electric generator": false,
+    
+    "hours": {
+        "monday": "12:00pm - 12:00am",  
+        "tuesday": "12:00pm - 12:00am",
+        "wednesday": "12:00pm - 12:00am",
+        "thursday": "12:00pm - 12:00am",
+        "friday": "12:00pm - 12:00am",
+        "saturday": "12:00pm - 12:00am",
+        "sunday": "12:00pm - 12:00am"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+                
+            "mains": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "fittings": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "paste": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "additions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": "Hamburguesa cerdo", 
+                    "price": 640,
+                    "description": " "
+                },
+                {
+                    "item_name": "Hamburguesa pollo", 
+                    "price": 650,
+                    "description": " "
+                },
+                {
+                    "item_name": "Hamburguesa res", 
+                    "price": 690,
+                    "description": " "
+                },
+                {
+                    "item_name": "Sandwich", 
+                    "price": 350,
+                    "description": " "
+                },
+                {
+                    "item_name": "Sandwich especial", 
+                    "price": 450,
+                    "description": " "
+                }
+            ],
+
+            "desserts": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+            "cocktails": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ],
+
+            "drinks": [
+                {
+                    "item_name": "Refresco", 
+                    "price": 270
+                },
+                {
+                    "item_name": "Pepsi", 
+                    "price": 320
+                },
+                {
+                    "item_name": "Jugo lata", 
+                    "price": 280
+                },
+                {
+                    "item_name": "Kermato", 
+                    "price": 480
+                },
+                {
+                    "item_name": "Tigon", 
+                    "price": null
+                },
+                {
+                    "item_name": "Cristal", 
+                    "price": 3000
+                },
+                {
+                    "item_name": "Hollandia", 
+                    "price": 300
+                },
+                {
+                    "item_name": "Stella", 
+                    "price": 400
+                }
+            ],
+
+            "infusions": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ]
+        }  
+} 

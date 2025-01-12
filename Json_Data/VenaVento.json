@@ -1,0 +1,462 @@
+{
+    "type": "Restaurante",
+    "name": "VenaVento", 
+    "location": {
+        "address": "Calle 10, esq. Vento",
+        "municipe": "Boyeros",
+        "province": "La Habana",
+        "coordinates": "23.06514033812983, -82.39795431500336"
+    },
+    "sector": "privado",
+    
+    "qualification": 3.7,
+    
+    "specialized_food": ["cubana", "internacional"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": 52743762,
+    
+    "capacity": 38,
+    
+    "reservation":  false,
+
+    "parking": true,
+
+    "delivery": true,
+
+    "electric generator": true,
+    
+    "hours": {
+        "monday": "12:00pm - 12:00am",  
+        "tuesday": "12:00pm - 12:00am",
+        "wednesday": "12:00pm - 12:00am",
+        "thursday": "12:00pm - 12:00am",
+        "friday": "12:00pm - 12:00am",
+        "saturday": "12:00pm - 12:00am",
+        "sunday": "12:00pm - 12:00am"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": "Ensalada tibia de langosta", 
+                    "price": 1600,
+                    "description": ""
+                },
+                {
+                    "item_name": "Tabla ibérica mix", 
+                    "price": 3600,
+                    "description": ""
+                },
+                {
+                    "item_name": "Tabla ibérica", 
+                    "price": 2600,
+                    "description": ""
+                },
+                {
+                    "item_name": "Coctel de gambas", 
+                    "price": 1300,
+                    "description": ""
+                },
+                {
+                    "item_name": "Coctel de anzuelos", 
+                    "price": 1300,
+                    "description": ""
+                },
+                {
+                    "item_name": "Ensalada caprese", 
+                    "price": 1250,
+                    "description": ""
+                },
+                {
+                    "item_name": "Ensalada César", 
+                    "price": 1250,
+                    "description": ""
+                }
+            ],
+                
+            "mains": [
+                
+                {
+                    "item_name": "Salmón a la parrilla", 
+                    "price": 4500,
+                    "description": ""
+                },
+                {
+                    "item_name": "Vacío Veraniento", 
+                    "price": 6600,
+                    "description": ""
+                },
+                {
+                    "item_name": "Grillada de fruta de mar", 
+                    "price": 7600,
+                    "description": ""
+                },
+                {
+                    "item_name": "Mar y tierra ( pax 1)", 
+                    "price": 4000,
+                    "description": ""
+                },
+                {
+                    "item_name": "Langosta Mariscossa", 
+                    "price": 3600,
+                    "description": ""
+                },
+                {
+                    "item_name": "Pollo Grille", 
+                    "price": 1600,
+                    "description": ""
+                },
+                {
+                    "item_name": "Brocheta de pollo", 
+                    "price": 2020,
+                    "description": ""
+                },
+                {
+                    "item_name": "Brocheta de cerdo", 
+                    "price": 2170,
+                    "description": ""
+                },
+                {
+                    "item_name": "Brocheta mixta de carne", 
+                    "price": 2220,
+                    "description": ""
+                },
+                {
+                    "item_name": "Brocheta de langosta", 
+                    "price": 2700,
+                    "description": ""
+                },
+                {
+                    "item_name": "Paella de mariscos (pax 1)", 
+                    "price": 2770,
+                    "description": ""
+                },
+                {
+                    "item_name": "Paella de mariscos (pax 2)", 
+                    "price": 4600,
+                    "description": ""
+                },
+                {
+                    "item_name": "Paella mixta (pax 1)", 
+                    "price": 2800,
+                    "description": ""
+                },
+                {
+                    "item_name": "Paella mixta (pax 2)", 
+                    "price": 4800,
+                    "description": ""
+                },
+                {
+                    "item_name": "Paella de carne (pax 1)", 
+                    "price": 2600,
+                    "description": ""
+                },
+                {
+                    "item_name": "Paella de carne (pax 2)", 
+                    "price": 4400,
+                    "description": ""
+                },
+                {
+                    "item_name": "Arroz negro (pax 2)", 
+                    "price": 5500,
+                    "description": ""
+                },
+                {
+                    "item_name": "Arroz Rijo", 
+                    "price": 2300,
+                    "description": ""
+                },
+                {
+                    "item_name":"Suprema de Pollo",
+                    "price":2500,
+                    "description": ""
+                },
+                {
+                    "item_name":"Pollo al carbon",
+                    "price":1850,
+                    "description": ""
+                },
+                {
+                    "item_name":"Salmón al Ajillo",
+                    "price":3500,
+                    "description": ""
+                },
+                {
+                    "item_name":"Salmón de cerdo",
+                    "price":3800,
+                    "description": ""
+                },
+                {
+                    "item_name":"Cachopo de cerdo",
+                    "price":2600,
+                    "description": ""
+                },
+                {
+                    "item_name":"Cochino al jugoso",
+                    "price":2420,
+                    "description": ""
+                },
+                {
+                    "item_name":"Filete de pescado Montadoro",
+                    "price":2620,
+                    "description": ""
+                },
+                {
+                    "item_name":"Filete de pescado Carriller",
+                    "price":2770,
+                    "description": ""
+                },
+                {
+                    "item_name":"Filete de pescado Don Pello",
+                    "price":2770,
+                    "description": ""
+                },
+                {
+                    "item_name":"Filete de pescado Flor Blue",
+                    "price":2800,
+                    "description": ""
+                },
+                {
+                    "item_name":"Cacerola de pescado y marisco",
+                    "price":3500,
+                    "description": ""
+                },
+                {
+                    "item_name":"Zarzuela de pescado y mariscos",
+                    "price":3500,
+                    "description": ""
+                },
+                {
+                    "item_name":"Camarones al gusto",
+                    "price":3500,
+                    "description": ""
+                },
+                {
+                    "item_name":"Congrejo Enchilado",
+                    "price":3000,
+                    "description": ""
+                },
+                {
+                    "item_name":"Langosta Enchilada",
+                    "price":3100,
+                    "description": ""
+                },
+                {
+                    "item_name":"Langosta Batabano",
+                    "price":3300,
+                    "description": ""
+                }
+            ],
+
+            "fittings": [
+                {
+                    "item_name": "Ensalada estación", 
+                    "price": 750,
+                    "description": ""
+                },
+                {
+                    "item_name": "Arroz blanco", 
+                    "price": 580,
+                    "description": ""
+                },
+                {
+                    "item_name": "Frijoles de la casa", 
+                    "price": 800,
+                    "description": ""
+                },
+                {
+                    "item_name": "Ensalada de tomate", 
+                    "price": 1000,
+                    "description": ""
+                },
+                {
+                    "item_name": "Moros y Cristianos", 
+                    "price": 800,
+                    "description": ""
+                },
+                {
+                    "item_name": "Fufuce platano", 
+                    "price": 1200,
+                    "description": ""
+                },
+                {
+                    "item_name": "Pure de Papa", 
+                    "price": 1500,
+                    "description": ""
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "paste": [
+                {
+                    "item_name": "Pasta veranennto", 
+                    "price": 2600,
+                    "description": ""
+                },
+                {
+                    "item_name": "Pasta carbonara", 
+                    "price": 2500,
+                    "description": ""
+                },
+                {
+                    "item_name": "Fruti de Mare", 
+                    "price": 3200,
+                    "description": ""
+                },
+                {
+                    "item_name": "Nero di Sejia", 
+                    "price": 3000,
+                    "description": ""
+                }
+            ],
+
+            "additions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "desserts": [
+                {
+                    "item_name": "Copa de helado", 
+                    "price": 500,
+                    "description": ""
+                },
+                {
+                    "item_name": "Crema Volia", 
+                    "price": 850,
+                    "description": ""
+                },
+                {
+                    "item_name":"Flan de caramelo",
+                    "price":750,
+                    "description": ""
+                },
+                {
+                    "item_name":"Quesadillas",
+                    "price":1200,
+                    "description": ""
+                },
+                {
+                    "item_name":"Tacos de Camaron",
+                    "price":1800,
+                    "description": ""
+                },
+                {
+                    "item_name":"Tostones de Cangrejo",
+                    "price":1650,
+                    "description": ""
+                },
+                {
+                    "item_name":"Tortillas rellenas",
+                    "price":1500,
+                    "description": ""
+                },
+                {
+                    "item_name":"Frutas de malanga",
+                    "price":1400,
+                    "description": ""
+                },
+                {
+                    "item_name": "Flanada", 
+                    "price":1000,
+                    "description": ""
+                },
+                {
+                    "item_name":"Garanitos fritos",
+                    "price":1500,
+                    "description": ""
+                }
+            ],
+            "cocktails": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ],
+
+            "drinks": [
+                {
+                    "item_name": "Aguas naturales", 
+                    "price": 400
+                },
+                {
+                    "item_name": "Batido de frutas", 
+                    "price": 500
+                },
+                {
+                    "item_name": "San Francisco", 
+                    "price": 850
+                },
+                {
+                    "item_name": "Jarra", 
+                    "price": 900
+                },
+                {
+                    "item_name": "Refresco", 
+                    "price": 300
+                },
+                {
+                    "item_name": "Energizante Tacon", 
+                    "price": 480
+                },
+                {
+                    "item_name": "Cerveza Nacional", 
+                    "price": 250
+                },
+                {
+                    "item_name": "Cerveza Importada", 
+                    "price": 290
+                },
+                {
+                    "item_name": "Servicio de Chinchada", 
+                    "price": 350
+                },
+                {
+                    "item_name": "Servicio de Vinireda", 
+                    "price": 350
+                }
+            ],
+
+            "infusions": [
+                {
+                    "item_name":"Cafe expresso",
+                    "price":200
+                },
+                {
+                    "item_name":"Cafe Nespreso",
+                    "price":220
+                },
+                {
+                    "item_name":"Cafe cortadito",
+                    "price":280
+                },
+                {
+                    "item_name":"Cafe con leche",
+                    "price":280
+                },
+                {
+                    "item_name":"Cafe Frappucino",
+                    "price":400
+                },
+                {
+                    "item_name":"Cafe Amaretto",
+                    "price":550
+                },
+                {
+                    "item_name":"Cafe Español",
+                    "price":500
+                }
+            ]
+        }  
+} 

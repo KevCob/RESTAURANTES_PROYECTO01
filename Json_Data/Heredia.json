@@ -1,0 +1,234 @@
+{
+    "type": "Restaurante",
+    "name": "Heredia", 
+    "location": {
+        "address": "Calle Heredia % Avenida Acosta y O'Farril",
+        "municipe": "10 de Octubre",
+        "province": "La Habana",
+        "coordinates": "23.0881096622714, -82.36848083672511"
+    },
+    "sector": "estatal",
+    
+    "qualification": 3.5,
+    
+    "specialized_food": [],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": 76400222,
+    
+    "capacity": 40,
+    
+    "reservation": false ,
+
+    "parking": false,
+
+    "delivery": false,
+
+    "electric generator": false,
+    
+    "hours": {
+        "monday": "10:00am - 10:00pm",  
+        "tuesday": "10:00am - 10:00pm",
+        "wednesday": "10:00am - 10:00pm",
+        "thursday": "10:00am - 10:00pm",
+        "friday": "10:00am - 10:00pm",
+        "saturday": "10:00am - 10:00pm",
+        "sunday": "10:00am - 10:00pm"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+                
+            "mains": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "fittings": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": "Pizza Napolitana", 
+                    "price": 950 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pizza de Jamon", 
+                    "price": 980 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pizza de Chorizo", 
+                    "price": 980 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pizza Boloñesa", 
+                    "price": 980 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pizza de Cebolla", 
+                    "price": 980 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pizza de Pimiento", 
+                    "price": 980 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pizza Hawaiana", 
+                    "price": 1000 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pizza con aceituna", 
+                    "price": 1000 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pizza con atun", 
+                    "price": 1000 ,
+                    "description": " "
+                }
+            ],
+
+            "paste": [
+                {
+                    "item_name": "Espaguetis Napolitano", 
+                    "price": 600 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Espaguetis de Jamon", 
+                    "price": 650 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Espaguetis con Chorizo", 
+                    "price": 650 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Espaguetis Boloñesa", 
+                    "price": 670 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Espaguetis con Atun", 
+                    "price": 800 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Lasana de Jamon", 
+                    "price": 750 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Lasana de Chorizo", 
+                    "price": 850 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Lasaña Boloñesa", 
+                    "price": 950 ,
+                    "description": " "
+                }
+            ],
+
+            "additions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": "Emparedado de Atun con Cebolla", 
+                    "price": 400 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Hamburguesa", 
+                    "price": 350 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Emapredado de Heredia", 
+                    "price": 350 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Emparedado Cubano", 
+                    "price": 350 ,
+                    "description": " "
+                }
+            ],
+
+            "desserts": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+            "cocktails": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ],
+
+            "drinks": [
+                {
+                    "item_name": "Limonada", 
+                    "price": 100 
+                },
+                {
+                    "item_name": "Jugo de mango", 
+                    "price": 120 
+                },
+                {
+                    "item_name": "Jugo de Tamarindo", 
+                    "price": 120 
+                },
+                {
+                    "item_name": "Jugo de guayaba", 
+                    "price": 120 
+                },
+                {
+                    "item_name": "Coctel de frutas", 
+                    "price": 150 
+                },
+                {
+                    "item_name": "Batido de Helado", 
+                    "price": 350 
+                }
+            ],
+
+            "infusions": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ]
+        }  
+} 

@@ -1,0 +1,430 @@
+{
+    "type": "Cafeteria",
+    "name": "Pasos Habaneros", 
+    "location": {
+        "address": "Calle Santos Suárez 464 e/ Gómez y Mendoza. Santos Suárez",
+        "municipe": "10 de Octubre",
+        "province": "La Habana",
+        "coordinates": "23.10461483018299, -82.37587401682666"
+    },
+    "sector": "estatal",
+    
+    "qualification": 5,
+    
+    "specialized_food": ["internacional", "helados"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": null,
+    
+    "capacity": 14,
+    
+    "reservation":  false,
+
+    "parking": false,
+
+    "delivery": false,
+
+    "electric generator": true,
+    
+    "hours": {
+        "monday": "9:00am - 6:00pm",  
+        "tuesday": "9:00am - 6:00pm",
+        "wednesday": "9:00am - 6:00pm",
+        "thursday": "9:00am - 6:00pm",
+        "friday": "9:00am - 6:00pm",
+        "saturday": "9:00am - 6:00pm",
+        "sunday": "9:00am - 6:00pm"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": "Croquetas", 
+                    "price": 280,
+                    "description": " "
+                },
+                {
+                    "item_name": "Coctel de Camarón sencillo", 
+                    "price": 400,
+                    "description": " "
+                },
+                {
+                    "item_name": "Coctel de Camarón doble", 
+                    "price": 800 ,
+                    "description": " "
+                }
+                
+            ],
+                
+            "mains": [
+                {
+                    "item_name": "Pollo Asado Muslo o Contra muslo", 
+                    "price": 275,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pollo Asado 1/2", 
+                    "price": 550,
+                    "description": " "
+                },
+                {
+                    "item_name": "Bistec de Cerdo", 
+                    "price": 750,
+                    "description": " "
+                },
+                {
+                    "item_name": "Bistec de Cerdo Empanado", 
+                    "price": 850,
+                    "description": " "
+                },
+                {
+                    "item_name":"Ropa Vieja de Res",
+                    "price": 880,
+                    "description": " "
+                },
+                {
+                    "item_name": "Lomo de Cerdo", 
+                    "price": 950,
+                    "description": " "
+                },
+                {
+                    "item_name": "Carne de Cerdo Asada", 
+                    "price": 950,
+                    "description": " "
+                },
+                {
+                    "item_name": "Lomo Ahumado", 
+                    "price": 950,
+                    "description": " "
+                },
+                {
+                    "item_name": "Masa de Cerdo Frita", 
+                    "price": 950,
+                    "description": " "
+                },
+                {
+                    "item_name": "Chuleta de Cerdo", 
+                    "price": 1000,
+                    "description": " "
+                },
+                {
+                    "item_name": "Bistec Uruguayo de Cerdo", 
+                    "price": 1000,
+                    "description": " "
+                },
+                {
+                    "item_name":"Alitas de pollo (1/2 libra)",
+                    "price": 430,
+                    "description": " "
+                },
+                {
+                    "item_name":"Picadera \"Mi Habana\"",
+                    "price": 750,
+                    "description": " "
+                },
+                {
+                    "item_name":"Picadera \"Pasos Habaneros\"",
+                    "price": 850,
+                    "description": " "
+                },
+                {
+                    "item_name":"Alitas de pollo (1 libra)",
+                    "price": 860,
+                    "description": " "
+                },
+                {
+                    "item_name":"Super Picadera Especial",
+                    "price": 1500,
+                    "description": " "
+                },
+                {
+                    "item_name":"Fajitas de Cerdo Pasos Habaneros",
+                    "price": 950,
+                    "description": " "
+                }
+            ],
+
+            "fittings": [
+                {
+                    "item_name": "Arroz Blanco", 
+                    "price": 150,
+                    "description": " "
+                },
+                {
+                    "item_name": "Arroz Moro", 
+                    "price": 200,
+                    "description": " "
+                },
+                {
+                    "item_name": "Arroz Cardelnal", 
+                    "price": 260,
+                    "description": " "
+                },
+                {
+                    "item_name": "Ensalada de Estación", 
+                    "price": 250,
+                    "description": " "
+                },
+                {
+                    "item_name": "Vianda con Mojo", 
+                    "price": 250,
+                    "description": " "
+                },
+                {
+                    "item_name": "Vianda Frita", 
+                    "price": 300,
+                    "description": " "
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item_name":"Pizza Napolitana",
+                    "price": 250,
+                    "description": " "
+                },
+                {
+                    "item_name":"Pizza Doble Queso",
+                    "price": 300,
+                    "description": " "
+                },
+                {
+                    "item_name":"Pizza Jamón y Queso",
+                    "price": 430,
+                    "description": " "
+                },
+                {
+                    "item_name":"Pizza Doble Queso y Jamón",
+                    "price": 540,
+                    "description": " "
+                }
+            ],
+
+            "paste": [
+                {
+                    "item_name":"Spaguettis Napolitano",
+                    "price": 380,
+                    "description": " "
+                },
+                {
+                    "item_name":"Spaguettis Doble Queso",
+                    "price": 440,
+                    "description": " "
+                },
+                {
+                    "item_name":"Spaguettis Jamón y Queso",
+                    "price": 475,
+                    "description": " "
+                },
+                {
+                    "item_name":"Spaguettis Doble Queso y Jamón",
+                    "price": 540,
+                    "description": " "
+                },
+                {
+                    "item_name":" Lasana",
+                    "price": 500,
+                    "description": " "
+                }
+            ],
+
+            "additions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": "Pan con queso blanco", 
+                    "price": 135,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pan con croquetas", 
+                    "price": 180,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pan con 2 Croquetas y Jamón", 
+                    "price": 280,
+                    "description": " "
+                },
+                {
+                    "item_name": "Bocadito Jamón", 
+                    "price": 240,
+                    "description": " "
+                },
+                {
+                    "item_name": "Bocadito de Jamón y Queso", 
+                    "price": 350,
+                    "description": " "
+                },
+                {
+                    "item_name":"Super Pan Pasos Habaneros", 
+                    "price": 600,
+                    "description": " "
+                }
+            ],
+
+            "desserts": [
+                {
+                    "item_name": "Helado \"Futbolito\"", 
+                    "price": 170,
+                    "description": " "
+                },
+                {
+                    "item_name": "Helado \"Ciudad Deportiva\"", 
+                    "price": 225,
+                    "description": " "
+                },
+                {
+                    "item_name":"Helado \"Jimagua Mónaco\"",
+                    "price": 290,
+                    "description": " "
+                },
+                {
+                    "item_name": "Helado \"Vaca Negra o Blanca\"", 
+                    "price": 320,
+                    "description": " "
+                },
+                {
+                    "item_name": "Helado \"Sabor a Mi\"", 
+                    "price": 345,
+                    "description": " "
+                },
+                {
+                    "item_name": "Helado \"Capitolio\"", 
+                    "price": 400,
+                    "description": " "
+                },
+                {
+                    "item_name": "Helado \"Esquina de Tejas\"", 
+                    "price": 450,
+                    "description": " "
+                },
+                {
+                    "item_name": "Helado \"Esquina de Toyo\"", 
+                    "price": 590,
+                    "description": " "
+                },
+                {
+                    "item_name": "Helado \"Ensalada Parque Central\"", 
+                    "price": 660,
+                    "description": " "
+                },
+                {
+                    "item_name":"Helados \"Pasos Habaneros\"",
+                    "price": 710,
+                    "description": " "
+                },
+                {
+                    "item_name":"Barquillo de Helado",
+                    "price":135,
+                    "description": " "
+                },
+                {
+                    "item_name":"Potes de Helados (200 ml) sin montaje",
+                    "price": 280,
+                    "description": " "
+                },
+                {
+                    "item_name":"Potes de Helados (200 ml) con montaje",
+                    "price": 300,
+                    "description": " "
+                },
+                {
+                    "item_name":"Potes de Helados (400 ml) sin montaje",
+                    "price": 400,
+                    "description": " "
+                },
+                {
+                    "item_name":"Potes de Helados (400 ml) con montaje",
+                    "price": 430,
+                    "description": " "
+                }
+            ],
+            "cocktails": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ],
+
+            "drinks": [
+                {
+                    "item_name": "Vino Dulce", 
+                    "price": 100
+                },
+                {
+                    "item_name": "Whiskey 5Shot", 
+                    "price": 100
+                },
+                {
+                    "item_name": "Silver dry", 
+                    "price": 110
+                },
+                {
+                    "item_name": "Vino Tinto", 
+                    "price": 150
+                },
+                {
+                    "item_name": "Chisckiller", 
+                    "price": 170
+                },
+                {
+                    "item_name":"Black Tears (Brujo)",
+                    "price": 170
+                },
+                {
+                    "item_name":"Habana Club",
+                    "price":170
+                },
+                {
+                    "item_name": "Agua mineral", 
+                    "price": 120
+                },
+                {
+                    "item_name": "Refresco (pomu)", 
+                    "price": 235
+                },
+                {
+                    "item_name": "Refresco lata (330ml)", 
+                    "price": 230
+                },
+                {
+                    "item_name": "Cerveza lata (330ml)", 
+                    "price": 200
+                },
+                {
+                    "item_name":"Malta",
+                    "price": 235
+                },
+                {
+                    "item_name": "Energizante(250ml)", 
+                    "price": 250
+                },
+                {
+                    "item_name":"Cerveza dispensada (500ml)",
+                    "price":290
+                },
+                {
+                    "item_name":"Cerveza dispensada (300ml)",
+                    "price":200
+                },
+                {
+                    "item_name":"Termo de cerveza cristal de 6 jarras",
+                    "price":1700
+                }
+            ],
+
+            "infusions": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ]
+        }  
+} 

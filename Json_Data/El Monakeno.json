@@ -1,0 +1,502 @@
+{
+    "type": "Restaurante",
+    "name": "El Monakeno", 
+    "location": {
+        "address": "Avenida Mayia Rodriguez entre Acosta y O'Farril",
+        "municipe": "10 de Octubre",
+        "province": "La Habana",
+        "coordinates": "23.090152188614443, -82.37829626100522"
+    },
+    "sector": "privado",
+    
+    "qualification": 3.8,
+    
+    "specialized_food": ["internacional"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": 63444454,
+    
+    "capacity": 30,
+    
+    "reservation": true ,
+
+    "parking": true,
+
+    "delivery": true,
+
+    "electric generator": true,
+    
+    "hours": {
+        "monday": "12:00pm - 12:00am",  
+        "tuesday": "12:00pm - 12:00am",
+        "wednesday": "12:00pm - 12:00am",
+        "thursday": "12:00pm - 12:00am",
+        "friday": "12:00pm - 12:00am",
+        "saturday": "12:00pm - 12:00am",
+        "sunday": "12:00pm - 12:00am"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": "Croquetas", 
+                    "price": 900,
+                    "description": ""
+                },
+                {
+                    "item_name": "Bolitas de queso", 
+                    "price": 1000,
+                    "description": ""
+                },
+                {
+                    "item_name": "Queso frito", 
+                    "price": 950,
+                    "description": ""
+                },
+                {
+                    "item_name": "Papas fritas", 
+                    "price": 400,
+                    "description": ""
+                },
+                {
+                    "item_name": "Brusquetas", 
+                    "price": 700,
+                    "description": ""
+                },
+                {
+                    "item_name": "Fajitas de pollo", 
+                    "price": 1300,
+                    "description": ""
+                },
+                {
+                    "item_name": "Tapas Monakeno", 
+                    "price": 2000,
+                    "description": ""
+                },
+                {
+                    "item_name": "Picadera Monakeno", 
+                    "price": 2500,
+                    "description": ""
+                },
+                {
+                    "item_name": "Picadera Super Monakeno", 
+                    "price": 5000,
+                    "description": ""
+                }
+            ],
+                
+            "mains": [
+                
+                {
+                    "item_name": "Ensalada de atun y vegetales", 
+                    "price": 1500,
+                    "description": ""
+                },
+                {
+                    "item_name": "Ensalada Italiana", 
+                    "price": 2300,
+                    "description": ""
+                },
+                {
+                    "item_name": "Ensalada Monakeno", 
+                    "price": 1200,
+                    "description": ""
+                },
+                {
+                    "item_name": "Solomillo de res", 
+                    "price": 5500,
+                    "description": ""
+                },
+                {
+                    "item_name": "Carpaccio de res", 
+                    "price": 1900,
+                    "description": ""
+                },
+                {
+                    "item_name": "Ropa Vieja de res o Vaca Frita", 
+                    "price": 2800,
+                    "description": ""
+                },
+                {
+                    "item_name": "Picadillo de res a la Habanera", 
+                    "price": 2600,
+                    "description": ""
+                },
+                {
+                    "item_name": "Pechuga de pollo grille", 
+                    "price": 2200,
+                    "description": ""
+                },
+                {
+                    "item_name": "Chuleta de cerdo", 
+                    "price": 2400,
+                    "description": ""
+                },
+                {
+                    "item_name": "Milanesa Monakeno", 
+                    "price": 2150,
+                    "description": ""
+                },
+                {
+                    "item_name": "Camaron al gusto", 
+                    "price": 2500,
+                    "description": ""
+                }
+            ],
+
+            "fittings": [
+                {
+                    "item_name": "Guarnición de arroz blanco", 
+                    "price": 250,
+                    "description": ""
+                },
+                {
+                    "item_name": "Vegetales salteados", 
+                    "price": 250,
+                    "description": ""
+                },
+                {
+                    "item_name": "Puré de boniato", 
+                    "price": 200,
+                    "description": ""
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": "Pizza de nutella", 
+                    "price": 1050,
+                    "description": ""
+                },
+                {
+                    "item_name": "Pizza Margarita", 
+                    "price": 1650,
+                    "description": ""
+                },
+                {
+                    "item_name": "Pizza Monakeno", 
+                    "price": 2600,
+                    "description": ""
+                },
+                {
+                    "item_name": "Pizza Napolitana", 
+                    "price": 1150,
+                    "description": ""
+                },
+                {
+                    "item_name": "Pizza de atun", 
+                    "price": 1850,
+                    "description": ""
+                },
+                {
+                    "item_name": "Pizza de jamon", 
+                    "price": 1750,
+                    "description": ""
+                },
+                {
+                    "item_name": "Pizza hawaiana", 
+                    "price": 1800,
+                    "description": ""
+                },
+                {
+                    "item_name": "Pizza Panna", 
+                    "price": 1950,
+                    "description": ""
+                },
+                {
+                    "item_name": "Pizza Prosciutto", 
+                    "price": 2150,
+                    "description": ""
+                }
+            ],
+
+            "paste": [
+                {
+                    "item_name": "Pasta Napolitana", 
+                    "price": 1450,
+                    "description": ""
+                },
+                {
+                    "item_name": "Pasta Carbonara", 
+                    "price": 2500,
+                    "description": ""
+                },
+                {
+                    "item_name": "Pasta Alfredo", 
+                    "price": 1500,
+                    "description": ""
+                },
+                {
+                    "item_name": "Pasta Amatriciana", 
+                    "price": 2400,
+                    "description": ""
+                },
+                {
+                    "item_name": "Pasta de 4 Quesos", 
+                    "price": 2200,
+                    "description": ""
+                },
+                {
+                    "item_name": "Pasta de vegetales", 
+                    "price": 1150,
+                    "description": ""
+                },
+                {
+                    "item_name": "Pasta al Pesto", 
+                    "price": 1500,
+                    "description": ""
+                },
+                {
+                    "item_name": "Pasta Bolognesa", 
+                    "price": 2200,
+                    "description": ""
+                }
+            ],
+
+            "additions": [
+                {
+                    "item_name": "Champignones", 
+                    "price": 250,
+                    "description": ""
+                },
+                {
+                    "item_name": "Queso azul", 
+                    "price": 550,
+                    "description": ""
+                },
+                {
+                    "item_name": "Queso Parmesano", 
+                    "price": 800,
+                    "description": ""
+                },
+                {
+                    "item_name": "Camarón", 
+                    "price": 1100,
+                    "description": ""
+                },
+                {
+                    "item_name": "Bacon", 
+                    "price": 500,
+                    "description": ""
+                },
+                {
+                    "item_name": "Chorizo extra vela", 
+                    "price": 700,
+                    "description": ""
+                },
+                {
+                    "item_name": "Queso Gouda", 
+                    "price": 500,
+                    "description": ""
+                },
+                {
+                    "item_name": "Aceitunas", 
+                    "price": 400,
+                    "description": ""
+                },
+                {
+                    "item_name": "Piña glaseada", 
+                    "price": 150,
+                    "description": ""
+                },
+                {
+                    "item_name": "Cebolla", 
+                    "price": 250,
+                    "description": ""
+                },
+                {
+                    "item_name": "Pimiento", 
+                    "price": 250,
+                    "description": ""
+                },
+                {
+                    "item_name": "Jamón Euro", 
+                    "price": 400,
+                    "description": ""
+                },
+                {
+                    "item_name": "Huevo", 
+                    "price": 200,
+                    "description": ""
+                },
+                {
+                    "item_name": "Jamón Serrano", 
+                    "price": 800,
+                    "description": ""
+                },
+                {
+                    "item_name": "Atún", 
+                    "price": 550,
+                    "description": ""
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": "Hot Dog", 
+                    "price": 1100,
+                    "description": ""
+                },
+                {
+                    "item_name": "Sandwich Cubano", 
+                    "price": 2100,
+                    "description": ""
+                },
+                {
+                    "item_name": "Hamburguesa de res", 
+                    "price": 1500,
+                    "description": ""
+                },
+                {
+                    "item_name": "Sandwich de atun", 
+                    "price": 1500,
+                    "description": ""
+                },
+                {
+                    "item_name": "Sandwich de jamon y queso", 
+                    "price": 1200,
+                    "description": ""
+                },
+                {
+                    "item_name": "Hamburguesa Monakeno Azul", 
+                    "price": 2000,
+                    "description": ""
+                }
+            ],
+
+            "desserts": [
+                {
+                    "item_name": "Tarta Flan", 
+                    "price": 1000,
+                    "description": ""
+                },
+                {
+                    "item_name": "Cheesecake", 
+                    "price": 1125,
+                    "description": ""
+                },
+                {
+                    "item_name": "Helados", 
+                    "price": 550,
+                    "description": ""
+                },
+                {
+                    "item_name": "Flan casero", 
+                    "price": 650,
+                    "description": ""
+                }
+            ],
+            "cocktails": [
+                {
+                    "item_name": "Café Expresso", 
+                    "price": 200
+                },
+                {
+                    "item_name": "Café Cortado", 
+                    "price": 250
+                },
+                {
+                    "item_name": "Frappuccino", 
+                    "price": 400
+                },
+                {
+                    "item_name": "Screw Driver", 
+                    "price": 600
+                },
+                {
+                    "item_name": "Screw Driver Absolute", 
+                    "price": 900
+                },
+                {
+                    "item_name": "Ron Collins", 
+                    "price": 650
+                },
+                {
+                    "item_name": "Margarita", 
+                    "price": 800
+                },
+                {
+                    "item_name": "Sangría", 
+                    "price": 700
+                },
+                {
+                    "item_name": "Daiquiri", 
+                    "price": 700
+                },
+                {
+                    "item_name": "Mojito", 
+                    "price": 700
+                },
+                {
+                    "item_name": "Cuba Libre", 
+                    "price": 600
+                },
+                {
+                    "item_name": "Piña Colada", 
+                    "price": 800
+                },
+                {
+                    "item_name": "Caipirinha", 
+                    "price": 650
+                },
+                {
+                    "item_name": "Caipiroska", 
+                    "price": 650
+                },
+                {
+                    "item_name": "Caipirissima", 
+                    "price": 650
+                },
+                {
+                    "item_name": "Happy Monakeno", 
+                    "price": 1250
+                },
+                {
+                    "item_name": "Michelada", 
+                    "price": 200
+                },
+                {
+                    "item_name": "Chelada", 
+                    "price": 150
+                },
+                {
+                    "item_name": "Limonada", 
+                    "price": 450
+                }
+            ],
+
+            "drinks": [
+                {
+                    "item_name": "Cerveza Embrau", 
+                    "price": 280
+                },
+                {
+                    "item_name": "Cubetazo de cerveza Embrau", 
+                    "price": 1400
+                },
+                {
+                    "item_name": "Red Bull", 
+                    "price": 500
+                },
+                {
+                    "item_name": "Cubetazo de cerveza Cristal", 
+                    "price": 1800
+                }
+            ],
+
+            "infusions": [
+                {
+                    "item_name": "Café Expresso", 
+                    "price": 200
+                },
+                {
+                    "item_name": "Café Cortado", 
+                    "price": 250
+                },
+                {
+                    "item_name": "Frappuccino", 
+                    "price": 400
+                }
+            ]
+        }  
+} 

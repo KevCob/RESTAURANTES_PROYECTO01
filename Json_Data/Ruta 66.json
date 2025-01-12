@@ -1,0 +1,279 @@
+{
+    "type": "Bar-Restaurante",
+    "name": "Ruta 66", 
+    "location": {
+        "address": "Entre tercera y primera",
+        "municipe": "Guanabacoa",
+        "province": "La Habana",
+        "coordinates": "23.134819322053957, -82.30638711918262"
+    },
+    "sector": "privado",
+    
+    "qualification": null,
+    
+    "specialized_food": ["criolla","hamburguesas", "pizzas","pastas"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": 52833863,
+    
+    "capacity": null,
+    
+    "reservation":  false,
+
+    "parking": true,
+
+    "delivery": false,
+
+    "electric generator": false,
+    
+    "hours": {
+        "monday": "12:00pm - 9:30pm",  
+        "tuesday": "12:00pm - 9:30pm",
+        "wednesday": "12:00pm - 9:30pm",
+        "thursday": "12:00pm - 9:30pm",
+        "friday": "12:00pm - 9:30pm",
+        "saturday": "12:00pm - 9:30pm",
+        "sunday": "12:00pm - 9:30pm"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item": "Tostones rellenos de jamón y queso",
+                    "price": 1090,
+                    "description": ""
+                },
+                {
+                    "item": "Tostones rellenos de bolognesa",
+                    "price": 950,
+                    "description": ""
+                },
+                {
+                    "item": "Tostones rellenos de vegetales salteados y queso",
+                    "price": 910,
+                    "description": ""
+                },
+                {
+                    "item": "Garbanzos fritos",
+                    "price": 1900,
+                    "description": ""
+                },
+                {
+                    "item": "Ceviche de pescado",
+                    "price": 1500,
+                    "description": ""
+                },
+                {
+                    "item": "Frituras de malanga",
+                    "price": 595,
+                    "description": "con miel y mostaza"
+                },
+                {
+                    "item": "Croquetas",
+                    "price": 490,
+                    "description": "con salsa acompañante"
+                },
+                {
+                    "item": "Brosquetas",
+                    "price": 420,
+                    "description": ""
+                },
+                {
+                    "item": "Tamal",
+                    "price": 400,
+                    "description": ""
+                }
+            ],
+                
+            "mains": [
+                {
+                    "item": "Lomo ahumado (con gratinado de queso)",
+                    "price": 1850,
+                    "description": ""
+                },
+                {
+                    "item": "Lomo ahumado (con salsa de piña)",
+                    "price": 2000,
+                    "description": ""
+                },
+                {
+                    "item": "Enchilado de camarones",
+                    "price": 3300,
+                    "description": ""
+                },
+                {
+                    "item": "Camarones al ajillo",
+                    "price": 2950,
+                    "description": ""
+                },
+                {
+                    "item": "Camarones en salsa de frutas",
+                    "price": 2800,
+                    "description": ""
+                },
+                {
+                    "item": "Enchilado de pulpo",
+                    "price": 2690,
+                    "description": ""
+                },
+                {
+                    "item": "Pulpo al ajillo",
+                    "price": 2470,
+                    "description": ""
+                },
+                {
+                    "item": "Filete de pescado Route 66 (a la plancha gratinado con queso y camarón)",
+                    "price": 3550,
+                    "description": ""
+                },
+                {
+                    "item": "Monte toro a la francesa (a la plancha gratinado con queso)",
+                    "price": 2400,
+                    "description": ""
+                },
+                {
+                    "item": "Filete de pescado en salsa de frutas",
+                    "price": 2250,
+                    "description": ""
+                },
+                {
+                    "item": "Filete de pescado a la plancha",
+                    "price": 1800,
+                    "description": ""
+                },
+                {
+                    "item": "Arroz frito especial Route 66",
+                    "price": 2065,
+                    "description": ""
+                },
+                {
+                    "item": "Arroz frito",
+                    "price": 1280,
+                    "description": ""
+                },
+                {
+                    "item": "Arroz blanco",
+                    "price": 200,
+                    "description": ""
+                },
+                {
+                    "item": "Puré de malanga",
+                    "price": 335,
+                    "description": ""
+                },
+                {
+                    "item": "Ensalada mixta de estación",
+                    "price": 425,
+                    "description": ""
+                },
+                {
+                    "item": "Super Route 66 (Cerdo)",
+                    "price": 1965,
+                    "description": "Hamburguesas, jamón, queso, vegetales, salsas acompañantes y mango frito"
+                },
+                {
+                    "item": "Castrol (Cerdo)",
+                    "price": 1255,
+                    "description": "Hamburguesas, jamón Viking, queso, vegetales, salsas acompañantes y mango frito"
+                },
+                {
+                    "item": "Texaco (Cerdo)",
+                    "price": 940,
+                    "description": "Hamburguesas, jamón Viking, queso, vegetales, salsas acompañantes y mango frito"
+                }
+            ],
+
+            "fittings": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item": "Pizza de queso gouda",
+                    "price": 850,
+                    "description": ""
+                }
+            ],
+
+            "paste": [
+                {
+                    "item": "Lasana queso gouda",
+                    "price": 1420,
+                    "description": ""
+                },
+                {
+                    "item": "Espaguetis de queso gouda",
+                    "price": 1100,
+                    "description": ""
+                }
+            ],
+
+            "additions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "desserts": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+            "cocktails": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ],
+
+            "drinks": [
+                {
+                    "item": "Cerveza importada",
+                    "price": 210
+                },
+                {
+                    "item": "Vino tinto",
+                    "price": 2200
+                },
+                {
+                    "item": "Refrescos importados",
+                    "price": 240
+                },
+                {
+                    "item": "Malta importada",
+                    "price": 250
+                },
+                {
+                    "item": "Agua Mineral",
+                    "price": 190
+                },
+                {
+                    "item": "Jugos importados",
+                    "price": 210
+                }
+            ],
+
+            "infusions": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ]
+        }  
+} 

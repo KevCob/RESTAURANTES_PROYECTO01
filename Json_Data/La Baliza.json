@@ -1,0 +1,167 @@
+{
+    "type": "Restaurante",
+    "name": "La Baliza", 
+    "location": {
+        "address": "Entre avenida 23 y 23 A",
+        "municipe": "La Lisa",
+        "province": "La Habana",
+        "coordinates": "23.06738029017932, -82.46823262236785"
+    },
+    "sector": "privado",
+    
+    "qualification":  4.7,
+    
+    "specialized_food": ["americana", "italiana"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": 78322553,
+    
+    "capacity": 40,
+    
+    "reservation":  false,
+
+    "parking": true,
+
+    "delivery": true,
+
+    "electric generator": false,
+    
+    "hours": {
+        "monday": "cerrado",  
+        "tuesday": "10:00am - 21:30pm",
+        "wednesday": "10:00am - 21:30pm",
+        "thursday": "10:00am - 21:30pm",
+        "friday": "10:00am - 21:30pm",
+        "saturday": "10:00am - 21:30pm",
+        "sunday": "10:00am - 21:30pm"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+                
+            "mains": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "fittings": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "pizza": [
+                {
+                    "name": "pizza con queso gouda (small)",
+                    "price": 450,
+                    "description": " "
+                },
+                {
+                    "name": "pizza con queso gouda (large)",
+                    "price": 700,
+                    "description": " "
+                },
+                {
+                    "name": "pizza de queso blanco (small)",
+                    "price": 350,
+                    "description": " "
+                },
+                {
+                    "name": "pizza de queso blanco (large)",
+                    "price": 520,
+                    "description": " "
+                }
+            ],
+
+            "paste": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "additions": [
+                {
+                    "name": "queso",
+                    "price": 200,
+                    "description": " "
+                },
+                {
+                    "name": "jamon",
+                    "price": 150,
+                    "description": " "
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "name": "sandwich de jamon y queso",
+                    "price": 500,
+                    "description": " "
+                },
+                {
+                    "name": "hamburguesa",
+                    "price": 490,
+                    "description": " "
+                },
+                {
+                    "name": "super hamburguesa",
+                    "price": 950,
+                    "description": " "
+                }
+            ],
+
+            "desserts": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+            "cocktails": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ],
+
+            "drinks": [
+                {
+                    "name" : "agua mineral natural",
+                    "price" : 150
+                },
+
+                {
+                    "name" : "refresco importado",
+                    "price" : 230
+                },
+                {
+                    "name" : "batido de Mamey",
+                    "price" : 230
+                },
+                {
+                    "name" : "cerveza importada",
+                    "price" : 250
+                }
+            ],
+
+            "infusions": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ]
+        }  
+} 

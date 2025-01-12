@@ -1,0 +1,573 @@
+{
+    "type": "Bar-Restaurante-Cafeteria",
+    "name": "Melao's", 
+    "location": {
+        "address": "Goicuría 229 e/ Milagros y Libertad. Santo Suárez",
+        "municipe": "10 de Octubre",
+        "province": "La Habana",
+        "coordinates": "23.097475154324474, -82.3758757186763"
+    },
+    "sector": "privado",
+    
+    "qualification": 4.3,
+    
+    "specialized_food": [],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": 53236348,
+    
+    "capacity": 40,
+    
+    "reservation":  true,
+
+    "parking": true,
+
+    "delivery": true,
+
+    "electric generator": true,
+    
+    "hours": {
+        "monday": "12:00pm - 3:00am",  
+        "tuesday": "12:00pm - 3:00am",
+        "wednesday": "12:00pm - 3:00am",
+        "thursday": "12:00pm - 3:00am",
+        "friday": "12:00pm - 3:00am",
+        "saturday": "12:00pm - 3:00am",
+        "sunday": "12:00pm - 3:00am"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": "Fritas de Malanga", 
+                    "price": 600,
+                    "description": " "
+                },
+                {
+                    "item_name": "Croquetas de Jamon", 
+                    "price": 600,
+                    "description": " "
+                },
+                {
+                    "item_name": "Croquetas de Pollo", 
+                    "price": 600,
+                    "description": " "
+                },
+                {
+                    "item_name": "Bandeja Melaos", 
+                    "price": 2500,
+                    "description": " "
+                },
+                {
+                    "item_name": "Crepes de jamón y queso", 
+                    "price": 500,
+                    "description": " "
+                },
+                {
+                    "item_name": "Papas Fritas", 
+                    "price": 800,
+                    "description": " "
+                },
+                {
+                    "item_name": "Tostones rellenos con jamón 6U", 
+                    "price": 700,
+                    "description": " "
+                },
+                {
+                    "item_name": "Crepes de queso", 
+                    "price": 600,
+                    "description": " "
+                },
+                {
+                    "item_name": "Entre mes de jamón, queso y chorizo", 
+                    "price": 700,
+                    "description": " "
+                },
+                {
+                    "item_name": "Aceitunas", 
+                    "price": 800,
+                    "description": " "
+                },
+                {
+                    "item_name": "Picadera Mixta", 
+                    "price": 1500,
+                    "description": " "
+                },
+                {
+                    "item_name":"Bolitas de queso", 
+                    "price": 1100,
+                    "description": " "
+                },
+                {
+                    "item_name":"Fajitas de Pollo", 
+                    "price": 1200,
+                    "description": " "
+                },
+                {
+                    "item_name":"Mariquitas de platano", 
+                    "price": 300,
+                    "description": " "
+                },
+                {
+                    "item_name": "Tostones rellenos con jamón y queso 6U", 
+                    "price": 900,
+                    "description": " "
+                }
+            ],
+                
+            "mains": [
+                {
+                    "item_name": "Pollo frito 2 Muslos", 
+                    "price": 1000,
+                    "description": " "
+                },
+                {
+                    "item_name":"Pollo frito Contramuslo", 
+                    "price": 1200,
+                    "description": " "
+                },
+                {
+                    "item_name": "Bistec de Cerdo", 
+                    "price": 1400,
+                    "description": " "
+                },
+                {
+                    "item_name":"Masa Frita", 
+                    "price": 2500,
+                    "description": " "
+                }
+            ],
+
+            "fittings": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "paste": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "additions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "desserts": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+            "cocktails": [
+                {
+                    "item_name":"Caipirissima",
+                    "price":400
+                },
+                {
+                    "item_name":"Presidente", 
+                    "price":500
+                },
+                {
+                    "item_name":"Caipiroska Plus",
+                    "price":750
+                },
+                {
+                    "item_name":"Blody Mary",
+                    "price":650
+                },
+                {
+                    "item_name":"Blue Lagon", 
+                    "price":650
+                },
+                {
+                    "item_name":"Sex on the beach",
+                    "price":650
+                },
+                {
+                    "item_name":"Vodka Tonic",
+                    "price":500
+                },
+                {
+                    "item_name":"Tequila Sunrise", 
+                    "price":750
+                },
+                {
+                    "item_name":"Margarita", 
+                    "price":500
+                },
+                {
+                    "item_name":"Gin Tonic", 
+                    "price":500
+                },
+                {
+                    "item_name":"Aperol Sprite",
+                    "price":1500
+                },
+                {
+                    "item_name":"Blue Hawai", 
+                    "price":900
+                },
+                {
+                    "item_name":"Orgasmo",
+                    "price":600
+                },
+                {
+                    "item_name":"White Lady",
+                    "price":750
+                },
+                {
+                    "item_name":"Jager Bull",
+                    "price":1300
+                },
+                {
+                    "item_name":"San Francisco sin alcohol",
+                    "price":500
+                },
+                {
+                    "item_name":"San Francisco con alcohol",
+                    "price":600
+                },
+                {
+                    "item_name":"Piña Colada", 
+                    "price":600
+                },
+                {
+                    "item_name":"Tom Collins",
+                    "price":650
+                },
+                {
+                    "item_name":"Negroni", 
+                    "price":1000
+                },
+                {
+                    "item_name":"Martini",
+                    "price":750
+                },
+                {
+                    "item_name":"Caipiriña Plus",
+                    "price":750
+                },
+                {
+                    "item_name":"Sangría Melao",
+                    "price":700
+                },
+                {
+                    "item_name":"Tinto de Verano", 
+                    "price":600
+                },
+                {
+                    "item_name":"Calimocho", 
+                    "price":600
+                },
+                {
+                    "item_name":"El Melao",
+                    "price":1000
+                },
+                {
+                    "item_name":"Screwdivder",
+                    "price":600
+                },
+                {
+                    "item_name":"Caipiroska",
+                    "price":400
+                },
+                {
+                    "item_name":"Caipiriña",
+                    "price":400
+                },
+                {
+                    "item_name":"Limonada", 
+                    "price":400
+                },
+                {
+                    "item_name":"Melaos WOMAN", 
+                    "price":900
+                }
+            ],
+
+            "drinks": [
+            {
+                "item_name": "Jameson", 
+                "price": 850
+            },
+            {
+                "item_name": "Red Label", 
+                "price": 850
+            },
+            {
+                "item_name": "Black Label", 
+                "price": 1450
+            },
+            {
+                "item_name": "Doble Black", 
+                "price": 1450
+            },
+            {
+                "item_name": "Jack Daniel's", 
+                "price": 1200
+            },
+            {
+                "item_name": "Chivas 12", 
+                "price": 1150
+            },
+            {
+                "item_name": "Tequila Olmeca Blanco", 
+                "price": 350
+            },
+            {
+                "item_name": "Olmeca Altos", 
+                "price": 450
+            },
+            {
+                "item_name": "Tequila Patrón Silver", 
+                "price": 1500
+            },
+            {
+                "item_name": "Tequila Patrón Citron", 
+                "price": 1200
+            },
+            {
+                "item_name": "Beefater", 
+                "price": 600
+            },
+            {
+                "item_name":"Taqueray Ten",
+                "price":1000
+            },
+            {
+                "item_name":"Gyn Kin Roose", 
+                "price": 500
+            },
+            {
+                "item_name":"Vodka Igor",
+                "price":400
+            },
+            {
+                "item_name":"Vodka Absolute Nat",
+                "price":700
+            },
+            {
+                "item_name":"Absolute Sab",
+                "price":700
+            },
+            {
+                "item_name":"Vodka Stolichnaya",
+                "price":700
+            },
+            {
+                "item_name":"Vodka Ciroc Nat",
+                "price":900
+            },
+			{
+                "item_name":"Vodka Grey Goose", 
+                "price":1500
+            },
+			{
+                "item_name":"Aguardiente", 
+                "price":250
+            },
+			{
+                "item_name":"Jaguer",
+                "price":850
+            },
+			{
+                "item_name":"Crema de Whisky",
+                "price":450
+            },
+			{
+                "item_name":"Tequila Roose", 
+                "price":1000
+            },
+			{
+                "item_name":"Campary", 
+                "price":500
+            },
+			{
+                "item_name":"Aperol",
+                "price":900
+            },
+			{
+                "item_name":"Cerv. Nac. Cristal Lata", 
+                "price":400
+            },
+			{
+                "item_name":"Cerv. Nac. Cristal Bot", 
+                "price":450
+            },
+			{
+                "item_name":"Cerv. Imp. Sol Bot", 
+                "price":400
+            },
+			{
+                "item_name":"Cerv. Imp. Heineken", 
+                "price":600
+            },
+			{
+                "item_name":"Cerv. Bucanero", 
+                "price":400
+            },
+			{
+                "item_name":"Cerv. De Lata", 
+                "price":300
+            },
+			{
+                "item_name":"Cubetazo De Heineken 10U", 
+                "price":6500
+            },
+			{
+                "item_name":"Cubetazo De Lata 10U", 
+                "price":3300
+            },
+			{
+                "item_name":"Cubetazo De Cristal botella 10U", 
+                "price":5000
+            },
+			{
+                "item_name":"Cubetazo De Cristal lata 10U", 
+                "price":4500
+            },
+			{
+                "item_name":"Kermato", 
+                "price": 600
+            },
+			{
+                "item_name":"Energizante", 
+                "price":500
+            },
+			{
+                "item_name":"Malta", 
+                "price":400
+            },
+			{
+                "item_name":"Ref. 7UP",
+                "price":400
+            },
+			{
+                "item_name":"Refresco Nacional",
+                "price":300
+            },
+			{
+                "item_name":"Agua Natural", 
+                "price":300
+            },
+			{
+                "item_name":"Agua Gaseada",
+                "price":400
+            },
+			{
+                "item_name":"Agua Tónica", 
+                "price":400
+            },
+			{
+                "item_name":"Refresco Importado",
+                "price":400
+            },
+			{
+                "item_name":"Ron Santiago 11 + 2energ.",
+                "price":16500
+            },
+			{
+                "item_name":"Ballantines + 1energ.", 
+                "price":7000
+            },
+			{
+                "item_name":"Havana Club Especial + 2energ.",
+                "price":4000
+            },
+			{
+                "item_name":"Jamenson + 2energ.", 
+                "price":8500
+            },
+			{
+                "item_name":"Ballantines + 2energ.", 
+                "price":7500
+            },
+			{
+                "item_name":"Chanceller + 2energ.", 
+                "price":4000
+            },
+			{
+                "item_name":"HC 7Años +1 Refresco Cola", 
+                "price":7500
+            },
+			{
+                "item_name":"H Club 7Años + 1energ.", 
+                "price":7500
+            },
+			{
+                "item_name":"Jagermeister + 1energ.", 
+                "price":8500
+            },
+			{
+                "item_name":"Ritual + 1energ.",
+                "price":4000
+            },
+			{
+                "item_name":"Absolut + Jugo Naranja",
+                "price":7500
+            },
+			{
+                "item_name":"Jagermeister + 2energ.",
+                "price":9500
+            },
+			{
+                "item_name":"Pacto Navio + 2energ.",
+                "price":12500
+            },
+			{
+                "item_name":"Ron Santiago 12 + 2energ.",
+                "price":14000
+            },
+			{
+                "item_name":"Ron Santiago 8 + 2energ.", 
+                "price":9000
+            }
+            ],
+
+            "infusions": [
+                {
+                    "item_name":"Capuchino", 
+                    "price": 200
+                },
+                {
+                    "item_name":"Expreso", 
+                    "price": 200
+                },
+                {
+                    "item_name":"Cortadito", 
+                    "price": 200
+                },
+                {
+                    "item_name": "Café BomBom", 
+                    "price": 200
+                }
+            ]
+        }  
+} 

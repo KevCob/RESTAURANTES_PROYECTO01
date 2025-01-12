@@ -1,0 +1,196 @@
+{
+    "type": "Restaurante",
+    "name": "Restaurante Lan", 
+    "location": {
+        "address": "Maceo entre Fresneda y Agramonte",
+        "municipe": "Regla",
+        "province": "La Habana",
+        "coordinates": "23.12552270613754, -82.33261449654044"
+    },
+    "sector": "estatal",
+    
+    "qualification": null ,
+    
+    "specialized_food": ["criolla", "italiana"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": null,
+    
+    "capacity": 12,
+    
+    "reservation": false  ,
+
+    "parking": true ,
+
+    "delivery": false,
+
+    "electric generator": false ,
+    
+    "hours": {
+        "monday": "9:00am - 12:00am",  
+        "tuesday": "9:00am - 12:00am",
+        "wednesday": "9:00am - 12:00am",
+        "thursday": "9:00am - 12:00am",
+        "friday": "9:00am - 12:00am",
+        "saturday": "9:00am - 12:00am",
+        "sunday": "9:00am - 12:00am"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "item_name": "Mariquitas",
+                    "price": 200 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Tostones rellenos",
+                    "price": 300 ,
+                    "description": " "
+                }
+            ],
+                
+            "mains": [
+                {
+                    "item_name": "Bistec de higado",
+                    "price": 500,
+                    "description": " "
+                },
+                {
+                    "item_name": "Fricase de pollo",
+                    "price": 500 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Camarones al ajillo",
+                    "price": 550 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Enchilada de camarones",
+                    "price": 550 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Filete de malanga con salsa agridulce",
+                    "price": 300 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Fajitas de pollo",
+                    "price": 550 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pollo frito",
+                    "price": 500 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Bistec de palillo empanado",
+                    "price": 550 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Camarones empanados",
+                    "price": 550,
+                    "description": " "
+                }
+                
+            ],
+
+            "fittings": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "pizza": [
+                 
+                {
+                    "item_name": "Pizza mixta med/fam.",
+                    "price": 400 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pizza cebolla med/fam.",
+                    "price": 300 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pizza jamon med/fam.",
+                    "price": 350 ,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pizza napole med/fam.",
+                    "price": 400,
+                    "description": " "
+                },
+                {
+                    "item_name": "Pizza doble queso med/fam.",
+                    "price": 350 ,
+                    "description": " "
+                }
+            ],
+
+            "paste": [
+                {
+                    "item_name": "Espaguetis  Napolitanos",
+                    "price": 250 ,
+                    "description": ""
+                },
+                {
+                    "item_name": "Espaguetis de jamon",
+                    "price": 350 ,
+                    "description": " "
+                }
+            ],
+
+            "additions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "desserts": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+            "cocktails": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ],
+
+            "drinks": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ],
+
+            "infusions": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ]
+        }  
+} 
