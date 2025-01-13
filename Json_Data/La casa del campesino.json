@@ -1,0 +1,174 @@
+{
+    "type": "Bar-Restaurante-Cafeteria",
+    "name": "La casa del campesino", 
+    "location": {
+        "address": "Desconocida",
+        "municipe": "La Lisa",
+        "province": "La Habana",
+        "coordinates": "23.01984142812014, -82.48766936323709"
+    },
+    "sector": "estatal",
+    
+    "qualification": 2.5,
+    
+    "specialized_food": ["cubana"],
+
+    "payment method": ["Efectivo"],
+    
+    "phone": null,
+    
+    "capacity": 50,
+    
+    "reservation":  false,
+
+    "parking": false,
+
+    "delivery": false,
+
+    "electric generator": false,
+    
+    "hours": {
+        "monday": "11:00am - 11:00pm",  
+        "tuesday": "11:00am - 11:00pm",
+        "wednesday": "11:00am - 11:00pm",
+        "thursday": "11:00am - 11:00pm",
+        "friday": "11:00am - 11:00pm",
+        "saturday": "11:00am - 11:00pm",
+        "sunday": "11:00am - 11:00pm"
+    },
+    "menu":    {
+            "starters": [
+                {
+                    "name": "entremes de embuido y queso",
+                    "price": 350,
+                    "description": " "
+                },
+                {
+                    "name": "ensalada fria",
+                    "price": 150,
+                    "description": " "
+                },
+                {
+                    "name": "croquetas",
+                    "price": 200,
+                    "description": " "
+                }
+            ],
+                
+            "mains": [
+                {
+                    "name": "chuleta de cerdo",
+                    "price": 1600,
+                    "description": " "
+                },
+                {
+                    "name": "bistec de cerdo",
+                    "price": 1350,
+                    "description": " "
+                },
+                {
+                    "name": "costilla de cerdo",
+                    "price": 1600,
+                    "description": " "
+                },
+                {
+                    "name": "pollo asado",
+                    "price": 650,
+                    "description": " "
+                }
+            ],
+
+            "fittings": [
+                {
+                    "name": "vianda frita",
+                    "price": 120,
+                    "description": " "
+                }
+            ],
+
+            "pizza": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "paste": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "additions": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "sandwich": [
+                {
+                    "item_name": null,
+                    "price": null,
+                    "description": null
+                }
+            ],
+
+            "desserts": [
+                {
+                    "name": "mermelada de mango con queso",
+                    "price" : 190,
+                    "description": " "
+                },
+                {
+                    "name" : "fruta en almibar",
+                    "price" : 160,
+                    "description": " "
+                }
+            ],
+            "cocktails": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ],
+
+            "drinks": [
+                {
+                    "name" : "cerveza presidente",
+                    "price" : 180
+                },
+                {
+                    "name" : "cerveza parranda",
+                    "price" : 180
+                },
+                {
+                    "name" : "cerveza bucanero",
+                    "price" : 180
+                },
+                {
+                    "name" : "cerveza moosehead",
+                    "price" : 180
+                },
+                {
+                    "name" : "cerveza cristal",
+                    "price" : 180
+                },
+                {
+                    "name" : "cerveza super bock",
+                    "price" : 180
+                }
+            ],
+
+            "infusions": [
+                {
+                    "item_name": null,
+                    "price": null
+                }
+            ]
+        }  
+} 

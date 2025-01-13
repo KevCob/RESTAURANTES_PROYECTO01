@@ -48,3 +48,5 @@ def c_precio_medio(filas):
         if i in filas and isinstance(filas[i], list):  
             precios.extend([item["price"] for item in filas[i] if isinstance(item, dict) and item.get("price") is not None])
     return round(sum(precios) / len(precios)) if precios else None  
+
+
